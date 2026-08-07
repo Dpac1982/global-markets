@@ -17,7 +17,8 @@
   :root { color-scheme: light; }
   * { box-sizing: border-box; }
   body { margin:0; background:#f6f7f8; color:#1a1a1a; font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; }
-  .wrap { max-width:1200px; margin:0 auto; padding:20px; }
+  .app-shell { display:flex; align-items:stretch; min-height:100vh; }
+  .wrap { flex:1; max-width:1200px; margin:0; padding:24px 32px; min-width:0; }
   .banner { background:#fef3f2; border:1px solid #fbd5d5; border-radius:10px; padding:12px 16px; font-size:13px; line-height:1.5; color:#7a1f1f; margin-bottom:16px; }
   .banner b { color:#a51616; }
   header { display:flex; justify-content:space-between; align-items:flex-end; margin-bottom:14px; flex-wrap:wrap; gap:8px; }
@@ -31,11 +32,21 @@
   .marketpill.open { background:#ecfdf3; color:#0e8f4f; border-color:#c3ecd6; }
   .marketpill .dot { width:6px; height:6px; border-radius:50%; background:currentColor; }
 
-  nav { display:flex; gap:6px; margin-bottom:18px; flex-wrap:wrap; border-bottom:1px solid #e5e7eb; }
-  nav button { border:none; background:transparent; padding:10px 14px; font-size:14px; font-weight:500; color:#6b7280; cursor:pointer; border-bottom:2px solid transparent; }
-  nav button.active { color:#111; border-bottom:2px solid #0068c9; }
+  nav#tabnav { display:flex; flex-direction:column; align-items:stretch; width:96px; flex-shrink:0; background:#fff; border-right:1px solid #e5e7eb; padding:20px 10px; gap:6px; position:sticky; top:0; height:100vh; overflow-y:auto; }
+  .sidebar-logo { width:40px; height:40px; border-radius:10px; background:#0068c9; color:#fff; font-size:13px; font-weight:800; display:flex; align-items:center; justify-content:center; margin:0 auto 18px; letter-spacing:0.02em; }
+  nav#tabnav button { border:none; background:transparent; padding:10px 4px; font-size:11px; font-weight:600; color:#6b7280; cursor:pointer; border-radius:12px; display:flex; flex-direction:column; align-items:center; gap:4px; text-align:center; line-height:1.2; }
+  nav#tabnav button .nav-icon { font-size:19px; line-height:1; filter:grayscale(1) opacity(0.6); }
+  nav#tabnav button.active { background:#0068c9; color:#fff; }
+  nav#tabnav button.active .nav-icon { filter:none; }
+  nav#tabnav button:hover:not(.active) { background:#f0f4f8; }
   .tab { display:none; }
   .tab.active { display:block; }
+  @media (max-width:800px) {
+    .app-shell { flex-direction:column; }
+    nav#tabnav { flex-direction:row; width:100%; height:auto; position:relative; overflow-x:auto; border-right:none; border-bottom:1px solid #e5e7eb; padding:10px; }
+    .sidebar-logo { display:none; }
+    nav#tabnav button { flex-direction:row; padding:8px 12px; white-space:nowrap; }
+  }
 
   h2 { font-size:15px; font-weight:600; margin:26px 0 10px; color:#111; }
   h2:first-child { margin-top:0; }
@@ -77,6 +88,16 @@
 </style>
 </head>
 <body>
+<div class="app-shell">
+<nav id="tabnav">
+  <div class="sidebar-logo">DB</div>
+  <button data-tab="today" class="active"><span class="nav-icon">&#8962;</span><span class="nav-label">Today</span></button>
+  <button data-tab="charts"><span class="nav-icon">&#128200;</span><span class="nav-label">Charts</span></button>
+  <button data-tab="screener"><span class="nav-icon">&#128269;</span><span class="nav-label">Screener</span></button>
+  <button data-tab="calendar"><span class="nav-icon">&#128197;</span><span class="nav-label">Calendar</span></button>
+  <button data-tab="paper"><span class="nav-icon">&#128209;</span><span class="nav-label">Paper log</span></button>
+  <button data-tab="notifications"><span class="nav-icon">&#128276;</span><span class="nav-label">Notifs</span></button>
+</nav>
 <div class="wrap">
 
 <div class="banner">
@@ -97,15 +118,6 @@
 <div id="kpiStrip" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(190px,1fr));gap:10px;margin-bottom:16px;"></div>
 
 <div class="marketstrip" id="marketStrip"></div>
-
-<nav id="tabnav">
-  <button data-tab="today" class="active">Today</button>
-  <button data-tab="charts">Charts</button>
-  <button data-tab="screener">Screener</button>
-  <button data-tab="calendar">Calendar</button>
-  <button data-tab="paper">Paper trading log</button>
-  <button data-tab="notifications">Notifications</button>
-</nav>
 
 <!-- TODAY -->
 <div class="tab active" id="tab-today">
@@ -539,6 +551,7 @@
 </footer>
 
 </div>
+</div>
 
 <script src="https://cdn.jsdelivr.net/npm/chart.js@4.5.0/dist/chart.umd.js" integrity="sha384-iU8HYtnGQ8Cy4zl7gbNMOhsDTTKX02BTXptVP/vqAWIaTfM7isw76iyZCsjL2eVi" crossorigin="anonymous"></script>
 <script>
@@ -756,9 +769,11 @@ function summarizePortfolio(state){
 }
 
 function kpiCard(label, value, sub, valueColor){
-  return '<div class="cardpad"><div style="font-size:11px;color:#8a8f98;text-transform:uppercase;">' + label + '</div>' +
-    '<div style="font-size:22px;font-weight:700;margin-top:2px;' + (valueColor ? 'color:' + valueColor + ';' : '') + '">' + value + '</div>' +
-    (sub ? '<div style="font-size:11px;color:#8a8f98;margin-top:2px;">' + sub + '</div>' : '') + '</div>';
+  var accent = valueColor || '#0068c9';
+  return '<div class="cardpad" style="border-radius:16px;border-left:4px solid ' + accent + ';padding:18px 20px;">' +
+    '<div style="font-size:11px;color:#8a8f98;text-transform:uppercase;letter-spacing:0.04em;font-weight:600;">' + label + '</div>' +
+    '<div style="font-size:28px;font-weight:800;margin-top:4px;color:' + accent + ';">' + value + '</div>' +
+    (sub ? '<div style="font-size:12px;color:#8a8f98;margin-top:4px;">' + sub + '</div>' : '') + '</div>';
 }
 
 async function loadKpiStrip(){
