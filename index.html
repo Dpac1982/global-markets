@@ -93,6 +93,8 @@
   <b>How this works, in plain terms:</b> every chart, ticker, rating, and news item below is a live TradingView widget embedded directly in this page — it talks straight to TradingView's servers from your browser, so it updates continuously and there is no daily quota to run out of. Nothing here goes through any API key or external connection you have to manage. The only thing stored locally is your <b>Paper trading log</b> (bottom tab), saved in this browser only.
 </div>
 
+<div id="kpiStrip" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(190px,1fr));gap:10px;margin-bottom:16px;"></div>
+
 <div class="marketstrip" id="marketStrip"></div>
 
 <nav id="tabnav">
@@ -737,6 +739,60 @@ function removeCustomTicker(symbol){
 document.getElementById('addTickerBtn').addEventListener('click', addCustomTicker);
 document.getElementById('customTickerInput').addEventListener('keydown', function(e){ if (e.key === 'Enter') addCustomTicker(); });
 renderCustomTickers();
+
+// ---- KPI strip: real virtual-engine performance, pulled from the local Mac scripts ----
+function summarizePortfolio(state){
+  var closed = state.closed_trades || [];
+  var wins = closed.filter(function(t){ return t.return_pct > 0; }).length;
+  var totalReturn = closed.reduce(function(sum, t){ return sum + t.return_pct; }, 0);
+  return {
+    openPositions: Object.keys(state.positions || {}).length,
+    cash: state.cash,
+    closedCount: closed.length,
+    winRate: closed.length ? (wins / closed.length * 100) : null,
+    totalReturnPct: closed.length ? totalReturn : null,
+  };
+}
+
+function kpiCard(label, value, sub, valueColor){
+  return '<div class="cardpad"><div style="font-size:11px;color:#8a8f98;text-transform:uppercase;">' + label + '</div>' +
+    '<div style="font-size:22px;font-weight:700;margin-top:2px;' + (valueColor ? 'color:' + valueColor + ';' : '') + '">' + value + '</div>' +
+    (sub ? '<div style="font-size:11px;color:#8a8f98;margin-top:2px;">' + sub + '</div>' : '') + '</div>';
+}
+
+async function loadKpiStrip(){
+  var el = document.getElementById('kpiStrip');
+  var cards = [];
+  try {
+    var [techRes, sentRes, alertsRes] = await Promise.all([
+      fetch('./portfolio_technical.json', { cache: 'no-store' }).catch(function(){ return null; }),
+      fetch('./portfolio_sentiment.json', { cache: 'no-store' }).catch(function(){ return null; }),
+      fetch('./alerts.json', { cache: 'no-store' }).catch(function(){ return null; }),
+    ]);
+
+    if (techRes && techRes.ok) {
+      var t = summarizePortfolio(await techRes.json());
+      cards.push(kpiCard('Technical engine', t.closedCount ? (t.totalReturnPct>=0?'+':'') + t.totalReturnPct.toFixed(1) + '%' : 'No closed trades yet',
+        t.openPositions + ' open &middot; ' + t.closedCount + ' closed' + (t.winRate!=null ? ' &middot; ' + t.winRate.toFixed(0) + '% win rate' : ''),
+        t.closedCount ? (t.totalReturnPct >= 0 ? '#0e8f4f' : '#c0202c') : null));
+    }
+    if (sentRes && sentRes.ok) {
+      var s = summarizePortfolio(await sentRes.json());
+      cards.push(kpiCard('Sentiment engine', s.closedCount ? (s.totalReturnPct>=0?'+':'') + s.totalReturnPct.toFixed(1) + '%' : 'No closed trades yet',
+        s.openPositions + ' open &middot; ' + s.closedCount + ' closed' + (s.winRate!=null ? ' &middot; ' + s.winRate.toFixed(0) + '% win rate' : ''),
+        s.closedCount ? (s.totalReturnPct >= 0 ? '#0e8f4f' : '#c0202c') : null));
+    }
+    if (alertsRes && alertsRes.ok) {
+      var feed = await alertsRes.json();
+      var today = new Date().toISOString().slice(0, 10);
+      var todayCount = feed.filter(function(a){ return (a.ts || '').slice(0, 10) === today; }).length;
+      cards.push(kpiCard('Alerts today', String(todayCount), feed.length + ' total in history'));
+    }
+  } catch (e) { /* leave whatever cards succeeded */ }
+
+  el.innerHTML = cards.length ? cards.join('') : '';
+}
+loadKpiStrip();
 
 // ---- Paper trading log (localStorage only) ----
 var STORAGE_KEY = 'gmc_paper_trades_v1';
