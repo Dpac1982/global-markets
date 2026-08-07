@@ -382,6 +382,13 @@
     </div>
   </div>
 
+  <h2>Live TV <span class="hint" id="liveTvLabel">switches automatically to whichever market is open</span></h2>
+  <div class="card" style="padding:0;overflow:hidden;">
+    <div style="position:relative;padding-top:56.25%;">
+      <iframe id="liveTvFrame" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" src="" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    </div>
+  </div>
+
   <h2>Live news</h2>
   <div class="card">
     <div class="tradingview-widget-container">
@@ -601,6 +608,38 @@ function applyPanelVisibility(){
   });
 }
 
+// channel="channel" query param on the embed URL shows whatever is currently
+// live on that YouTube channel — no static video ID to go stale.
+var LIVE_TV_CHANNELS = [
+  { market: 'US (NYSE/Nasdaq)', name: 'CNBC', channelId: 'UCvJJ_dzjViJCoLf5uKUTwoA' },
+  { market: 'India (NSE/BSE)', name: 'Zee Business', channelId: 'UCkXopQ3ubd-rnXnStZqCl2w' },
+  { market: 'UAE (DFM/ADX)', name: 'Al Arabiya Business', channelId: 'UC0mthbFRIm_uYkkzMX09sJw' },
+  { market: 'UK (LSE)', name: 'Bloomberg Television', channelId: 'UCIALMKvObZNtJ6AmdCLP7Lg' },
+];
+var LIVE_TV_DEFAULT = { name: 'Bloomberg Television', channelId: 'UCIALMKvObZNtJ6AmdCLP7Lg' };
+var currentLiveTvChannelId = null;
+
+function updateLiveTvChannel(){
+  var pick = LIVE_TV_DEFAULT;
+  var reason = 'no major market currently open — showing 24/7 global coverage';
+  for (var i = 0; i < LIVE_TV_CHANNELS.length; i++) {
+    var entry = LIVE_TV_CHANNELS[i];
+    var market = MARKETS.find(function(m){ return m.name === entry.market; });
+    if (market && marketStatusDetail(market).open) {
+      pick = entry;
+      reason = entry.market + ' is open';
+      break;
+    }
+  }
+  var label = document.getElementById('liveTvLabel');
+  if (label) label.textContent = 'showing ' + pick.name + ' — ' + reason;
+  if (pick.channelId !== currentLiveTvChannelId) {
+    currentLiveTvChannelId = pick.channelId;
+    var frame = document.getElementById('liveTvFrame');
+    if (frame) frame.src = 'https://www.youtube.com/embed/live_stream?channel=' + pick.channelId + '&autoplay=0';
+  }
+}
+
 function renderMarketStrip(){
   var el = document.getElementById('marketStrip');
   el.innerHTML = MARKETS.map(function(m){
@@ -610,6 +649,7 @@ function renderMarketStrip(){
     return '<span class="marketpill' + (d.open ? ' open' : '') + '"' + (clickable ? ' data-market="' + m.name + '" style="cursor:pointer;" title="Click to view ' + m.name + ' in Watchlist"' : '') + '><span class="dot"></span>' + m.name + ': ' + label + '</span>';
   }).join('');
   applyPanelVisibility();
+  updateLiveTvChannel();
 }
 
 document.getElementById('marketStrip').addEventListener('click', function(e){
