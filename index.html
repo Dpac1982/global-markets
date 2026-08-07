@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <script type="application/json" id="cowork-artifact-meta">
 {
-  "name": "Global Markets Dashboard",
+  "name": "DB Future Capital",
   "schemaVersion": 1,
   "description": "Global markets dashboard built on free TradingView embedded widgets — live ticker tape, real-time charts, trending/hotlist movers, per-symbol Buy/Sell technical ratings, live financial news, plus a local paper-trading log. No API key or MCP connection required; works standalone in any browser, with no daily request limits. No brokerage connection, no real trades ever placed.",
   "mcpTools": [],
@@ -12,7 +12,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Global Markets Dashboard</title>
+<title>DB Future Capital</title>
 <style>
   :root { color-scheme: light; }
   * { box-sizing: border-box; }
@@ -83,7 +83,7 @@
 
 <header>
   <div>
-    <h1>Global Markets Dashboard</h1>
+    <h1 id="homeLogo" style="cursor:pointer;user-select:none;" title="Back to Today">DB Future Capital</h1>
     <div class="sub">Live via TradingView — no API key, no daily limit</div>
   </div>
 </header>
@@ -619,6 +619,12 @@ document.getElementById('marketStrip').addEventListener('click', function(e){
 
 renderMarketStrip();
 setInterval(renderMarketStrip, 1000);
+
+document.getElementById('homeLogo').addEventListener('click', function(){
+  var todayBtn = document.querySelector('#tabnav button[data-tab="today"]');
+  if (todayBtn) todayBtn.click();
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+});
 
 // ---- Paper trading log (localStorage only) ----
 var STORAGE_KEY = 'gmc_paper_trades_v1';
