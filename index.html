@@ -14,64 +14,64 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Global Markets Dashboard</title>
 <style>
-  :root { color-scheme: dark; }
+  :root { color-scheme: light; }
   * { box-sizing: border-box; }
-  body { margin:0; background:#0a0a0c; color:#e8e8ea; font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; }
+  body { margin:0; background:#f6f7f8; color:#1a1a1a; font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; }
   .wrap { max-width:1200px; margin:0 auto; padding:20px; }
-  .banner { background:#241313; border:1px solid #4a2020; border-radius:10px; padding:12px 16px; font-size:13px; line-height:1.5; color:#e0a0a0; margin-bottom:16px; }
-  .banner b { color:#ff8080; }
+  .banner { background:#fef3f2; border:1px solid #fbd5d5; border-radius:10px; padding:12px 16px; font-size:13px; line-height:1.5; color:#7a1f1f; margin-bottom:16px; }
+  .banner b { color:#a51616; }
   header { display:flex; justify-content:space-between; align-items:flex-end; margin-bottom:14px; flex-wrap:wrap; gap:8px; }
-  h1 { font-size:22px; font-weight:700; margin:0; color:#f5f5f7; }
-  .sub { font-size:13px; color:#8a8a90; margin-top:4px; }
-  .howitworks { background:#111113; border:1px solid #232326; border-radius:10px; padding:12px 16px; font-size:12.5px; line-height:1.6; color:#9a9aa0; margin-bottom:16px; }
-  .howitworks b { color:#e8e8ea; }
+  h1 { font-size:22px; font-weight:700; margin:0; color:#111; }
+  .sub { font-size:13px; color:#6b7280; margin-top:4px; }
+  .howitworks { background:#fff; border:1px solid #e5e7eb; border-radius:10px; padding:12px 16px; font-size:12.5px; line-height:1.6; color:#4b5563; margin-bottom:16px; }
+  .howitworks b { color:#111; }
 
   .marketstrip { display:flex; flex-wrap:wrap; gap:8px; margin-bottom:16px; }
-  .marketpill { font-size:12px; padding:6px 12px; border-radius:20px; background:#151517; color:#9a9aa0; border:1px solid #232326; display:flex; align-items:center; gap:6px; }
-  .marketpill.open { background:#0f2417; color:#5fd88a; border-color:#1f4a30; }
+  .marketpill { font-size:12px; padding:6px 12px; border-radius:20px; background:#fff; color:#6b7280; border:1px solid #e5e7eb; display:flex; align-items:center; gap:6px; }
+  .marketpill.open { background:#ecfdf3; color:#0e8f4f; border-color:#c3ecd6; }
   .marketpill .dot { width:6px; height:6px; border-radius:50%; background:currentColor; }
 
-  nav { display:flex; gap:6px; margin-bottom:18px; flex-wrap:wrap; border-bottom:1px solid #232326; }
-  nav button { border:none; background:transparent; padding:10px 14px; font-size:14px; font-weight:500; color:#8a8a90; cursor:pointer; border-bottom:2px solid transparent; }
-  nav button.active { color:#f5f5f7; border-bottom:2px solid #c0202c; }
+  nav { display:flex; gap:6px; margin-bottom:18px; flex-wrap:wrap; border-bottom:1px solid #e5e7eb; }
+  nav button { border:none; background:transparent; padding:10px 14px; font-size:14px; font-weight:500; color:#6b7280; cursor:pointer; border-bottom:2px solid transparent; }
+  nav button.active { color:#111; border-bottom:2px solid #0068c9; }
   .tab { display:none; }
   .tab.active { display:block; }
 
-  h2 { font-size:15px; font-weight:600; margin:26px 0 10px; color:#f5f5f7; }
+  h2 { font-size:15px; font-weight:600; margin:26px 0 10px; color:#111; }
   h2:first-child { margin-top:0; }
-  h2 .hint { font-weight:400; color:#7a7a80; font-size:12px; }
+  h2 .hint { font-weight:400; color:#8a8f98; font-size:12px; }
 
   .grid2 { display:grid; grid-template-columns:1fr 1fr; gap:16px; }
   .grid-tech { display:grid; grid-template-columns:repeat(auto-fit,minmax(240px,1fr)); gap:14px; }
   @media (max-width:800px) { .grid2 { grid-template-columns:1fr; } }
 
-  .card { background:#111113; border:1px solid #232326; border-radius:12px; padding:6px; }
-  .cardpad { background:#111113; border:1px solid #232326; border-radius:12px; padding:16px; }
+  .card { background:#fff; border:1px solid #e5e7eb; border-radius:12px; padding:6px; }
+  .cardpad { background:#fff; border:1px solid #e5e7eb; border-radius:12px; padding:16px; }
 
-  select, input[type=text], input[type=date], input[type=number] { background:#111113; border:1px solid #2a2a2e; color:#e8e8ea; padding:8px 10px; border-radius:8px; font-size:13px; }
-  button.btn { background:#c0202c; color:#fff; border:none; border-radius:8px; padding:9px 16px; font-size:13px; font-weight:600; cursor:pointer; }
+  select, input[type=text], input[type=date], input[type=number] { background:#fff; border:1px solid #d1d5db; color:#111; padding:8px 10px; border-radius:8px; font-size:13px; }
+  button.btn { background:#0068c9; color:#fff; border:none; border-radius:8px; padding:9px 16px; font-size:13px; font-weight:600; cursor:pointer; }
 
-  form { background:#111113; border:1px solid #232326; border-radius:12px; padding:16px; margin-bottom:18px; display:grid; grid-template-columns:repeat(auto-fit,minmax(120px,1fr)); gap:10px; align-items:end; }
-  form label { font-size:12px; color:#8a8a90; display:block; margin-bottom:4px; }
+  form { background:#fff; border:1px solid #e5e7eb; border-radius:12px; padding:16px; margin-bottom:18px; display:grid; grid-template-columns:repeat(auto-fit,minmax(120px,1fr)); gap:10px; align-items:end; }
+  form label { font-size:12px; color:#6b7280; display:block; margin-bottom:4px; }
   form input, form select { width:100%; }
   form button { grid-column:1/-1; }
 
-  table { width:100%; border-collapse:collapse; background:#111113; border:1px solid #232326; border-radius:10px; overflow:hidden; }
-  th, td { text-align:left; padding:10px 12px; font-size:13px; border-bottom:1px solid #1c1c1f; color:#e0e0e2; }
-  th { background:#151517; font-weight:600; color:#9a9aa0; font-size:11px; text-transform:uppercase; }
+  table { width:100%; border-collapse:collapse; background:#fff; border:1px solid #e5e7eb; border-radius:10px; overflow:hidden; }
+  th, td { text-align:left; padding:10px 12px; font-size:13px; border-bottom:1px solid #f0f1f3; color:#1f2328; }
+  th { background:#fafafa; font-weight:600; color:#6b7280; font-size:11px; text-transform:uppercase; }
   tr:last-child td { border-bottom:none; }
-  .pill { display:inline-block; font-size:11px; font-weight:600; padding:2px 8px; border-radius:20px; background:#0f2417; color:#5fd88a; }
-  .rowbtn { background:none; border:none; color:#ff6b6b; cursor:pointer; font-size:12px; }
-  .empty { text-align:center; color:#7a7a80; font-size:13px; padding:30px; border:1px dashed #2a2a2e; border-radius:10px; }
+  .pill { display:inline-block; font-size:11px; font-weight:600; padding:2px 8px; border-radius:20px; background:#ecfdf3; color:#0e8f4f; }
+  .rowbtn { background:none; border:none; color:#c0202c; cursor:pointer; font-size:12px; }
+  .empty { text-align:center; color:#8a8f98; font-size:13px; padding:30px; border:1px dashed #d1d5db; border-radius:10px; }
   .summary { display:flex; gap:12px; margin-bottom:14px; flex-wrap:wrap; }
-  .summary .stat { background:#111113; border:1px solid #232326; border-radius:10px; padding:10px 16px; flex:1; min-width:140px; }
-  .summary .stat .label { font-size:11px; color:#7a7a80; text-transform:uppercase; }
-  .summary .stat .val { font-size:20px; font-weight:700; margin-top:2px; color:#f5f5f7; }
-  .up { color:#2ecc71; } .down { color:#ff5c5c; }
+  .summary .stat { background:#fff; border:1px solid #e5e7eb; border-radius:10px; padding:10px 16px; flex:1; min-width:140px; }
+  .summary .stat .label { font-size:11px; color:#8a8f98; text-transform:uppercase; }
+  .summary .stat .val { font-size:20px; font-weight:700; margin-top:2px; color:#111; }
+  .up { color:#0e8f4f; } .down { color:#c0202c; }
   .chartbox { max-width:340px; margin:14px 0; position:relative; height:260px; }
 
-  footer { margin-top:30px; font-size:12px; color:#7a7a80; border-top:1px solid #232326; padding-top:14px; line-height:1.6; }
-  footer a { color:#9a9aa0; }
+  footer { margin-top:30px; font-size:12px; color:#8a8f98; border-top:1px solid #e5e7eb; padding-top:14px; line-height:1.6; }
+  footer a { color:#0068c9; }
 </style>
 </head>
 <body>
@@ -123,7 +123,31 @@
         "showSymbolLogo": true,
         "isTransparent": false,
         "displayMode": "adaptive",
-        "colorTheme": "dark",
+        "colorTheme": "light",
+        "locale": "en"
+      }
+      </script>
+    </div>
+  </div>
+
+  <h2>Currencies <span class="hint">major pairs, plus USD/INR &amp; USD/AED</span></h2>
+  <div class="card">
+    <div class="tradingview-widget-container">
+      <div class="tradingview-widget-container__widget"></div>
+      <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-ticker-tape.js" async>
+      {
+        "symbols": [
+          { "proName": "TVC:DXY", "title": "Dollar Index" },
+          { "proName": "FX:EURUSD", "title": "EUR/USD" },
+          { "proName": "FX:GBPUSD", "title": "GBP/USD" },
+          { "proName": "FX:USDJPY", "title": "USD/JPY" },
+          { "proName": "FX_IDC:USDINR", "title": "USD/INR" },
+          { "proName": "FX_IDC:USDAED", "title": "USD/AED" }
+        ],
+        "showSymbolLogo": true,
+        "isTransparent": false,
+        "displayMode": "adaptive",
+        "colorTheme": "light",
         "locale": "en"
       }
       </script>
@@ -136,7 +160,7 @@
       <div class="tradingview-widget-container__widget"></div>
       <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-events.js" async>
       {
-        "colorTheme": "dark",
+        "colorTheme": "light",
         "isTransparent": false,
         "width": "100%",
         "height": "450",
@@ -154,7 +178,7 @@
       <div class="tradingview-widget-container__widget"></div>
       <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-hotlists.js" async>
       {
-        "colorTheme": "dark",
+        "colorTheme": "light",
         "dateRange": "12M",
         "exchange": "US",
         "showChart": true,
@@ -176,7 +200,7 @@
       <div class="tradingview-widget-container">
         <div class="tradingview-widget-container__widget"></div>
         <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-technical-analysis.js" async>
-        { "interval": "1D", "width": "100%", "isTransparent": false, "height": "425", "symbol": "NASDAQ:NVDA", "showIntervalTabs": true, "locale": "en", "colorTheme": "dark" }
+        { "interval": "1D", "width": "100%", "isTransparent": false, "height": "425", "symbol": "NASDAQ:NVDA", "showIntervalTabs": true, "locale": "en", "colorTheme": "light" }
         </script>
       </div>
     </div>
@@ -184,7 +208,7 @@
       <div class="tradingview-widget-container">
         <div class="tradingview-widget-container__widget"></div>
         <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-technical-analysis.js" async>
-        { "interval": "1D", "width": "100%", "isTransparent": false, "height": "425", "symbol": "NASDAQ:MSFT", "showIntervalTabs": true, "locale": "en", "colorTheme": "dark" }
+        { "interval": "1D", "width": "100%", "isTransparent": false, "height": "425", "symbol": "NASDAQ:MSFT", "showIntervalTabs": true, "locale": "en", "colorTheme": "light" }
         </script>
       </div>
     </div>
@@ -192,7 +216,7 @@
       <div class="tradingview-widget-container">
         <div class="tradingview-widget-container__widget"></div>
         <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-technical-analysis.js" async>
-        { "interval": "1D", "width": "100%", "isTransparent": false, "height": "425", "symbol": "NASDAQ:GOOGL", "showIntervalTabs": true, "locale": "en", "colorTheme": "dark" }
+        { "interval": "1D", "width": "100%", "isTransparent": false, "height": "425", "symbol": "NASDAQ:GOOGL", "showIntervalTabs": true, "locale": "en", "colorTheme": "light" }
         </script>
       </div>
     </div>
@@ -200,7 +224,7 @@
       <div class="tradingview-widget-container">
         <div class="tradingview-widget-container__widget"></div>
         <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-technical-analysis.js" async>
-        { "interval": "1D", "width": "100%", "isTransparent": false, "height": "425", "symbol": "NASDAQ:META", "showIntervalTabs": true, "locale": "en", "colorTheme": "dark" }
+        { "interval": "1D", "width": "100%", "isTransparent": false, "height": "425", "symbol": "NASDAQ:META", "showIntervalTabs": true, "locale": "en", "colorTheme": "light" }
         </script>
       </div>
     </div>
@@ -208,7 +232,7 @@
       <div class="tradingview-widget-container">
         <div class="tradingview-widget-container__widget"></div>
         <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-technical-analysis.js" async>
-        { "interval": "1D", "width": "100%", "isTransparent": false, "height": "425", "symbol": "NYSE:ORCL", "showIntervalTabs": true, "locale": "en", "colorTheme": "dark" }
+        { "interval": "1D", "width": "100%", "isTransparent": false, "height": "425", "symbol": "NYSE:ORCL", "showIntervalTabs": true, "locale": "en", "colorTheme": "light" }
         </script>
       </div>
     </div>
@@ -216,7 +240,7 @@
       <div class="tradingview-widget-container">
         <div class="tradingview-widget-container__widget"></div>
         <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-technical-analysis.js" async>
-        { "interval": "1D", "width": "100%", "isTransparent": false, "height": "425", "symbol": "NASDAQ:PLTR", "showIntervalTabs": true, "locale": "en", "colorTheme": "dark" }
+        { "interval": "1D", "width": "100%", "isTransparent": false, "height": "425", "symbol": "NASDAQ:PLTR", "showIntervalTabs": true, "locale": "en", "colorTheme": "light" }
         </script>
       </div>
     </div>
@@ -227,7 +251,7 @@
     <div class="tradingview-widget-container">
       <div class="tradingview-widget-container__widget"></div>
       <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-timeline.js" async>
-      { "feedMode": "market", "market": "stock", "isTransparent": false, "displayMode": "regular", "width": "100%", "height": "550", "colorTheme": "dark", "locale": "en" }
+      { "feedMode": "market", "market": "stock", "isTransparent": false, "displayMode": "regular", "width": "100%", "height": "550", "colorTheme": "light", "locale": "en" }
       </script>
     </div>
   </div>
@@ -245,7 +269,7 @@
         "symbol": "NASDAQ:NVDA",
         "interval": "D",
         "timezone": "Etc/UTC",
-        "theme": "dark",
+        "theme": "light",
         "style": "1",
         "locale": "en",
         "enable_publishing": false,
@@ -273,7 +297,7 @@
         "blockColor": "change",
         "locale": "en",
         "symbolUrl": "",
-        "colorTheme": "dark",
+        "colorTheme": "light",
         "hasTopBar": true,
         "isDataSetEnabled": true,
         "isZoomEnabled": true,
@@ -297,7 +321,7 @@
         "defaultScreen": "general",
         "market": "america",
         "showToolbar": true,
-        "colorTheme": "dark",
+        "colorTheme": "light",
         "locale": "en"
       }
       </script>
@@ -361,7 +385,7 @@
         ],
         "showSymbolLogo": true,
         "isTransparent": false,
-        "colorTheme": "dark",
+        "colorTheme": "light",
         "locale": "en"
       }
       </script>
@@ -375,7 +399,7 @@
       <div class="tradingview-widget-container">
         <div class="tradingview-widget-container__widget"></div>
         <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-symbol-info.js" async>
-        { "symbol": "NASDAQ:NVDA", "width": "100%", "locale": "en", "colorTheme": "dark", "isTransparent": false }
+        { "symbol": "NASDAQ:NVDA", "width": "100%", "locale": "en", "colorTheme": "light", "isTransparent": false }
         </script>
       </div>
     </div>
@@ -383,7 +407,7 @@
       <div class="tradingview-widget-container">
         <div class="tradingview-widget-container__widget"></div>
         <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-symbol-info.js" async>
-        { "symbol": "NASDAQ:MSFT", "width": "100%", "locale": "en", "colorTheme": "dark", "isTransparent": false }
+        { "symbol": "NASDAQ:MSFT", "width": "100%", "locale": "en", "colorTheme": "light", "isTransparent": false }
         </script>
       </div>
     </div>
@@ -391,7 +415,7 @@
       <div class="tradingview-widget-container">
         <div class="tradingview-widget-container__widget"></div>
         <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-symbol-info.js" async>
-        { "symbol": "NASDAQ:GOOGL", "width": "100%", "locale": "en", "colorTheme": "dark", "isTransparent": false }
+        { "symbol": "NASDAQ:GOOGL", "width": "100%", "locale": "en", "colorTheme": "light", "isTransparent": false }
         </script>
       </div>
     </div>
@@ -399,7 +423,7 @@
       <div class="tradingview-widget-container">
         <div class="tradingview-widget-container__widget"></div>
         <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-symbol-info.js" async>
-        { "symbol": "NASDAQ:META", "width": "100%", "locale": "en", "colorTheme": "dark", "isTransparent": false }
+        { "symbol": "NASDAQ:META", "width": "100%", "locale": "en", "colorTheme": "light", "isTransparent": false }
         </script>
       </div>
     </div>
@@ -407,7 +431,7 @@
       <div class="tradingview-widget-container">
         <div class="tradingview-widget-container__widget"></div>
         <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-symbol-info.js" async>
-        { "symbol": "NYSE:ORCL", "width": "100%", "locale": "en", "colorTheme": "dark", "isTransparent": false }
+        { "symbol": "NYSE:ORCL", "width": "100%", "locale": "en", "colorTheme": "light", "isTransparent": false }
         </script>
       </div>
     </div>
@@ -415,7 +439,7 @@
       <div class="tradingview-widget-container">
         <div class="tradingview-widget-container__widget"></div>
         <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-symbol-info.js" async>
-        { "symbol": "NASDAQ:PLTR", "width": "100%", "locale": "en", "colorTheme": "dark", "isTransparent": false }
+        { "symbol": "NASDAQ:PLTR", "width": "100%", "locale": "en", "colorTheme": "light", "isTransparent": false }
         </script>
       </div>
     </div>
