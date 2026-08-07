@@ -1,0 +1,621 @@
+<!DOCTYPE html>
+<script type="application/json" id="cowork-artifact-meta">
+{
+  "name": "Global Markets Dashboard",
+  "schemaVersion": 1,
+  "description": "Global markets dashboard built on free TradingView embedded widgets — live ticker tape, real-time charts, trending/hotlist movers, per-symbol Buy/Sell technical ratings, live financial news, plus a local paper-trading log. No API key or MCP connection required; works standalone in any browser, with no daily request limits. No brokerage connection, no real trades ever placed.",
+  "mcpTools": [],
+  "mcpServerNames": []
+}
+</script>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Global Markets Dashboard</title>
+<style>
+  :root { color-scheme: dark; }
+  * { box-sizing: border-box; }
+  body { margin:0; background:#0a0a0c; color:#e8e8ea; font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; }
+  .wrap { max-width:1200px; margin:0 auto; padding:20px; }
+  .banner { background:#241313; border:1px solid #4a2020; border-radius:10px; padding:12px 16px; font-size:13px; line-height:1.5; color:#e0a0a0; margin-bottom:16px; }
+  .banner b { color:#ff8080; }
+  header { display:flex; justify-content:space-between; align-items:flex-end; margin-bottom:14px; flex-wrap:wrap; gap:8px; }
+  h1 { font-size:22px; font-weight:700; margin:0; color:#f5f5f7; }
+  .sub { font-size:13px; color:#8a8a90; margin-top:4px; }
+  .howitworks { background:#111113; border:1px solid #232326; border-radius:10px; padding:12px 16px; font-size:12.5px; line-height:1.6; color:#9a9aa0; margin-bottom:16px; }
+  .howitworks b { color:#e8e8ea; }
+
+  .marketstrip { display:flex; flex-wrap:wrap; gap:8px; margin-bottom:16px; }
+  .marketpill { font-size:12px; padding:6px 12px; border-radius:20px; background:#151517; color:#9a9aa0; border:1px solid #232326; display:flex; align-items:center; gap:6px; }
+  .marketpill.open { background:#0f2417; color:#5fd88a; border-color:#1f4a30; }
+  .marketpill .dot { width:6px; height:6px; border-radius:50%; background:currentColor; }
+
+  nav { display:flex; gap:6px; margin-bottom:18px; flex-wrap:wrap; border-bottom:1px solid #232326; }
+  nav button { border:none; background:transparent; padding:10px 14px; font-size:14px; font-weight:500; color:#8a8a90; cursor:pointer; border-bottom:2px solid transparent; }
+  nav button.active { color:#f5f5f7; border-bottom:2px solid #c0202c; }
+  .tab { display:none; }
+  .tab.active { display:block; }
+
+  h2 { font-size:15px; font-weight:600; margin:26px 0 10px; color:#f5f5f7; }
+  h2:first-child { margin-top:0; }
+  h2 .hint { font-weight:400; color:#7a7a80; font-size:12px; }
+
+  .grid2 { display:grid; grid-template-columns:1fr 1fr; gap:16px; }
+  .grid-tech { display:grid; grid-template-columns:repeat(auto-fit,minmax(240px,1fr)); gap:14px; }
+  @media (max-width:800px) { .grid2 { grid-template-columns:1fr; } }
+
+  .card { background:#111113; border:1px solid #232326; border-radius:12px; padding:6px; }
+  .cardpad { background:#111113; border:1px solid #232326; border-radius:12px; padding:16px; }
+
+  select, input[type=text], input[type=date], input[type=number] { background:#111113; border:1px solid #2a2a2e; color:#e8e8ea; padding:8px 10px; border-radius:8px; font-size:13px; }
+  button.btn { background:#c0202c; color:#fff; border:none; border-radius:8px; padding:9px 16px; font-size:13px; font-weight:600; cursor:pointer; }
+
+  form { background:#111113; border:1px solid #232326; border-radius:12px; padding:16px; margin-bottom:18px; display:grid; grid-template-columns:repeat(auto-fit,minmax(120px,1fr)); gap:10px; align-items:end; }
+  form label { font-size:12px; color:#8a8a90; display:block; margin-bottom:4px; }
+  form input, form select { width:100%; }
+  form button { grid-column:1/-1; }
+
+  table { width:100%; border-collapse:collapse; background:#111113; border:1px solid #232326; border-radius:10px; overflow:hidden; }
+  th, td { text-align:left; padding:10px 12px; font-size:13px; border-bottom:1px solid #1c1c1f; color:#e0e0e2; }
+  th { background:#151517; font-weight:600; color:#9a9aa0; font-size:11px; text-transform:uppercase; }
+  tr:last-child td { border-bottom:none; }
+  .pill { display:inline-block; font-size:11px; font-weight:600; padding:2px 8px; border-radius:20px; background:#0f2417; color:#5fd88a; }
+  .rowbtn { background:none; border:none; color:#ff6b6b; cursor:pointer; font-size:12px; }
+  .empty { text-align:center; color:#7a7a80; font-size:13px; padding:30px; border:1px dashed #2a2a2e; border-radius:10px; }
+  .summary { display:flex; gap:12px; margin-bottom:14px; flex-wrap:wrap; }
+  .summary .stat { background:#111113; border:1px solid #232326; border-radius:10px; padding:10px 16px; flex:1; min-width:140px; }
+  .summary .stat .label { font-size:11px; color:#7a7a80; text-transform:uppercase; }
+  .summary .stat .val { font-size:20px; font-weight:700; margin-top:2px; color:#f5f5f7; }
+  .up { color:#2ecc71; } .down { color:#ff5c5c; }
+  .chartbox { max-width:340px; margin:14px 0; position:relative; height:260px; }
+
+  footer { margin-top:30px; font-size:12px; color:#7a7a80; border-top:1px solid #232326; padding-top:14px; line-height:1.6; }
+  footer a { color:#9a9aa0; }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<div class="banner">
+  <b>Not financial advice.</b> This dashboard does not place trades, hold funds, or connect to any brokerage account. The Buy/Sell ratings are TradingView's automated technical-indicator summary (moving averages, RSI, MACD, etc.) for that symbol — not personalized advice. Verify before acting. Deepak places and manages all trades himself.
+</div>
+
+<header>
+  <div>
+    <h1>Global Markets Dashboard</h1>
+    <div class="sub">Live via TradingView — no API key, no daily limit</div>
+  </div>
+</header>
+
+<div class="howitworks">
+  <b>How this works, in plain terms:</b> every chart, ticker, rating, and news item below is a live TradingView widget embedded directly in this page — it talks straight to TradingView's servers from your browser, so it updates continuously and there is no daily quota to run out of. Nothing here goes through any API key or external connection you have to manage. The only thing stored locally is your <b>Paper trading log</b> (bottom tab), saved in this browser only.
+</div>
+
+<div class="marketstrip" id="marketStrip"></div>
+
+<nav id="tabnav">
+  <button data-tab="today" class="active">Today</button>
+  <button data-tab="charts">Charts</button>
+  <button data-tab="screener">Screener</button>
+  <button data-tab="watchlist">Watchlist</button>
+  <button data-tab="paper">Paper trading log</button>
+</nav>
+
+<!-- TODAY -->
+<div class="tab active" id="tab-today">
+  <h2>Live ticker</h2>
+  <div class="card">
+    <div class="tradingview-widget-container">
+      <div class="tradingview-widget-container__widget"></div>
+      <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-ticker-tape.js" async>
+      {
+        "symbols": [
+          { "proName": "FOREXCOM:SPXUSD", "title": "S&P 500" },
+          { "proName": "FOREXCOM:DJI", "title": "Dow 30" },
+          { "proName": "FOREXCOM:NSXUSD", "title": "Nasdaq 100" },
+          { "proName": "NSE:NIFTY", "title": "Nifty 50" },
+          { "proName": "TVC:GOLD", "title": "Gold" },
+          { "proName": "TVC:USOIL", "title": "WTI Crude" },
+          { "proName": "COINBASE:BTCUSD", "title": "Bitcoin" },
+          { "proName": "COINBASE:ETHUSD", "title": "Ethereum" }
+        ],
+        "showSymbolLogo": true,
+        "isTransparent": false,
+        "displayMode": "adaptive",
+        "colorTheme": "dark",
+        "locale": "en"
+      }
+      </script>
+    </div>
+  </div>
+
+  <h2>Economic calendar <span class="hint">Fed, CPI, jobs reports &amp; earnings dates &mdash; US, India, UK, UAE</span></h2>
+  <div class="card">
+    <div class="tradingview-widget-container">
+      <div class="tradingview-widget-container__widget"></div>
+      <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-events.js" async>
+      {
+        "colorTheme": "dark",
+        "isTransparent": false,
+        "width": "100%",
+        "height": "450",
+        "locale": "en",
+        "importanceFilter": "-1,0,1",
+        "countryFilter": "us,in,gb,ae"
+      }
+      </script>
+    </div>
+  </div>
+
+  <h2>Trending today <span class="hint">top gainers, losers &amp; most active — US market</span></h2>
+  <div class="card">
+    <div class="tradingview-widget-container">
+      <div class="tradingview-widget-container__widget"></div>
+      <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-hotlists.js" async>
+      {
+        "colorTheme": "dark",
+        "dateRange": "12M",
+        "exchange": "US",
+        "showChart": true,
+        "locale": "en",
+        "largeChartUrl": "",
+        "isTransparent": false,
+        "showSymbolLogo": true,
+        "showFloatingTooltip": false,
+        "width": "100%",
+        "height": "500"
+      }
+      </script>
+    </div>
+  </div>
+
+  <h2>Buy / Sell rating <span class="hint">TradingView's automated technical-indicator summary, per symbol</span></h2>
+  <div class="grid-tech">
+    <div class="card">
+      <div class="tradingview-widget-container">
+        <div class="tradingview-widget-container__widget"></div>
+        <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-technical-analysis.js" async>
+        { "interval": "1D", "width": "100%", "isTransparent": false, "height": "425", "symbol": "NASDAQ:NVDA", "showIntervalTabs": true, "locale": "en", "colorTheme": "dark" }
+        </script>
+      </div>
+    </div>
+    <div class="card">
+      <div class="tradingview-widget-container">
+        <div class="tradingview-widget-container__widget"></div>
+        <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-technical-analysis.js" async>
+        { "interval": "1D", "width": "100%", "isTransparent": false, "height": "425", "symbol": "NASDAQ:MSFT", "showIntervalTabs": true, "locale": "en", "colorTheme": "dark" }
+        </script>
+      </div>
+    </div>
+    <div class="card">
+      <div class="tradingview-widget-container">
+        <div class="tradingview-widget-container__widget"></div>
+        <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-technical-analysis.js" async>
+        { "interval": "1D", "width": "100%", "isTransparent": false, "height": "425", "symbol": "NASDAQ:GOOGL", "showIntervalTabs": true, "locale": "en", "colorTheme": "dark" }
+        </script>
+      </div>
+    </div>
+    <div class="card">
+      <div class="tradingview-widget-container">
+        <div class="tradingview-widget-container__widget"></div>
+        <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-technical-analysis.js" async>
+        { "interval": "1D", "width": "100%", "isTransparent": false, "height": "425", "symbol": "NASDAQ:META", "showIntervalTabs": true, "locale": "en", "colorTheme": "dark" }
+        </script>
+      </div>
+    </div>
+    <div class="card">
+      <div class="tradingview-widget-container">
+        <div class="tradingview-widget-container__widget"></div>
+        <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-technical-analysis.js" async>
+        { "interval": "1D", "width": "100%", "isTransparent": false, "height": "425", "symbol": "NYSE:ORCL", "showIntervalTabs": true, "locale": "en", "colorTheme": "dark" }
+        </script>
+      </div>
+    </div>
+    <div class="card">
+      <div class="tradingview-widget-container">
+        <div class="tradingview-widget-container__widget"></div>
+        <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-technical-analysis.js" async>
+        { "interval": "1D", "width": "100%", "isTransparent": false, "height": "425", "symbol": "NASDAQ:PLTR", "showIntervalTabs": true, "locale": "en", "colorTheme": "dark" }
+        </script>
+      </div>
+    </div>
+  </div>
+
+  <h2>Live news</h2>
+  <div class="card">
+    <div class="tradingview-widget-container">
+      <div class="tradingview-widget-container__widget"></div>
+      <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-timeline.js" async>
+      { "feedMode": "market", "market": "stock", "isTransparent": false, "displayMode": "regular", "width": "100%", "height": "550", "colorTheme": "dark", "locale": "en" }
+      </script>
+    </div>
+  </div>
+</div>
+
+<!-- CHARTS -->
+<div class="tab" id="tab-charts">
+  <p style="font-size:13px;color:#8a8a90;margin-top:0;">Full interactive chart — use the symbol search in the top-left of the chart itself to switch to any stock, index, commodity, or crypto pair.</p>
+  <div class="card" style="height:600px;">
+    <div class="tradingview-widget-container" style="height:100%;">
+      <div class="tradingview-widget-container__widget" style="height:100%;"></div>
+      <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
+      {
+        "autosize": true,
+        "symbol": "NASDAQ:NVDA",
+        "interval": "D",
+        "timezone": "Etc/UTC",
+        "theme": "dark",
+        "style": "1",
+        "locale": "en",
+        "enable_publishing": false,
+        "allow_symbol_change": true,
+        "calendar": false,
+        "support_host": "https://www.tradingview.com"
+      }
+      </script>
+    </div>
+  </div>
+</div>
+
+<!-- SCREENER -->
+<div class="tab" id="tab-screener">
+  <h2>Market heatmap <span class="hint">S&amp;P 500 by sector &amp; size &mdash; spot what's hot or cold at a glance</span></h2>
+  <div class="card">
+    <div class="tradingview-widget-container">
+      <div class="tradingview-widget-container__widget"></div>
+      <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-stock-heatmap.js" async>
+      {
+        "exchanges": [],
+        "dataSource": "SPX500",
+        "grouping": "sector",
+        "blockSize": "market_cap_basic",
+        "blockColor": "change",
+        "locale": "en",
+        "symbolUrl": "",
+        "colorTheme": "dark",
+        "hasTopBar": true,
+        "isDataSetEnabled": true,
+        "isZoomEnabled": true,
+        "isMonoSize": false,
+        "width": "100%",
+        "height": "550"
+      }
+      </script>
+    </div>
+  </div>
+
+  <h2>Screener <span class="hint">filter and scan any US stock &mdash; find ideas beyond your watchlist</span></h2>
+  <div class="card">
+    <div class="tradingview-widget-container">
+      <div class="tradingview-widget-container__widget"></div>
+      <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-screener.js" async>
+      {
+        "width": "100%",
+        "height": "550",
+        "defaultColumn": "overview",
+        "defaultScreen": "general",
+        "market": "america",
+        "showToolbar": true,
+        "colorTheme": "dark",
+        "locale": "en"
+      }
+      </script>
+    </div>
+  </div>
+</div>
+
+<!-- WATCHLIST -->
+<div class="tab" id="tab-watchlist">
+  <h2>Your watchlist <span class="hint">live prices, grouped by market</span></h2>
+  <div class="card">
+    <div class="tradingview-widget-container">
+      <div class="tradingview-widget-container__widget"></div>
+      <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-market-quotes.js" async>
+      {
+        "width": "100%",
+        "height": "560",
+        "symbolsGroups": [
+          {
+            "name": "US — AI infrastructure",
+            "originalName": "US — AI infrastructure",
+            "symbols": [
+              { "name": "NASDAQ:NVDA", "displayName": "Nvidia" },
+              { "name": "NASDAQ:MSFT", "displayName": "Microsoft" },
+              { "name": "NASDAQ:GOOGL", "displayName": "Alphabet" },
+              { "name": "NASDAQ:META", "displayName": "Meta" },
+              { "name": "NYSE:ORCL", "displayName": "Oracle" },
+              { "name": "NASDAQ:PLTR", "displayName": "Palantir" }
+            ]
+          },
+          {
+            "name": "India — IT / tech",
+            "originalName": "India — IT / tech",
+            "symbols": [
+              { "name": "NSE:TCS", "displayName": "TCS" },
+              { "name": "NSE:INFY", "displayName": "Infosys" },
+              { "name": "NSE:HCLTECH", "displayName": "HCL Tech" },
+              { "name": "NSE:PERSISTENT", "displayName": "Persistent" },
+              { "name": "NSE:TATAELXSI", "displayName": "Tata Elxsi" },
+              { "name": "NSE:KPITTECH", "displayName": "KPIT Tech" }
+            ]
+          },
+          {
+            "name": "UAE",
+            "originalName": "UAE",
+            "symbols": [
+              { "name": "DFM:EMAAR", "displayName": "Emaar" },
+              { "name": "DFM:EAND", "displayName": "e&" },
+              { "name": "DFM:DIB", "displayName": "Dubai Islamic Bank" },
+              { "name": "ADX:FAB", "displayName": "FAB" }
+            ]
+          },
+          {
+            "name": "Crypto",
+            "originalName": "Crypto",
+            "symbols": [
+              { "name": "COINBASE:BTCUSD", "displayName": "Bitcoin" },
+              { "name": "COINBASE:ETHUSD", "displayName": "Ethereum" }
+            ]
+          }
+        ],
+        "showSymbolLogo": true,
+        "isTransparent": false,
+        "colorTheme": "dark",
+        "locale": "en"
+      }
+      </script>
+    </div>
+  </div>
+  <p style="font-size:11px;color:#7a7a80;margin-top:10px;">Verified live: all US names, crypto, and Abu Dhabi's FAB. India (NSE) and Dubai (DFM) rows currently show no data — that's a real gap in what TradingView's free/anonymous widget tier redistributes for those two exchanges specifically, not a broken symbol. Everything else on this page is unaffected.</p>
+
+  <h2>Company snapshot <span class="hint">live price detail, pre/post-market moves &amp; exchange info — US watchlist names</span></h2>
+  <div class="grid-tech">
+    <div class="card">
+      <div class="tradingview-widget-container">
+        <div class="tradingview-widget-container__widget"></div>
+        <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-symbol-info.js" async>
+        { "symbol": "NASDAQ:NVDA", "width": "100%", "locale": "en", "colorTheme": "dark", "isTransparent": false }
+        </script>
+      </div>
+    </div>
+    <div class="card">
+      <div class="tradingview-widget-container">
+        <div class="tradingview-widget-container__widget"></div>
+        <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-symbol-info.js" async>
+        { "symbol": "NASDAQ:MSFT", "width": "100%", "locale": "en", "colorTheme": "dark", "isTransparent": false }
+        </script>
+      </div>
+    </div>
+    <div class="card">
+      <div class="tradingview-widget-container">
+        <div class="tradingview-widget-container__widget"></div>
+        <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-symbol-info.js" async>
+        { "symbol": "NASDAQ:GOOGL", "width": "100%", "locale": "en", "colorTheme": "dark", "isTransparent": false }
+        </script>
+      </div>
+    </div>
+    <div class="card">
+      <div class="tradingview-widget-container">
+        <div class="tradingview-widget-container__widget"></div>
+        <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-symbol-info.js" async>
+        { "symbol": "NASDAQ:META", "width": "100%", "locale": "en", "colorTheme": "dark", "isTransparent": false }
+        </script>
+      </div>
+    </div>
+    <div class="card">
+      <div class="tradingview-widget-container">
+        <div class="tradingview-widget-container__widget"></div>
+        <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-symbol-info.js" async>
+        { "symbol": "NYSE:ORCL", "width": "100%", "locale": "en", "colorTheme": "dark", "isTransparent": false }
+        </script>
+      </div>
+    </div>
+    <div class="card">
+      <div class="tradingview-widget-container">
+        <div class="tradingview-widget-container__widget"></div>
+        <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-symbol-info.js" async>
+        { "symbol": "NASDAQ:PLTR", "width": "100%", "locale": "en", "colorTheme": "dark", "isTransparent": false }
+        </script>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- PAPER TRADING LOG -->
+<div class="tab" id="tab-paper">
+  <h2>Paper trading log</h2>
+  <p style="font-size:13px;color:#8a8a90;margin-top:-4px;">Track hypothetical buy/sell decisions here to test your thinking before risking real money. Saved in this browser only — nothing is sent anywhere, no real orders are placed, no brokerage is connected.</p>
+
+  <form id="tradeForm">
+    <div><label>Date</label><input type="date" id="f-date" required></div>
+    <div><label>Market</label>
+      <select id="f-market">
+        <option>US</option><option>India</option><option>DFM</option><option>ADX</option><option>Commodity</option><option>Crypto</option><option>FX</option>
+      </select>
+    </div>
+    <div><label>Ticker / asset</label><input type="text" id="f-ticker" placeholder="NVDA" required></div>
+    <div><label>Side</label>
+      <select id="f-side"><option>Buy</option><option>Sell</option></select>
+    </div>
+    <div><label>Quantity</label><input type="number" id="f-qty" step="any" min="0" required></div>
+    <div><label>Price</label><input type="number" id="f-price" step="any" min="0" required></div>
+    <div style="grid-column:1/-1;"><label>Notes / thesis</label><input type="text" id="f-notes" placeholder="Why this trade"></div>
+    <button type="submit" class="btn">Add to log</button>
+  </form>
+
+  <div class="summary" id="summaryCards"></div>
+  <div class="chartbox"><canvas id="allocChart"></canvas></div>
+
+  <table id="tradeTable">
+    <thead><tr><th>Date</th><th>Market</th><th>Ticker</th><th>Side</th><th>Qty</th><th>Price</th><th>Value</th><th>Notes</th><th></th></tr></thead>
+    <tbody></tbody>
+  </table>
+  <div class="empty" id="emptyState" style="display:none;">No trades logged yet. Add your first hypothetical trade above.</div>
+</div>
+
+<footer>
+  Charts, tickers, ratings, hotlists and news are TradingView embedded widgets (<a href="https://www.tradingview.com/widget/" target="_blank">tradingview.com/widget</a>) — free, no account or API key required, updates live. Market open/closed times are computed from your device clock against each exchange's standard trading hours and don't account for local holidays — always double-check before relying on it for a real trade. Symbol coverage for DFM/ADX (UAE) listings is more limited than US/India on TradingView's free tier.
+</footer>
+
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.5.0/dist/chart.umd.js" integrity="sha384-iU8HYtnGQ8Cy4zl7gbNMOhsDTTKX02BTXptVP/vqAWIaTfM7isw76iyZCsjL2eVi" crossorigin="anonymous"></script>
+<script>
+document.querySelectorAll('#tabnav button').forEach(function(btn){
+  btn.addEventListener('click', function(){
+    document.querySelectorAll('#tabnav button').forEach(function(b){ b.classList.remove('active'); });
+    document.querySelectorAll('.tab').forEach(function(t){ t.classList.remove('active'); });
+    btn.classList.add('active');
+    document.getElementById('tab-' + btn.dataset.tab).classList.add('active');
+  });
+});
+
+// ---- Market open/closed strip (pure client-side clock, no network needed) ----
+var MARKETS = [
+  { name: 'US (NYSE/Nasdaq)', tz: 'America/New_York', openDays: ['Mon','Tue','Wed','Thu','Fri'], openMin: 9*60+30, closeMin: 16*60 },
+  { name: 'UK (LSE)', tz: 'Europe/London', openDays: ['Mon','Tue','Wed','Thu','Fri'], openMin: 8*60, closeMin: 16*60+30 },
+  { name: 'India (NSE/BSE)', tz: 'Asia/Kolkata', openDays: ['Mon','Tue','Wed','Thu','Fri'], openMin: 9*60+15, closeMin: 15*60+30 },
+  { name: 'UAE (DFM/ADX)', tz: 'Asia/Dubai', openDays: ['Sun','Mon','Tue','Wed','Thu'], openMin: 10*60, closeMin: 14*60 }
+];
+
+var DAY_INDEX = { Mon:0, Tue:1, Wed:2, Thu:3, Fri:4, Sat:5, Sun:6 };
+var WEEK_SEC = 7 * 24 * 60 * 60;
+
+function marketStatusDetail(market){
+  var parts = new Intl.DateTimeFormat('en-US', { timeZone: market.tz, hour12: false, weekday: 'short', hour: '2-digit', minute: '2-digit', second: '2-digit' }).formatToParts(new Date());
+  var get = function(type){ var p = parts.find(function(x){ return x.type === type; }); return p ? p.value : ''; };
+  var hour = Number(get('hour')) % 24;
+  var nowSec = (DAY_INDEX[get('weekday')] * 1440 + hour * 60 + Number(get('minute'))) * 60 + Number(get('second'));
+
+  var intervals = market.openDays.map(function(d){
+    var day = DAY_INDEX[d];
+    return { openSec: (day*1440 + market.openMin) * 60, closeSec: (day*1440 + market.closeMin) * 60 };
+  });
+
+  for (var i = 0; i < intervals.length; i++) {
+    if (nowSec >= intervals[i].openSec && nowSec < intervals[i].closeSec) {
+      return { open: true, secondsRemaining: intervals[i].closeSec - nowSec };
+    }
+  }
+  var best = WEEK_SEC;
+  intervals.forEach(function(iv){
+    var diff = iv.openSec - nowSec;
+    if (diff <= 0) diff += WEEK_SEC;
+    if (diff < best) best = diff;
+  });
+  return { open: false, secondsRemaining: best };
+}
+
+function fmtCountdown(totalSeconds){
+  var h = Math.floor(totalSeconds / 3600);
+  var m = Math.floor((totalSeconds % 3600) / 60);
+  var s = Math.floor(totalSeconds % 60);
+  if (h >= 24) return Math.floor(h / 24) + 'd ' + (h % 24) + 'h';
+  if (h > 0) return h + 'h ' + m + 'm';
+  return m + 'm ' + s + 's';
+}
+
+function renderMarketStrip(){
+  var el = document.getElementById('marketStrip');
+  el.innerHTML = MARKETS.map(function(m){
+    var d = marketStatusDetail(m);
+    var label = (d.open ? 'Open' : 'Closed') + ' &middot; ' + (d.open ? 'closes in ' : 'opens in ') + fmtCountdown(d.secondsRemaining);
+    return '<span class="marketpill' + (d.open ? ' open' : '') + '"><span class="dot"></span>' + m.name + ': ' + label + '</span>';
+  }).join('');
+}
+renderMarketStrip();
+setInterval(renderMarketStrip, 1000);
+
+// ---- Paper trading log (localStorage only) ----
+var STORAGE_KEY = 'gmc_paper_trades_v1';
+function loadTrades(){ try { return JSON.parse(localStorage.getItem(STORAGE_KEY)) || []; } catch(e){ return []; } }
+function saveTrades(t){ localStorage.setItem(STORAGE_KEY, JSON.stringify(t)); }
+
+var chartInstance = null;
+function fmt(n){ return Number(n).toLocaleString(undefined, {maximumFractionDigits:2}); }
+
+function render(){
+  var trades = loadTrades();
+  var tbody = document.querySelector('#tradeTable tbody');
+  tbody.innerHTML = '';
+  document.getElementById('emptyState').style.display = trades.length ? 'none' : 'block';
+  document.getElementById('tradeTable').style.display = trades.length ? 'table' : 'none';
+
+  trades.forEach(function(t, i){
+    var tr = document.createElement('tr');
+    var value = t.qty * t.price;
+    tr.innerHTML = '<td>'+t.date+'</td><td>'+t.market+'</td><td><b>'+t.ticker+'</b></td>'+
+      '<td><span class="pill" style="'+(t.side==='Sell' ? 'background:#2a1414;color:#ff8080;' : '')+'">'+t.side+'</span></td>'+
+      '<td>'+fmt(t.qty)+'</td><td>'+fmt(t.price)+'</td><td>'+fmt(value)+'</td>'+
+      '<td style="max-width:180px;">'+(t.notes||'')+'</td>'+
+      '<td><button class="rowbtn" data-i="'+i+'">Remove</button></td>';
+    tbody.appendChild(tr);
+  });
+
+  tbody.querySelectorAll('.rowbtn').forEach(function(b){
+    b.addEventListener('click', function(){
+      var trades = loadTrades();
+      trades.splice(Number(b.dataset.i), 1);
+      saveTrades(trades);
+      render();
+    });
+  });
+
+  var positions = {};
+  var totalDeployed = 0;
+  trades.forEach(function(t){
+    var sign = t.side === 'Buy' ? 1 : -1;
+    positions[t.ticker] = (positions[t.ticker] || 0) + sign * t.qty;
+    totalDeployed += sign * t.qty * t.price;
+  });
+  var openPositions = Object.keys(positions).filter(function(k){ return Math.abs(positions[k]) > 0.0000001; });
+
+  var summary = document.getElementById('summaryCards');
+  summary.innerHTML =
+    '<div class="stat"><div class="label">Trades logged</div><div class="val">'+trades.length+'</div></div>' +
+    '<div class="stat"><div class="label">Open positions</div><div class="val">'+openPositions.length+'</div></div>' +
+    '<div class="stat"><div class="label">Net capital deployed</div><div class="val">'+fmt(totalDeployed)+'</div></div>';
+
+  var ctx = document.getElementById('allocChart');
+  var labels = openPositions;
+  var values = openPositions.map(function(k){
+    var buyVal = 0;
+    trades.filter(function(t){ return t.ticker === k && t.side === 'Buy'; }).forEach(function(t){ buyVal += t.qty * t.price; });
+    return buyVal;
+  });
+  if (chartInstance) chartInstance.destroy();
+  if (labels.length) {
+    ctx.parentElement.style.display = 'block';
+    chartInstance = new Chart(ctx, {
+      type: 'doughnut',
+      data: { labels: labels, datasets: [{ data: values, backgroundColor: ['#c0202c','#2ecc71','#378ADD','#D4537E','#7F77DD','#BA7517','#639922','#888780'] }] },
+      options: { responsive:true, maintainAspectRatio:false, plugins:{ legend:{ position:'right', labels:{ boxWidth:12, font:{size:11}, color:'#c9c9cc' } } } }
+    });
+  } else {
+    ctx.parentElement.style.display = 'none';
+  }
+}
+
+document.getElementById('tradeForm').addEventListener('submit', function(e){
+  e.preventDefault();
+  var trades = loadTrades();
+  trades.push({
+    date: document.getElementById('f-date').value,
+    market: document.getElementById('f-market').value,
+    ticker: document.getElementById('f-ticker').value.toUpperCase().trim(),
+    side: document.getElementById('f-side').value,
+    qty: parseFloat(document.getElementById('f-qty').value),
+    price: parseFloat(document.getElementById('f-price').value),
+    notes: document.getElementById('f-notes').value.trim()
+  });
+  saveTrades(trades);
+  e.target.reset();
+  render();
+});
+
+document.getElementById('f-date').valueAsDate = new Date();
+render();
+</script>
+</body>
+</html>
