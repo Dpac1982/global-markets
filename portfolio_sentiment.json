@@ -1,10 +1,15 @@
 {
-  "cash": 88000.0,
+  "cash": 76000.0,
   "positions": {
     "PLTR": {
       "qty": 70.4514379203768,
       "entry_price": 170.33009338378906,
       "entry_date": "2026-08-07"
+    },
+    "GOOGL": {
+      "qty": 33.86960319911743,
+      "entry_price": 354.29998779296875,
+      "entry_date": "2026-08-08"
     }
   },
   "closed_trades": []
