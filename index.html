@@ -100,6 +100,7 @@
   <button data-tab="screener">Screener</button>
   <button data-tab="watchlist">Watchlist</button>
   <button data-tab="paper">Paper trading log</button>
+  <button data-tab="notifications">Notifications</button>
 </nav>
 
 <!-- TODAY -->
@@ -478,6 +479,12 @@
   <div class="empty" id="emptyState" style="display:none;">No trades logged yet. Add your first hypothetical trade above.</div>
 </div>
 
+<div class="tab" id="tab-notifications">
+  <h2>Notification history <span class="hint">everything Market Watch, the Virtual Trading Engine, and the Movers Scanner have flagged on your Mac — in case you missed a banner</span></h2>
+  <div id="notifList"><div class="loadingtxt" style="color:#8a8f98;">Loading&hellip;</div></div>
+  <p style="font-size:11px;color:#8a8f98;margin-top:14px;">This list only updates when those background scripts are running on Deepak's Mac and push a new entry — it is not live on this page beyond a normal refresh.</p>
+</div>
+
 <footer>
   Charts, tickers, ratings, hotlists and news are TradingView embedded widgets (<a href="https://www.tradingview.com/widget/" target="_blank">tradingview.com/widget</a>) — free, no account or API key required, updates live. Market open/closed times are computed from your device clock against each exchange's standard trading hours and don't account for local holidays — always double-check before relying on it for a real trade. Symbol coverage for DFM/ADX (UAE) listings is more limited than US/India on TradingView's free tier.
 </footer>
@@ -640,6 +647,48 @@ document.getElementById('tradeForm').addEventListener('submit', function(e){
 
 document.getElementById('f-date').valueAsDate = new Date();
 render();
+
+var SOURCE_LABELS = { watch: 'News Watch', trade_engine: 'Virtual Trade', movers: 'Market Mover' };
+var SOURCE_COLORS = { watch: '#0068c9', trade_engine: '#7a4fd1', movers: '#c0202c' };
+
+function timeAgo(iso){
+  var diffMs = Date.now() - new Date(iso).getTime();
+  var mins = Math.floor(diffMs / 60000);
+  if (mins < 1) return 'just now';
+  if (mins < 60) return mins + 'm ago';
+  var hrs = Math.floor(mins / 60);
+  if (hrs < 24) return hrs + 'h ago';
+  return Math.floor(hrs / 24) + 'd ago';
+}
+
+var notificationsLoaded = false;
+async function loadNotifications(){
+  if (notificationsLoaded) return;
+  notificationsLoaded = true;
+  var el = document.getElementById('notifList');
+  try {
+    var res = await fetch('./alerts.json', { cache: 'no-store' });
+    if (!res.ok) throw new Error('no feed yet');
+    var feed = await res.json();
+    if (!feed.length) throw new Error('empty');
+    feed = feed.slice().reverse();
+    el.innerHTML = feed.map(function(item){
+      var color = SOURCE_COLORS[item.source] || '#8a8f98';
+      var label = SOURCE_LABELS[item.source] || item.source;
+      return '<div class="card" style="padding:12px 16px;margin-bottom:10px;">' +
+        '<div style="display:flex;justify-content:space-between;align-items:center;gap:10px;margin-bottom:4px;">' +
+        '<span style="font-size:11px;font-weight:700;padding:2px 8px;border-radius:20px;background:' + color + '18;color:' + color + ';">' + label + '</span>' +
+        '<span style="font-size:11px;color:#8a8f98;">' + timeAgo(item.ts) + '</span></div>' +
+        '<div style="font-size:13px;font-weight:600;color:#111;">' + item.title + (item.subtitle ? ' — ' + item.subtitle : '') + '</div>' +
+        '<div style="font-size:13px;color:#4b5563;margin-top:2px;">' + item.body + '</div></div>';
+    }).join('');
+  } catch (e) {
+    el.innerHTML = '<div class="empty">No notifications yet — they will appear here once the background scripts on Deepak\'s Mac flag something.</div>';
+  }
+}
+document.querySelectorAll('#tabnav button').forEach(function(btn){
+  if (btn.dataset.tab === 'notifications') btn.addEventListener('click', function(){ loadNotifications(); });
+});
 </script>
 </body>
 </html>
