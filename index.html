@@ -74,23 +74,6 @@
   footer { margin-top:30px; font-size:12px; color:#8a8f98; border-top:1px solid #e5e7eb; padding-top:14px; line-height:1.6; }
   footer a { color:#0068c9; }
 
-  body.broadcast-mode { background:#0a0a0c; }
-  body.broadcast-mode .banner,
-  body.broadcast-mode .howitworks,
-  body.broadcast-mode nav#tabnav,
-  body.broadcast-mode header .sub,
-  body.broadcast-mode footer,
-  body.broadcast-mode #customTickerAddRow,
-  body.broadcast-mode form { display:none !important; }
-  body.broadcast-mode .wrap { max-width:100%; padding:24px 40px; }
-  body.broadcast-mode h1#homeLogo { color:#f5f5f7; }
-  body.broadcast-mode .card, body.broadcast-mode .cardpad { background:#111113; border-color:#232326; }
-  body.broadcast-mode h2, body.broadcast-mode th { color:#f5f5f7; }
-  body.broadcast-mode h2 .hint { color:#8a8f98; }
-  body.broadcast-mode td { color:#e0e0e2; }
-  body.broadcast-mode .marketpill { background:#151517; border-color:#232326; color:#9a9aa0; }
-  body.broadcast-mode .marketpill.open { background:#0f2417; color:#5fd88a; border-color:#1f4a30; }
-  .broadcast-spotlight { outline:3px solid #c0202c; outline-offset:6px; border-radius:14px; transition:outline-color 0.4s; }
 </style>
 </head>
 <body>
@@ -105,11 +88,7 @@
     <h1 id="homeLogo" style="cursor:pointer;user-select:none;" title="Back to Today">DB Future Capital</h1>
     <div class="sub">Live via TradingView — no API key, no daily limit</div>
   </div>
-  <button class="btn" id="broadcastBtn" type="button">&#9654; Broadcast Mode</button>
 </header>
-<div id="broadcastExitBar" style="display:none;position:fixed;top:16px;right:16px;z-index:9999;">
-  <button class="btn" id="broadcastExitBtn" type="button" style="background:#1a1a1a;">&#10005; Exit Broadcast (Esc)</button>
-</div>
 
 <div class="howitworks">
   <b>How this works, in plain terms:</b> every chart, ticker, rating, and news item below is a live TradingView widget embedded directly in this page — it talks straight to TradingView's servers from your browser, so it updates continuously and there is no daily quota to run out of. Nothing here goes through any API key or external connection you have to manage. The only thing stored locally is your <b>Paper trading log</b> (bottom tab), saved in this browser only.
@@ -702,55 +681,6 @@ document.getElementById('homeLogo').addEventListener('click', function(){
   window.scrollTo({ top: 0, behavior: 'smooth' });
 });
 
-// ---- Broadcast Mode: fullscreen, auto-rotating "TV channel" view ----
-var BROADCAST_SCENES = ['kpiStrip', 'scene-livetv', 'scene-watchlist', 'scene-trending', 'scene-ratings', 'scene-news'];
-var BROADCAST_INTERVAL_MS = 15000;
-var broadcastTimer = null;
-var broadcastSceneIndex = 0;
-
-function broadcastGoToScene(index){
-  broadcastSceneIndex = index % BROADCAST_SCENES.length;
-  var id = BROADCAST_SCENES[broadcastSceneIndex];
-  var el = document.getElementById(id);
-  if (!el) return;
-  document.querySelectorAll('.broadcast-spotlight').forEach(function(n){ n.classList.remove('broadcast-spotlight'); });
-  var target = el.tagName === 'H2' ? (el.nextElementSibling || el) : el;
-  target.classList.add('broadcast-spotlight');
-  el.scrollIntoView({ behavior: 'smooth', block: 'start' });
-}
-
-function startBroadcastMode(){
-  var todayBtn = document.querySelector('#tabnav button[data-tab="today"]');
-  if (todayBtn) todayBtn.click();
-  document.body.classList.add('broadcast-mode');
-  document.getElementById('broadcastExitBar').style.display = 'block';
-  if (document.documentElement.requestFullscreen) {
-    document.documentElement.requestFullscreen().catch(function(){ /* user may deny — broadcast mode still works windowed */ });
-  }
-  broadcastSceneIndex = -1;
-  broadcastGoToScene(0);
-  broadcastTimer = setInterval(function(){
-    broadcastGoToScene(broadcastSceneIndex + 1);
-  }, BROADCAST_INTERVAL_MS);
-}
-
-function stopBroadcastMode(){
-  document.body.classList.remove('broadcast-mode');
-  document.getElementById('broadcastExitBar').style.display = 'none';
-  document.querySelectorAll('.broadcast-spotlight').forEach(function(n){ n.classList.remove('broadcast-spotlight'); });
-  if (broadcastTimer) { clearInterval(broadcastTimer); broadcastTimer = null; }
-  if (document.fullscreenElement) document.exitFullscreen().catch(function(){});
-}
-
-document.getElementById('broadcastBtn').addEventListener('click', startBroadcastMode);
-document.getElementById('broadcastExitBtn').addEventListener('click', stopBroadcastMode);
-document.addEventListener('keydown', function(e){
-  if (e.key === 'Escape' && document.body.classList.contains('broadcast-mode')) stopBroadcastMode();
-});
-document.addEventListener('fullscreenchange', function(){
-  if (!document.fullscreenElement && document.body.classList.contains('broadcast-mode')) stopBroadcastMode();
-});
-
 // ---- Custom tickers (localStorage only, dynamically-loaded TradingView widgets) ----
 var CUSTOM_TICKERS_KEY = 'dbfc_custom_tickers';
 function loadCustomTickers(){ try { return JSON.parse(localStorage.getItem(CUSTOM_TICKERS_KEY)) || []; } catch(e){ return []; } }
@@ -773,9 +703,9 @@ function buildCustomTickerCard(symbol){
   widgetContainer.appendChild(widgetDiv);
   var script = document.createElement('script');
   script.type = 'text/javascript';
-  script.src = 'https://s3.tradingview.com/external-embedding/embed-widget-symbol-info.js';
+  script.src = 'https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js';
   script.async = true;
-  script.text = JSON.stringify({ symbol: symbol, width: '100%', locale: 'en', colorTheme: 'light', isTransparent: false });
+  script.text = JSON.stringify({ symbol: symbol, width: '100%', height: '130', locale: 'en', dateRange: '12M', colorTheme: 'light', isTransparent: false, autosize: false, chartOnly: false });
   widgetContainer.appendChild(script);
   wrap.appendChild(removeBtn);
   wrap.appendChild(widgetContainer);
@@ -788,7 +718,7 @@ function renderCustomTickers(){
   el.innerHTML = '';
   if (!list.length) { el.innerHTML = '<div class="empty">No custom tickers added yet — type one above.</div>'; return; }
   var grid = document.createElement('div');
-  grid.className = 'grid-tech';
+  grid.className = 'grid-tech-compact';
   list.forEach(function(sym){ grid.appendChild(buildCustomTickerCard(sym)); });
   el.appendChild(grid);
 }
