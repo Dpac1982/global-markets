@@ -33,5 +33,12 @@
     "title": "Market Mover",
     "subtitle": "ABNB (Airbnb, Inc.)",
     "body": "+15.2% to $174.68 \u2014 ABNB Stock Eyes A 19-Month High \u2014 Wall Street Turns Bullish, Cites Expanding Growth Drivers Including AI-Powered Products"
+  },
+  {
+    "ts": "2026-08-07T19:26:02",
+    "source": "watch",
+    "title": "Test Alert",
+    "subtitle": "Verifying pipeline",
+    "body": "This is a one-time test to confirm the dashboard feed + git push works end to end."
   }
 ]
