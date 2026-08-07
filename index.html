@@ -332,67 +332,94 @@
 
 <!-- WATCHLIST -->
 <div class="tab" id="tab-watchlist">
-  <h2>Your watchlist <span class="hint">live prices, grouped by market</span></h2>
-  <div class="card">
-    <div class="tradingview-widget-container">
-      <div class="tradingview-widget-container__widget"></div>
-      <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-market-quotes.js" async>
-      {
-        "width": "100%",
-        "height": "560",
-        "symbolsGroups": [
-          {
-            "name": "US — AI infrastructure",
-            "originalName": "US — AI infrastructure",
-            "symbols": [
-              { "name": "NASDAQ:NVDA", "displayName": "Nvidia" },
-              { "name": "NASDAQ:MSFT", "displayName": "Microsoft" },
-              { "name": "NASDAQ:GOOGL", "displayName": "Alphabet" },
-              { "name": "NASDAQ:META", "displayName": "Meta" },
-              { "name": "NYSE:ORCL", "displayName": "Oracle" },
-              { "name": "NASDAQ:PLTR", "displayName": "Palantir" }
-            ]
-          },
-          {
-            "name": "India — IT / tech",
-            "originalName": "India — IT / tech",
-            "symbols": [
-              { "name": "NSE:TCS", "displayName": "TCS" },
-              { "name": "NSE:INFY", "displayName": "Infosys" },
-              { "name": "NSE:HCLTECH", "displayName": "HCL Tech" },
-              { "name": "NSE:PERSISTENT", "displayName": "Persistent" },
-              { "name": "NSE:TATAELXSI", "displayName": "Tata Elxsi" },
-              { "name": "NSE:KPITTECH", "displayName": "KPIT Tech" }
-            ]
-          },
-          {
-            "name": "UAE",
-            "originalName": "UAE",
-            "symbols": [
-              { "name": "DFM:EMAAR", "displayName": "Emaar" },
-              { "name": "DFM:EAND", "displayName": "e&" },
-              { "name": "DFM:DIB", "displayName": "Dubai Islamic Bank" },
-              { "name": "ADX:FAB", "displayName": "FAB" }
-            ]
-          },
-          {
-            "name": "Crypto",
-            "originalName": "Crypto",
-            "symbols": [
-              { "name": "COINBASE:BTCUSD", "displayName": "Bitcoin" },
-              { "name": "COINBASE:ETHUSD", "displayName": "Ethereum" }
-            ]
-          }
-        ],
-        "showSymbolLogo": true,
-        "isTransparent": false,
-        "colorTheme": "light",
-        "locale": "en"
-      }
-      </script>
+  <h2>Your watchlist <span class="hint">live prices, grouped by market &mdash; open markets shown automatically, click a market pill above to peek at a closed one</span></h2>
+
+  <div class="market-panel" id="panel-us" data-market="US (NYSE/Nasdaq)">
+    <h3 style="font-size:13px;color:#4b5563;margin:0 0 6px;">US &mdash; AI infrastructure</h3>
+    <div class="card">
+      <div class="tradingview-widget-container">
+        <div class="tradingview-widget-container__widget"></div>
+        <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-market-quotes.js" async>
+        {
+          "width": "100%", "height": "260",
+          "symbolsGroups": [{ "name": "US", "originalName": "US", "symbols": [
+            { "name": "NASDAQ:NVDA", "displayName": "Nvidia" },
+            { "name": "NASDAQ:MSFT", "displayName": "Microsoft" },
+            { "name": "NASDAQ:GOOGL", "displayName": "Alphabet" },
+            { "name": "NASDAQ:META", "displayName": "Meta" },
+            { "name": "NYSE:ORCL", "displayName": "Oracle" },
+            { "name": "NASDAQ:PLTR", "displayName": "Palantir" }
+          ]}],
+          "showSymbolLogo": true, "isTransparent": false, "colorTheme": "light", "locale": "en"
+        }
+        </script>
+      </div>
     </div>
   </div>
-  <p style="font-size:11px;color:#7a7a80;margin-top:10px;">Verified live: all US names, crypto, and Abu Dhabi's FAB. India (NSE) and Dubai (DFM) rows currently show no data — that's a real gap in what TradingView's free/anonymous widget tier redistributes for those two exchanges specifically, not a broken symbol. Everything else on this page is unaffected.</p>
+
+  <div class="market-panel" id="panel-india" data-market="India (NSE/BSE)">
+    <h3 style="font-size:13px;color:#4b5563;margin:14px 0 6px;">India &mdash; IT / tech</h3>
+    <div class="card">
+      <div class="tradingview-widget-container">
+        <div class="tradingview-widget-container__widget"></div>
+        <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-market-quotes.js" async>
+        {
+          "width": "100%", "height": "260",
+          "symbolsGroups": [{ "name": "India", "originalName": "India", "symbols": [
+            { "name": "NSE:TCS", "displayName": "TCS" },
+            { "name": "NSE:INFY", "displayName": "Infosys" },
+            { "name": "NSE:HCLTECH", "displayName": "HCL Tech" },
+            { "name": "NSE:PERSISTENT", "displayName": "Persistent" },
+            { "name": "NSE:TATAELXSI", "displayName": "Tata Elxsi" },
+            { "name": "NSE:KPITTECH", "displayName": "KPIT Tech" }
+          ]}],
+          "showSymbolLogo": true, "isTransparent": false, "colorTheme": "light", "locale": "en"
+        }
+        </script>
+      </div>
+    </div>
+    <p style="font-size:11px;color:#8a8f98;margin-top:6px;">India (NSE) rows may show no data &mdash; a gap in what TradingView's free/anonymous tier redistributes for this exchange, not a broken symbol.</p>
+  </div>
+
+  <div class="market-panel" id="panel-uae" data-market="UAE (DFM/ADX)">
+    <h3 style="font-size:13px;color:#4b5563;margin:14px 0 6px;">UAE</h3>
+    <div class="card">
+      <div class="tradingview-widget-container">
+        <div class="tradingview-widget-container__widget"></div>
+        <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-market-quotes.js" async>
+        {
+          "width": "100%", "height": "220",
+          "symbolsGroups": [{ "name": "UAE", "originalName": "UAE", "symbols": [
+            { "name": "DFM:EMAAR", "displayName": "Emaar" },
+            { "name": "DFM:EAND", "displayName": "e&" },
+            { "name": "DFM:DIB", "displayName": "Dubai Islamic Bank" },
+            { "name": "ADX:FAB", "displayName": "FAB" }
+          ]}],
+          "showSymbolLogo": true, "isTransparent": false, "colorTheme": "light", "locale": "en"
+        }
+        </script>
+      </div>
+    </div>
+  </div>
+
+  <div class="market-panel" id="panel-crypto">
+    <h3 style="font-size:13px;color:#4b5563;margin:14px 0 6px;">Crypto <span style="font-weight:400;color:#8a8f98;">&mdash; trades 24/7, always shown</span></h3>
+    <div class="card">
+      <div class="tradingview-widget-container">
+        <div class="tradingview-widget-container__widget"></div>
+        <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-market-quotes.js" async>
+        {
+          "width": "100%", "height": "160",
+          "symbolsGroups": [{ "name": "Crypto", "originalName": "Crypto", "symbols": [
+            { "name": "COINBASE:BTCUSD", "displayName": "Bitcoin" },
+            { "name": "COINBASE:ETHUSD", "displayName": "Ethereum" }
+          ]}],
+          "showSymbolLogo": true, "isTransparent": false, "colorTheme": "light", "locale": "en"
+        }
+        </script>
+      </div>
+    </div>
+  </div>
 
   <h2>Company snapshot <span class="hint">live price detail, pre/post-market moves &amp; exchange info — US watchlist names</span></h2>
   <div class="grid-tech">
@@ -547,14 +574,49 @@ function fmtCountdown(totalSeconds){
   return m + 'm ' + s + 's';
 }
 
+var MARKET_PANEL_MAP = { 'US (NYSE/Nasdaq)': 'panel-us', 'India (NSE/BSE)': 'panel-india', 'UAE (DFM/ADX)': 'panel-uae' };
+var panelManualOverride = {};
+
+function applyPanelVisibility(){
+  MARKETS.forEach(function(m){
+    var panelId = MARKET_PANEL_MAP[m.name];
+    if (!panelId) return;
+    var panel = document.getElementById(panelId);
+    if (!panel) return;
+    var isOpen = marketStatusDetail(m).open;
+    var show = panelManualOverride.hasOwnProperty(panelId) ? panelManualOverride[panelId] : isOpen;
+    panel.style.display = show ? '' : 'none';
+  });
+}
+
 function renderMarketStrip(){
   var el = document.getElementById('marketStrip');
   el.innerHTML = MARKETS.map(function(m){
     var d = marketStatusDetail(m);
     var label = (d.open ? 'Open' : 'Closed') + ' &middot; ' + (d.open ? 'closes in ' : 'opens in ') + fmtCountdown(d.secondsRemaining);
-    return '<span class="marketpill' + (d.open ? ' open' : '') + '"><span class="dot"></span>' + m.name + ': ' + label + '</span>';
+    var clickable = MARKET_PANEL_MAP.hasOwnProperty(m.name);
+    return '<span class="marketpill' + (d.open ? ' open' : '') + '"' + (clickable ? ' data-market="' + m.name + '" style="cursor:pointer;" title="Click to view ' + m.name + ' in Watchlist"' : '') + '><span class="dot"></span>' + m.name + ': ' + label + '</span>';
   }).join('');
+  applyPanelVisibility();
 }
+
+document.getElementById('marketStrip').addEventListener('click', function(e){
+  var pill = e.target.closest('[data-market]');
+  if (!pill) return;
+  var marketName = pill.dataset.market;
+  var panelId = MARKET_PANEL_MAP[marketName];
+  if (!panelId) return;
+  var currentlyShown = document.getElementById(panelId).style.display !== 'none';
+  panelManualOverride[panelId] = !currentlyShown;
+  applyPanelVisibility();
+  var watchlistBtn = document.querySelector('#tabnav button[data-tab="watchlist"]');
+  if (watchlistBtn) watchlistBtn.click();
+  setTimeout(function(){
+    var panel = document.getElementById(panelId);
+    if (panel && panel.style.display !== 'none') panel.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  }, 50);
+});
+
 renderMarketStrip();
 setInterval(renderMarketStrip, 1000);
 
