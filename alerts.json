@@ -40,5 +40,12 @@
     "title": "Test Alert",
     "subtitle": "Verifying pipeline",
     "body": "This is a one-time test to confirm the dashboard feed + git push works end to end."
+  },
+  {
+    "ts": "2026-08-07T19:30:18",
+    "source": "watch",
+    "title": "Market Watch",
+    "subtitle": "Oil (WTI/Brent), Gold, Defense stocks",
+    "body": "Morning Mail: Trump to reinstate Iran blockade, Hollywood hails Sam Neill, and sextortion on the rise"
   }
 ]
