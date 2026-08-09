@@ -842,5 +842,13 @@
     "subtitle": "GOOGL",
     "body": "GOOGL at $354.30 (sentiment turned negative (score -2), 0.0%)",
     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOGQ4OFpXRGxrVm5vYjJteENIMXZjT1JOLVBlaHJrd3d4Qm1zcmsxNG02cGI0V181NmNtYk1fS2c4SWhYT29BN210NUM0NENiYjdVVGprdXBRR0l4a19xQVdOZmw0ZUJTbi1JaFZoUm5Ja3V5UV9zbTdyT0h0QVVrSDF1NHJ6VHMyRVZuOGFJNFdWWFQ2UGZkQjRwWk1aWFFTekdVbkRiUUpvQW53MmxGdlZwb2VxcFhQcTZ1YWg4YnJFemI1b1E?oc=5"
+  },
+  {
+    "ts": "2026-08-09T10:51:30",
+    "source": "sentiment_engine",
+    "title": "Sentiment Trade \u2014 BUY",
+    "subtitle": "ETH-USD",
+    "body": "ETH-USD at $1916.72 \u2014 Ethereum ETH (ETH-CAD) Live Price, News, Chart & Price History",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9UZDZUSDYzYVZoODV3ejRGUzY4M3V0cFNoS2xjZWpJeHY5c282clJ5dU85T0p4T2lFRnVZQU9IRTlDTG9XLWNJSzVGU2R1ZHVCczI1WHd3?oc=5"
   }
 ]
