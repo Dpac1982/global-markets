@@ -1,15 +1,10 @@
 {
-  "cash": 52000.0,
+  "cash": 63874.30212214649,
   "positions": {
     "PLTR": {
       "qty": 70.4514379203768,
       "entry_price": 170.33009338378906,
       "entry_date": "2026-08-07"
-    },
-    "ORCL": {
-      "qty": 81.62154571674013,
-      "entry_price": 147.02000427246094,
-      "entry_date": "2026-08-08"
     },
     "MSFT": {
       "qty": 24.000480478368953,
@@ -31,6 +26,15 @@
       "exit_price": 354.29998779296875,
       "return_pct": 0.0,
       "reason": "sentiment turned negative (score -2), 0.0%"
+    },
+    {
+      "symbol": "ORCL",
+      "entry_date": "2026-08-08",
+      "entry_price": 147.02000427246094,
+      "exit_date": "2026-08-12",
+      "exit_price": 145.47999572753906,
+      "return_pct": -1.05,
+      "reason": "sentiment turned negative (score -4), -1.0%"
     }
   ]
 }
