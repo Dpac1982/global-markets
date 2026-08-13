@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-08-07T19:26:02",
-    "source": "watch",
-    "title": "Test Alert",
-    "subtitle": "Verifying pipeline",
-    "body": "This is a one-time test to confirm the dashboard feed + git push works end to end."
-  },
-  {
     "ts": "2026-08-07T19:30:18",
     "source": "watch",
     "title": "Market Watch",
@@ -1588,5 +1581,13 @@
     "subtitle": "CRWV (CoreWeave, Inc.)",
     "body": "+19.3% to $107.73 \u2014 CoreWeave (CRWV) Stock Price Jumps On Revenue Surge And 59% Margin",
     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPeFBDZjdhQnRZUHFwaXBFV2hWa1V2cUNERWpxQ1M4VUlPMFBvWnozM3dlYjVObVR3aXF4SHFZcUVQbGtHazE3enlYdml2a2JHb2VDS3A5cG03Zk1RQWxyLU9ObWNBQ0VpSk9UemtpcE4wVjB0clZ3ZlkzQlJnSUhkaXd0N3JNWFZmc1FFeTB0UUVoWnprLXJObmU2RF9rc0JGbWhCeTR2dWRLMHhBVGlZWUh4dFhhajdlaXl3dlk3ODlqQ24tRkF30gHMAUFVX3lxTE0xejVrSUlKNkV2QTZhSDg2U0RsVTdqUGhSbndFbElld0Z4ekdoM3Z3M1M5Tk82azhYbU1fWmx6OTdUVkVvWFNHQVlpQ3pJcldsRVRTVXhMa0cyVWJ3ak1qT1dJUkFpNWZGQ09VNzEzOW15Q19BR3p3UVNCTE9ZV2dqdVprNHh5UnVVdXVZeHZ5cDJ2eHJWQTZtVm92MnBETEJRRFNoMVAyM0dIeU9PUENYby1Idmc5cG5oaXVyQTYzaXg0bkxmdkxnWXBySA?oc=5"
+  },
+  {
+    "ts": "2026-08-13T11:40:18",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "SMCI (Super Micro Computer, Inc.)",
+    "body": "+19.0% to $37.61 \u2014 Supermicro Soars On Report. Why Nvidia Is Also Rallying.",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOG5FSDJ2TFhyRUxFU2VTWjBFUWFKY04wZnQ0Uy1TVlAyTlBRWTI2VlB0QU90UjVyVWdILVoxTHRjSGMtazZrYS1Sa3p2OFBpVU5JQVhUbDh2RlZOaElEc01tc191dDZXYWwzS1dDcUZSRGlrdHBhSndjSm5sY2ZFdkdQbUNrVVZMZ2trVC1NN3hQaHJjVUhDdkhDa2lyNW8?oc=5"
   }
 ]
