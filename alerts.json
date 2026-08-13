@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-08-07T23:04:35",
-    "source": "sentiment_engine",
-    "title": "Sentiment Trade \u2014 BUY",
-    "subtitle": "PLTR",
-    "body": "PLTR at $170.33 \u2014 Why Palantir Technologies Stock Skyrocketed (Again) Today",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPU0NqX0ZBU0FoQ2V6U3BXbTUwWkk3XzYybWhNOWpjZ2o2c2MzRjBnanNMcjI4UXFRR2RNcmFhZHp0V0xzejBvZjdiaTZNQWtwQzVnTWV3dUVselVYRGtGSUtBX21lV1luOHE1NERUTW5DbmRRVzUxaXMtMXI4RlBBZEZFZ21ma3NjUjNzTGthSmVMbXVfaURV?oc=5"
-  },
-  {
     "ts": "2026-08-07T23:13:07",
     "source": "movers",
     "title": "Market Mover",
@@ -1595,5 +1587,13 @@
     "subtitle": "TPR (Tapestry, Inc.)",
     "body": "-14.5% to $131.52 \u2014 Coach Drives Tapestry\u2019s $8 Billion Year With 24% Revenue Growth",
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTDVnYVkzeWJFVmxSZHJxRmdOYU9aNUR5cTdiX1FFN1IzclVkUkZPS1JVblBjNG00VG1vTmxJNm5XbGJTUUxyQktNN1A2bzlWcHhEcTBFOFhGYjhHRzNHSVdVeW0wbWQ3MmVwazF3YzZ2VTZOcjFiX1FSN1NlZUsxM01WMmIyc2Fvb1NxcUI5Y283U1hxOTJMdWVYTk1HMHQxWDNMSHlXTUNmNTFUR2tBT3hqajRJdw?oc=5"
+  },
+  {
+    "ts": "2026-08-13T21:04:05",
+    "source": "watch",
+    "title": "Market Watch",
+    "subtitle": "USD, Bonds, rate-sensitive stocks",
+    "body": "Inflation isn\u2019t profit: Trump\u2019s chance to end Uncle Sam\u2019s phantom tax",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSmVfT2NMbTRpN0R4eGh4N0RHVDM1SEVBcGUtNzhJb1o4UklOUHIyaHBZSHN6b0g3YXhjOS1fb3F5OWd6d0ZZeUU1dUlFaHVIR0R2TVc4b0xBVGg4SlRNeEVxaXFFOHEteXFKZGNic3JLVGZCLXNaS1FTV3Z1dU1naGZLUEVySk1hSmhLc3FqcjJfcEU?oc=5"
   }
 ]
