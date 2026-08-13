@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-08-07T19:25:36",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "PLSE (Pulse Biosciences, Inc)",
-    "body": "+17.1% to $44.80 \u2014 Pulse Biosciences, Inc (PLSE) Reports Q2 Loss, Misses Revenue Estimates"
-  },
-  {
     "ts": "2026-08-07T19:25:38",
     "source": "movers",
     "title": "Market Mover",
@@ -1583,5 +1576,13 @@
     "subtitle": "SMCI (Super Micro Computer, Inc.)",
     "body": "+19.7% to $37.84 \u2014 Super Micro Stock Surges as Earnings Smash Expectations and Revive AI Hope",
     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNXp6ejc3MVlDc2VWNXZSSVVHZy1mUVItX3pJRlhreFdfZWlPOHg3czlZNDJRTTlOUWVQUW5SWlQyWUFuNkgzUVhZcUNvOWFtX05WeG54aHo1NDREVzZsVDlqMERWNFQyMUR2RHN0bzBhZzI3UFkxNGM4dVlUZ0xCWVN5SE9scDdIZGRR?oc=5"
+  },
+  {
+    "ts": "2026-08-13T09:31:46",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "NBIS (Nebius Group N.V.)",
+    "body": "+34.1% to $259.20 \u2014 Nebius Soars As Bigger Loss Tops Views, Revenue Beats",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQX2FhNU9GOC1za0d6eGR0LUFfaDljZEpZcFFVUXhDcnZzRWNVZTE2a1hFemdyS3ZfQWd2UHBUSENVWW5wS2NHaTRHYTFqbW1DQjAwcVNGR3FJWW9RZHJTTkJEcWU3RGdYUnJoZnlNYkJqMjRRaGt3Wk12UEVSdmh4LTVZVVRaSXJYcVdv?oc=5"
   }
 ]
