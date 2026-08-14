@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-08-07T23:53:39",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "AUGO (Aura Minerals Inc.)",
-    "body": "+12.8% to $74.06 \u2014 AUGO260821C00100000 interactive stock chart | AUGO Aug 2026 100.000 call stock",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBmRmgtcE9NeXMtZ2RjVEFtbWR2TXYyZUhfeDg3ZnlPa0dnNkJKUndwU3VRTWNueTFnbS1TRmJrTlVDZE1nQmdXTVk3OXpydzBzeUNSZUtEVEFwN0dDNVk0Y3pYUng?oc=5"
-  },
-  {
     "ts": "2026-08-07T23:53:42",
     "source": "movers",
     "title": "Market Mover",
@@ -1595,5 +1587,13 @@
     "subtitle": "HUBS (HubSpot, Inc.)",
     "body": "+14.5% to $240.51 \u2014 HubSpot (HUBS) Stock Still Looks Above Fair Value After Guidance Cut",
     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPV3FoTWFFVUFVcWNrb0Fzc1pCbENCbXFJRzd2V1U4TlFCMnpnbnJ1Q0NBbHlwa3pWeTZDTWswUTk3WVM5d05yTUpLQnpmOTctak91eDBEbVF0ZTZ3bGpPVjMxb005WDlqb2hhaU9LQXdvcWF0V25oX1QxeEYwWGVFOWhDaUszOUVxSHh5bXlpTEIwSmNaR2xjT1R5RQ?oc=5"
+  },
+  {
+    "ts": "2026-08-14T13:25:20",
+    "source": "sentiment_engine",
+    "title": "Sentiment Trade \u2014 BUY",
+    "subtitle": "ORCL",
+    "body": "ORCL at $156.22 \u2014 What's Going On With Oracle Stock This Week?",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVkVXNUtCTWlWbW9kWTI3NkpjX0FqYU1hdGdoUmpSb3hHbmtIaHFaMVQyNFVvUDlHOUdHTUVoY0FmLUVVNFpEWThfWGtrcEt6TVZPdGdaQVh5OHNpYU1aRjV5Ny1WZEZOSjFCOEw4ZlZrYUhLU2tnZDAwWm5QZmY0OFFkbDluQThwaFZJWHZydy11LXlqZG90LTZyeTRmUWo0M18zRHhn?oc=5"
   }
 ]
