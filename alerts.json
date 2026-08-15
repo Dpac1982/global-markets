@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-08-08T00:04:45",
-    "source": "sentiment_engine",
-    "title": "Sentiment Trade \u2014 BUY",
-    "subtitle": "GOOGL",
-    "body": "GOOGL at $354.30 \u2014 Jim Cramer Reveals How Alphabet Inc (NASDAQ:GOOGL) Can Reverse Recent Weakness",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbFpCMm5vTFB6emdZWmV3eXRnUEhubkRsZVl6c0ZzYk15bXJwbGNKUk5sM0s1QzRmSWI5Vmo4UVNzVm43N1pDZnJxYjBxd0tyc3FjV2g1X3hXdDlscHBNeXJqOVBBZnNTSndvNXRKbmpOTE1zekMwb2hIcGRWOTZ3ZWxTR05YemRZbklVdmU3TGdkYWFRT0NWaUVEQ0w?oc=5"
-  },
-  {
     "ts": "2026-08-08T03:51:40",
     "source": "movers",
     "title": "Market Mover",
@@ -1595,5 +1587,13 @@
     "subtitle": "BTC-USD",
     "body": "BTC-USD at $62909.21 \u2014 Strategy (MSTR) Is Down 7.0% After MSCI Reopens Review of Its Bitcoin-Focused Index Eligibility",
     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMFFsQ0dkYmRUU0tZR0RQVkNCUkpMaHRITWN6cWhmeGtQWHlxRW9QTVVjdmhnMTFKNGp2S3gyOUtUd2Y1aGpha3F0MXVkZjk4VkFhc0tWcm1VbVQ4V0d0U3VMN19UQ2dTM1JXWVdYcUNVWVduNEtDZFcxT0gwbm1PTUV6TU9zb29sOGZEaDV0ZHZ0WXI1NEF2akxkQXdrLVNiaGVkZ2xuNkdRYWhIelFZYlAyZ0twdEdOUjVzZ0w1MlpoZkRlZlUxcWhNRdIBywFBVV95cUxPMFFsQ0dkYmRUU0tZR0RQVkNCUkpMaHRITWN6cWhmeGtQWHlxRW9QTVVjdmhnMTFKNGp2S3gyOUtUd2Y1aGpha3F0MXVkZjk4VkFhc0tWcm1VbVQ4V0d0U3VMN19UQ2dTM1JXWVdYcUNVWVduNEtDZFcxT0gwbm1PTUV6TU9zb29sOGZEaDV0ZHZ0WXI1NEF2akxkQXdrLVNiaGVkZ2xuNkdRYWhIelFZYlAyZ0twdEdOUjVzZ0w1MlpoZkRlZlUxcWhNRQ?oc=5"
+  },
+  {
+    "ts": "2026-08-15T17:54:35",
+    "source": "watch",
+    "title": "Market Watch",
+    "subtitle": "USD, Bonds, rate-sensitive stocks",
+    "body": "Inflation isn\u2019t profit: Trump\u2019s chance to end Uncle Sam\u2019s phantom tax",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSmVfT2NMbTRpN0R4eGh4N0RHVDM1SEVBcGUtNzhJb1o4UklOUHIyaHBZSHN6b0g3YXhjOS1fb3F5OWd6d0ZZeUU1dUlFaHVIR0R2TVc4b0xBVGg4SlRNeEVxaXFFOHEteXFKZGNic3JLVGZCLXNaS1FTV3Z1dU1naGZLUEVySk1hSmhLc3FqcjJfcEU?oc=5"
   }
 ]
