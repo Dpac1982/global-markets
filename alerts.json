@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-08-07T23:53:50",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "CDE (Coeur Mining, Inc.)",
-    "body": "+11.5% to $17.45 \u2014 Coeur Mining (CDE) Rides A Gold Rally, Is It Still A Bargain?",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORi1oWUZxVkxoQzRVSUZKYnZhSTFBX1hKbkxrVVFvT0VtX3drRXk5bmw0N2NGMF9RLUhOdDVleFRPUDBhR3Q1ZWhVT3pkZGRYSmtLY2NPNUxzYmRscm1vRTEwdEpMa2ItU2dFdkdValRsVTdLYUpiTXYyOFdEZ0hzLUFDcFRVNHZ2NVBFYmRIR3dpa2xtcjhR?oc=5"
-  },
-  {
     "ts": "2026-08-08T00:04:45",
     "source": "sentiment_engine",
     "title": "Sentiment Trade \u2014 BUY",
@@ -1595,5 +1587,13 @@
     "subtitle": "MXL (MaxLinear, Inc)",
     "body": "+10.7% to $84.84 \u2014 MaxLinear (MXL) holder plans $20.36M sale of common stock via Goldman Sachs",
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaWdsU2VXRmdBRnNTOTJ0UFVXUnBSMWNmcFJZbVpxZllwN1BhUEJVYy1KaDEyLWRCVS1xUUVJbkNwRlBOQVpZYWI4Um1fYU9nSE5jemEzQ2lZVjJtTHlsdVh4WGRiTkQyYmUwT2FoWEF0TTZqS0RHaXN5QWY1R3V5MGk5UnJpSVJZZXVKU1ZpUmRRMkk?oc=5"
+  },
+  {
+    "ts": "2026-08-15T13:27:41",
+    "source": "sentiment_engine",
+    "title": "Sentiment Trade \u2014 BUY",
+    "subtitle": "BTC-USD",
+    "body": "BTC-USD at $62909.21 \u2014 Strategy (MSTR) Is Down 7.0% After MSCI Reopens Review of Its Bitcoin-Focused Index Eligibility",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMFFsQ0dkYmRUU0tZR0RQVkNCUkpMaHRITWN6cWhmeGtQWHlxRW9QTVVjdmhnMTFKNGp2S3gyOUtUd2Y1aGpha3F0MXVkZjk4VkFhc0tWcm1VbVQ4V0d0U3VMN19UQ2dTM1JXWVdYcUNVWVduNEtDZFcxT0gwbm1PTUV6TU9zb29sOGZEaDV0ZHZ0WXI1NEF2akxkQXdrLVNiaGVkZ2xuNkdRYWhIelFZYlAyZ0twdEdOUjVzZ0w1MlpoZkRlZlUxcWhNRdIBywFBVV95cUxPMFFsQ0dkYmRUU0tZR0RQVkNCUkpMaHRITWN6cWhmeGtQWHlxRW9QTVVjdmhnMTFKNGp2S3gyOUtUd2Y1aGpha3F0MXVkZjk4VkFhc0tWcm1VbVQ4V0d0U3VMN19UQ2dTM1JXWVdYcUNVWVduNEtDZFcxT0gwbm1PTUV6TU9zb29sOGZEaDV0ZHZ0WXI1NEF2akxkQXdrLVNiaGVkZ2xuNkdRYWhIelFZYlAyZ0twdEdOUjVzZ0w1MlpoZkRlZlUxcWhNRQ?oc=5"
   }
 ]
