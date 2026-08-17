@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-08-08T11:45:49",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "APPN (Appian Corporation)",
-    "body": "+13.9% to $34.64 \u2014 Appian (APPN) Stock Jumps On Cloud Profit Gains Despite Negative Equity",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVnlLRUVIXzM1dERYVkJTTTlPUTAzdFd3d2JFb3VjSTlIZ0g3bzF4WUVEYVZHSlFfcWdLU0t3WHR5Wkx4T0F5QUo5Vzduc3R4UndILXNBbGdxRFVhZFJWNWV4Q1BnY2drX3liYmJ2UHJTbFRrd2MzM21aejNlQ3BXM21IRTM0czRwNEU2SURsdDNDVGxhMVBGS3FWaE5iY1dYaXhlTlBMNl9fRVlfWHkzY0xndG0zdWEyUmhBUnZhR0dMaVHSAcgBQVVfeXFMTW1hajd6SjdjOEx2SGxXeHdfWGhOM19aaWt5NWRYaHktN0tZSDd0S3EteXpjR2twZVEwRWhVRjExc3pjWGd4aWRiRGF4X1JrWnlhZk9ra0xLNVpTckZmN2xoQjF2Y0NoVUdUeU5INkZ0WEFrcUNBdmk0bzVFTEE5SGxHYm1QN1dGdjM5ZFhNVFpyMk9kcE1FWVBfcDdlb1N1YWtheEZjOGhvd3hYVGVmNDJOT2lnakdxdV9fak1hR1VEQ3JDck43Ui0?oc=5"
-  },
-  {
     "ts": "2026-08-08T11:45:52",
     "source": "movers",
     "title": "Market Mover",
@@ -1595,5 +1587,13 @@
     "subtitle": "RUM (RUM Group Inc.)",
     "body": "+10.5% to $8.24 \u2014 Rumble (NASDAQ:RUM) Stock Price Up 6.9% - Here's Why",
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMlpTNVU5dGJWcUl5OWZ4OE1pYVhDY2R5ZGhnaDJNS2NPeDEzVlBRYW0tdUxka3AtVmExWEdFQmFiUURBbk4ycEJPSS02MTJ5YVJsYk9mRzhkYU91X1diOGl4YUNmQVFjVXNvdV9CSFlEaFF0RmdSNGk1ZkJjRm84TlVjY2FPV0xNSG8yUnlGMXZJX2tlZlZRT2hrREhScXc?oc=5"
+  },
+  {
+    "ts": "2026-08-18T00:46:32",
+    "source": "sentiment_engine",
+    "title": "Sentiment Trade \u2014 SELL",
+    "subtitle": "MSFT",
+    "body": "MSFT at $480.35 (sentiment turned negative (score -2), -3.9%)",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZloxOFRVMnBnQVBWUVJNcHJtbzVXSEJYaFJ4Q0FvR3lYTnZkZFZDTTlmR1BOMUMxUHRpdHpvMk1WWm53eXlnbnMzYUhYaVR4SVpDb0pXRlhKTXUxbGViLWtMVU5VNEFELVFSb21xV19fVGFZM1U2S1AyWlYxWVNvbV9Qam5CRTJ1aEJ5dTdGWG5tTF9CNV9mWg?oc=5"
   }
 ]
