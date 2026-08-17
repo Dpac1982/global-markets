@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-08-08T11:15:51",
-    "source": "sentiment_engine",
-    "title": "Sentiment Trade \u2014 BUY",
-    "subtitle": "ORCL",
-    "body": "ORCL at $147.02 \u2014 Oracle Surges: What's Driving the Sudden Rally",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdlNvZ3FjMkxWZllxc2JWbVRNUVNyR3E5R1B2Ym1KRUs5bUtKcXBwY0trRGhFRlFXbFZfbWRWZFdrLXJFekZHNTlhWXRZTWREenREa0hORWptX0Y1TkUxUkpySlkzUFd5X2FENXd3cDl6UGJON09FVGpDQVRaMVNld2t6bEd4RmJSSHFCUWxzWS1YZ3FPR1lZdFdCd19CZXZW?oc=5"
-  },
-  {
     "ts": "2026-08-08T11:25:29",
     "source": "movers",
     "title": "Market Mover",
@@ -1595,5 +1587,13 @@
     "subtitle": "AXTI (AXT Inc)",
     "body": "+18.8% to $96.99 \u2014 Here's Why AXTI Stock Is a Buy Despite Its Premium 48.12X Valuation",
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRGJIM3k0U1haMTA3aFZ5SHpXMnRHNXFkMXB2cFBsQ21yVVQwMFpQU1lzdy1zRzFrODM4bGVmWnNKSEI2dGw4bTRZMFQxTGRsb2dQUG9zZkpSWVN3SHlVMUJpdTE5NHY4SjJyNDdjQ1FaN1N2Um1rTEVSejVkWFFqY2pFMW1uNmlsV0w0bkRzbUQ3Skk?oc=5"
+  },
+  {
+    "ts": "2026-08-17T23:47:37",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "ARGX (argenx SE)",
+    "body": "+16.5% to $991.82 \u2014 argenx Stock Jumps on Positive Phase 3 Myositis Trial Readout",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZ2ZfbG1ERG45TGFPTWR6S2dqenNFRlFvNzlXYXhJc1YwSlN1aGUyOHI3S1MyYllodDl4WkFYNk42cU1UZlpWSUJVbUpwVVpKaTBsT3JNUFE3SHhwTzVRVU5PbUdJRGE5WktKOWlnbGtadTM0ZmdKSHNJWklKRWU3S3RyTzBMN05ITmo3U1VNbW5vdXdfRnhuTG5n?oc=5"
   }
 ]
