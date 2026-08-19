@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-08-09T10:42:42",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "AXTI (AXT Inc)",
-    "body": "+17.8% to $88.58 \u2014 Assenagon Asset Management S.A. Cuts Stock Holdings in AXT Inc $AXTI",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTkJTemwzU21uZlk4aGJzOHlOR0hoNFZyWmNhVS1sR05SV2UzYXpKSTQ3Wk9oZy1oM1ZPU0xhVDhpQkRpbTNWTUYtcU5Xd2ZJYXc3MU1GU0RJbm5LTFQwUlgzcUsyZ1M5UF9vVFNrWTA1SkpQTjFsQmFfcWl5S1N4RmR6LWs4QXZnSmVpQUJLXzFXNl9qckg0VlM3N1ZHenNCVzNFS1o2STJCTGJySDMzdnZFQU5JLVgtdFRRM1gwR3hydkc4?oc=5"
-  },
-  {
     "ts": "2026-08-09T10:51:17",
     "source": "sentiment_engine",
     "title": "Sentiment Trade \u2014 BUY",
@@ -1594,5 +1586,13 @@
     "subtitle": "BNTX (BioNTech SE)",
     "body": "+23.6% to $114.56 \u2014 BioNTech SE Stock Draws Traders As Covid Fades, Oncology Story Builds",
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9YZHV4TmNUc0Vtbk1vaktXbjFlNmdzZ0pUcEVmcVZoaFU4RjFtMGJHeFNtekpJWWNGVjhfdFJZNmxicXc4QlV1aGx4cEk4cnRkamNwZndLYjJJNUlDVXVNTzJyeDhZc3FVT0xJR25FT3RhQQ?oc=5"
+  },
+  {
+    "ts": "2026-08-19T18:14:22",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "TWST (Twist Bioscience Corporation)",
+    "body": "+17.1% to $135.98 \u2014 Twist Bioscience selected as evaluator for Anthropic AI protein design project",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQmtNY2pzTDhuX05MZ3dhZnZXYkRkRFpsd0VHRXVYcTNkYjNJWDVWeFRtRkNtZ0xYbEotYkJTaFlreWZXeTVzdzZ2M0NGOWhPSnZCU0g4QmRIRmJxaEozUk51d09PQnFXamlCcDE4aUR3QWJfRkM0ZzNVVFlKUjNLT2R4cmJwTEtNZ0lVV0xmLVRoc01rd0ZnZTVzVmlZenQzRlptbFpWYWo5X0NKR3g1WGNHQ2drdXZlcllwajc3SS03Z3FPdk44cXdyV0dBSHloc1RzbzcxeUVGdw?oc=5"
   }
 ]
