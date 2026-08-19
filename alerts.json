@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-08-09T10:51:30",
-    "source": "sentiment_engine",
-    "title": "Sentiment Trade \u2014 BUY",
-    "subtitle": "ETH-USD",
-    "body": "ETH-USD at $1916.72 \u2014 Ethereum ETH (ETH-CAD) Live Price, News, Chart & Price History",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9UZDZUSDYzYVZoODV3ejRGUzY4M3V0cFNoS2xjZWpJeHY5c282clJ5dU85T0p4T2lFRnVZQU9IRTlDTG9XLWNJSzVGU2R1ZHVCczI1WHd3?oc=5"
-  },
-  {
     "ts": "2026-08-09T11:02:48",
     "source": "movers",
     "title": "Market Mover",
@@ -1594,5 +1586,12 @@
     "subtitle": "TEM (Tempus AI, Inc.)",
     "body": "+12.2% to $55.36 \u2014 TEM Stock Slides As Tempus AI Bets $1.5B On MRD",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5kdlFHc0ZENk9tS2pEMTNFcHlQS3hhVVpqdnZydW1QRFN5dnc4eG5Kak9BQ2RnVXV4T1FUVlY4YXNMMGVuVWlsTFA1bmkyY1hxYmFWZkliTm8wVExLVEhLc1U3YVF1bHRRZC1zaVpOMXlNQzA?oc=5"
+  },
+  {
+    "ts": "2026-08-19T18:14:43",
+    "source": "trade_engine",
+    "title": "Virtual Trade \u2014 BUY",
+    "subtitle": "ETH-USD",
+    "body": "ETH-USD at $1935.36 (uptrend + MACD bullish cross)"
   }
 ]
