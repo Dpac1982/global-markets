@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-08-09T11:02:48",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "ABNB (Airbnb, Inc.)",
-    "body": "+17.4% to $178.07 \u2014 How Airbnb Inc. (ABNB) Affects Rotational Strategy Timing",
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNmhnQU1Ta0lQaktZMXVIR3VBUWhDb1FyTlBOWlJtUEpRUGtSLUVqWkRybXh2eFBfQXpWVE0wZ3NjQ2ZEcjZjWDI0OHdDNVR3RWJRdnd0Tk50aGw2Qk05MEtPTUxhYnhueFgxOE1BRllwWVUxc0xSMDhWLUxYRHVpWVhWMWlEWXk1UTFnY0oyVFM4aDZHMHBnUXJXZlhSYnlpTkM1ZTVLNmhJMHdkazZwYmhYRnpZVGNPak5WUnNHdVJXUnJUNUZ4YXBPUXk4U2dO?oc=5"
-  },
-  {
     "ts": "2026-08-09T11:02:50",
     "source": "movers",
     "title": "Market Mover",
@@ -1593,5 +1585,13 @@
     "title": "Virtual Trade \u2014 BUY",
     "subtitle": "ETH-USD",
     "body": "ETH-USD at $1935.36 (uptrend + MACD bullish cross)"
+  },
+  {
+    "ts": "2026-08-19T18:34:34",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "NG (Novagold Resources Inc.)",
+    "body": "+12.5% to $8.33 \u2014 CCH Holdings (CCHH) director's 469K-share private buy disclosed",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxON1hQTnY4cFRyd2poV2IwaFlJRU1uZUR4UV9nUmpuZ2xWbHNpbXRXelFxa0tCSWZNblF6cGFDRGdhMW40dzBjQ0NUQTVtSm1vOG40TURtQU1Ta2w2MnQ5Q0NDSjVJMnk0SnN5UDJOOGNDekpZcThMQ01KYzhPeUVIRTVjOFZfeEh1MzdWWl9LRnZtLWRCMzJLbmZfbVlJQnBYQWhrd3h3VDlBbXNOR0xZ?oc=5"
   }
 ]
