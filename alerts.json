@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-08-08T22:31:13",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "USAR (USA Rare Earth, Inc.)",
-    "body": "+11.0% to $19.33 \u2014 USA Rare Earth, Inc. (USAR) stock price, news, quote and history",
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4zc3F3SktwX0J6UkVKaGZ0UGlYLW9aNkFSSkc3aGxWQkM4YmFoakRTalZRbnhaeEg1TXFYVTlNT1BtTmVkd1J2N1FCTjZwMzRXQ1E?oc=5"
-  },
-  {
     "ts": "2026-08-08T22:31:16",
     "source": "movers",
     "title": "Market Mover",
@@ -1594,5 +1586,13 @@
     "title": "Market Mover",
     "subtitle": "AUR (Aurora Innovation, Inc.)",
     "body": "-12.4% to $6.11"
+  },
+  {
+    "ts": "2026-08-19T11:16:17",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "SMTC (Semtech Corporation)",
+    "body": "-12.3% to $135.23 \u2014 Did Semtech\u2019s US$62 Million Module Sale Just Shift SMTC\u2019s AI and Connectivity Narrative?",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSmxMLUoxdV9RcmRLbi1QMHg5MUx0OHIzbGRqckFKcmVYQVI3S01uTEZrdnN2V0N3SWdQZzM4czk1dk9HLWNZd29fMkdrV1duYWQ4MzljRWpWek4zQ21JYnNZNkdLdmVPQ0tZeXFFZzhVekNoS1lKbXIwV2R3RmtzVzFWMVNxal9GVVFnRlBvWF9lcTJMaDVERkZpVEM2eFhYOEhTZlVFQUdYYVA3M0JQcWJzemVmSkxSVlhGZVVWLXBiYWtiRUI3dzl5R2jSAdIBQVVfeXFMUFpiallDa2RBNVFHdlJRVlZxYkVwQkFIMzZ0Y2Q3eGFwMndlcEk0Y0thZHl4ejFDeXJWa0tLcE1FLTZPWlYtZ0FiUC1rUGxFR0lMLUVHaTNmeEg0aTBQa0JQUDlkUGFoVWhWUFdMY2xldVZ5Ti1YS05GeW1TdTFQV3hORlB5eFNFZzVoZGx1NTlqM2wyMXRTTVI2T2d1Q0tkdVFqY09FVGJ1OC1uRWVGTlpPOG41MlRpYTRuZ2xFdG5jbTl2bWFiVzl0aVV1UFl6UGZn?oc=5"
   }
 ]
