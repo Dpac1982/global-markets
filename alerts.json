@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-08-09T10:51:21",
-    "source": "sentiment_engine",
-    "title": "Sentiment Trade \u2014 SELL",
-    "subtitle": "GOOGL",
-    "body": "GOOGL at $354.30 (sentiment turned negative (score -2), 0.0%)",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOGQ4OFpXRGxrVm5vYjJteENIMXZjT1JOLVBlaHJrd3d4Qm1zcmsxNG02cGI0V181NmNtYk1fS2c4SWhYT29BN210NUM0NENiYjdVVGprdXBRR0l4a19xQVdOZmw0ZUJTbi1JaFZoUm5Ja3V5UV9zbTdyT0h0QVVrSDF1NHJ6VHMyRVZuOGFJNFdWWFQ2UGZkQjRwWk1aWFFTekdVbkRiUUpvQW53MmxGdlZwb2VxcFhQcTZ1YWg4YnJFemI1b1E?oc=5"
-  },
-  {
     "ts": "2026-08-09T10:51:30",
     "source": "sentiment_engine",
     "title": "Sentiment Trade \u2014 BUY",
@@ -1594,5 +1586,13 @@
     "subtitle": "PPC (Pilgrim's Pride Corporation)",
     "body": "+13.6% to $32.36 \u2014 PPC Stock Alert: Halper Sadeh LLC is Investigating Whether Pilgrim\u2019s Pride Corporation is Obtaining a Fair Price for its Shareholders",
     "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQX2FfNm5JekFTVkJLV1JyOWYtUEFmSkdDVjJpR1lWLWdvYzhsQV9vYVRYT0NGejEtTGdvRHNBTEROZ1ZxVHhfUElzb2RzT0NON2lyTWlyM0hwOFlGUzU0YkM1czFfTUszVk9hamVxb3JJeTBNeWRDTzgzT0s5YUs5aDlMRFBwLWVObXZ5UzV0YVB4ZUM1R2ZqZGhrZmxZbW8tOFFHdjRNYUhfN1dJRHJMU0ZzY0tfcWhNZTAyalFtSGRpMnlMaWw0S0dKQld2ZGZmTHUxQkJoTkw3N3VzX1o5T3l0YjQtZW9jRUhmTWtzdUM4R3hnM2hJUVpkQUJjVUZ0Zm1JeWxQMXpyWGJ5WjZCQWtWR1FEYjg?oc=5"
+  },
+  {
+    "ts": "2026-08-19T18:14:28",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "TEM (Tempus AI, Inc.)",
+    "body": "+12.2% to $55.36 \u2014 TEM Stock Slides As Tempus AI Bets $1.5B On MRD",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5kdlFHc0ZENk9tS2pEMTNFcHlQS3hhVVpqdnZydW1QRFN5dnc4eG5Kak9BQ2RnVXV4T1FUVlY4YXNMMGVuVWlsTFA1bmkyY1hxYmFWZkliTm8wVExLVEhLc1U3YVF1bHRRZC1zaVpOMXlNQzA?oc=5"
   }
 ]
