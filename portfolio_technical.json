@@ -1,10 +1,15 @@
 {
-  "cash": 88000.0,
+  "cash": 76000.0,
   "positions": {
     "BTC-USD": {
       "qty": 0.18482853723735485,
       "entry_price": 64925.0390625,
       "entry_date": "2026-08-07"
+    },
+    "ETH-USD": {
+      "qty": 6.200396872326661,
+      "entry_price": 1935.3599853515625,
+      "entry_date": "2026-08-19"
     }
   },
   "closed_trades": []
