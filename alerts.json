@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-08-09T21:49:09",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "CENX (Century Aluminum Company)",
-    "body": "+11.5% to $51.23 \u2014 Century Aluminum (CENX) Stock Still Looks Discounted On Second Quarter Results",
-    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPczdPeHQ4bnV6dnhYanlVeHNzX3dOTXNwdUE5d2xqN1JJWTNPTlVJTHNJNzk4VmE3eXBQNjlra3BrZmViS2lnbGlrLVc2a2M1NDViMGc4aFk3RDA4XzBrZEN4bHU0Wl9BajlHNmhZdGpKQzFoTzRISDBCdngzb1hhTWlFcE9mc2RvMmoyMjV5UnVZZHZIcjAwY2lCdWdSWXQzR2hFaHhtaFBvTkFxVVJjQjgyQm9PRzFBcnNoQVNTR0dMYVhXYmJCTjNzdjhDTkd2SmhZRko2a9IB1wFBVV95cUxPczdPeHQ4bnV6dnhYanlVeHNzX3dOTXNwdUE5d2xqN1JJWTNPTlVJTHNJNzk4VmE3eXBQNjlra3BrZmViS2lnbGlrLVc2a2M1NDViMGc4aFk3RDA4XzBrZEN4bHU0Wl9BajlHNmhZdGpKQzFoTzRISDBCdngzb1hhTWlFcE9mc2RvMmoyMjV5UnVZZHZIcjAwY2lCdWdSWXQzR2hFaHhtaFBvTkFxVVJjQjgyQm9PRzFBcnNoQVNTR0dMYVhXYmJCTjNzdjhDTkd2SmhZRko2aw?oc=5"
-  },
-  {
     "ts": "2026-08-09T21:49:12",
     "source": "movers",
     "title": "Market Mover",
@@ -1592,5 +1584,13 @@
     "subtitle": "GOOGL",
     "body": "GOOGL at $341.68 \u2014 Search and Cloud Strength Drive Alphabet\u2019s (GOOG) Rally",
     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVy11LVhJZlF1RS1pbVl2Zl9tQ29ESGRGWmtveW9iaDVCaXlRczhjLTRmd2c3QkNJV0pvOXlHODNkMmhZWlNfNmdjLWcyNl9IY244TDFQTHpxNTZTSnllOE80NmlGLU1IbUhERDNXeUdwYUwzUlpkb2hqU0tnREo0UTZRdjNKN3FNaDA5UzNweUtJOTVzSDRZakdkSlBlSlFYZVZB?oc=5"
+  },
+  {
+    "ts": "2026-08-20T18:56:06",
+    "source": "sentiment_engine",
+    "title": "Sentiment Trade \u2014 BUY",
+    "subtitle": "BTC-USD",
+    "body": "BTC-USD at $71670.61 \u2014 Crypto shares climb after Trump advocates for Clarity Act",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVmM3elp4cktvVklVUlVBN3BvWkliX2FDX2RjbkdWQkhfcVdzVmFweEoxNkZzS3ZuMDhyRGZWOXRiQ2laWFlpUHhzcENKVklXMzduOGNzZFQydl9qMTJpRFczOU5paEU3VmpEYlRFMVlwU01OY21JTWRrbXItQXd4R1lZMUhaQXN5V1RtOVAzeXUwdUdLNDZ0T3ZNVENOVE5hUkYyV2t1d0xPRmEtTmRuQQ?oc=5"
   }
 ]
