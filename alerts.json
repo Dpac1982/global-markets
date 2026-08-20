@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-08-09T21:28:47",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "TSEM (Tower Semiconductor Ltd.)",
-    "body": "+12.4% to $252.49 \u2014 Assenagon Asset Management S.A. Raises Position in Tower Semiconductor Ltd. $TSEM",
-    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUGNYMEYyOHA3T2VTZFF4aUZZMDdId0dXOUVwYzhjUWVDRm9LdGl5d0VYeC1HVFZMbWlZd19GVGs5V3hjZ1VkMHdnNVlUbTdza2o0aTI3M2NyRFZkaFYxUFJ6aVlLU3RMbDltNTNYb0xtVDU0RURxR1RldWVVWjVtaDltTmhaNllEb3pTekY0YkR3ay0wQldhNTJiQ2tLbk1KMlYtOVpwOGYtbGR1WERfSkpXVU5SVXNhLXpPMjh4UWNBYVd4dDVsVlFzbHlKSDBCVGVUZw?oc=5"
-  },
-  {
     "ts": "2026-08-09T21:28:50",
     "source": "movers",
     "title": "Market Mover",
@@ -1595,5 +1587,13 @@
     "subtitle": "BTC-USD",
     "body": "BTC-USD at $71440.91 (take-profit +13.6%)",
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVmM3elp4cktvVklVUlVBN3BvWkliX2FDX2RjbkdWQkhfcVdzVmFweEoxNkZzS3ZuMDhyRGZWOXRiQ2laWFlpUHhzcENKVklXMzduOGNzZFQydl9qMTJpRFczOU5paEU3VmpEYlRFMVlwU01OY21JTWRrbXItQXd4R1lZMUhaQXN5V1RtOVAzeXUwdUdLNDZ0T3ZNVENOVE5hUkYyV2t1d0xPRmEtTmRuQQ?oc=5"
+  },
+  {
+    "ts": "2026-08-20T17:49:32",
+    "source": "sentiment_engine",
+    "title": "Sentiment Trade \u2014 SELL",
+    "subtitle": "ETH-USD",
+    "body": "ETH-USD at $2267.32 (take-profit +18.3%)",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1sVDVaN01jM21IdUVLU2lPbkNXMlp2aUVNN1RULWNKMjJsd3d1THhPZDFwZEFrR3BseHZHV0kwSGlDaTJQRDRxTWl1OTE1NTc4cXZuZEhTWmdwZG1kMDFESkJXaGJSR2N4?oc=5"
   }
 ]
