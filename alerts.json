@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-08-09T21:28:52",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "IONQ (IonQ, Inc.)",
-    "body": "+11.9% to $44.43 \u2014 This Trillion-Dollar AI Stock Offers Better Quantum Computing Exposure Than IonQ, Rigetti, or D-Wave at a Multi-Year Valuation Low",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPS193QnEyNHpBc1F6a0dWczRnZEpQQ2ZCUkh1YjNrZWtiRjNsWmJvMTBLWks1YnA4em4yV3hfS3JsQVVfMHpBUUV3Y19UMERhUEo2YnA1Vm01WkV3RUpRY0NDelNkRmNaZTJ4RXppZjMzSzRkX1dJN2dXazhUMnBLZDhONXBneFlHN1hocGtfbU1uR1ZjTWNZ?oc=5"
-  },
-  {
     "ts": "2026-08-09T21:28:55",
     "source": "movers",
     "title": "Market Mover",
@@ -1594,5 +1586,12 @@
     "title": "Virtual Trade \u2014 SELL",
     "subtitle": "BTC-USD",
     "body": "BTC-USD at $71647.05 (take-profit +10.4%)"
+  },
+  {
+    "ts": "2026-08-20T18:05:18",
+    "source": "trade_engine",
+    "title": "Virtual Trade \u2014 SELL",
+    "subtitle": "ETH-USD",
+    "body": "ETH-USD at $2278.72 (take-profit +17.7%)"
   }
 ]
