@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-08-09T21:28:44",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "FRVO (Fervo Energy Company)",
-    "body": "+12.4% to $25.85"
-  },
-  {
     "ts": "2026-08-09T21:28:47",
     "source": "movers",
     "title": "Market Mover",
@@ -1594,5 +1587,13 @@
     "subtitle": "HYMC (Hycroft Mining Holding Corporat)",
     "body": "+15.3% to $27.90 \u2014 Does Hycroft Mining (HYMC) Have a Game-Changing Feeder System Emerging at Brimstone?",
     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPYUtUWlpIMTlWMDVzdVJEbkt5LWFaYVdialVDNWt6bDFDS3lqM2NsSWpKQUhHaHNTUlNURW5pb1ZZNTA3T0syRVNBbTktcUpfRTVDQzdLX01UWHB1aFJlcUdhenZOMXNleWw3bUZxSVhySkN6VjlrRUMwcndhVzV6Q1ptNEoyd0IxOTFCelp1MER0YjFWUUd6MzdDdExza2pKRVhRSG5ZS1l1ZURCZWVXMUl4VUJLVXpjTGVjb3hMVXQtUktJRUVVbzRaNVRUVDA5Q2pweVc1V3TSAd4BQVVfeXFMUFE3ZXBfYUxXXzU5NWhYUXhLclVyTXFqR0QtMUF0Vk8yVDhqaEJhT0Iza0hBQ0Q2UFYwMk9EYS1lWFRIVHRVWWFCOF9VRUhUNzNzOWVuMmU4SVZrMS02b1cyTWd3a29hOHcySGI3SEh1eDRMNjJzRGxUekZsUEp2Y3hXaG5pQ1pKV0V5S3BGMDRfZ0hXYlRqSEVoSlBuaVRzQjVLT1k0ZUVxVWF6dW8yWjY0cE5fUXltWlV6ZGVzOVhHZjNlS2RDbE1GM052Tk14cV9kV1V0OGY5VUZlVG53?oc=5"
+  },
+  {
+    "ts": "2026-08-20T17:49:29",
+    "source": "sentiment_engine",
+    "title": "Sentiment Trade \u2014 SELL",
+    "subtitle": "BTC-USD",
+    "body": "BTC-USD at $71440.91 (take-profit +13.6%)",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVmM3elp4cktvVklVUlVBN3BvWkliX2FDX2RjbkdWQkhfcVdzVmFweEoxNkZzS3ZuMDhyRGZWOXRiQ2laWFlpUHhzcENKVklXMzduOGNzZFQydl9qMTJpRFczOU5paEU3VmpEYlRFMVlwU01OY21JTWRrbXItQXd4R1lZMUhaQXN5V1RtOVAzeXUwdUdLNDZ0T3ZNVENOVE5hUkYyV2t1d0xPRmEtTmRuQQ?oc=5"
   }
 ]
