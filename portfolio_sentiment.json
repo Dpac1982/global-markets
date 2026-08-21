@@ -1,5 +1,5 @@
 {
-  "cash": 42514.82719005126,
+  "cash": 55498.13559379678,
   "positions": {
     "PLTR": {
       "qty": 70.4514379203768,
@@ -14,11 +14,6 @@
     "GOOGL": {
       "qty": 35.12083863578064,
       "entry_price": 341.677490234375,
-      "entry_date": "2026-08-20"
-    },
-    "BTC-USD": {
-      "qty": 0.16743264923579423,
-      "entry_price": 71670.609375,
       "entry_date": "2026-08-20"
     },
     "ETH-USD": {
@@ -81,6 +76,15 @@
       "exit_price": 2267.320068359375,
       "return_pct": 18.29,
       "reason": "take-profit +18.3%"
+    },
+    {
+      "symbol": "BTC-USD",
+      "entry_date": "2026-08-20",
+      "entry_price": 71670.609375,
+      "exit_date": "2026-08-21",
+      "exit_price": 77543.46875,
+      "return_pct": 8.19,
+      "reason": "take-profit +8.2%"
     }
   ]
 }
