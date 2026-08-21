@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-08-09T22:29:43",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "ERO (Ero Copper Corp.)",
-    "body": "+10.3% to $34.31 \u2014 Ero Copper (TSX:ERO) Gains Momentum As Strong Earnings Put Valuation Back In Focus",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbEtJNXd3aTBjc012U29WRi1Bc3ZqWWdPb3lKN21lcjhPX1U5a1N0ZEJQQTRNZURHZWprWURoc2dOU2hxZ2U0anNmX3lUR2pDUVVVYVQ5MVFtWVFpak1XNDNtYmZFOGFYZ2tOS2V1eUExNnNDa3c0ZDVheHdfZ3g2bEt5VGh2b2xCcXMzMXdSVDRNSTdXMWUyUGpjRTFCSzV5cnNyZTlKSktRdHdqc0QtX1h2ZF9vU3dTbzU4XzU4ajZpY3FjdE5TT0U1MkRwd9IB0wFBVV95cUxOZ0Q4bWhVdW5FSlc5TVJsU2h3TGNsdDQ5djJuck1FaUtmRGNvQllWeG9HMEJ2V1ZLb19MS1N5Q3A2Ymc3c00xMkRmaWRBcHlPOVNvTmZ0TUoteXRORHZmTjBlQkVmdTRaWE5LUTYzRURYWjlMQTFTbXVDS2ZnZmZqQXp3c2xTY0pyNllBaTFyTG5LNTNPcXU5OXNZb2Zlb2dpQmhsNS1aLU9IVWNGRS1PeEdXUzR3bDFqRkQyczNoM0JHb0dGd0dxOXBkY3NRcl9uaHdV?oc=5"
-  },
-  {
     "ts": "2026-08-10T03:29:35",
     "source": "movers",
     "title": "Market Mover",
@@ -1592,6 +1584,14 @@
     "title": "Sentiment Trade \u2014 SELL",
     "subtitle": "BTC-USD",
     "body": "BTC-USD at $77543.47 (take-profit +8.2%)",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVmM3elp4cktvVklVUlVBN3BvWkliX2FDX2RjbkdWQkhfcVdzVmFweEoxNkZzS3ZuMDhyRGZWOXRiQ2laWFlpUHhzcENKVklXMzduOGNzZFQydl9qMTJpRFczOU5paEU3VmpEYlRFMVlwU01OY21JTWRrbXItQXd4R1lZMUhaQXN5V1RtOVAzeXUwdUdLNDZ0T3ZNVENOVE5hUkYyV2t1d0xPRmEtTmRuQQ?oc=5"
+  },
+  {
+    "ts": "2026-08-21T14:32:16",
+    "source": "sentiment_engine",
+    "title": "Sentiment Trade \u2014 BUY",
+    "subtitle": "BTC-USD",
+    "body": "BTC-USD at $77882.16 \u2014 Crypto shares climb after Treasury's doubled buybacks boost risk assets",
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVmM3elp4cktvVklVUlVBN3BvWkliX2FDX2RjbkdWQkhfcVdzVmFweEoxNkZzS3ZuMDhyRGZWOXRiQ2laWFlpUHhzcENKVklXMzduOGNzZFQydl9qMTJpRFczOU5paEU3VmpEYlRFMVlwU01OY21JTWRrbXItQXd4R1lZMUhaQXN5V1RtOVAzeXUwdUdLNDZ0T3ZNVENOVE5hUkYyV2t1d0xPRmEtTmRuQQ?oc=5"
   }
 ]
