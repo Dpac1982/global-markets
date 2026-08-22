@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-08-10T22:04:27",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "NESR (National Energy Services Reunit)",
-    "body": "+23.8% to $35.92 \u2014 $NESR stock is up 18% today. Here's what we see in our data.",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMjZZRm9NTHlsczNoamg2S0dRRVdyNFMxandGX2RfSUhuZ2tOSDF4U1VfZC1RWTg3b2RTSHRQUGEyd25CWjBvbkI4TjM2MGhTMTN6cHpsaVlnb2kwNFZlNkhWdDJXeng2TmlRNHlWVW8zX0kyT0FBZk9hdHFnZndNd1dQRnE1MEROcElwQU5LRGc2cjJFcVRqazdzR2syOG5k?oc=5"
-  },
-  {
     "ts": "2026-08-10T22:04:29",
     "source": "movers",
     "title": "Market Mover",
@@ -1593,5 +1585,13 @@
     "subtitle": "INFQ (Infleqtion, Inc.)",
     "body": "+10.2% to $13.83 \u2014 INFQ, HPE, WLY Stocks Rise On Trump Administration\u2019s $5B Genesis Mission Expansion",
     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOODFVQ0tHVERJRjhRZ3d5NExXVm5PcVNYaXczTTlMYXlVNUxnU2Z5MEE2UFh5bC1oQWJkVEljTDdPNERpMHFtTkI2MlUyMzBTVWtyLUMtZERCdExkclFhNlhXUjFEb3NJVWY4MEpYajFHLUdrNWxFd1VZLURrNk1RVENqN25OTk9UQUdwaV8ybnZnWFEtQ2gta0tienFNTDJ1VkphYU9iU1dfQ01CclpDNTBNZkVxZVg0VHVuZzVGcThOZ3F1MWFqUjJFWQ?oc=5"
+  },
+  {
+    "ts": "2026-08-22T11:00:59",
+    "source": "sentiment_engine",
+    "title": "Sentiment Trade \u2014 BUY",
+    "subtitle": "META",
+    "body": "META at $549.90 \u2014 META Stock Still Trails Mag 7 Peers Even After New Subscriptions, Layoffs, Cloud Plans \u2014 Retail Sniffs Buying Opportunity",
+    "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOOG1QRlJsYnE4RTEzY1dnMkFnUHdCZ1FOQTFKQ2RKbm00anBncGREWEFPR0JlWVRUbWUwS0NfNk9WYy1JOHJZYWJaZ0JYMG9uWlhaVjVkOU1LWWpyT29PeXJKSERnUDg4OWJGVVJ3UnQ5cW04WUVLcWU4Zm5Ub2thYy1ETjdjNW5JT05mVmdTNXlwZWlqNzYtR2hLMi1lRzQ3a01wVW5TclBaLUQxZXg4Q0E2X1ZJUUktMVlHNHB1XzBoa0UwdzYyRHQyeDJRYTdLOXBaMlQ3aXVsRDJqRWRteUlDYXNXT3A2bmlrY0NsY2RoWDRwaU9kTjhZTDNxZlZTcGlFOGZXOW1DZEt5ekE?oc=5"
   }
 ]
