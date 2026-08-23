@@ -1,5 +1,5 @@
 {
-  "cash": 31498.135593796782,
+  "cash": 43498.13559379678,
   "positions": {
     "PLTR": {
       "qty": 70.4514379203768,
@@ -25,11 +25,6 @@
       "qty": 0.15407893897390648,
       "entry_price": 77882.15625,
       "entry_date": "2026-08-21"
-    },
-    "META": {
-      "qty": 21.822148512879984,
-      "entry_price": 549.9000244140625,
-      "entry_date": "2026-08-22"
     }
   },
   "closed_trades": [
@@ -95,6 +90,15 @@
       "exit_price": 77543.46875,
       "return_pct": 8.19,
       "reason": "take-profit +8.2%"
+    },
+    {
+      "symbol": "META",
+      "entry_date": "2026-08-22",
+      "entry_price": 549.9000244140625,
+      "exit_date": "2026-08-23",
+      "exit_price": 549.9000244140625,
+      "return_pct": 0.0,
+      "reason": "sentiment turned negative (score -2), 0.0%"
     }
   ]
 }
