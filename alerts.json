@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-08-12T22:30:14",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "QNT (Quantinuum Inc.)",
-    "body": "+22.8% to $68.82 \u2014 $QNT stock is up 14% today. Here's what we see in our data.",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSXQzSkswQ0F6Wm9rTzZiRnU4SmNzX0U5RXpuWWtvQnNSMHZLMFhja1ZXeEV2eVFRLUJwbzNPV3ZkY08yZmlLY3NXVnVuX2lfemZwQ08yUkw5SEh6OE9IejhUelRsQkRsRF95a2FCcXIxNDhkNGxCVlE0bWpzSG9fNWlQWE5tME9hYi0yQVBRM0x1VW9Yd1ZBYnEzaC1xNnM?oc=5"
-  },
-  {
     "ts": "2026-08-12T22:30:17",
     "source": "movers",
     "title": "Market Mover",
@@ -1590,6 +1582,14 @@
     "title": "Sentiment Trade \u2014 SELL",
     "subtitle": "ETH-USD",
     "body": "ETH-USD at $2518.11 (take-profit +10.6%)",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1lM0JuMEhlUUhuTnQzZFhaX19PSDh1QTlsbjJuTEx5elplRy1vYm9oLVdlb29sbWtJZmZxVEJHVW16NkJmU0NwVHdGRzdjUDNmOUFsTzJqdzJXazduN3U2SERmXzBBbzhp?oc=5"
+  },
+  {
+    "ts": "2026-08-24T23:46:31",
+    "source": "sentiment_engine",
+    "title": "Sentiment Trade \u2014 BUY",
+    "subtitle": "ETH-USD",
+    "body": "ETH-USD at $2467.53 \u2014 Current price of Ethereum for August 24, 2026",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1lM0JuMEhlUUhuTnQzZFhaX19PSDh1QTlsbjJuTEx5elplRy1vYm9oLVdlb29sbWtJZmZxVEJHVW16NkJmU0NwVHdGRzdjUDNmOUFsTzJqdzJXazduN3U2SERmXzBBbzhp?oc=5"
   }
 ]
