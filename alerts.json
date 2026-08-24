@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-08-12T15:25:24",
-    "source": "sentiment_engine",
-    "title": "Sentiment Trade \u2014 SELL",
-    "subtitle": "ORCL",
-    "body": "ORCL at $145.48 (sentiment turned negative (score -4), -1.0%)",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSlQweklYQkY0WFo0emJ2SlByUE1vZ1dxN3A4bU96WVF1WnJnN2dqMEs2dEdmNE5zVi1neDUwbzlyUkdVd2g3NmZTYmk1RFNtTW1ISEwyang3MjZuUWtycFJPeUpXSXNMNDB2WXpDaXI0LXBDcEU3eVl0Umx2YldDSTcwb1hiR3pfT1BSakd2bG4xN3RPY1ZfZQ?oc=5"
-  },
-  {
     "ts": "2026-08-12T22:30:08",
     "source": "movers",
     "title": "Market Mover",
@@ -1591,5 +1583,13 @@
     "subtitle": "AXTI (AXT Inc)",
     "body": "-11.7% to $62.46 \u2014 12 Information Technology Stocks Moving In Monday's Pre-Market Session",
     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPLWdVN0hyZllHamZaUzl1cTFLTHduVEJjYVN1WERRcTRiRWVJVEVaT1dwVGRsZnhmbzhaTkFZamtHLXFqMFZzRHZ1UTl6NWw4N0hUc3QtSkJEM3cteVB1VnhGTlNVN2VNMENteHE3R2RqQTl1LWtfYTREeXZVV2lrSUNiNFk1QjlaSmJjX2ZIUUx2MW1sdUZxVG84bG9reWJIbUc2MnlRY3JMZ004amN6YldpMTJPcXFsbUhUVjBhcE9aamZKWnQ0?oc=5"
+  },
+  {
+    "ts": "2026-08-24T18:26:33",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "SNDK (Sandisk Corporation)",
+    "body": "-10.4% to $1430.10 \u2014 Stocks making the biggest moves premarket: Alibaba, Marvell, Sandisk, Coinbase and more",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWF8yc2NWWnNud3doN004RVBkYU82VXZBZnZvbFNRaEZxaDZQVkdlNkNqb2JxUDN2cGlzM09OOGR5Y0tCRWliZWNsNE9tUjJ5MG5rVWx1WHlYeHlUdml3cUU5LUxOVGxYVTNqQl84Wmt5Vl94LTRDNURnYlFkWGFrX1dwSGE4a1d1NFJpV056bzg1M2ZiT1ZObkY4NUpyZmNHcDRGcg?oc=5"
   }
 ]
