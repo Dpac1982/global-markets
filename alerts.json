@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-08-12T22:30:11",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "EROC (ERock, Inc.)",
-    "body": "+24.6% to $14.01 \u2014 ERock (EROC) Stock Forecast and Price Target 2026",
-    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1qYm5mR0RkcDZRSF8xQXN5cGtNQjczdjFtd2V5TXA5cXpsOXpxc1d3d2FRZGVBQXJyTW9kRy1PVXpJeEpVb3UtLUZ5T1pjMVJ3Y3NNRmFEOHZvZnF0bUZjSVJYcw?oc=5"
-  },
-  {
     "ts": "2026-08-12T22:30:14",
     "source": "movers",
     "title": "Market Mover",
@@ -1591,5 +1583,13 @@
     "subtitle": "NVDA",
     "body": "NVDA at $209.82 (stop-loss -6.4%)",
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPN1NpRHdBSDVMeGJTSzgwUGFveG1FU3BnOVFwUk5iMi0wWlpHN1o2VUw1U1lkcU96SVBfUVBKb3k1MEJZcHRJMnl2SnJ5RkVheE1WRmhiOVJBekdoR2JyLS1wcGpIOGdTeWxuSkN5cGNTa055TTZzcnpZUDJxTW1CeTlUNFFLMlFoZ2todVVLclhWSVJMcS1NWWprMXl3WnIyS3dXRHNxQXY0X3M?oc=5"
+  },
+  {
+    "ts": "2026-08-24T18:49:24",
+    "source": "sentiment_engine",
+    "title": "Sentiment Trade \u2014 SELL",
+    "subtitle": "ETH-USD",
+    "body": "ETH-USD at $2518.11 (take-profit +10.6%)",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1lM0JuMEhlUUhuTnQzZFhaX19PSDh1QTlsbjJuTEx5elplRy1vYm9oLVdlb29sbWtJZmZxVEJHVW16NkJmU0NwVHdGRzdjUDNmOUFsTzJqdzJXazduN3U2SERmXzBBbzhp?oc=5"
   }
 ]
