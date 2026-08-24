@@ -1,24 +1,14 @@
 {
-  "cash": 43498.13559379678,
+  "cash": 68005.26864726521,
   "positions": {
     "PLTR": {
       "qty": 70.4514379203768,
       "entry_price": 170.33009338378906,
       "entry_date": "2026-08-07"
     },
-    "NVDA": {
-      "qty": 53.54991385651141,
-      "entry_price": 224.08999633789062,
-      "entry_date": "2026-08-13"
-    },
     "GOOGL": {
       "qty": 35.12083863578064,
       "entry_price": 341.677490234375,
-      "entry_date": "2026-08-20"
-    },
-    "ETH-USD": {
-      "qty": 5.27023123525548,
-      "entry_price": 2276.93994140625,
       "entry_date": "2026-08-20"
     },
     "BTC-USD": {
@@ -99,6 +89,24 @@
       "exit_price": 549.9000244140625,
       "return_pct": 0.0,
       "reason": "sentiment turned negative (score -2), 0.0%"
+    },
+    {
+      "symbol": "NVDA",
+      "entry_date": "2026-08-13",
+      "entry_price": 224.08999633789062,
+      "exit_date": "2026-08-24",
+      "exit_price": 209.8249969482422,
+      "return_pct": -6.37,
+      "reason": "stop-loss -6.4%"
+    },
+    {
+      "symbol": "ETH-USD",
+      "entry_date": "2026-08-20",
+      "entry_price": 2276.93994140625,
+      "exit_date": "2026-08-24",
+      "exit_price": 2518.110107421875,
+      "return_pct": 10.59,
+      "reason": "take-profit +10.6%"
     }
   ]
 }
