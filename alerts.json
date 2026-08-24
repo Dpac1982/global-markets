@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-08-12T22:30:08",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "NBIS (Nebius Group N.V.)",
-    "body": "+29.1% to $249.39 \u2014 Nebius Soars As Bigger Loss Tops Views, Revenue Beats",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQX2FhNU9GOC1za0d6eGR0LUFfaDljZEpZcFFVUXhDcnZzRWNVZTE2a1hFemdyS3ZfQWd2UHBUSENVWW5wS2NHaTRHYTFqbW1DQjAwcVNGR3FJWW9RZHJTTkJEcWU3RGdYUnJoZnlNYkJqMjRRaGt3Wk12UEVSdmh4LTVZVVRaSXJYcVdv?oc=5"
-  },
-  {
     "ts": "2026-08-12T22:30:11",
     "source": "movers",
     "title": "Market Mover",
@@ -1591,5 +1583,13 @@
     "subtitle": "SNDK (Sandisk Corporation)",
     "body": "-10.4% to $1430.10 \u2014 Stocks making the biggest moves premarket: Alibaba, Marvell, Sandisk, Coinbase and more",
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWF8yc2NWWnNud3doN004RVBkYU82VXZBZnZvbFNRaEZxaDZQVkdlNkNqb2JxUDN2cGlzM09OOGR5Y0tCRWliZWNsNE9tUjJ5MG5rVWx1WHlYeHlUdml3cUU5LUxOVGxYVTNqQl84Wmt5Vl94LTRDNURnYlFkWGFrX1dwSGE4a1d1NFJpV056bzg1M2ZiT1ZObkY4NUpyZmNHcDRGcg?oc=5"
+  },
+  {
+    "ts": "2026-08-24T18:49:11",
+    "source": "sentiment_engine",
+    "title": "Sentiment Trade \u2014 SELL",
+    "subtitle": "NVDA",
+    "body": "NVDA at $209.82 (stop-loss -6.4%)",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPN1NpRHdBSDVMeGJTSzgwUGFveG1FU3BnOVFwUk5iMi0wWlpHN1o2VUw1U1lkcU96SVBfUVBKb3k1MEJZcHRJMnl2SnJ5RkVheE1WRmhiOVJBekdoR2JyLS1wcGpIOGdTeWxuSkN5cGNTa055TTZzcnpZUDJxTW1CeTlUNFFLMlFoZ2todVVLclhWSVJMcS1NWWprMXl3WnIyS3dXRHNxQXY0X3M?oc=5"
   }
 ]
