@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-08-13T11:40:21",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "MRX (Marex Group Limited)",
-    "body": "+18.7% to $71.13 \u2014 $MRX stock is up 13% today. Here's what we see in our data.",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRDV2bnFqMlpPak5BZ3JXZ1RtREtUOXQyLVAyM3BYcWhJMnZHNGlVSDlQRzM5TnJiNXZ2QVJIYXNIelJiekg4VFhjYnlpVHl6UEdzRDdpSVhXdFpOR1RiQk9GUUZrd2R2YW5ZNzJoSEtBcDRoVTJoMFBOdmRJVTFDOXNCNGt5Y2pqMVVrTnRaVkRveHVBR3ZRT0c3TWNWYTg?oc=5"
-  },
-  {
     "ts": "2026-08-13T11:40:24",
     "source": "movers",
     "title": "Market Mover",
@@ -1591,5 +1583,13 @@
     "subtitle": "MAIR (Madison Air Solutions Corporati)",
     "body": "+12.1% to $27.99 \u2014 Madison Air jumps as financing plan reduces uncertainty around ebm-papst deal",
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNalRnaVhJYnJMRUdiUlFraDQwc0Z0TjlmQmEzMVhCclJzVWlITERaZU9YQkdGN3F6M2pSMGFUcXhRMzVlYlRjS3cxTjBhZURVb3J5Y2tNUFVlaEUwY2NiRDJxMnQ0ZzRfTndfZ2hPOVZacUxDOExLRnpkXzlscS1UdjFZdjF1TmVKYVZXYU9EbFdlaVNUX2ZMSmtpa29GS1dHZlE2TTJqN0dlWFVfLVFN?oc=5"
+  },
+  {
+    "ts": "2026-08-26T03:21:16",
+    "source": "sentiment_engine",
+    "title": "Sentiment Trade \u2014 BUY",
+    "subtitle": "NVDA",
+    "body": "NVDA at $213.05 \u2014 Nvidia\u2019s Losing Streak Has Ended. Be Careful What You Wish For.",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNR2JEWV9ERjBialIwd3NYLTM0YXE3N0FtNllqOXRmVV9kLWY1QngwcnZuQUFMbVF4NVhkY1NUcUNMVFAySU1GVWRzN3REbjk2N1hxMWZzWEV1NGszdzNWU3k0bV9ZTlppeDFwOXo0TWFwOF90ckNKb0c4amJIYmRWdUFwS1QzS0pDWWk0?oc=5"
   }
 ]
