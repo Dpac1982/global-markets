@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-08-13T11:40:24",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "ATRO (Astronics Corporation)",
-    "body": "+17.3% to $87.89 \u2014 Why Astronics (ATRO) Stock Is Up Today",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQajlRWHFFVnEyalNGSUFfckpadDdjdTVpc1BiTktMdkM4QndBb1Y2Vnd6SkpBdXF2VkJNa0RVVUdmb1hvb2NXU0Z0WTk3Mm5pMkV5eG1UUnlHdDlUSHhjRWlFRXFxYVpIdm9zUzFoekhoeGI1U2p4ZUg2eTBDNkw1UmdTeUZ0NXk0X19IVG03YzFDVjNtMDQySmlyVG5YZw?oc=5"
-  },
-  {
     "ts": "2026-08-13T11:40:27",
     "source": "movers",
     "title": "Market Mover",
@@ -1591,5 +1583,13 @@
     "subtitle": "NVDA",
     "body": "NVDA at $213.05 \u2014 Nvidia\u2019s Losing Streak Has Ended. Be Careful What You Wish For.",
     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNR2JEWV9ERjBialIwd3NYLTM0YXE3N0FtNllqOXRmVV9kLWY1QngwcnZuQUFMbVF4NVhkY1NUcUNMVFAySU1GVWRzN3REbjk2N1hxMWZzWEV1NGszdzNWU3k0bV9ZTlppeDFwOXo0TWFwOF90ckNKb0c4amJIYmRWdUFwS1QzS0pDWWk0?oc=5"
+  },
+  {
+    "ts": "2026-08-26T03:21:21",
+    "source": "sentiment_engine",
+    "title": "Sentiment Trade \u2014 BUY",
+    "subtitle": "MSFT",
+    "body": "MSFT at $491.71 \u2014 Microsoft Just Ripped 28% in a Month. What Would It Take to Get MSFT Stock Up to $600?",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZDVfQV9ZaDF1UnBrYnJtdGNXRVBORHc1bzNZSE5EdGZjVDBJbTNkVlVQZ04zeEFnOVd5clRHQmNfSG41TUZUemFfcnhEUUJTTE1wRnA4TUVOY0dLMnJucWZiR0kzanJQSlQ3Q05BcTUxSWtIcFkwbXFPd2hFN1VOZTBXWUl3QWhlRk01U1F1Mlh1ck5yTXF4RDVJMjlMQ2FZQXZsT05QU3RuMExaRjF1eTgyQ3dDWm5nb1lZZVBDQTFfRkM2?oc=5"
   }
 ]
