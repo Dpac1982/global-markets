@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-08-13T11:45:40",
-    "source": "sentiment_engine",
-    "title": "Sentiment Trade \u2014 BUY",
-    "subtitle": "NVDA",
-    "body": "NVDA at $224.09 \u2014 Bank of America sends blunt message to Nvidia stock investors",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZGRjRFdEcVdBQVYwMmFDYzhkMW91U0JzTl9YeVozc0ZFQjlzTVhacHhuQ1ZHbGlqV01PNU9DWl82WHE1cTRpc0h6UEtqd2xYckh2b0ZSZ0hZREZITXlHOTB5SFV5dUxmOXc0MzUta1AzSWlCM0hJSFJwOFNuNXNnUEdWNk4yZ2wtY2pseUlCS2kwaVhFLTZMYWtpelhaeVJCNnZjWXFOSQ?oc=5"
-  },
-  {
     "ts": "2026-08-13T12:00:35",
     "source": "movers",
     "title": "Market Mover",
@@ -1591,5 +1583,13 @@
     "subtitle": "OKLO (Oklo Inc.)",
     "body": "+11.5% to $44.27 \u2014 Elon Musk Could Help Oklo's Stock Price Soar. Here's Why.",
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQUVOVUN0by1vdDJZbjJiNHJ4UVk2ZUZxcDlHaHNBb1V0cWh1VDQxaXpjV0RRZmdHQ0J5aThmTzZmQ2JjdndnWTYxZFVQQ041OXIycEdqUE5MSlZfVGwwdVhfSWMzNS1MMEpnZG51MGJ0c01Hc1hSWjhSOHA0WldGS29MQTNwM3VibFJ0MkhJanM1c2g2cGc?oc=5"
+  },
+  {
+    "ts": "2026-08-26T11:43:51",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "DKS (Dick's Sporting Goods Inc)",
+    "body": "-30.7% to $124.31 \u2014 Why Dick's (DKS) Shares Are Plunging Today",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSU83SENzUFliS014alJfRDZqVVlKR2xmOVpHMXJUWXVhNDhTRVEwM3BhZXZmRXdMbncyQXF4emRTbnBNeEpjeV9DZ2tJWEM4bW9PWktDMjdTUGZ4T0lrUUFpWTVvNUJpSGgzcDBFbkljMEhpMG1tMzJrWWZVajBiTzhabmFJR1hvUElSc1AtTzBacHpvY1RQal9B?oc=5"
   }
 ]
