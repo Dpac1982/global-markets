@@ -1,6 +1,12 @@
 {
-  "cash": 103371.3870505384,
-  "positions": {},
+  "cash": 91371.3870505384,
+  "positions": {
+    "PLTR": {
+      "qty": 64.56298735827035,
+      "entry_price": 185.86500549316406,
+      "entry_date": "2026-08-27"
+    }
+  },
   "closed_trades": [
     {
       "symbol": "BTC-USD",
