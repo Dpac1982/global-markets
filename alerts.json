@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-08-15T06:59:11",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "MXL (MaxLinear, Inc)",
-    "body": "+10.7% to $84.84 \u2014 MaxLinear (MXL) holder plans $20.36M sale of common stock via Goldman Sachs",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaWdsU2VXRmdBRnNTOTJ0UFVXUnBSMWNmcFJZbVpxZllwN1BhUEJVYy1KaDEyLWRCVS1xUUVJbkNwRlBOQVpZYWI4Um1fYU9nSE5jemEzQ2lZVjJtTHlsdVh4WGRiTkQyYmUwT2FoWEF0TTZqS0RHaXN5QWY1R3V5MGk5UnJpSVJZZXVKU1ZpUmRRMkk?oc=5"
-  },
-  {
     "ts": "2026-08-15T13:27:41",
     "source": "sentiment_engine",
     "title": "Sentiment Trade \u2014 BUY",
@@ -1589,5 +1581,13 @@
     "subtitle": "HQY (HealthEquity, Inc.)",
     "body": "-11.3% to $92.59 \u2014 $HQY stock is down 14% today. Here's what we see in our data.",
     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTUVZamlvSF8tUUhnNkcwMlI0bVllLU5jZF9mNkpXNnNjanp1US14TzlCMldHek5NMGc2bVhwa1BlR1JwamQ1QTdpZEJLOTVDZ0NoRktpSmtxV0xxalFmZlhXTUJkM0V5R1RyOF83MzdQa2I2R2s0UC1kWWliM2hPWEVwTEZ2NDhsVS1ISTR1ZDZQQWFsOTgxUzJCR0ticFpIdHc?oc=5"
+  },
+  {
+    "ts": "2026-08-27T21:31:47",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "SRPT (Sarepta Therapeutics, Inc.)",
+    "body": "+14.2% to $22.22 \u2014 SVRA Stock Rises After Hours As FDA Grants Priority Review For Lung Disorder Therapy",
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNb3RnZU5MYnh3YVI2V2ZTOXU4cUtfRF85YnpOU1JCaElDUXhCU3RuZzJxWWJYVms4S1FOMVo3ekliNlRQRGhWck90Q0ZKVElvWUFBNGNDQ2p5UzEwenJlREU5M0pDRFE0Vkw2TTNna3RsQmxsUXAzMGdEZkpiTTFxbnVER25xYU9yS0tmRkpJbnBuOGZJekkzaVBoYkN5ZnVFQkNSZTNwU3BOdExobEs5YnRteGlTN3YxZTcyeEhNNENVRUQ1Wmd4eHV2czJaWWJJb3pGU2Z1WWsxNmtncWNxUDh3?oc=5"
   }
 ]
