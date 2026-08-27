@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-08-13T21:04:05",
-    "source": "watch",
-    "title": "Market Watch",
-    "subtitle": "USD, Bonds, rate-sensitive stocks",
-    "body": "Inflation isn\u2019t profit: Trump\u2019s chance to end Uncle Sam\u2019s phantom tax",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSmVfT2NMbTRpN0R4eGh4N0RHVDM1SEVBcGUtNzhJb1o4UklOUHIyaHBZSHN6b0g3YXhjOS1fb3F5OWd6d0ZZeUU1dUlFaHVIR0R2TVc4b0xBVGg4SlRNeEVxaXFFOHEteXFKZGNic3JLVGZCLXNaS1FTV3Z1dU1naGZLUEVySk1hSmhLc3FqcjJfcEU?oc=5"
-  },
-  {
     "ts": "2026-08-14T12:48:50",
     "source": "movers",
     "title": "Market Mover",
@@ -1590,5 +1582,13 @@
     "subtitle": "FIG (Figma, Inc.)",
     "body": "+12.7% to $30.46 \u2014 $FIG stock is up 9% today. Here's what we see in our data.",
     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPd1NFdlVQcllMVzFIcjk5S0pPcVhzR2pKd1lWZFJOanEtcTlhVng4REdZZUFNdjBSNnhOTlhOeHZHWWRGWTlRREJRTDY0cXRHTmlkLVViamxhU1RINHBDaDYtTFIzTmowdEFKOENVUmM2NWhnSzhNYzJ4dDhFRjVIOHR5bGZKYTRmS3BMel9zZDdZd0ktOU1IWEZQZnc?oc=5"
+  },
+  {
+    "ts": "2026-08-27T20:18:28",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "MSTR (Strategy Inc)",
+    "body": "+12.4% to $138.49 \u2014 MSTR Stock Climbs As MicroStrategy Supercharges USD Liquidity",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5LdVVpMmdGLVNyVXh3VERVRjVFT1NZOERBR3VhM29nVi1wY205X1FjcjJaWG9YSkZtazB3X0pYeGVjUVZHN0lmdTNHWjNwS01QZnp5SC1KYlhJci0zaXMzNnJURlpETTVPYktuLXl6dDZhNjk2TmUtRW5n?oc=5"
   }
 ]
