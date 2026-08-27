@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-08-14T13:25:20",
-    "source": "sentiment_engine",
-    "title": "Sentiment Trade \u2014 BUY",
-    "subtitle": "ORCL",
-    "body": "ORCL at $156.22 \u2014 What's Going On With Oracle Stock This Week?",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVkVXNUtCTWlWbW9kWTI3NkpjX0FqYU1hdGdoUmpSb3hHbmtIaHFaMVQyNFVvUDlHOUdHTUVoY0FmLUVVNFpEWThfWGtrcEt6TVZPdGdaQVh5OHNpYU1aRjV5Ny1WZEZOSjFCOEw4ZlZrYUhLU2tnZDAwWm5QZmY0OFFkbDluQThwaFZJWHZydy11LXlqZG90LTZyeTRmUWo0M18zRHhn?oc=5"
-  },
-  {
     "ts": "2026-08-14T13:41:29",
     "source": "movers",
     "title": "Market Mover",
@@ -1589,5 +1581,13 @@
     "subtitle": "MAAS (Maase Inc.)",
     "body": "+10.1% to $16.28 \u2014 AI infrastructure has entered its second phase",
     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQb1lObXdFNkNPMTQyS0FoRWJQMFpuR2VPazVsc1hjWTdPRDFTbXVyVzRYMXE2WjJhS1VpdkxMV2RiMjJ2X0RVbF9neVRka0V2MC1WNFBzWnI4ekZIaFVlei1RYnFLQUZiV1hfajZkTVNnTnZ3SVhGN21XUEpSS1dOOXJ5VTB1YWhGaTBPTHNEcHVKcTEtRy1zZklQUi1wV0JodkE?oc=5"
+  },
+  {
+    "ts": "2026-08-27T21:11:34",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "S (SentinelOne, Inc.)",
+    "body": "+10.9% to $22.75 \u2014 e.l.f. Beauty Is Down 53% From Its All-Time High. Is the Sell-Off an Overreaction?",
+    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQUHdSQlBLaS13bnhnVmNQX2Jsc3E1UEE5VURuUkd6bnVMYTNXd0pENVVTZ19DZjdfZ2hNU3Zfc0hnYXY3V01RUnBsY0hLN3dEWHNqbVN3OHphREZUMWRKU2pVc2NjNlNLTV9UODdDZU9zVi1aUVNCbmlSZ0NzeUpJS2h1VGdIVG5DZFoxTGFEbndZRTk2M0ROUG9jaFVVUUR3T0ZmQmhIS2lLZ3YzTi13eG91b1VJNVAzVTFnQjZNa3V0QkVXUnFQcVZMcnk2RGlfaVB2VVVBQW5RTlJ5U2FtNG1LSTBfVzhQZE9UNGl3bnozV1E?oc=5"
   }
 ]
