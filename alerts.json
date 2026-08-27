@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-08-14T13:01:06",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "BSP (Bending Spoons S.p.A.)",
-    "body": "-16.5% to $40.92 \u2014 Analyst warns software stock has an $18B problem",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRUd6TzZLNFRkRTA0V0k4eVRRTXZERTBPNUl6am9WN0tqYnJMa0xyazVIVlUxUU9aQldWMDZLaXFmdEJod0JCcnNSVUI2Y0JiVHBfakhublB6dnluWTlqZFFrVElvOFNPMW5qUlVJREhlMFhYR1pFLUdMa1JqU0s4aGVYOUtoZTJaYnc3MXA3OXRBZW04NUhfM3EzajBwa0pOQm56QUtxWng?oc=5"
-  },
-  {
     "ts": "2026-08-14T13:21:12",
     "source": "movers",
     "title": "Market Mover",
@@ -1590,5 +1582,12 @@
     "subtitle": "PLTR",
     "body": "PLTR at $185.62 (take-profit +9.0%)",
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWUhfLXItZ0dVR3NUOVFJSHR3RXotaERaM0dkRDlidmd0U3F0RnA5Vl8zSE9EMllLc0d6dTRQX21YTnJBVjQ3QkFnWk1ZdFdDYTBrVllIMTBFTDJWMk42M09BZE13VFo5ZkxBRHg1Q1ByZzhlNUVCZVZsUGdZZTBySVl3UnpvVUt6aFlQQ0M2Qm04MWFTZ1JQdktSR2xrNUJyYVNKbkZjQWY4MFp1eDhjS1BpTXNQRkNlb0s1VQ?oc=5"
+  },
+  {
+    "ts": "2026-08-27T20:32:45",
+    "source": "trade_engine",
+    "title": "Virtual Trade \u2014 BUY",
+    "subtitle": "PLTR",
+    "body": "PLTR at $185.87 (uptrend + MACD bullish cross)"
   }
 ]
