@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-08-14T12:48:58",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "FRMI (Fermi Inc.)",
-    "body": "-13.2% to $6.60 \u2014 Fermi Stock Charges Up Overnight: AI Energy Startup Says No Thanks To Ex-CEO\u2019s Call For Full Sale",
-    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNcldjb1J1dTJVNHJJV0pRemttX0pJd0FxODVBRlJXYXA1R21fdVJzaWRIU1RZdmtBWmd5YjhsdXdXMXZXcERZWGRNdVU0cENZdk5PTGhzNU9IUE1KRDhBYTdoc0xTZmJuanNldmNKUko5VDNfN1Z0RWsxUTFQQkZEOGZYNjdUbXdHZ182cG16b3h0dXdyM0JINDFkQ2dpR1laQkpPRDNOZFFSVHNuZXBRaVU1NVRHcDY2VFg0Z2N1R19WM01ZaXlfNFRkR0RFeTJwMVZBQjViUjJsemZEb0pOYUJUaUw3ajEwYjZYeGpQMXU?oc=5"
-  },
-  {
     "ts": "2026-08-14T13:01:06",
     "source": "movers",
     "title": "Market Mover",
@@ -1590,5 +1582,13 @@
     "subtitle": "ASST (Strive, Inc.)",
     "body": "+10.9% to $23.84 \u2014 $ASST stock is up 10% today. Here's what we see in our data.",
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYmxXYzktN0xjaEl1X3NqOTd1NlZUeFZTYzg2TEJkWTFnT2FhRmY0OFJHY0pUdk9PU0dsSi1zekZ3M2hGNDg1WWNHYjZRV0x0TFRaZXN5eXNIN1Nsb2RGVElUdGJRMnRzb0JzbVd3X2hfNkJValhhSWtlWVJnMDBxLWR5VERlbEVES2std1czRUlwdHlsS3p0OWRqLVRVYkFM?oc=5"
+  },
+  {
+    "ts": "2026-08-27T20:21:51",
+    "source": "sentiment_engine",
+    "title": "Sentiment Trade \u2014 SELL",
+    "subtitle": "PLTR",
+    "body": "PLTR at $185.62 (take-profit +9.0%)",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWUhfLXItZ0dVR3NUOVFJSHR3RXotaERaM0dkRDlidmd0U3F0RnA5Vl8zSE9EMllLc0d6dTRQX21YTnJBVjQ3QkFnWk1ZdFdDYTBrVllIMTBFTDJWMk42M09BZE13VFo5ZkxBRHg1Q1ByZzhlNUVCZVZsUGdZZTBySVl3UnpvVUt6aFlQQ0M2Qm04MWFTZ1JQdktSR2xrNUJyYVNKbkZjQWY4MFp1eDhjS1BpTXNQRkNlb0s1VQ?oc=5"
   }
 ]
