@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-08-15T13:27:41",
-    "source": "sentiment_engine",
-    "title": "Sentiment Trade \u2014 BUY",
-    "subtitle": "BTC-USD",
-    "body": "BTC-USD at $62909.21 \u2014 Strategy (MSTR) Is Down 7.0% After MSCI Reopens Review of Its Bitcoin-Focused Index Eligibility",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMFFsQ0dkYmRUU0tZR0RQVkNCUkpMaHRITWN6cWhmeGtQWHlxRW9QTVVjdmhnMTFKNGp2S3gyOUtUd2Y1aGpha3F0MXVkZjk4VkFhc0tWcm1VbVQ4V0d0U3VMN19UQ2dTM1JXWVdYcUNVWVduNEtDZFcxT0gwbm1PTUV6TU9zb29sOGZEaDV0ZHZ0WXI1NEF2akxkQXdrLVNiaGVkZ2xuNkdRYWhIelFZYlAyZ0twdEdOUjVzZ0w1MlpoZkRlZlUxcWhNRdIBywFBVV95cUxPMFFsQ0dkYmRUU0tZR0RQVkNCUkpMaHRITWN6cWhmeGtQWHlxRW9QTVVjdmhnMTFKNGp2S3gyOUtUd2Y1aGpha3F0MXVkZjk4VkFhc0tWcm1VbVQ4V0d0U3VMN19UQ2dTM1JXWVdYcUNVWVduNEtDZFcxT0gwbm1PTUV6TU9zb29sOGZEaDV0ZHZ0WXI1NEF2akxkQXdrLVNiaGVkZ2xuNkdRYWhIelFZYlAyZ0twdEdOUjVzZ0w1MlpoZkRlZlUxcWhNRQ?oc=5"
-  },
-  {
     "ts": "2026-08-15T17:54:35",
     "source": "watch",
     "title": "Market Watch",
@@ -1589,5 +1581,13 @@
     "subtitle": "SRPT (Sarepta Therapeutics, Inc.)",
     "body": "+14.2% to $22.22 \u2014 SVRA Stock Rises After Hours As FDA Grants Priority Review For Lung Disorder Therapy",
     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNb3RnZU5MYnh3YVI2V2ZTOXU4cUtfRF85YnpOU1JCaElDUXhCU3RuZzJxWWJYVms4S1FOMVo3ekliNlRQRGhWck90Q0ZKVElvWUFBNGNDQ2p5UzEwenJlREU5M0pDRFE0Vkw2TTNna3RsQmxsUXAzMGdEZkpiTTFxbnVER25xYU9yS0tmRkpJbnBuOGZJekkzaVBoYkN5ZnVFQkNSZTNwU3BOdExobEs5YnRteGlTN3YxZTcyeEhNNENVRUQ1Wmd4eHV2czJaWWJJb3pGU2Z1WWsxNmtncWNxUDh3?oc=5"
+  },
+  {
+    "ts": "2026-08-27T21:31:50",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "SLS (SELLAS Life Sciences Group, Inc)",
+    "body": "+10.7% to $15.21 \u2014 SLS Stock Jumps As Analysts Hike Price Targets And Retail Buzz Builds",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZkJFYUxTYWRKNlZ3REVSX2xTVHJiV1QyVE5QQlNFVk5oenViRlNYX2JDcXlpMTNGaUo5VWVHUklSWkFkWDNQcmtjZk5OREM1bHhybEo2d3ZaYXdBdEJxN1dKcmhvaENPUXQxeVBvVW4ybUhfNGpoenFHNFVWSHZTdjlMRUlUT1VVbkNNd3Z3?oc=5"
   }
 ]
