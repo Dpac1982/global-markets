@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-08-14T13:21:24",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "HUBS (HubSpot, Inc.)",
-    "body": "+14.5% to $240.51 \u2014 HubSpot (HUBS) Stock Still Looks Above Fair Value After Guidance Cut",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPV3FoTWFFVUFVcWNrb0Fzc1pCbENCbXFJRzd2V1U4TlFCMnpnbnJ1Q0NBbHlwa3pWeTZDTWswUTk3WVM5d05yTUpLQnpmOTctak91eDBEbVF0ZTZ3bGpPVjMxb005WDlqb2hhaU9LQXdvcWF0V25oX1QxeEYwWGVFOWhDaUszOUVxSHh5bXlpTEIwSmNaR2xjT1R5RQ?oc=5"
-  },
-  {
     "ts": "2026-08-14T13:25:20",
     "source": "sentiment_engine",
     "title": "Sentiment Trade \u2014 BUY",
@@ -1589,5 +1581,13 @@
     "subtitle": "RBRK (Rubrik, Inc.)",
     "body": "+10.6% to $106.34 \u2014 $Rubrik (RBRK.US)$ ok, marked \u2705\ufe0f [Cool]",
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPM2lSTi1MUkNRN2Nra3FySlVLaWFxSm1GZzhhakxtTkh5RUJybmo4S1ZzdklBNnBmaWgxektLSXpYNDZ2Vk5JS2g5Vm10MzBBbTJkd3RSOGYxWE9mMDYxWWpHbEowZXRaTlpFTjgwOXJkTzJjYXFKbEdoYmtvenBpUE5GTjQ?oc=5"
+  },
+  {
+    "ts": "2026-08-27T20:38:57",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "MAAS (Maase Inc.)",
+    "body": "+10.1% to $16.28 \u2014 AI infrastructure has entered its second phase",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQb1lObXdFNkNPMTQyS0FoRWJQMFpuR2VPazVsc1hjWTdPRDFTbXVyVzRYMXE2WjJhS1VpdkxMV2RiMjJ2X0RVbF9neVRka0V2MC1WNFBzWnI4ekZIaFVlei1RYnFLQUZiV1hfajZkTVNnTnZ3SVhGN21XUEpSS1dOOXJ5VTB1YWhGaTBPTHNEcHVKcTEtRy1zZklQUi1wV0JodkE?oc=5"
   }
 ]
