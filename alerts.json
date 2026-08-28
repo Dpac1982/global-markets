@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-08-17T18:17:11",
-    "source": "sentiment_engine",
-    "title": "Sentiment Trade \u2014 SELL",
-    "subtitle": "ORCL",
-    "body": "ORCL at $146.97 (stop-loss -5.9%)",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYVhZU0kxTTJWZHVHRTlweGo2U01pY3pkTUpFSC1rdzY1N3duaHZBSWpPeTVXZnRXczRyWDJFeURmb2xIeFhFT1QtMTlWZHctTUIzTGxIYkpmUFYxRllVSXNqaEY4RHh1QjNvRS00YjcyN3RTLUhmcFdKbTlTb0NkdXZBbFJhQV9HQ2ZtSUhxR1ZHUms?oc=5"
-  },
-  {
     "ts": "2026-08-17T18:51:39",
     "source": "movers",
     "title": "Market Mover",
@@ -1588,5 +1580,13 @@
     "subtitle": "FROG (JFrog Ltd.)",
     "body": "+12.1% to $104.03 \u2014 JFrog (NASDAQ: FROG) insider prepares next Rule 144 stock sale",
     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQanF4S1BtWTAwWjM2OWtQWER4RUNXYTV6aTZFLUhTcVYtZ1p0S2RrdVpCSEktNDFiWU5VWG90VDNfZW1SVHl6WjNfSFZlYVZ1YnpzZ3laYmlJMl9fOVplbFJBcnhVWXRqUTRwbWNqVnBoLTJiZDlTT25ORlIyNnVQRHpXei11Z2FDOHhpNGhaQzM?oc=5"
+  },
+  {
+    "ts": "2026-08-28T12:31:18",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "MAAS (Maase Inc.)",
+    "body": "+11.8% to $16.54 \u2014 Behavioral Patterns of MAAS and Institutional Flows",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObjNvNUJzNVU2TWFmWnpmSE5kUzQxdTBIOFRiT1ZucEZ0YXlJZ3NkUmpkbHFxallMczduOF93UTZhMGtfa1VyT2Rvc1JUYlJ1WmpXRUFPbTJoNm9iY1V6TEg3MklMck81NE05ZFF6Q0xPNVVRajRDRG1ZMzE4eG0zXzEtX3NLdTQzaVo5WWo4YnpCVGNYc1l3aDdiUHpQaFltcnpUdmZqT3QxR293My10WlFtUGlsMElyaXJMREx6eV8zR1dwak1LcU9WNA?oc=5"
   }
 ]
