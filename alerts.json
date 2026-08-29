@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-08-18T02:59:39",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "STUB (StubHub Holdings, Inc.)",
-    "body": "-11.9% to $7.12 \u2014 StubHub (NYSE: STUB) insider targets $2.6M share sale in planned NYSE trade",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaFY1TUVTbFZWc2dyN29PcU94SXpzY3VKLVIzclAyNnRYQWxhRG4xZUVjb01VSlMzN2hnY01kSlRUU3RoSl9aLTZHMDE0eUZaM2RyOWtkT1NUQ2tGSmhoRXE1cDVPUGZ4TTdYR0hoOFFHUG03bHBxU3hyVEUzZW9sLTBUcnVUMzBWcEhReVNKY3ZkY3JESXBuSHhDTmZLWTQ?oc=5"
-  },
-  {
     "ts": "2026-08-18T15:59:40",
     "source": "watch",
     "title": "Market Watch",
@@ -1588,5 +1580,13 @@
     "subtitle": "MARA (MARA Holdings, Inc.)",
     "body": "-10.1% to $10.67 \u2014 MARA, CLSK Stocks Face Earnings Test After Last Week\u2019s AI-Fueled Rally: Retail Sentiment Diverges",
     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQLWVEX1pmUjMwSXNSaFI4UlMzblhzMV9uNmVualZYS3BMTHluRVJBWWg0ajNvZVVJdG5ORTRxd3Rya3Y4SzlMdEhnUEpHTXNuNHo1SUtsaV83MlA4aUpkNzFNYlVVQkNCQURJWHh6RmxWSlhqdmNpTkdUa1ZHSXkxSXcwOHdYTzJRYnMxY3FZQlVkTlRBZmpFS2NEeDk4OVJOOVVkUDdKZzBzSDVYQ2lKc0puQ1FsbW5kWU5GekFhd2ZrTlF6cDkwWkJveDlBZVNSaWVUUDRWZXg?oc=5"
+  },
+  {
+    "ts": "2026-08-29T13:48:23",
+    "source": "sentiment_engine",
+    "title": "Sentiment Trade \u2014 SELL",
+    "subtitle": "GOOGL",
+    "body": "GOOGL at $340.65 (sentiment turned negative (score -2), -0.3%)",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSlJkOHd3Y3dEalg2Wk0yY3Z6QndqT1FhVDBIN1Z5RHdkaF9nTnB3b3FYQ0xiMWp3QWJvVmtCZkNHelVER1pSemdsN0JCem5WWnpTTE95NkdpYVE5N3M4OUpiR0E4RXFZWW5JMURIYkRwZXlnb2poZk5pZnNfLTBUMGpjejlwWGJWS1czRzB6VklsVklHNFlVaQ?oc=5"
   }
 ]
