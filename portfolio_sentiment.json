@@ -1,11 +1,6 @@
 {
-  "cash": 33082.816811235156,
+  "cash": 33046.73027815325,
   "positions": {
-    "GOOGL": {
-      "qty": 35.12083863578064,
-      "entry_price": 341.677490234375,
-      "entry_date": "2026-08-20"
-    },
     "BTC-USD": {
       "qty": 0.15407893897390648,
       "entry_price": 77882.15625,
@@ -30,6 +25,11 @@
       "qty": 21.012082845369118,
       "entry_price": 571.0999755859375,
       "entry_date": "2026-08-28"
+    },
+    "ORCL": {
+      "qty": 78.9785428931242,
+      "entry_price": 151.94000244140625,
+      "entry_date": "2026-08-29"
     }
   },
   "closed_trades": [
@@ -131,6 +131,15 @@
       "exit_price": 185.625,
       "return_pct": 8.98,
       "reason": "take-profit +9.0%"
+    },
+    {
+      "symbol": "GOOGL",
+      "entry_date": "2026-08-20",
+      "entry_price": 341.677490234375,
+      "exit_date": "2026-08-29",
+      "exit_price": 340.6499938964844,
+      "return_pct": -0.3,
+      "reason": "sentiment turned negative (score -2), -0.3%"
     }
   ]
 }
