@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-08-18T15:59:40",
-    "source": "watch",
-    "title": "Market Watch",
-    "subtitle": "TSLA",
-    "body": "Elon Musk and Sam Altman are accusing each other of scamming investors as SpaceX and OpenAI jockey to lead AI revolution",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQlZEazhMelEyOU43RVdXbEdaNWJxUUF6R09mWkltbjIyanFIWXNTbmowcGJmaGxyZGFYRVFxdllaLVo5UmQtMFF2SVREYU5Zb1NIZkRtR1VTMUVNV1ZjczZfUmtpREg4RjZoNnlrS1JianZqdE9POE5ac2tjbG9QRWdUMDJhTnFnV3RncHNMeE94MTQxRzlQaw?oc=5"
-  },
-  {
     "ts": "2026-08-18T21:50:36",
     "source": "movers",
     "title": "Market Mover",
@@ -1588,5 +1580,13 @@
     "subtitle": "GOOGL",
     "body": "GOOGL at $340.65 (sentiment turned negative (score -2), -0.3%)",
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSlJkOHd3Y3dEalg2Wk0yY3Z6QndqT1FhVDBIN1Z5RHdkaF9nTnB3b3FYQ0xiMWp3QWJvVmtCZkNHelVER1pSemdsN0JCem5WWnpTTE95NkdpYVE5N3M4OUpiR0E4RXFZWW5JMURIYkRwZXlnb2poZk5pZnNfLTBUMGpjejlwWGJWS1czRzB6VklsVklHNFlVaQ?oc=5"
+  },
+  {
+    "ts": "2026-08-29T13:48:29",
+    "source": "sentiment_engine",
+    "title": "Sentiment Trade \u2014 BUY",
+    "subtitle": "ORCL",
+    "body": "ORCL at $151.94 \u2014 Is Oracle Stock Getting Too Cheap To Ignore After A 53% Drop?",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcEYzeW00X2JGZXdwdlQyOWVRVGtWRG1qMzkyQnNycGNLM0ZzeEZNY1BydDFhRklZakIxaWQ2UmVDUjd0X1h6MzI2Wl9YdzJKbllvaHNzTl9fTWkxMjBfc2JtbGxnb29fNkY1eVJocG1lVFRwZnYtSWZpc1lDNnpjalRneVJCR3ROY2xuZ2pXM1Brd2JPM1phTFY1aHhrSU9kUFVRSmNjbGZxTENaQ2dGd1NTU19ZbFVPOFNheA?oc=5"
   }
 ]
