@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-08-18T00:46:32",
-    "source": "sentiment_engine",
-    "title": "Sentiment Trade \u2014 SELL",
-    "subtitle": "MSFT",
-    "body": "MSFT at $480.35 (sentiment turned negative (score -2), -3.9%)",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZloxOFRVMnBnQVBWUVJNcHJtbzVXSEJYaFJ4Q0FvR3lYTnZkZFZDTTlmR1BOMUMxUHRpdHpvMk1WWm53eXlnbnMzYUhYaVR4SVpDb0pXRlhKTXUxbGViLWtMVU5VNEFELVFSb21xV19fVGFZM1U2S1AyWlYxWVNvbV9Qam5CRTJ1aEJ5dTdGWG5tTF9CNV9mWg?oc=5"
-  },
-  {
     "ts": "2026-08-18T02:59:30",
     "source": "movers",
     "title": "Market Mover",
@@ -1588,5 +1580,13 @@
     "subtitle": "AXTI (AXT Inc)",
     "body": "-12.4% to $58.63 \u2014 Does AXT (AXTI) Stock Look Overvalued After Its Huge Run?",
     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcTljUmhmY2hjZjljRzVPS2k0bWthcW9ZcnU0eWZWSFRfaUlEUHI5MTQxeWRDMGNzczJPN3MwbkpQMlBQN0syM19iUUdWMnhHQU1oVTZ6cHpFc2U2d1lJakM2amd6dUpGbXp4Nkk5V2xZeHJfa2E0aV94OHp6WmRMSkp4QXduTkhGWXBLdFRZMEdKMmp2MzJkTS1DRDdVRHdfRGlSZnF3Q2I2UmhqWU5WRGRXbVQwM3RTS2xjVGV0RkJfMzk10gHEAUFVX3lxTE1xOWNSaGZjaGNmOWNHNU9LaTRta2Fxb1lydTR5ZlZIVF9pSURQcjkxNDF5ZEMwY3NzMk83czBuSlAyUFA3SzIzX2JRR1YyeEdBTWhVNnpwekVzZTZ3WUlqQzZqZ3p1SkZteng2STlXbFl4cl9rYTRpX3g4enpaZExKSnhBd25OSEZZcEt0VFkwR0oyanYzMmRNLUNEN1VEd19EaVJmcXdDYjZSaGpZTlZEZFdtVDAzdFNLbGNUZXRGQl8zOTU?oc=5"
+  },
+  {
+    "ts": "2026-08-29T13:08:20",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "AEHR (Aehr Test Systems)",
+    "body": "-10.7% to $80.81 \u2014 Aehr Test Systems Stock 8-Day Losing Spree: Stock Falls 38%",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWkw0Slk3Zl9YSkF5R0p0TWw4R29STFM3Qk1LOHhoY1NtVW5fQ3hNZUNJNWlTV2trMkw1cHhVcjFhd2ZCcFR1YmlsT2tEaEt3dEhGRkZCZkxRaUlwa0tJRE9hUGJta3hoeEhPeW5hbGFZejdIaUFNRnNlWWdGX3laaEZ4N1FDeWRJVkJzcU56N2Y3T1RVUmpRbVNMT29zTjQyYmNuYXNRTTAwYzA0NE1sMUpXYW93R2ZJNjJQZzRBa3pKUGQwN3c0?oc=5"
   }
 ]
