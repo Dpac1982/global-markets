@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-08-19T00:12:24",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "AUR (Aurora Innovation, Inc.)",
-    "body": "-12.4% to $6.11"
-  },
-  {
     "ts": "2026-08-19T11:16:17",
     "source": "movers",
     "title": "Market Mover",
@@ -1588,5 +1581,13 @@
     "subtitle": "KLRA (Kailera Therapeutics, Inc.)",
     "body": "-12.5% to $16.21 \u2014 Kailera Stock Falls 12.5%, Leaving Market Value Just $930 Million Above Cash",
     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOR0tuMlhneEkyME1iUXNsMXJTUFR4YVZqY3ZnWDEzTXJ6UHJubFVQQlNjamliTmk2LU9VVU5yc3lTYWdqN1lmdGNqNTA2NzFnVk5teE12em1SNlNOVVExNEh1V2ViZFJKR1ZCRHZ6enpxNTQzbUJUSTVuN3IyWUZRaUwweVl2bHJtY3JUY0JXWExfZ3FEMEQ5dFd3?oc=5"
+  },
+  {
+    "ts": "2026-08-30T13:08:13",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "AXTI (AXT Inc)",
+    "body": "-12.4% to $58.63 \u2014 Here\u2019s Why AXT Stock Fell 12% Yesterday.",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1OLWxaRVF0YWs3bXdtdXJqb0R1WWRfODVZV2QzQkpWR3FhTWVMVndvazhnQjJZWVF4N1Q4TTJ6VHRBbXBVSVVucU9FQThSMDhpRUpfVFgyejBKSEc1aEJWNW9YN19hNmt4SnVhU0VzU0w?oc=5"
   }
 ]
