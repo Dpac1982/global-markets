@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-08-19T11:16:20",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "CRWV (CoreWeave, Inc.)",
-    "body": "-12.1% to $93.17 \u2014 Magnetar Financial sells $33.4m in CoreWeave (CRWV) stock",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZndQX2NMNkhIa2RXNWstcC1pUEs1S0NjWm9yWjg2NjlaWUk1S3BMbVhka2FJR2FzUnpKSDA4aEdTc2VOWEZEUHg5ZEpJb2lpbTdwXy00bWJLNmJ3d1V2T1Z6THI1c05qanlvNXAyUHRTZTFZR1NOSU15MlN6cXp1UlJ1b0xRWjJKYV9WQnZNM2NKMklVUExBam9UZ2tYcjhsTjA3WEZBYlphWUFDcV9OYzdubzNaS3JyaHc?oc=5"
-  },
-  {
     "ts": "2026-08-19T11:16:23",
     "source": "movers",
     "title": "Market Mover",
@@ -1589,5 +1581,13 @@
     "subtitle": "AEHR (Aehr Test Systems)",
     "body": "-10.7% to $80.81 \u2014 9-Day Sell-Off Sends Aehr Test Systems Stock Down 45%",
     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPN2NjQ3ZKd09jcHl5cGVTNkFNTzdTVF9HaXJpWU9DNnIwLS0wOGVRQXI2QnFnRi1Ed0hpXzQxVnZXd2F4MjduMGFFVU5XWkw2dXdKQXJsU1FvZ19NVHBlNzI5c0hMSDZNSGNMZ2FIaWZ2WFFNc0czV1d2YWZlM1JDVENTeFFCWURpOVdhbF94dm5tajJjUEV6WV96ck45WmxPM29PYlpzZ3luRFlzZE1iR1ZxaWdlR1pWVEJjYkptS3Q?oc=5"
+  },
+  {
+    "ts": "2026-08-30T13:42:48",
+    "source": "sentiment_engine",
+    "title": "Sentiment Trade \u2014 SELL",
+    "subtitle": "META",
+    "body": "META at $578.02 (sentiment turned negative (score -2), 1.2%)",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUERwY3RkS3BPUk1VQTBwb3FZYngzaFo2M2pySk5iekw3TElaQkxzSlFubjRIWHRSajByR1VfM1pubk1vX2NkVnpTZDViblY3SWdZUUZHa1IyZGFvYzNJTWZ1c2lTdUFuOWpwaFY2eFNNcFhSYmU2R1d3MkRxb0J0dFI1dzdwRlBaVGwtSlFET3BYSWs?oc=5"
   }
 ]
