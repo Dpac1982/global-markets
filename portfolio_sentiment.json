@@ -1,5 +1,5 @@
 {
-  "cash": 33192.13481482575,
+  "cash": 44945.72214663662,
   "positions": {
     "BTC-USD": {
       "qty": 0.15407893897390648,
@@ -20,11 +20,6 @@
       "qty": 24.40462916868815,
       "entry_price": 491.7099914550781,
       "entry_date": "2026-08-26"
-    },
-    "ORCL": {
-      "qty": 78.9785428931242,
-      "entry_price": 151.94000244140625,
-      "entry_date": "2026-08-29"
     },
     "PLTR": {
       "qty": 64.4156982794484,
@@ -149,6 +144,15 @@
       "exit_price": 578.02001953125,
       "return_pct": 1.21,
       "reason": "sentiment turned negative (score -2), 1.2%"
+    },
+    {
+      "symbol": "ORCL",
+      "entry_date": "2026-08-29",
+      "entry_price": 151.94000244140625,
+      "exit_date": "2026-08-31",
+      "exit_price": 148.82000732421875,
+      "return_pct": -2.05,
+      "reason": "sentiment turned negative (score -2), -2.1%"
     }
   ]
 }
