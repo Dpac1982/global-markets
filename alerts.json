@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-08-19T18:14:43",
-    "source": "trade_engine",
-    "title": "Virtual Trade \u2014 BUY",
-    "subtitle": "ETH-USD",
-    "body": "ETH-USD at $1935.36 (uptrend + MACD bullish cross)"
-  },
-  {
     "ts": "2026-08-19T18:34:34",
     "source": "movers",
     "title": "Market Mover",
@@ -1588,5 +1581,13 @@
     "subtitle": "INFQ (Infleqtion, Inc.)",
     "body": "-10.6% to $12.80 \u2014 INFQ Stock At Near 5-Month Highs: UK Expansion, Russell 3000 Inclusion And Wider Quantum Computing Optimism Driving Stock",
     "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOTWdkVDQwUjMyOVNPckFBVE5veEJCVGxJY05hX0VjbjFPTnZjNHp1NnZIMGNZWl9kbE9KMFhsSlZ6VHp4U19LblpNcWdvTDdhaElFSEdHVVRtakp4X3FqeEREbkpNQ3J5T256N2xWd2g0WF8zYm1zZlRMTk50c1NxTU10WkdveF9OQjh4WmFjREF0T0thMno3WXdqYTljNDJ3RVZsa24tbDdfY2lDemVzaGNxVWZVN1FZSmJqbHo3cS0tcHFIQUtrdzFxN3FhX1RvcVBCZXBTQUxoQ05pNVNPbElaRVJLbTdaTUlqOFJSNFRJbURKQ1hLY0hKd0VkNVdScW4wWVZGWkNnZHFBbHg5TQ?oc=5"
+  },
+  {
+    "ts": "2026-08-31T14:11:20",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "MRVL (Marvell Technology, Inc.)",
+    "body": "-10.3% to $216.62 \u2014 S&P 500 Movers | Winners: WDAY, DPZ, LULU | Losers: PYPL, MRVL, PCG",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPa0hoX3VtME0zdTdYNC10ZEZIeWJ3Z1hPWHdDRE4zQ1I5a3cwT3pndVFZX2ZQbFlHMkNsWXNOVWFLeEdWbkRtS0lrNG9kZ0s0Yk5ZUmkxNW1DN2xwN1RYNEVWbjFfMlduX1ZLYWlzLVJUanhLb1VKWF9QMFozckpneURkLVgyeTg3SjVtcnpwOVFiYWFYVXZOaXlQMTliRks0R0RFbllfOEVLZw?oc=5"
   }
 ]
