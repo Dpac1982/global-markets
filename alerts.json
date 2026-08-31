@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-08-19T18:14:18",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "BNTX (BioNTech SE)",
-    "body": "+23.6% to $114.56 \u2014 BioNTech SE Stock Draws Traders As Covid Fades, Oncology Story Builds",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9YZHV4TmNUc0Vtbk1vaktXbjFlNmdzZ0pUcEVmcVZoaFU4RjFtMGJHeFNtekpJWWNGVjhfdFJZNmxicXc4QlV1aGx4cEk4cnRkamNwZndLYjJJNUlDVXVNTzJyeDhZc3FVT0xJR25FT3RhQQ?oc=5"
-  },
-  {
     "ts": "2026-08-19T18:14:22",
     "source": "movers",
     "title": "Market Mover",
@@ -1588,5 +1580,13 @@
     "title": "Market Mover",
     "subtitle": "KLRA (Kailera Therapeutics, Inc.)",
     "body": "-12.5% to $16.21"
+  },
+  {
+    "ts": "2026-08-31T10:53:38",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "AXTI (AXT Inc)",
+    "body": "-12.4% to $58.63 \u2014 AXT: Our Most Obvious Sell In Small-Cap Semis (NASDAQ:AXTI)",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMzAtMnhZZDN5bFcwT0lJb3E3YzV6dzgta2NFd2dUSFZEY2hSZlpyRVhKX3JfUnRjTk5wSTZ6SXQ2cElJY2V5X0I5aFFkSjg5UFIzaVJBU2tSN282SHVpLV9fMXBGbEQ3a1kxdjRwNnQ1VVFKY1hIZDc2WGdrN2U5YkZ1emlNQ092U1lyZmZ3?oc=5"
   }
 ]
