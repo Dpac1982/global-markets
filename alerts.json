@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-08-19T18:14:22",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "TWST (Twist Bioscience Corporation)",
-    "body": "+17.1% to $135.98 \u2014 Twist Bioscience selected as evaluator for Anthropic AI protein design project",
-    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQmtNY2pzTDhuX05MZ3dhZnZXYkRkRFpsd0VHRXVYcTNkYjNJWDVWeFRtRkNtZ0xYbEotYkJTaFlreWZXeTVzdzZ2M0NGOWhPSnZCU0g4QmRIRmJxaEozUk51d09PQnFXamlCcDE4aUR3QWJfRkM0ZzNVVFlKUjNLT2R4cmJwTEtNZ0lVV0xmLVRoc01rd0ZnZTVzVmlZenQzRlptbFpWYWo5X0NKR3g1WGNHQ2drdXZlcllwajc3SS03Z3FPdk44cXdyV0dBSHloc1RzbzcxeUVGdw?oc=5"
-  },
-  {
     "ts": "2026-08-19T18:14:24",
     "source": "movers",
     "title": "Market Mover",
@@ -1588,5 +1580,13 @@
     "subtitle": "AXTI (AXT Inc)",
     "body": "-12.4% to $58.63 \u2014 AXT: Our Most Obvious Sell In Small-Cap Semis (NASDAQ:AXTI)",
     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMzAtMnhZZDN5bFcwT0lJb3E3YzV6dzgta2NFd2dUSFZEY2hSZlpyRVhKX3JfUnRjTk5wSTZ6SXQ2cElJY2V5X0I5aFFkSjg5UFIzaVJBU2tSN282SHVpLV9fMXBGbEQ3a1kxdjRwNnQ1VVFKY1hIZDc2WGdrN2U5YkZ1emlNQ092U1lyZmZ3?oc=5"
+  },
+  {
+    "ts": "2026-08-31T10:54:12",
+    "source": "sentiment_engine",
+    "title": "Sentiment Trade \u2014 BUY",
+    "subtitle": "PLTR",
+    "body": "PLTR at $186.29 \u2014 Why ZETA Stock Is Climbing Today: A Look Inside Its New Palantir-Powered AI Bet",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRUhTaDJlV3lEa1BSTThBMG56bVBjVC1KZEVrS1NjNUxTQ012QmZQOU1BUy1PbWl2Z0hvcDF6NFhtalJIUzhiTmdoV1JfbkZwOFNJc0pyeTlncXJhU3ZqLW40blI3R2JwZGNOclFhVDU5ZWVpOFdzYjVWMW5LM0RreEl0Q2NtTERUSnhCVU5ldG5jZUJLWjJfSFhTdXZOYWZVams4T2ttU1Z1eXkwaVE?oc=5"
   }
 ]
