@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-08-19T18:54:54",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "HL (Hecla Mining Company)",
-    "body": "+12.8% to $20.24 \u2014 Electrum Group LLC Takes Position in Hecla Mining Company $HL",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaUlWd2dHM3hLa3ZBQ2lZUmwza2RGWk9KQlJFb1NCRVRMdGYySksyNHVBZVktNmlmdGVNakRJb0djY2FKbDRvQzFlYXRGSnl0c3hvT0lERmRJTEZWT3BRNjBNNmx5MUJKWVR5SVMyV0NvX0J1Q2UzM1ZfZ01rdmlHdzJRVTRYSWhfUW5UTU1tTHVMY1d3YXp5am5uTTYtU0JQNjVqVXFjMEM4amwyOHAxdi04c081V0ZRZUExVE5B?oc=5"
-  },
-  {
     "ts": "2026-08-19T18:54:57",
     "source": "movers",
     "title": "Market Mover",
@@ -1589,5 +1581,13 @@
     "subtitle": "ORCL",
     "body": "ORCL at $148.82 (sentiment turned negative (score -2), -2.1%)",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZNTBoc1lNYXdrLXRvSWszVTBmV0U1SVhoOUlUOFg4ZUxZVWZvcmgtUGcteXhTQWVld2NPMS1wUXhpT0JybjAtZ2pfZm9ZbTZaeGpRS0dMMXFKdw?oc=5"
+  },
+  {
+    "ts": "2026-08-31T20:03:40",
+    "source": "watch",
+    "title": "Market Watch",
+    "subtitle": "TSLA",
+    "body": "The SpaceX-Cursor acquisition just cost developers access to OpenAI\u2019s models",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcjI2YzduN3BZT3BJUnlBdkIxZ1owT3hLWGEtZE9FV0lnZ3pQc0Rsd0d0d0J5czMxZWU5N0JUZkhTZUtZMkNZUFRmMk9NMzNidVE3dGtsbkh1SVI5Tnc3WTlvU0FZbkNsQjR1QmpHT2ZhdEVXeWpQdkVUbXN4bnlEcmpiYVhNSVloWGVESEVTU2c0Uk5GV0RRM1J5bWl3VzQ0cmg3eXFoUGhqd0NDNG0xN1Z3YWl6UEtFamMxVHZNeGZ4R3fSAcoBQVVfeXFMT3c1MFlwUkFfMkhWRmZDZ1lzU1FEbTJuVUFnSWNFS2dYM2t2YTRGTUwwYktkYkhZa2ZDQy1SVDBXbWt2VV9JLU5PSm5IWElpOGhvOWFKOWctNGgtU1lLYzFWVjdQdllELXN1WjlHUm1CSjRWcmFvUUg3Vkp6RnZ0ZzJMeUJoZDZLMWdwRTZTRlRCbUhteXFydktfUDM4czZ4Ump1dFctSnd0dC1nNUhYeDJpeWhlcmhkR05XdFQ5ZEJkVFQzdGJKNVBEdw?oc=5"
   }
 ]
