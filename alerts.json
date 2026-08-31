@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-08-19T18:34:48",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "HYMC (Hycroft Mining Holding Corporat)",
-    "body": "+12.3% to $27.17 \u2014 A Hycroft Drill Hole Hits 748 Grams of Silver per Tonne Over 4.2 Meters",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNXI0ZHk4M0UxZ1RHQXR4cTgzTmNiR21IbTVtQnRvZjlGZnFlekN4M1NjT1FlcFNEaE1UcXBWNzdBaXl3ZXNWV1dKWDhwVmxBQnVmTWh1UEw1RnVaaE05b3Y0TExyS2Z4bDhMalZuVFByZVpEeE8takxJT2Z5M1NMZVgyNHhUM0JTTzdNYWRQZHlXZ0c4OVNwTG1CcjdLUW5FNXBvcjV4dFo?oc=5"
-  },
-  {
     "ts": "2026-08-19T18:54:54",
     "source": "movers",
     "title": "Market Mover",
@@ -1589,5 +1581,13 @@
     "subtitle": "DPC (DPC Holdings PLC)",
     "body": "-11.3% to $39.09 \u2014 DPC Dash Limited (1405) Gets a Buy from Jefferies",
     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbU5oRjRPcDlFdmN1THU5UmRXTldySXVidlF3cW5lTzd2VnpRS0FRczRoNGJqSmwzX3NfQmlRa0ZDZGlqUzcxWU9lRlViODk0VFlTWkcza1FldHFwekY4R3owQzZ0XzM2aGoxT25WTUhxLXZ4QkNFMjI2cnIxa281aDc4V0xjUEdVMldDOFQ5XzMzRGhZcnRhY09hWDNoUE9CbW1FRGRMZmZlUy1uczNXaTdHdlBSdE9TUVNES1UyQUdFQV84WlF3?oc=5"
+  },
+  {
+    "ts": "2026-08-31T18:31:29",
+    "source": "sentiment_engine",
+    "title": "Sentiment Trade \u2014 SELL",
+    "subtitle": "ORCL",
+    "body": "ORCL at $148.82 (sentiment turned negative (score -2), -2.1%)",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZNTBoc1lNYXdrLXRvSWszVTBmV0U1SVhoOUlUOFg4ZUxZVWZvcmgtUGcteXhTQWVld2NPMS1wUXhpT0JybjAtZ2pfZm9ZbTZaeGpRS0dMMXFKdw?oc=5"
   }
 ]
