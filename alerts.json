@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-08-20T04:24:24",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "TEM (Tempus AI, Inc.)",
-    "body": "+24.1% to $61.25 \u2014 Tempus AI (NASDAQ: TEM) officer readies another tax-cover sale",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTl9wd04tOXd1V09NcDd0eUVYMkVXUkx2RF9yY2h2MmV6dW9NY2p4bEpoQklKREY2T2tuaXFGb3RoU3dVUDJpbEFNSnJvR1E5RU9lRWo0X2VjQldCOUg3bXdhYjBJU2QyWlBZaTVkaFRIaEVTaFZiOTBYNzZHdS1sSDJ2aWtjWGt2U0RhM0xKR2x0QVU?oc=5"
-  },
-  {
     "ts": "2026-08-20T04:38:27",
     "source": "movers",
     "title": "Market Mover",
@@ -1588,5 +1580,12 @@
     "subtitle": "PSQL (Pasqal Holding SA)",
     "body": "-10.1% to $15.56 \u2014 Live stock, index, futures, Forex and Bitcoin charts on TradingView",
     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1BaGp1eUJwM0tsOHhRaWstN3B3X0dDWTJ3WEdWLVpPZWpqQUttS0JnQzljeHN4M2gzQVVKUzV4VlNLOUtsSy0zeGdYN3RBY2tUY3JDQlVpQW52TDRDNDZsUVNfUXp1b1JTQTBNY2hrX3dvQjg2NmNsbHRJcHJwQQ?oc=5"
+  },
+  {
+    "ts": "2026-09-02T16:02:26",
+    "source": "trade_engine",
+    "title": "Virtual Trade \u2014 SELL",
+    "subtitle": "PLTR",
+    "body": "PLTR at $179.92 (MACD bearish cross, -3.2%)"
   }
 ]
