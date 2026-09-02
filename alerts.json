@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-08-20T04:38:27",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "TWST (Twist Bioscience Corporation)",
-    "body": "+22.6% to $142.39 \u2014 Twist Bioscience (TWST) Stock Draws Bulls After Guidance Hike And $300M Raise",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMXhwd0M2bFpqaDNDNVpzMGRuTUkzZWQ0QnJnR0prSklDUTYyS25KZDN6dGhwdDQwM2liQXlNSW1FQmdLMGcxS1FfaXFPOVJRNHQtSlJpaFlObjhWeFFVdTdhWUpwcVNsVXFTSkJJQU10UklkU0xqeDNMdEM4b3RpLVNSSVN0eUR3?oc=5"
-  },
-  {
     "ts": "2026-08-20T04:38:30",
     "source": "movers",
     "title": "Market Mover",
@@ -1587,5 +1579,13 @@
     "title": "Virtual Trade \u2014 SELL",
     "subtitle": "PLTR",
     "body": "PLTR at $179.92 (MACD bearish cross, -3.2%)"
+  },
+  {
+    "ts": "2026-09-02T16:48:29",
+    "source": "watch",
+    "title": "Market Watch",
+    "subtitle": "TSLA",
+    "body": "OpenAI to end model access to Cursor after acquisition by Elon Musk's SpaceX",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE90bmQ0enBvenh2RFZzWDJtV2FWRnFMVzNRMEJrbG1RSmtWbnZ6MU1XcHV0TUJ1dll3YkJJM1RSMUgyRWVsV3NTeHpUV1JOeEZVb01TRkctT0c0NjZIc0haWFVTdzVkSmFLM1htanRGeVJZMmxNb2NaWnBn0gF_QVVfeXFMTnNMYVB6Q3hkc1l0NnRTSVhOeU5uT21nbUxOZDZjU2ota0tocTk2a3JjOWdxeUp0M2ttVUpHNk1ZTlB5MWp6QkR5c21aUlduUERGbzRZenhNZ1ZIQVVWTWt6RmJJdW8xcVAtRW05NnIxVGI5UE1uaVA4Q0V6NWd4cw?oc=5"
   }
 ]
