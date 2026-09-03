@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-08-20T18:05:15",
-    "source": "trade_engine",
-    "title": "Virtual Trade \u2014 SELL",
-    "subtitle": "BTC-USD",
-    "body": "BTC-USD at $71647.05 (take-profit +10.4%)"
-  },
-  {
     "ts": "2026-08-20T18:05:18",
     "source": "trade_engine",
     "title": "Virtual Trade \u2014 SELL",
@@ -1587,5 +1580,13 @@
     "subtitle": "TSLA",
     "body": "Elon Musk Revives Feud With Sam Altman, Says He Took 'Scamming to a Whole New Level' - Tesla (NASDAQ:TSLA",
     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYzFvVXNPUGhCcUdtcUgzMmlFZFJ5R2xvekJ4eHJ4LUZvSUtKWGduU21ZUzV0UEdKbXQ3WlRGV1plRDRwbHlMbVBHYmpGWVhPOERxQ2RYenpnQm1iMWJPVS1qcDlKZHM4SGtGcUxkTkZSYUFxeDMtWjJIQnprRU1wMnhjVTF4UjVqWllRQ0V0WnZYcS1Oa2EzV2hKMUJycG4wVjNnSkdyVUhTRkZ2cWdJNHJITmJJaDZHQzFzLUhCVEt0aHJPeEtlaVpyLXlLRzg?oc=5"
+  },
+  {
+    "ts": "2026-09-03T12:30:46",
+    "source": "sentiment_engine",
+    "title": "Sentiment Trade \u2014 SELL",
+    "subtitle": "PLTR",
+    "body": "PLTR at $169.46 (stop-loss -9.0%)",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZVRrZ0tIWkQwQjJfSHhTQU44N1dIdEw2UTE4ZFBMbXNsSTFBbkYtOXhGYzdLZTMyc2E1Y2VpMmxja0ZIYzgyaU5LYl9mTzRfVHU4RVExTHRFaGtsWnZJcHZSdlh4Ny1iZVJ0dl82Z2tRUUtVbFk3SlhVWWI4NzJXS01pd0xiS0VUdGNEWXFaOXZMXzB6NWFUWGdoS3NkYUZvdU9ELTNITXV4QQ?oc=5"
   }
 ]
