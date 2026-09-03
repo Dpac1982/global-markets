@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-08-21T03:47:59",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "LIME (Neutron Holdings, Inc.)",
-    "body": "+11.4% to $42.03 \u2014 Neutron (NASDAQ:LIME) Shares Up 8.9% - Should You Buy?",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQR25Ddmtad3JQSmV5S0VCa1VnYU45TThtdWZCbk5NX29yR0kxd292bmRvdGp0eVFLU3dudHNoTUZaVDN2T3VsdVJ5Y1FMRnZpUjExR3ByNFNqMEEwMHJoZW5FNEUwY3BjYTlyb0h5Uy1oaEtHTFBWejc4MG5VTkxnX2hWZXpOSGpLUnJaTW1yRkVGeXg5cDBORThUQ2JBTGhyREE?oc=5"
-  },
-  {
     "ts": "2026-08-21T11:37:32",
     "source": "movers",
     "title": "Market Mover",
@@ -1583,5 +1575,13 @@
     "title": "Virtual Trade \u2014 BUY",
     "subtitle": "ORCL",
     "body": "ORCL at $154.64 (uptrend + MACD bullish cross)"
+  },
+  {
+    "ts": "2026-09-03T21:54:40",
+    "source": "sentiment_engine",
+    "title": "Sentiment Trade \u2014 BUY",
+    "subtitle": "META",
+    "body": "META at $614.96 \u2014 Meta\u2019s Next Trillion Dollars Could Come From AI. Here\u2019s Our Price Target for 2027",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNnRneHcxWk1DU2ZNeXY1RnY4TU5FVzFLVzFZX2U2MVYyOHNVUFpubWdLSHA5a0ZkZlJxSnNlUEY3cEIxR18zdTlQdnM0SGMxdmx1LUdMRGdUeVhvSnB2bnE5cWstWWxjbnBnamRua3Y3RXhIaGlYRG1iLUR6N0xSdERmM0l4OU5TQUFXNnY4R1hXUk9Ob2daZGRnZXpodw?oc=5"
   }
 ]
