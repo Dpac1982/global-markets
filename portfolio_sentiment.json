@@ -1,5 +1,5 @@
 {
-  "cash": 44945.72214663662,
+  "cash": 55861.60680955039,
   "positions": {
     "BTC-USD": {
       "qty": 0.15407893897390648,
@@ -20,11 +20,6 @@
       "qty": 24.40462916868815,
       "entry_price": 491.7099914550781,
       "entry_date": "2026-08-26"
-    },
-    "PLTR": {
-      "qty": 64.4156982794484,
-      "entry_price": 186.2899932861328,
-      "entry_date": "2026-08-31"
     }
   },
   "closed_trades": [
@@ -153,6 +148,15 @@
       "exit_price": 148.82000732421875,
       "return_pct": -2.05,
       "reason": "sentiment turned negative (score -2), -2.1%"
+    },
+    {
+      "symbol": "PLTR",
+      "entry_date": "2026-08-31",
+      "entry_price": 186.2899932861328,
+      "exit_date": "2026-09-03",
+      "exit_price": 169.4600067138672,
+      "return_pct": -9.03,
+      "reason": "stop-loss -9.0%"
     }
   ]
 }
