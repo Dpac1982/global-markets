@@ -1,6 +1,17 @@
 {
-  "cash": 102987.55961782004,
-  "positions": {},
+  "cash": 78987.55961782004,
+  "positions": {
+    "NVDA": {
+      "qty": 52.26253198075642,
+      "entry_price": 229.61000061035156,
+      "entry_date": "2026-09-03"
+    },
+    "ORCL": {
+      "qty": 77.60058951945244,
+      "entry_price": 154.63800048828125,
+      "entry_date": "2026-09-03"
+    }
+  },
   "closed_trades": [
     {
       "symbol": "BTC-USD",
