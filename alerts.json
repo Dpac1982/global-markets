@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-08-20T18:56:06",
-    "source": "sentiment_engine",
-    "title": "Sentiment Trade \u2014 BUY",
-    "subtitle": "BTC-USD",
-    "body": "BTC-USD at $71670.61 \u2014 Crypto shares climb after Trump advocates for Clarity Act",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVmM3elp4cktvVklVUlVBN3BvWkliX2FDX2RjbkdWQkhfcVdzVmFweEoxNkZzS3ZuMDhyRGZWOXRiQ2laWFlpUHhzcENKVklXMzduOGNzZFQydl9qMTJpRFczOU5paEU3VmpEYlRFMVlwU01OY21JTWRrbXItQXd4R1lZMUhaQXN5V1RtOVAzeXUwdUdLNDZ0T3ZNVENOVE5hUkYyV2t1d0xPRmEtTmRuQQ?oc=5"
-  },
-  {
     "ts": "2026-08-20T18:56:09",
     "source": "sentiment_engine",
     "title": "Sentiment Trade \u2014 BUY",
@@ -1590,5 +1582,12 @@
     "subtitle": "TSLA",
     "body": "Elon Musk Revives Feud With Sam Altman, Says He Took 'Scamming to a Whole New Level' - Tesla (NASDAQ:TSLA",
     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYzFvVXNPUGhCcUdtcUgzMmlFZFJ5R2xvekJ4eHJ4LUZvSUtKWGduU21ZUzV0UEdKbXQ3WlRGV1plRDRwbHlMbVBHYmpGWVhPOERxQ2RYenpnQm1iMWJPVS1qcDlKZHM4SGtGcUxkTkZSYUFxeDMtWjJIQnprRU1wMnhjVTF4UjVqWllRQ0V0WnZYcS1Oa2EzV2hKMUJycG4wVjNnSkdyVUhTRkZ2cWdJNHJITmJJaDZHQzFzLUhCVEt0aHJPeEtlaVpyLXlLRzg?oc=5"
+  },
+  {
+    "ts": "2026-09-03T18:16:02",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "SNOW (Snowflake Inc.)",
+    "body": "+21.9% to $372.88"
   }
 ]
