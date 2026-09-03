@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-08-21T12:41:14",
-    "source": "sentiment_engine",
-    "title": "Sentiment Trade \u2014 SELL",
-    "subtitle": "BTC-USD",
-    "body": "BTC-USD at $77543.47 (take-profit +8.2%)",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVmM3elp4cktvVklVUlVBN3BvWkliX2FDX2RjbkdWQkhfcVdzVmFweEoxNkZzS3ZuMDhyRGZWOXRiQ2laWFlpUHhzcENKVklXMzduOGNzZFQydl9qMTJpRFczOU5paEU3VmpEYlRFMVlwU01OY21JTWRrbXItQXd4R1lZMUhaQXN5V1RtOVAzeXUwdUdLNDZ0T3ZNVENOVE5hUkYyV2t1d0xPRmEtTmRuQQ?oc=5"
-  },
-  {
     "ts": "2026-08-21T14:32:16",
     "source": "sentiment_engine",
     "title": "Sentiment Trade \u2014 BUY",
@@ -1581,5 +1573,13 @@
     "title": "Market Mover",
     "subtitle": "MSTR (Strategy Inc)",
     "body": "+14.8% to $141.46"
+  },
+  {
+    "ts": "2026-09-03T21:54:58",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "BMNR (BitMine Immersion Technologies,)",
+    "body": "+13.4% to $26.16 \u2014 Top BitMine Immersion Technologies (BMNR) Competitors 2026",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBPY3lLbEZoNE5tTjJic0loVG9RX1dWVmdnVDlBSFhZaFdHXzFVclgwajdfaFNsVV9VNEtFN0g4RUxsalh1WkFiVTJaQzBwVWttZF9ESTZIM3dDX0lGcnQ5cUR5R3JXcVdDNU1BeWlqM0xRaFpLSndCN01UOWE1QQ?oc=5"
   }
 ]
