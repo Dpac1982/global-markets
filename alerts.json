@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-08-21T03:47:56",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "XXI (Twenty One Capital, Inc.)",
-    "body": "+11.5% to $6.19 \u2014 Tether Just Made A Bigger Bet On XXI After Buying SoftBank\u2019s Entire Stake",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdkVwbUNPdE16bG95X1ZvYU1GdmMxY1JULWFnZXJ0dTRiUGlpVUtOeGl6WGtEVlFjdXV0ZVktVVNIVjd5YUtoNG40dW50Ull0VE8zMlU2VkdSa29jcHhsSzRDbmxnUkNkWllWdkEyWEZrZnRTVnBKYkdlcmswWjlvWGxIdTNmSUNIejdGTFJCU2JkXzMtSWVFS0RWbngzUFM0WG1TTk9Tanh3enJBQ0w4Y1ZKaHpmR0hPWkdVVzFVYW5XWTQ?oc=5"
-  },
-  {
     "ts": "2026-08-21T03:47:59",
     "source": "movers",
     "title": "Market Mover",
@@ -1584,5 +1576,12 @@
     "title": "Virtual Trade \u2014 BUY",
     "subtitle": "NVDA",
     "body": "NVDA at $229.61 (uptrend + MACD bullish cross)"
+  },
+  {
+    "ts": "2026-09-03T21:54:33",
+    "source": "trade_engine",
+    "title": "Virtual Trade \u2014 BUY",
+    "subtitle": "ORCL",
+    "body": "ORCL at $154.64 (uptrend + MACD bullish cross)"
   }
 ]
