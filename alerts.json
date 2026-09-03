@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-08-20T18:55:57",
-    "source": "sentiment_engine",
-    "title": "Sentiment Trade \u2014 BUY",
-    "subtitle": "GOOGL",
-    "body": "GOOGL at $341.68 \u2014 Search and Cloud Strength Drive Alphabet\u2019s (GOOG) Rally",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVy11LVhJZlF1RS1pbVl2Zl9tQ29ESGRGWmtveW9iaDVCaXlRczhjLTRmd2c3QkNJV0pvOXlHODNkMmhZWlNfNmdjLWcyNl9IY244TDFQTHpxNTZTSnllOE80NmlGLU1IbUhERDNXeUdwYUwzUlpkb2hqU0tnREo0UTZRdjNKN3FNaDA5UzNweUtJOTVzSDRZakdkSlBlSlFYZVZB?oc=5"
-  },
-  {
     "ts": "2026-08-20T18:56:06",
     "source": "sentiment_engine",
     "title": "Sentiment Trade \u2014 BUY",
@@ -1585,6 +1577,14 @@
   },
   {
     "ts": "2026-09-03T12:46:30",
+    "source": "watch",
+    "title": "Market Watch",
+    "subtitle": "TSLA",
+    "body": "Elon Musk Revives Feud With Sam Altman, Says He Took 'Scamming to a Whole New Level' - Tesla (NASDAQ:TSLA",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYzFvVXNPUGhCcUdtcUgzMmlFZFJ5R2xvekJ4eHJ4LUZvSUtKWGduU21ZUzV0UEdKbXQ3WlRGV1plRDRwbHlMbVBHYmpGWVhPOERxQ2RYenpnQm1iMWJPVS1qcDlKZHM4SGtGcUxkTkZSYUFxeDMtWjJIQnprRU1wMnhjVTF4UjVqWllRQ0V0WnZYcS1Oa2EzV2hKMUJycG4wVjNnSkdyVUhTRkZ2cWdJNHJITmJJaDZHQzFzLUhCVEt0aHJPeEtlaVpyLXlLRzg?oc=5"
+  },
+  {
+    "ts": "2026-09-03T13:14:29",
     "source": "watch",
     "title": "Market Watch",
     "subtitle": "TSLA",
