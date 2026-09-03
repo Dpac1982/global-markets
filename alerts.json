@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-08-20T17:49:32",
-    "source": "sentiment_engine",
-    "title": "Sentiment Trade \u2014 SELL",
-    "subtitle": "ETH-USD",
-    "body": "ETH-USD at $2267.32 (take-profit +18.3%)",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1sVDVaN01jM21IdUVLU2lPbkNXMlp2aUVNN1RULWNKMjJsd3d1THhPZDFwZEFrR3BseHZHV0kwSGlDaTJQRDRxTWl1OTE1NTc4cXZuZEhTWmdwZG1kMDFESkJXaGJSR2N4?oc=5"
-  },
-  {
     "ts": "2026-08-20T18:05:15",
     "source": "trade_engine",
     "title": "Virtual Trade \u2014 SELL",
@@ -1587,5 +1579,13 @@
     "subtitle": "TSLA",
     "body": "Forbes Daily: Musk And Altman\u2019s Next Battle Is SpaceX, OpenAI IPOs",
     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRU5zMUh0ME5Yai1VSFRZVDJfYnpZRXVKY2Nha2w3VW5QTmtuSWlqVGtubTBZR05BVnpuRWFlV3NTMkF1eHAzZk5aYWpNcUZYdklLaEY1WjFQQUY2N3c3WWVTX1p2Z2ZORkVaMVN1TDJpMHNzMkptbTB5b0ZqeHNERjAyMWZwV1RqNTdoUjRrUFJWZ0tuZmdBbFFXelVhWjJIbm5Ub0FQNXJjYWpCWXJhX1FwZ0NReTdOY1duRXh3?oc=5"
+  },
+  {
+    "ts": "2026-09-03T12:16:25",
+    "source": "watch",
+    "title": "Market Watch",
+    "subtitle": "TSLA",
+    "body": "Elon Musk Revives Feud With Sam Altman, Says He Took 'Scamming to a Whole New Level' - Tesla (NASDAQ:TSLA",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYzFvVXNPUGhCcUdtcUgzMmlFZFJ5R2xvekJ4eHJ4LUZvSUtKWGduU21ZUzV0UEdKbXQ3WlRGV1plRDRwbHlMbVBHYmpGWVhPOERxQ2RYenpnQm1iMWJPVS1qcDlKZHM4SGtGcUxkTkZSYUFxeDMtWjJIQnprRU1wMnhjVTF4UjVqWllRQ0V0WnZYcS1Oa2EzV2hKMUJycG4wVjNnSkdyVUhTRkZ2cWdJNHJITmJJaDZHQzFzLUhCVEt0aHJPeEtlaVpyLXlLRzg?oc=5"
   }
 ]
