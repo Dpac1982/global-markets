@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-08-20T18:56:09",
-    "source": "sentiment_engine",
-    "title": "Sentiment Trade \u2014 BUY",
-    "subtitle": "ETH-USD",
-    "body": "ETH-USD at $2276.94 \u2014 Current price of Ethereum for Aug. 20, 2026",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1sVDVaN01jM21IdUVLU2lPbkNXMlp2aUVNN1RULWNKMjJsd3d1THhPZDFwZEFrR3BseHZHV0kwSGlDaTJQRDRxTWl1OTE1NTc4cXZuZEhTWmdwZG1kMDFESkJXaGJSR2N4?oc=5"
-  },
-  {
     "ts": "2026-08-20T19:12:33",
     "source": "movers",
     "title": "Market Mover",
@@ -1589,5 +1581,12 @@
     "title": "Market Mover",
     "subtitle": "SNOW (Snowflake Inc.)",
     "body": "+21.9% to $372.88"
+  },
+  {
+    "ts": "2026-09-03T18:16:06",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "HCM (HUTCHMED (China) Limited)",
+    "body": "+14.0% to $13.72"
   }
 ]
