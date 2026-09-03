@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-08-20T18:05:18",
-    "source": "trade_engine",
-    "title": "Virtual Trade \u2014 SELL",
-    "subtitle": "ETH-USD",
-    "body": "ETH-USD at $2278.72 (take-profit +17.7%)"
-  },
-  {
     "ts": "2026-08-20T18:05:57",
     "source": "movers",
     "title": "Market Mover",
@@ -1588,5 +1581,13 @@
     "subtitle": "PLTR",
     "body": "PLTR at $169.46 (stop-loss -9.0%)",
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZVRrZ0tIWkQwQjJfSHhTQU44N1dIdEw2UTE4ZFBMbXNsSTFBbkYtOXhGYzdLZTMyc2E1Y2VpMmxja0ZIYzgyaU5LYl9mTzRfVHU4RVExTHRFaGtsWnZJcHZSdlh4Ny1iZVJ0dl82Z2tRUUtVbFk3SlhVWWI4NzJXS01pd0xiS0VUdGNEWXFaOXZMXzB6NWFUWGdoS3NkYUZvdU9ELTNITXV4QQ?oc=5"
+  },
+  {
+    "ts": "2026-09-03T12:31:04",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "PSQL (Pasqal Holding SA)",
+    "body": "-21.7% to $12.19 \u2014 symbol__ Stock Quote Price and Forecast",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBFOG96VUZVdnMtNEFsMERyb016ZEVPVmlyV2RfNi05X3F3WXdFZUNEaEdqNGtKMW5HcGRVeWxuRlFFVmJ1bkhMNTJfU1dtbTEt?oc=5"
   }
 ]
