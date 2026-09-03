@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-08-21T03:47:51",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "IOVA (Iovance Biotherapeutics, Inc.)",
-    "body": "+12.5% to $8.99 \u2014 Iovance Biotherapeutics, Inc. (IOVA) Stock Price, News, Quote & History",
-    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5hbmhhSmtRYTJPREttU0ZTNWFya0d5WFRncXdPTGxVRm9EdXRRWHltcFdfaW1nNi1HVzBZcHo4SkZsTndSLWtNY2p5ckowQQ?oc=5"
-  },
-  {
     "ts": "2026-08-21T03:47:53",
     "source": "movers",
     "title": "Market Mover",
@@ -1586,5 +1578,12 @@
     "title": "Market Mover",
     "subtitle": "CRCL (Circle Internet Group, Inc.)",
     "body": "+11.9% to $99.22"
+  },
+  {
+    "ts": "2026-09-03T18:16:15",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "HSAI (Hesai Group)",
+    "body": "+11.2% to $18.44"
   }
 ]
