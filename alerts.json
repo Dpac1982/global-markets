@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-08-20T17:49:29",
-    "source": "sentiment_engine",
-    "title": "Sentiment Trade \u2014 SELL",
-    "subtitle": "BTC-USD",
-    "body": "BTC-USD at $71440.91 (take-profit +13.6%)",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVmM3elp4cktvVklVUlVBN3BvWkliX2FDX2RjbkdWQkhfcVdzVmFweEoxNkZzS3ZuMDhyRGZWOXRiQ2laWFlpUHhzcENKVklXMzduOGNzZFQydl9qMTJpRFczOU5paEU3VmpEYlRFMVlwU01OY21JTWRrbXItQXd4R1lZMUhaQXN5V1RtOVAzeXUwdUdLNDZ0T3ZNVENOVE5hUkYyV2t1d0xPRmEtTmRuQQ?oc=5"
-  },
-  {
     "ts": "2026-08-20T17:49:32",
     "source": "sentiment_engine",
     "title": "Sentiment Trade \u2014 SELL",
@@ -1587,5 +1579,13 @@
     "subtitle": "DELL (Dell Technologies Inc.)",
     "body": "+12.6% to $478.71 \u2014 Dell stock surges on record orders for AI servers",
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNN2hTV1hlX2J4R0o1MGxhM1VlWXdZMnhhNEQ5NHhUVkRmZHVZS3daUFBzdnFqbzJqOVJNTmZVdmEyNFBvaHlqRUZZcEFQTUNSWDdvQnhRZ19aa2t2LW1wNDNSWUR2RjViV1NRQzVYQXdJRmlGbkItSjJPQVdPRE1fVlhNbVVJdW1wTlJ1dTlMN3FJN1FUMzNVZmY0UFI5TmpzMlBCWXRQS01udw?oc=5"
+  },
+  {
+    "ts": "2026-09-03T12:16:23",
+    "source": "watch",
+    "title": "Market Watch",
+    "subtitle": "TSLA",
+    "body": "Forbes Daily: Musk And Altman\u2019s Next Battle Is SpaceX, OpenAI IPOs",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRU5zMUh0ME5Yai1VSFRZVDJfYnpZRXVKY2Nha2w3VW5QTmtuSWlqVGtubTBZR05BVnpuRWFlV3NTMkF1eHAzZk5aYWpNcUZYdklLaEY1WjFQQUY2N3c3WWVTX1p2Z2ZORkVaMVN1TDJpMHNzMkptbTB5b0ZqeHNERjAyMWZwV1RqNTdoUjRrUFJWZ0tuZmdBbFFXelVhWjJIbm5Ub0FQNXJjYWpCWXJhX1FwZ0NReTdOY1duRXh3?oc=5"
   }
 ]
