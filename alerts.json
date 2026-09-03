@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-08-20T19:12:33",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "MARA (MARA Holdings, Inc.)",
-    "body": "+10.5% to $10.66 \u2014 MARA Holdings (MARA) Stock Still Looks Expensive As AI Lease Plans Grow",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTmF2VjBtRzFRMEdMUi1FcXZPWGpqSFQ4QzdodlladzA5YzQ0WVU3MjRIWmtJNEU1Vm5TYmZ2VGhrME1BQ2YxWDJsZm5teWlQU0Zsc1ZWeVlQT1VuV3pWZkhnTmo3NXl2bnFUWUI4M1NXUG1Jc2FDNE5nYjBMS1Rfbl9ZT1NYOW9IWU1hTVdXdGZOUC1qUWY5UHN0Zw?oc=5"
-  },
-  {
     "ts": "2026-08-21T03:47:47",
     "source": "movers",
     "title": "Market Mover",
@@ -1588,5 +1580,12 @@
     "title": "Market Mover",
     "subtitle": "HCM (HUTCHMED (China) Limited)",
     "body": "+14.0% to $13.72"
+  },
+  {
+    "ts": "2026-09-03T18:16:09",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "HOOD (Robinhood Markets, Inc.)",
+    "body": "+12.8% to $120.64"
   }
 ]
