@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-08-20T18:52:27",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "KC (Kingsoft Cloud Holdings Limited)",
-    "body": "-10.3% to $11.10 \u2014 Kingsoft Cloud (KC) Stock Looks Fairly Valued After Its 139% Run",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOczd3T3JqQzJRdEdhb0tfQkZOczEtVDhTYXZ4cUVYa3AycXAtc1R1ckNXVDBCdTZuNVZYTDQwdlVZOE5wbHYydEh4XzE5SGNCcE9uWFBYUkNHREVMajZSMUwzSkRmV2VNU3VQbVI5SEg5V0h0RmdRSUNNR3hKUl9hNGdrVHo3bkhwaHQ1M192QkIzODE2UEFlcXZn?oc=5"
-  },
-  {
     "ts": "2026-08-20T18:55:57",
     "source": "sentiment_engine",
     "title": "Sentiment Trade \u2014 BUY",
@@ -1590,5 +1582,13 @@
     "subtitle": "DELL (Dell Technologies Inc.)",
     "body": "+15.8% to $492.20 \u2014 Dell Stock Soars on Blowout Q2 Earnings and Raised Guidance",
     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWWZURGpJQlVGREdtWkYwR2ZoZEctSVBMMHo0bjQtUi1LeklwNVFWb3BvWUlpN0IyTnVRS0JDVjRPa2kwSkhpY3A4RGdWa2pmOTNtZ1JLcmpaRDl0aEdpeUw1WlNmLWN0V0FPOEJTVzhldTBLNmRBTk5DSU9DUG1zOEZOa0w0VEF4dGNB?oc=5"
+  },
+  {
+    "ts": "2026-09-03T12:46:30",
+    "source": "watch",
+    "title": "Market Watch",
+    "subtitle": "TSLA",
+    "body": "Elon Musk Revives Feud With Sam Altman, Says He Took 'Scamming to a Whole New Level' - Tesla (NASDAQ:TSLA",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYzFvVXNPUGhCcUdtcUgzMmlFZFJ5R2xvekJ4eHJ4LUZvSUtKWGduU21ZUzV0UEdKbXQ3WlRGV1plRDRwbHlMbVBHYmpGWVhPOERxQ2RYenpnQm1iMWJPVS1qcDlKZHM4SGtGcUxkTkZSYUFxeDMtWjJIQnprRU1wMnhjVTF4UjVqWllRQ0V0WnZYcS1Oa2EzV2hKMUJycG4wVjNnSkdyVUhTRkZ2cWdJNHJITmJJaDZHQzFzLUhCVEt0aHJPeEtlaVpyLXlLRzg?oc=5"
   }
 ]
