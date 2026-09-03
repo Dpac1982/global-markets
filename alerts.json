@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-08-21T11:37:35",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "AADX (Applied Aerospace & Defense, In)",
-    "body": "-10.2% to $15.50 \u2014 Top Applied Aerospace & Defense (AADX) Competitors 2026",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1vb3NDaUdGb2I1TXNQRUdiOWRvNDZVNFJvVkNtOGpHRnctZnhSZTY4WWlNNkRHNWxBRVg5Vi1qVFh5WUIybURDSGN0QmRNN1F5WTFWR1pKRDVMLXhOVEVQOXZ4WmRPRk9HMExkWGdKSWItNXJlUHBiN1pxREVnZw?oc=5"
-  },
-  {
     "ts": "2026-08-21T12:41:14",
     "source": "sentiment_engine",
     "title": "Sentiment Trade \u2014 SELL",
@@ -1582,5 +1574,12 @@
     "title": "Market Mover",
     "subtitle": "SMMT (Summit Therapeutics Inc.)",
     "body": "+16.4% to $16.99"
+  },
+  {
+    "ts": "2026-09-03T21:54:55",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "MSTR (Strategy Inc)",
+    "body": "+14.8% to $141.46"
   }
 ]
