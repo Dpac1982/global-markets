@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-08-23T18:09:32",
-    "source": "watch",
-    "title": "Market Watch",
-    "subtitle": "Oil (WTI/Brent), Gold, Defense stocks",
-    "body": "Sam Liccardo Seeks Probe of Possibly Illegal Insider Trading Before Trump Iran War Announcements",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPS1I3SmJsOFZuN2h1QWZmMFB1NlhPa05EdU1CUkZBUXJ4RV85MloxT3h6V0hrU3lZLVpqWVc0S19wR2x0UWVST1RpVEYtLWJGMUZTSEZ3cHktUUNWZm54c3Q4WWpNbnFQQzNoN01FdVhjcFpNc3hHMXlBaWVNR3UxeThZRjM5UzFVVW45b1pfdkZRb01LZjNnLXh0UndxWHRtYzYzaVhWb296NkFGU0R6Zk5heEZqVGNvUEJvcmdQUldNV3k0WEI3Nk1fejU?oc=5"
-  },
-  {
     "ts": "2026-08-23T20:44:26",
     "source": "sentiment_engine",
     "title": "Sentiment Trade \u2014 SELL",
@@ -1580,5 +1572,13 @@
     "subtitle": "FICO (Fair Isaac Corporation)",
     "body": "-16.7% to $932.26 \u2014 Fair Isaac (FICO) Stock Dropped, So What Is Behind The Latest Attention?",
     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZ21KZjYtZ180MWdiU3V2MDdkclZrLVptZTZDTUZQekJWNWlaTWl4X1pvUTNXcE1hLWZaVVlJaGhhdVZhcEpteGJSZENldFlMM0pSQmM3ZWM5eVZ1NDUxLVVEY1AxLWRrN1VPTzdsN3pEMmF1M0dmRE1tOXRjNUVoV1BUN2cyaTNMYmdnTzc2dGktcWcybXdiazV3?oc=5"
+  },
+  {
+    "ts": "2026-09-05T16:22:07",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "PATH (UiPath, Inc.)",
+    "body": "-16.6% to $15.19 \u2014 Why Is PATH Stock Tumbling Over 7% In Overnight Trading?",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONFJYbGQ4S3phQlVYS1JVSno5UHlyUWlwQVljZGhCbnBaUm4tWFFUMkJHbWw4MWxuX2xQc2VPSXU0OGtRX2xEc3YxUTNxQXNsV0VwT3NHUUdqek9rdXk2TjV4eWprYmdGSllYaVFrMFZndFlGS0tXN0VfVXNIbTk0YVROaUE0YXk3SExZdjU0dy03T1VQRk9mSlY5YmM4UllZejVLRjZXX3Q2dG54eUZkWkVacnpGM2RNZVE?oc=5"
   }
 ]
