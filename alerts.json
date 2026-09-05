@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-08-23T00:09:15",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "SLS (SELLAS Life Sciences Group, Inc)",
-    "body": "+15.4% to $15.46 \u2014 SLS Stock Rises Overnight: Traders Rally Behind Jim Cramer's 'Two Thumbs Up' Call Ahead Of Key AML Readout",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSkdLNjN2dmcwOTNfUnVXanFFOEJwd3hWSEpzVkxrXzdzYlhienYxS0tYRUVTNHYzRW9fd0k0SzBRT2RiTVZWdFpjZ0F6V0Y2d3dNblFpQkNZVmFrQlk4Y0cyeVE4U2tVckMzT1N2RjhTZnpFd3BqY19GdThCQXI1alZaZGpsTjRMdkVyRlQxcEp6Q0V0bHVaYW1WOU4tdEc3WDduckZDbW0ya3cyR0Rz?oc=5"
-  },
-  {
     "ts": "2026-08-23T00:09:18",
     "source": "movers",
     "title": "Market Mover",
@@ -1580,5 +1572,13 @@
     "subtitle": "ASAN (Asana, Inc.)",
     "body": "-12.9% to $8.79 \u2014 Asana Announces Second Quarter Fiscal 2027 Results",
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTGlHbE5OYTN2YmpVZzNQQ3dRemlsX1pXbDVXWU9ZMUxNS09IUmNiWXJuaGRaVTZWNGJQdzd5ZTFHbU9ibVlDQ1NrTjBzUE52Z0ZjWEtRVmhab1VZN05jWHVKYlRYRm5ULThIUXNMWC1Sbzk1QWx3cDNJYW9GZFgwa1UwRG9aRmhxalJqeDZ2QjRDU1ZCT0dHRTRJZ1J0Q2loU3pkSGZWWGhqMGJJXzU3RFB3dXM?oc=5"
+  },
+  {
+    "ts": "2026-09-05T10:11:18",
+    "source": "sentiment_engine",
+    "title": "Sentiment Trade \u2014 SELL",
+    "subtitle": "NVDA",
+    "body": "NVDA at $230.36 (take-profit +8.1%)",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNUhYQzNDeE0tUk5IOExEUk9IcG5ydGZwQ3cwNGFVb2d0bWZIMXpFNGR2d0ZpczA3UlhVa2EzT0VtNXczV1VZWllzMkJZQ0dPc25zNWd6OXo3aDV6TFhjVndOX3pKUkxVOEJsSktsbEpKLWlSTHVvdkdEZUdtU3ZrbnZZU1p4QjhlWFlOY0lfejFNZUZ4eFNEQ3lVUVkxRXk3?oc=5"
   }
 ]
