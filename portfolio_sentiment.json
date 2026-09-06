@@ -1,5 +1,5 @@
 {
-  "cash": 56836.589056570876,
+  "cash": 68871.90837803416,
   "positions": {
     "BTC-USD": {
       "qty": 0.15407893897390648,
@@ -15,11 +15,6 @@
       "qty": 24.40462916868815,
       "entry_price": 491.7099914550781,
       "entry_date": "2026-08-26"
-    },
-    "META": {
-      "qty": 19.513463593139996,
-      "entry_price": 614.9600219726562,
-      "entry_date": "2026-09-03"
     }
   },
   "closed_trades": [
@@ -166,6 +161,15 @@
       "exit_price": 230.36000061035156,
       "return_pct": 8.12,
       "reason": "take-profit +8.1%"
+    },
+    {
+      "symbol": "META",
+      "entry_date": "2026-09-03",
+      "entry_price": 614.9600219726562,
+      "exit_date": "2026-09-06",
+      "exit_price": 616.77001953125,
+      "return_pct": 0.29,
+      "reason": "sentiment turned negative (score -2), 0.3%"
     }
   ]
 }
