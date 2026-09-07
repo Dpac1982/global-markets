@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-08-24T18:49:24",
-    "source": "sentiment_engine",
-    "title": "Sentiment Trade \u2014 SELL",
-    "subtitle": "ETH-USD",
-    "body": "ETH-USD at $2518.11 (take-profit +10.6%)",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1lM0JuMEhlUUhuTnQzZFhaX19PSDh1QTlsbjJuTEx5elplRy1vYm9oLVdlb29sbWtJZmZxVEJHVW16NkJmU0NwVHdGRzdjUDNmOUFsTzJqdzJXazduN3U2SERmXzBBbzhp?oc=5"
-  },
-  {
     "ts": "2026-08-24T23:46:31",
     "source": "sentiment_engine",
     "title": "Sentiment Trade \u2014 BUY",
@@ -1581,5 +1573,13 @@
     "title": "Market Mover",
     "subtitle": "BLTE (Belite Bio, Inc)",
     "body": "+13.2% to $193.61"
+  },
+  {
+    "ts": "2026-09-07T06:32:25",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "AEHR (Aehr Test Systems)",
+    "body": "+13.1% to $86.26 \u2014 Butterfly Network Stock Is Just One Of 3 AI Small Cap Stocks",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdzV1NXJZZDlKLTQ1WWFGZGxIcmltMGR1aGphZkpmdlQtUmtJXzdHZlBTck9ZMG1LUjFoTERsQnFXQXlncGtmXzNLbDJaWkVlNDVMTEpPYy0tdnVPX2YyNzhCMU1jQ0lxZTFuQTM5VFZXMWZpeThmOW9wMVg2UTI4QVBJdEdER1ZS?oc=5"
   }
 ]
