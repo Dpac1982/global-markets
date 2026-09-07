@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-08-24T18:26:33",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "SNDK (Sandisk Corporation)",
-    "body": "-10.4% to $1430.10 \u2014 Stocks making the biggest moves premarket: Alibaba, Marvell, Sandisk, Coinbase and more",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWF8yc2NWWnNud3doN004RVBkYU82VXZBZnZvbFNRaEZxaDZQVkdlNkNqb2JxUDN2cGlzM09OOGR5Y0tCRWliZWNsNE9tUjJ5MG5rVWx1WHlYeHlUdml3cUU5LUxOVGxYVTNqQl84Wmt5Vl94LTRDNURnYlFkWGFrX1dwSGE4a1d1NFJpV056bzg1M2ZiT1ZObkY4NUpyZmNHcDRGcg?oc=5"
-  },
-  {
     "ts": "2026-08-24T18:49:11",
     "source": "sentiment_engine",
     "title": "Sentiment Trade \u2014 SELL",
@@ -1582,5 +1574,13 @@
     "subtitle": "META",
     "body": "META at $616.77 (sentiment turned negative (score -2), 0.3%)",
     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNblJucXk0WHloa1dFT0p0clZrd1pZNHVzSmVEU0l5anNqRnYzOFhxR3lOZzBKSTNyOXlfWXJzZ1ctU29PblNDeGtvUDJTY3lJY2EtOGhtc3FQSlFENFY1QVlnLVNIX3U1R0I5R25Fbi1rNGdKZG1oTGRuVHJ6aWFqbDBuUXBnQ3hiTjZGdmNIZnFDZFFUN3FFeHZNZ19hZE1iZ0JmMHlSLTRWdVpBMU01ZFFmUWdOSVlNWllDWTBiQTZOSGh5MWpnNFJrVml0cmNGSWhGNmVlYXZDcDVQSkhEZFp3VQ?oc=5"
+  },
+  {
+    "ts": "2026-09-07T06:28:52",
+    "source": "watch",
+    "title": "Market Watch",
+    "subtitle": "Oil, Gold, Defense stocks",
+    "body": "Trump Shares Column Urging Pressure on Korea to Sell M-SAM II to Ukraine",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdm5jTENxSmRKcXV1eklkcVBSNnliWjEtYkN3LVdVeVRYSzlNV2dHQkFteXVvQVdzdllYSmJCdXQyNWpLb0JvMlptMWtPaDJHMDVqRV81ei1jemNEbllZQTYxQkR0WjJaS2tfTWI5RGZKZVROU1FIWnNmalZCTDd5OTltWTlCdk9wYlNPTDNfT0F3MFR1MkY2R0tKVWdMZEdJMzhTWTRRc2Q3QQ?oc=5"
   }
 ]
