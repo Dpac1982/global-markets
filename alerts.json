@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-08-24T23:46:31",
-    "source": "sentiment_engine",
-    "title": "Sentiment Trade \u2014 BUY",
-    "subtitle": "ETH-USD",
-    "body": "ETH-USD at $2467.53 \u2014 Current price of Ethereum for August 24, 2026",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1lM0JuMEhlUUhuTnQzZFhaX19PSDh1QTlsbjJuTEx5elplRy1vYm9oLVdlb29sbWtJZmZxVEJHVW16NkJmU0NwVHdGRzdjUDNmOUFsTzJqdzJXazduN3U2SERmXzBBbzhp?oc=5"
-  },
-  {
     "ts": "2026-08-25T08:14:08",
     "source": "movers",
     "title": "Market Mover",
@@ -1581,5 +1573,13 @@
     "subtitle": "AEHR (Aehr Test Systems)",
     "body": "+13.1% to $86.26 \u2014 Butterfly Network Stock Is Just One Of 3 AI Small Cap Stocks",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdzV1NXJZZDlKLTQ1WWFGZGxIcmltMGR1aGphZkpmdlQtUmtJXzdHZlBTck9ZMG1LUjFoTERsQnFXQXlncGtmXzNLbDJaWkVlNDVMTEpPYy0tdnVPX2YyNzhCMU1jQ0lxZTFuQTM5VFZXMWZpeThmOW9wMVg2UTI4QVBJdEdER1ZS?oc=5"
+  },
+  {
+    "ts": "2026-09-07T06:32:28",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "SNDK (Sandisk Corporation)",
+    "body": "+11.9% to $1740.00 \u2014 Sandisk (SNDK) Stock Looks Above Fair Value Despite Strong Earnings",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeVNvY2VKUnlPSjg2Mldwc0VOeUZvbUVMLVlzWTMzS2xfRm9wQ0lEYjFCRjcxYXlKTndrdnN3bnpDMURoTU5BZlF0NTZPQjRuaVFBdHY2OXhzcE5hVl9jS1l5U2twcWc2aUgyZG5yR29aNDZVTGNSRFhpNTNfTWFRcVNEbkJSLTJwaG1ISnhXTFc2SVFwN3JuMGlITmFvVFhHWUhwSjNrTlV2N2VyVEgyNkFQTVVUdjlKSmxCWE5hd9IBxAFBVV95cUxPNVBsQ3FVNW43UXJ1UHhNN0dybWFLRUxqZlFMYXFkd0txVkxSeHpfZGgtS3dfZ3RmVTVaaTJpMFlZUURRZnFuNG9wNHJLZ2FxY0F5VDFFRmh1LU1uYUFvZ3BqQ2xCWmZqc2FtOE9QWUNqRldTMjluSjIxWkpDYVQ5VmszSzVHR3I4YUlEMVgzVTZQMkJISEhjY2lvZkFhZ0NsUnk0UTNVa3dQQVNOWWlEN3hGZi1BQ1RmY3FmZ09zQU1VYTJL?oc=5"
   }
 ]
