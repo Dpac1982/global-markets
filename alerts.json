@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-08-24T18:49:11",
-    "source": "sentiment_engine",
-    "title": "Sentiment Trade \u2014 SELL",
-    "subtitle": "NVDA",
-    "body": "NVDA at $209.82 (stop-loss -6.4%)",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPN1NpRHdBSDVMeGJTSzgwUGFveG1FU3BnOVFwUk5iMi0wWlpHN1o2VUw1U1lkcU96SVBfUVBKb3k1MEJZcHRJMnl2SnJ5RkVheE1WRmhiOVJBekdoR2JyLS1wcGpIOGdTeWxuSkN5cGNTa055TTZzcnpZUDJxTW1CeTlUNFFLMlFoZ2todVVLclhWSVJMcS1NWWprMXl3WnIyS3dXRHNxQXY0X3M?oc=5"
-  },
-  {
     "ts": "2026-08-24T18:49:24",
     "source": "sentiment_engine",
     "title": "Sentiment Trade \u2014 SELL",
@@ -1582,5 +1574,12 @@
     "subtitle": "Oil, Gold, Defense stocks",
     "body": "Trump Shares Column Urging Pressure on Korea to Sell M-SAM II to Ukraine",
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdm5jTENxSmRKcXV1eklkcVBSNnliWjEtYkN3LVdVeVRYSzlNV2dHQkFteXVvQVdzdllYSmJCdXQyNWpLb0JvMlptMWtPaDJHMDVqRV81ei1jemNEbllZQTYxQkR0WjJaS2tfTWI5RGZKZVROU1FIWnNmalZCTDd5OTltWTlCdk9wYlNPTDNfT0F3MFR1MkY2R0tKVWdMZEdJMzhTWTRRc2Q3QQ?oc=5"
+  },
+  {
+    "ts": "2026-09-07T06:32:22",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "BLTE (Belite Bio, Inc)",
+    "body": "+13.2% to $193.61"
   }
 ]
