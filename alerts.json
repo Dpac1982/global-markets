@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-08-27T10:03:29",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "BHVN (Biohaven Ltd.)",
-    "body": "+17.9% to $16.95 \u2014 Why Biohaven Ltd. (BHVN) Stock Is Up Today",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYm5oWHVrR3BPWVV1T2VEcVRqOVVzcnBLS2g2Snl1RjZNcW1lX2hLbTRXaXV5LUtXbnkwTnFnVVVyV3ZtbmNBSEpUNUhjeGN3cWQzQzhQSnExS2tzeGJLTHYzT3FGMWxLaUx0YktCcmRMUjNUVHd1c3hkWlNycEVPZ0FGc21qdw?oc=5"
-  },
-  {
     "ts": "2026-08-27T10:03:32",
     "source": "movers",
     "title": "Market Mover",
@@ -1581,5 +1573,13 @@
     "subtitle": "ORCL",
     "body": "ORCL at $162.51 \u2014 Prediction: Oracle's $638 Billion Cloud Infrastructure Backlog Could Make It One of the Best-Performing AI Stocks Through 2028",
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWGdiVnNxaEViM0VORGhtaWg1bGJfV3hqZUNRTENRR1cwbHBWSmtjclhkanZWZWxQMUFFVVRRY1hBMlJRM3BDV3h0elZ4Yi1NRUcwb1NDRHl3M1htamZLWVEtaTd6YlVkMjhmVC05NVdoVVZfbndfQk9DaEV2cFdQT2RLQzh0U0RfQ0hLV1JQcllta2d3cko1cw?oc=5"
+  },
+  {
+    "ts": "2026-09-08T21:53:30",
+    "source": "sentiment_engine",
+    "title": "Sentiment Trade \u2014 BUY",
+    "subtitle": "PLTR",
+    "body": "PLTR at $171.82 \u2014 Nebius Rises 6% as Palantir Names It Preferred Sovereign AI Partner; Palantir Stock Slips",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZGI5RzBZV2k2aGtWc0R4MjU2MGQyMjFrbk1iXzlZUGhlSElpVWgtSmZpUHRXclRTVWx3S1BPRkExVXRURjBJYVhZZWU3ZU9iSnFFWGtTTk5jcDNGZ1VaQXhwN3d5NzFPZ2pxdXN1U2wxY2Y5OHFMamUxRWVDZE1zMmZzU3VwMmdwZHlxYXBMbDRIZldRaXN4cg?oc=5"
   }
 ]
