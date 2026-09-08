@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-08-26T03:21:16",
-    "source": "sentiment_engine",
-    "title": "Sentiment Trade \u2014 BUY",
-    "subtitle": "NVDA",
-    "body": "NVDA at $213.05 \u2014 Nvidia\u2019s Losing Streak Has Ended. Be Careful What You Wish For.",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNR2JEWV9ERjBialIwd3NYLTM0YXE3N0FtNllqOXRmVV9kLWY1QngwcnZuQUFMbVF4NVhkY1NUcUNMVFAySU1GVWRzN3REbjk2N1hxMWZzWEV1NGszdzNWU3k0bV9ZTlppeDFwOXo0TWFwOF90ckNKb0c4amJIYmRWdUFwS1QzS0pDWWk0?oc=5"
-  },
-  {
     "ts": "2026-08-26T03:21:21",
     "source": "sentiment_engine",
     "title": "Sentiment Trade \u2014 BUY",
@@ -1580,5 +1572,13 @@
     "title": "Market Mover",
     "subtitle": "BLTE (Belite Bio, Inc)",
     "body": "+13.2% to $193.61"
+  },
+  {
+    "ts": "2026-09-08T07:39:30",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "AEHR (Aehr Test Systems)",
+    "body": "+13.1% to $86.26 \u2014 Are Computer and Technology Stocks Lagging Aehr Test Systems (AEHR) This Year?",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNc3ZJMjFjNHFoS1NQSHZ1SkdsWXNUcG1ncjRYaVdlQjl6ek9wTS1TdThTdGc0WVBVdHdzaUdwUWV5MnBGSDN5V2hhS1N6eURKSUcyMWZoNFg5TmdlSmFnNi1OM1cybW5mdGdxN1ZhdHBTMHZxaVI4cTBNSlpNZzdCNVJpVUpySFhZbUppbXVtaGY5N2xOb0NFWlN5NXdBbEMtaEZOaWF0UQ?oc=5"
   }
 ]
