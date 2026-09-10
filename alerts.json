@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-08-27T20:32:45",
-    "source": "trade_engine",
-    "title": "Virtual Trade \u2014 BUY",
-    "subtitle": "PLTR",
-    "body": "PLTR at $185.87 (uptrend + MACD bullish cross)"
-  },
-  {
     "ts": "2026-08-27T20:38:45",
     "source": "movers",
     "title": "Market Mover",
@@ -1581,5 +1574,13 @@
     "subtitle": "TBBK (The Bancorp, Inc.)",
     "body": "-22.3% to $50.03 \u2014 Why The Bancorp (TBBK) Stock Is Falling Today",
     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUHlUNkVLMzBQbFcyaGExUlhrTjVVWHh5SXlHem9rdW44SXBPQjd3RkgwSG5pY1UzMUtDQk5Zb08wYUdzMm56dW1vZzdVUVhnMnh0Q2lwZVExb2RmRUo1Q3JJTzdZbmp3NGlNT1A0YTRPdGtwcGtKbjloVWJSamVqNjc3WnZPYzg1NEJ4UEM4bklnQy0tNTJkVXJnRQ?oc=5"
+  },
+  {
+    "ts": "2026-09-10T10:07:54",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "BRZE (Braze, Inc.)",
+    "body": "-21.7% to $23.73 \u2014 Braze (BRZE) Stock Trades Down, Here Is Why",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZW5sb0NJVmR2OTRUN3hfalBjdWZaeVNuOGdQcnJyQmRXQ2JXY1pwUlRXdDk4eVU4U255TTk5R2E2M0ZqaTJfZGZrcmVsTXZVN0FRVFdrUE9aTGpLbnhiTktRLW5lRWJIakIzandNQjI4WFFFZTFZV29pUUZhemV3YWpQNmlKem9DU3B6ODEyN0V2X3RuWGYyTA?oc=5"
   }
 ]
