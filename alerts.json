@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-08-28T12:31:10",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "PANW (Palo Alto Networks, Inc.)",
-    "body": "+12.8% to $382.85 \u2014 Why Palo Alto Networks Stock Just Popped",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZE5GdkZ0MFBCbUZabmRYUnZCZFhCcGZIM0xZN0NUM1RVRXZ1TTctQjl3TDZtWWRuZ0VaZ0hPZDNPTWZOQzFSTGVhTk9BU0I5LTg1c3JNemsxQVJ4WWpJc01OUWhLUUhscUhiTHhVd3pJTmtSYU4xZmlKNTVTWUNxdlplY3hHdVlLczlydVJIbW1CcHllanhLRg?oc=5"
-  },
-  {
     "ts": "2026-08-28T12:31:13",
     "source": "movers",
     "title": "Market Mover",
@@ -1582,5 +1574,12 @@
     "subtitle": "AEO (American Eagle Outfitters, Inc.)",
     "body": "-13.6% to $14.60 \u2014 American Eagle Stock Tumbles 11% On Weak Quarterly Sales And Soft Guidance",
     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOU0tWR1B1SXZleWtwYmU5b1ZsOWRIVUxvaG1qNzMwRGFsd1RTdkpQazc5VGpXNi1vbkJyYTBDTVJTd0JDekhwSGtpMFZGNEdmYVIwOXQ4MGJMYjZDWS1jMXl3aElPZU8xUHYxNEszTDVJSHA0NUYyVlZRV19fYnQ4VWktWHJXbC03VUNzZjJNYzcxOUs2?oc=5"
+  },
+  {
+    "ts": "2026-09-10T18:47:37",
+    "source": "trade_engine",
+    "title": "Virtual Trade \u2014 SELL",
+    "subtitle": "NVDA",
+    "body": "NVDA at $218.44 (MACD bearish cross, -4.9%)"
   }
 ]
