@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-08-27T20:18:40",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "ASST (Strive, Inc.)",
-    "body": "+10.9% to $23.84 \u2014 $ASST stock is up 10% today. Here's what we see in our data.",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYmxXYzktN0xjaEl1X3NqOTd1NlZUeFZTYzg2TEJkWTFnT2FhRmY0OFJHY0pUdk9PU0dsSi1zekZ3M2hGNDg1WWNHYjZRV0x0TFRaZXN5eXNIN1Nsb2RGVElUdGJRMnRzb0JzbVd3X2hfNkJValhhSWtlWVJnMDBxLWR5VERlbEVES2std1czRUlwdHlsS3p0OWRqLVRVYkFM?oc=5"
-  },
-  {
     "ts": "2026-08-27T20:21:51",
     "source": "sentiment_engine",
     "title": "Sentiment Trade \u2014 SELL",
@@ -1581,5 +1573,13 @@
     "subtitle": "NET (Cloudflare, Inc.)",
     "body": "+10.5% to $314.18 \u2014 Cloudflare Shares Slip After Hours Following Intraday Surge - Meta Platforms (NASDAQ:META), Cloudflare (N",
     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQWlFNkNOaFhWZGZYdEZyZjhRbllQVXRiSzNQWkh6cmd2eEJDSzJNeXNiY1BfWDRMcW9DSFZzMExSWExHanpqSndKbXBEd2Q0WDBMZnlCd1l2YWN2UGNIbUNnX1hiTHFpcVJHYlJNSXdQaEZPbE03V01rNmpCQWNVSDQ5UXVOQ1Zzdmx3ZWRDOU4?oc=5"
+  },
+  {
+    "ts": "2026-09-10T10:07:49",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "TTAN (ServiceTitan, Inc.)",
+    "body": "-30.0% to $57.12 \u2014 Why ServiceTitan Stock Is Crashing Today",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMmVHVVJGdHUxNDR5c1Bwckxud0lzMUxMeHo3YTNmLUhIdG90SUJveFRhNmYyYlJ2VlNCT0ZtamF2d3F2bWRjc0lSZG1YczlKcU1uUm0zcHZLUWVrajRyM1dHekphMHROSW5VU1l5c1NjUG5FTHF0cHJDSktCREczeEpNTXVudTQ5ZVVPQzlUakVsQ3Q3RHBab1EzN1p4Uk9wUE1keA?oc=5"
   }
 ]
