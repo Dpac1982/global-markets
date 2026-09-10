@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-08-27T20:21:51",
-    "source": "sentiment_engine",
-    "title": "Sentiment Trade \u2014 SELL",
-    "subtitle": "PLTR",
-    "body": "PLTR at $185.62 (take-profit +9.0%)",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWUhfLXItZ0dVR3NUOVFJSHR3RXotaERaM0dkRDlidmd0U3F0RnA5Vl8zSE9EMllLc0d6dTRQX21YTnJBVjQ3QkFnWk1ZdFdDYTBrVllIMTBFTDJWMk42M09BZE13VFo5ZkxBRHg1Q1ByZzhlNUVCZVZsUGdZZTBySVl3UnpvVUt6aFlQQ0M2Qm04MWFTZ1JQdktSR2xrNUJyYVNKbkZjQWY4MFp1eDhjS1BpTXNQRkNlb0s1VQ?oc=5"
-  },
-  {
     "ts": "2026-08-27T20:32:45",
     "source": "trade_engine",
     "title": "Virtual Trade \u2014 BUY",
@@ -1581,5 +1573,13 @@
     "subtitle": "TTAN (ServiceTitan, Inc.)",
     "body": "-30.0% to $57.12 \u2014 Why ServiceTitan Stock Is Crashing Today",
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMmVHVVJGdHUxNDR5c1Bwckxud0lzMUxMeHo3YTNmLUhIdG90SUJveFRhNmYyYlJ2VlNCT0ZtamF2d3F2bWRjc0lSZG1YczlKcU1uUm0zcHZLUWVrajRyM1dHekphMHROSW5VU1l5c1NjUG5FTHF0cHJDSktCREczeEpNTXVudTQ5ZVVPQzlUakVsQ3Q3RHBab1EzN1p4Uk9wUE1keA?oc=5"
+  },
+  {
+    "ts": "2026-09-10T10:07:52",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "TBBK (The Bancorp, Inc.)",
+    "body": "-22.3% to $50.03 \u2014 Why The Bancorp (TBBK) Stock Is Falling Today",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUHlUNkVLMzBQbFcyaGExUlhrTjVVWHh5SXlHem9rdW44SXBPQjd3RkgwSG5pY1UzMUtDQk5Zb08wYUdzMm56dW1vZzdVUVhnMnh0Q2lwZVExb2RmRUo1Q3JJTzdZbmp3NGlNT1A0YTRPdGtwcGtKbjloVWJSamVqNjc3WnZPYzg1NEJ4UEM4bklnQy0tNTJkVXJnRQ?oc=5"
   }
 ]
