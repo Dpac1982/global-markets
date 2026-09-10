@@ -1,11 +1,6 @@
 {
-  "cash": 78987.55961782004,
+  "cash": 90403.78723129054,
   "positions": {
-    "NVDA": {
-      "qty": 52.26253198075642,
-      "entry_price": 229.61000061035156,
-      "entry_date": "2026-09-03"
-    },
     "ORCL": {
       "qty": 77.60058951945244,
       "entry_price": 154.63800048828125,
@@ -39,6 +34,15 @@
       "exit_price": 179.9199981689453,
       "return_pct": -3.2,
       "reason": "MACD bearish cross, -3.2%"
+    },
+    {
+      "symbol": "NVDA",
+      "entry_date": "2026-09-03",
+      "entry_price": 229.61000061035156,
+      "exit_date": "2026-09-10",
+      "exit_price": 218.44000244140625,
+      "return_pct": -4.86,
+      "reason": "MACD bearish cross, -4.9%"
     }
   ]
 }
