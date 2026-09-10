@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-08-27T20:18:28",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "MSTR (Strategy Inc)",
-    "body": "+12.4% to $138.49 \u2014 MSTR Stock Climbs As MicroStrategy Supercharges USD Liquidity",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5LdVVpMmdGLVNyVXh3VERVRjVFT1NZOERBR3VhM29nVi1wY205X1FjcjJaWG9YSkZtazB3X0pYeGVjUVZHN0lmdTNHWjNwS01QZnp5SC1KYlhJci0zaXMzNnJURlpETTVPYktuLXl6dDZhNjk2TmUtRW5n?oc=5"
-  },
-  {
     "ts": "2026-08-27T20:18:33",
     "source": "movers",
     "title": "Market Mover",
@@ -1581,5 +1573,13 @@
     "subtitle": "MLYS (Mineralys Therapeutics, Inc.)",
     "body": "+10.3% to $31.12 \u2014 Mineralys Therapeutics Surges on Hypertension Drug Hopes",
     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZWE2TlZhRHZNU2ZYV1lqX2RKLWw2RGhQODFxQU84TlFVbDdJMlctX0h4ZWtNemtMaW8wUGNCZm05Rko3SWdtcWpGZHNXNkpZU1R0THRTNkpTU045QmVJVjg4V1h3dmdPSjZ2QWJCRHNSVWpoS2l0YVZxUmRMWU9zVW9VdWU1SmJDN3l0eUNrN3FpSUItZGxxenhkUQ?oc=5"
+  },
+  {
+    "ts": "2026-09-10T09:02:05",
+    "source": "sentiment_engine",
+    "title": "Sentiment Trade \u2014 BUY",
+    "subtitle": "META",
+    "body": "META at $653.69 \u2014 Meta stock surges with Wall Street bullish on new AI agent",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVU5VM2xXTTFmS0lWVkU4cmgtWFNvSU1EUDItZ3FwbmlaXzBiSnBJU1paVGpqNEl5TEJGc2lBNVE5QmN2c1FpMmVycjBOUm9sRzNxZ25yY0k0M2lBb3pLLTczMU1IX0t1NmFSY3dZTi1TVEdCZW5JYk1JNW1WenZsX3BrdmN1NUNFVm5wQ3M4dTdzaE9TSHlfYmVJZDljNGdMWEwxTHNCWU9DNExRakF0d2F6RkNodUIxb2Zpb1IzNA?oc=5"
   }
 ]
