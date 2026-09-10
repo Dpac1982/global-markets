@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-08-27T20:38:55",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "RBRK (Rubrik, Inc.)",
-    "body": "+10.6% to $106.34 \u2014 $Rubrik (RBRK.US)$ ok, marked \u2705\ufe0f [Cool]",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPM2lSTi1MUkNRN2Nra3FySlVLaWFxSm1GZzhhakxtTkh5RUJybmo4S1ZzdklBNnBmaWgxektLSXpYNDZ2Vk5JS2g5Vm10MzBBbTJkd3RSOGYxWE9mMDYxWWpHbEowZXRaTlpFTjgwOXJkTzJjYXFKbEdoYmtvenBpUE5GTjQ?oc=5"
-  },
-  {
     "ts": "2026-08-27T20:38:57",
     "source": "movers",
     "title": "Market Mover",
@@ -1582,5 +1574,12 @@
     "subtitle": "CASY (Caseys General Stores, Inc.)",
     "body": "-14.2% to $629.03 \u2014 Casey\u2019s General Stores Earnings Beat Estimates. Why the Stock Is Falling.",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcmwyelV6QzBYNTlnUWw5T2NwQW5GUVRsSUpDY1BhbnNNZzNjOHQzblpzdVNRQ3hPU3llNDFOeEJ5UV9Md1psSTJXSzBrLVVGazF6Z2hLWHcxMUR4U3djWlJyazE5ZEljMWdCcEJJWWFma3d6cVZSU0J2M2w1VUhrOTY3Yw?oc=5"
+  },
+  {
+    "ts": "2026-09-10T15:13:05",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "CHRN (ChronoScale Holdings Corporatio)",
+    "body": "-13.7% to $18.18"
   }
 ]
