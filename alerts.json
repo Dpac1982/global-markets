@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-08-28T12:31:21",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "TENB (Tenable Holdings, Inc.)",
-    "body": "+11.8% to $37.62 \u2014 Tenable Jumps After S&P SmallCap 600 Addition Spurs Buying",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMjRpYmtSdHBSaHdwajRoR0VyY3BSaEltdFh0SE9sLTJnanpzYWw5VTBlYVdXaU0tQVRBd29tTzQ3SElpM3JNQXA4Q3dUUTNfakNOUXVfMVpYdmtfU1lIT0pCRVhxNG8ybjVIbWV2RFNLRmVTbS1yd2E3eHkyRVdjdkJfemdjRHpkR2lCTE1MSENNN3p6WWZMVQ?oc=5"
-  },
-  {
     "ts": "2026-08-28T12:33:30",
     "source": "sentiment_engine",
     "title": "Sentiment Trade \u2014 BUY",
@@ -1581,5 +1573,13 @@
     "subtitle": "AXGN (AxoGen, Inc.)",
     "body": "-10.1% to $42.48 \u2014 $AXGN stock is down 9% today. Here's what we see in our data.",
     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTXJhY3VYTFdaMFktYl9tUDlsN3lBQldaVHI4OFgzNzRoRGh5cHVkSlFHX29KYXMtTWpVVXVfc0UtcUs1c196SUVnanQ0Sy04VURhUHVJRkZoUlNKMml5YS1ad28yNUI2b3hQenBWYmg1M2RrdzN0VDNVN3pQY0hDdGRjcUxiVDg3MWJ0SHhBQjlqVVdqWm9fOVRoZGgzRFpreXc?oc=5"
+  },
+  {
+    "ts": "2026-09-11T09:18:21",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "RML (Resolution Minerals Ltd American Depositary Shares)",
+    "body": "-26.5% to $8.53 \u2014 Drill Program Successfully Completed at Horse Heaven Antimony-Tungsten-Gold-Silver Project",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNV25zNTlKS3pKcFhBbUlSeGRoMmxRbVdqT0Q3WWZRMzUxSUYzVGJHdmI2QnByTUxvMjNzRXo1anVHY1J1OWdyRm1qVU1DTXlPNklpN09kYkxFX0hqbGZvTXExOFI3aWg5ajBtdVRzZndFNkxYWDFkWVdQTVIzTXJsVXpEYUxxUVhROG9Pa0VYX0ZTakZNc0d4X0FSWmJyZGJhd2c?oc=5"
   }
 ]
