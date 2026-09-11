@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-08-29T01:55:56",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "KLRA (Kailera Therapeutics, Inc.)",
-    "body": "-12.5% to $16.21 \u2014 Kailera Therapeutics (NASDAQ:KLRA) Trading Down 8.6% - Should You Sell?",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQVl1b1FHd0dpQ3lDcktDU2x3UjBIRzIwWndObmJmbl9BaUhhVjc1WFhiWTl1c1lfbTZVeC1yOWVvNjkxU29oODRiMC1Bd21jbHBwNjQ2bVN5T1BsVFAwcjh0N1AwdmpjYXVXVHJEQ1NsTEh6MHgzNkNqLUlPcEw3Qms0VElmSUVzRVRyeHlQbS1hYVFzUUpRR0hlckF3NWpUUlpjSFJBeUNqc0ZIYlZIeUpYbVNWajhhYUJKRkFZOXRPdw?oc=5"
-  },
-  {
     "ts": "2026-08-29T13:08:17",
     "source": "movers",
     "title": "Market Mover",
@@ -1580,5 +1572,13 @@
     "title": "Market Mover",
     "subtitle": "HPE (Hewlett Packard Enterprise Comp)",
     "body": "+10.2% to $60.84"
+  },
+  {
+    "ts": "2026-09-11T22:01:34",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "SMR (NuScale Power Corporation)",
+    "body": "-13.5% to $8.84 \u2014 SMR Stock Slides After UBS Downgrade \u2014 Analyst Flags Concerns Around Build Timeline, Lack Of Firm Customer Commitments",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRThoVFJPLVM5Tm9Kd1lzTXh4UWU5UGYyM3o0TXlydHBvZmNnSl9jYjBEWEhGel9vbDRSWjlQS01qZ3dJVlZwTnVTanlJVnZUZU5VYWRLNnV5ZzFxMktyaHZERmhIaGlDRS16aXF3cmM4aTQ4UnQtQ2NwZGg0SFJqa0NtU0RFbW03WE0tWWN0aWtXOS11YTBWc054SQ?oc=5"
   }
 ]
