@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-08-29T13:48:23",
-    "source": "sentiment_engine",
-    "title": "Sentiment Trade \u2014 SELL",
-    "subtitle": "GOOGL",
-    "body": "GOOGL at $340.65 (sentiment turned negative (score -2), -0.3%)",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSlJkOHd3Y3dEalg2Wk0yY3Z6QndqT1FhVDBIN1Z5RHdkaF9nTnB3b3FYQ0xiMWp3QWJvVmtCZkNHelVER1pSemdsN0JCem5WWnpTTE95NkdpYVE5N3M4OUpiR0E4RXFZWW5JMURIYkRwZXlnb2poZk5pZnNfLTBUMGpjejlwWGJWS1czRzB6VklsVklHNFlVaQ?oc=5"
-  },
-  {
     "ts": "2026-08-29T13:48:29",
     "source": "sentiment_engine",
     "title": "Sentiment Trade \u2014 BUY",
@@ -1580,5 +1572,13 @@
     "subtitle": "BGSI (Boyd Group Services Inc.)",
     "body": "+10.9% to $90.40 \u2014 Is It Too Late to Buy Boyd Group Services Inc (BGSI) After 10.8% Rally? GF Value Says Undervalued",
     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONUx1X2V3dTZqQkowNHpxUU5GMHp0OFZwSnAxVkRiRlV6NGZ6Wk1nd3R6TDByVFlsdnc5OElHSUpWSldfQWNRVTNraDA5UjE3MlVPbXFNZndLRjZGbUMzREhvbk5kNWVwbVVhcG1hQmR3cjJEVVM4aXlSbllRNnZLb3pyc1pqUU9JQWJSVnZWeVBxQWw4R292WlYxbk1HRFVmZGRCS2tOenFsTTlSRFJiSHB6WDdFeU1lOVh2QjJlQnpWcUNVNDRlQmRlVQ?oc=5"
+  },
+  {
+    "ts": "2026-09-12T09:52:14",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "SMR (NuScale Power Corporation)",
+    "body": "-15.7% to $8.61 \u2014 Why NuScale Power Stock Just Crashed",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZ01JRHl1bkEtQWdJRHowUWhvQUtjeEt2a3JfR1dMQlRIV1E5QlJRWFVrdlFpeVVPZF9EXzNOcFhLenRFcGpOWlhSSUp3TTNFT0VPQV9GZl8zMFNtQ3pVZl9YSjh1RXhzZ3dhQ3pkRVFsVVFTS0k0Y1llYlFYa2pxRkhRbHJOZlNkaFBoNlB6X0VqUGxWdC1NRg?oc=5"
   }
 ]
