@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-08-30T13:42:48",
-    "source": "sentiment_engine",
-    "title": "Sentiment Trade \u2014 SELL",
-    "subtitle": "META",
-    "body": "META at $578.02 (sentiment turned negative (score -2), 1.2%)",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUERwY3RkS3BPUk1VQTBwb3FZYngzaFo2M2pySk5iekw3TElaQkxzSlFubjRIWHRSajByR1VfM1pubk1vX2NkVnpTZDViblY3SWdZUUZHa1IyZGFvYzNJTWZ1c2lTdUFuOWpwaFY2eFNNcFhSYmU2R1d3MkRxb0J0dFI1dzdwRlBaVGwtSlFET3BYSWs?oc=5"
-  },
-  {
     "ts": "2026-08-30T23:52:41",
     "source": "movers",
     "title": "Market Mover",
@@ -1577,5 +1569,13 @@
     "title": "Virtual Trade \u2014 SELL",
     "subtitle": "ORCL",
     "body": "ORCL at $144.05 (stop-loss -6.8%)"
+  },
+  {
+    "ts": "2026-09-14T19:30:11",
+    "source": "watch",
+    "title": "Market Watch",
+    "subtitle": "TSLA",
+    "body": "Elon Musk\u2019s teases \u2018new Tesla Roadster\u2019 launch almost a year after OpenAI CEO Sam Altman \u2018cancelled\u2019 his",
+    "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPaHN0djFpelNfTGFqTDBfZDRXV1o2QkJUY0ozaW9fRHFpYTI3V3VEOUdreUxtcDFybktEa0NIN1A3SWpLTF93akk2UWJXeFVtY0RfOFM0azF3aEd3RVdpZ3lmdXROVmlhTlRudHVPV3pWWVVIMTlXb0lDc25GbGdYNVpLNmIwZThJa0pjRTZHU0w2VlZxX21GVF9zZnJxeUEtcTV2Yi1IdjBBS09DUzBPbjg2eVNodTVPN01IMlZPckRiSDJxcFNRU01qTVhDNkJFS3VVXy1PWS0ySWtUSzB6NDF6cmNOWTFuYjQzT0s0ZWsxMWNIdDZhaEJfQjlRNkhxZ0sxWGhQV1U5MG1acGpxQVZMakxuc2PSAZwCQVVfeXFMTjFBYjRBcURIdmdpaGZHY0xfWkpJWC12enBRdDd5MjJUcXJuaDFmYmJDTmNmWDJyVzdjLVU4MDMxNDFpRFlvVE5aWXU2LWRxVTgya0pESDV3aXR4dmp4ekJWUmJQeDZtdkYyQlF1SjZOaVQ5ZFZUZzhWaWhYNVFzR1JBazM5RjNNRTJHZDBhRkhGUFpIZnhVckJFaHl0dVg4ZFNKMnIyLVpRdVB1RjE5ZTQyWGw3Q0NxNGJYQ1RMNkhGWGNkd3RiV0VnbmJWQ3RFWXU3MTFnNEtUTTJUSmZOVW9ZQlJNTmljVjhIYTBYZDhEcWhVZnBiZEpkQUtnWDB1TXd6ZE1nQVZUZ3psM25rZktLVXlpQkRfc2xDSGQ?oc=5"
   }
 ]
