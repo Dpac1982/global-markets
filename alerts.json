@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-08-30T13:08:16",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "AEHR (Aehr Test Systems)",
-    "body": "-10.7% to $80.81 \u2014 9-Day Sell-Off Sends Aehr Test Systems Stock Down 45%",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPN2NjQ3ZKd09jcHl5cGVTNkFNTzdTVF9HaXJpWU9DNnIwLS0wOGVRQXI2QnFnRi1Ed0hpXzQxVnZXd2F4MjduMGFFVU5XWkw2dXdKQXJsU1FvZ19NVHBlNzI5c0hMSDZNSGNMZ2FIaWZ2WFFNc0czV1d2YWZlM1JDVENTeFFCWURpOVdhbF94dm5tajJjUEV6WV96ck45WmxPM29PYlpzZ3luRFlzZE1iR1ZxaWdlR1pWVEJjYkptS3Q?oc=5"
-  },
-  {
     "ts": "2026-08-30T13:42:48",
     "source": "sentiment_engine",
     "title": "Sentiment Trade \u2014 SELL",
@@ -1578,5 +1570,12 @@
     "subtitle": "SLS (SELLAS Life Sciences Group, Inc)",
     "body": "-14.4% to $11.54 \u2014 SLS Stock Snaps 2-Day Slide: Sellas\u2019 SLS009 AML Trial Spotlights Big Pharma Drug Combo From ABBV, RHHBY And BMY",
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNckpDdnRlM1JWMWRnQ0VHeVZQWTdyM0xUUVpBVGtoWEJGVFVnbWRad3dIam1JTkZ0aHpXdWVFUVZxeFFXUDE5anZreXVUTVMtN1RHdlJOLVAzY1pRWlZRc01iYWtFZDlkS0JxZk94TjdQaGU4YnRYenZTT2VJR1R6UVNNdWNtVVY4UXBULS1GWncwVWYxRk8tLXZpdEhaeTVnSTVKMnZqd29XVnhCdlR2MUZwOTI?oc=5"
+  },
+  {
+    "ts": "2026-09-14T19:30:04",
+    "source": "trade_engine",
+    "title": "Virtual Trade \u2014 SELL",
+    "subtitle": "ORCL",
+    "body": "ORCL at $144.05 (stop-loss -6.8%)"
   }
 ]
