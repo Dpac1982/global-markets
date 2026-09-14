@@ -1,12 +1,6 @@
 {
-  "cash": 90403.78723129054,
-  "positions": {
-    "ORCL": {
-      "qty": 77.60058951945244,
-      "entry_price": 154.63800048828125,
-      "entry_date": "2026-09-03"
-    }
-  },
+  "cash": 101582.53958615157,
+  "positions": {},
   "closed_trades": [
     {
       "symbol": "BTC-USD",
@@ -43,6 +37,15 @@
       "exit_price": 218.44000244140625,
       "return_pct": -4.86,
       "reason": "MACD bearish cross, -4.9%"
+    },
+    {
+      "symbol": "ORCL",
+      "entry_date": "2026-09-03",
+      "entry_price": 154.63800048828125,
+      "exit_date": "2026-09-14",
+      "exit_price": 144.05499267578125,
+      "return_pct": -6.84,
+      "reason": "stop-loss -6.8%"
     }
   ]
 }
