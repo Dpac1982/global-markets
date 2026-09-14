@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-08-30T23:52:41",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "PSQL (Pasqal Holding SA)",
-    "body": "+95.2% to $19.11 \u2014 PSQL Price Today: Pasqal Holding SA Stock Price, Quote & Chart | MEXC",
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAzNEVjTlJ2aldIVTJpMDVEbFQ4MUNyX29UbDVrMjhraHYzNzRpU3RhSjgtVGp1SjlEMmlpTllDRncwb21PcEJVT3JublZUcWc?oc=5"
-  },
-  {
     "ts": "2026-08-30T23:52:44",
     "source": "movers",
     "title": "Market Mover",
@@ -1577,5 +1569,13 @@
     "subtitle": "TSLA",
     "body": "Elon Musk\u2019s teases \u2018new Tesla Roadster\u2019 launch almost a year after OpenAI CEO Sam Altman \u2018cancelled\u2019 his",
     "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPaHN0djFpelNfTGFqTDBfZDRXV1o2QkJUY0ozaW9fRHFpYTI3V3VEOUdreUxtcDFybktEa0NIN1A3SWpLTF93akk2UWJXeFVtY0RfOFM0azF3aEd3RVdpZ3lmdXROVmlhTlRudHVPV3pWWVVIMTlXb0lDc25GbGdYNVpLNmIwZThJa0pjRTZHU0w2VlZxX21GVF9zZnJxeUEtcTV2Yi1IdjBBS09DUzBPbjg2eVNodTVPN01IMlZPckRiSDJxcFNRU01qTVhDNkJFS3VVXy1PWS0ySWtUSzB6NDF6cmNOWTFuYjQzT0s0ZWsxMWNIdDZhaEJfQjlRNkhxZ0sxWGhQV1U5MG1acGpxQVZMakxuc2PSAZwCQVVfeXFMTjFBYjRBcURIdmdpaGZHY0xfWkpJWC12enBRdDd5MjJUcXJuaDFmYmJDTmNmWDJyVzdjLVU4MDMxNDFpRFlvVE5aWXU2LWRxVTgya0pESDV3aXR4dmp4ekJWUmJQeDZtdkYyQlF1SjZOaVQ5ZFZUZzhWaWhYNVFzR1JBazM5RjNNRTJHZDBhRkhGUFpIZnhVckJFaHl0dVg4ZFNKMnIyLVpRdVB1RjE5ZTQyWGw3Q0NxNGJYQ1RMNkhGWGNkd3RiV0VnbmJWQ3RFWXU3MTFnNEtUTTJUSmZOVW9ZQlJNTmljVjhIYTBYZDhEcWhVZnBiZEpkQUtnWDB1TXd6ZE1nQVZUZ3psM25rZktLVXlpQkRfc2xDSGQ?oc=5"
+  },
+  {
+    "ts": "2026-09-14T21:31:42",
+    "source": "sentiment_engine",
+    "title": "Sentiment Trade \u2014 SELL",
+    "subtitle": "ORCL",
+    "body": "ORCL at $143.68 (stop-loss -6.1%)",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1BeG05UFN2bUVRdG5CdV9MWmYxN2x2c2MwQ084clktUE9fXzAxQXh1dUdKOUZ5SXJHV0VmNldRZ05SdjdobU8wZU5Sb3BiU2xqOHdYRTU1blR6Q2dXNUNueURVYmxFTXZxbnVXbGRXbnhwbUhqUzAw?oc=5"
   }
 ]
