@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-08-31T10:53:38",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "AXTI (AXT Inc)",
-    "body": "-12.4% to $58.63 \u2014 AXT: Our Most Obvious Sell In Small-Cap Semis (NASDAQ:AXTI)",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMzAtMnhZZDN5bFcwT0lJb3E3YzV6dzgta2NFd2dUSFZEY2hSZlpyRVhKX3JfUnRjTk5wSTZ6SXQ2cElJY2V5X0I5aFFkSjg5UFIzaVJBU2tSN282SHVpLV9fMXBGbEQ3a1kxdjRwNnQ1VVFKY1hIZDc2WGdrN2U5YkZ1emlNQ092U1lyZmZ3?oc=5"
-  },
-  {
     "ts": "2026-08-31T10:54:12",
     "source": "sentiment_engine",
     "title": "Sentiment Trade \u2014 BUY",
@@ -1578,5 +1570,13 @@
     "subtitle": "CRWD (CrowdStrike Holdings, Inc.)",
     "body": "+13.9% to $235.38 \u2014 Why CrowdStrike Stock Rocketed Higher Today",
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPY3Q2eUowdjlycTV3UExpdHJQakJnWGJ4amFaeTU5UEFVV2RsaDJWaTA5ZHJiOU9pOG5jdXl4aUl5NDZEN2FoaHVlMkF5QWdza3NxU01FTWtNMmRucHdrUHBVUTk5Q2hmeVFKbzlpYXNMc0NncWhyUVV5WlRuTVJyLWNMbFlhc3d4Q0ozSUZUTjFSQWRYbk1lTW1ZLWRsQ0dMcmR2Tw?oc=5"
+  },
+  {
+    "ts": "2026-09-15T11:27:24",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "PANW (Palo Alto Networks, Inc.)",
+    "body": "+13.1% to $373.94 \u2014 Why Palo Alto Networks Stock Popped Today",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZ2NMMjFBVFR6SEFET0FTNXhnM2J3Q2JSQTNIUXgxeWlQUEx0QWJ4dnZwMFNRMVpYcXROeHdWdWVBUi1VU2NjMlM0TTFfVjQ1WXJoSUJJSEdxODZLR3VJQWRMcmVNMEpLWTk1akh3SS1GbkNpMGdqNC1CT042V3JIOHdFSU1vcDdkZWR5dTBkbTZpUFRhdF9GcQ?oc=5"
   }
 ]
