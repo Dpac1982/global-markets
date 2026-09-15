@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-08-31T10:54:12",
-    "source": "sentiment_engine",
-    "title": "Sentiment Trade \u2014 BUY",
-    "subtitle": "PLTR",
-    "body": "PLTR at $186.29 \u2014 Why ZETA Stock Is Climbing Today: A Look Inside Its New Palantir-Powered AI Bet",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRUhTaDJlV3lEa1BSTThBMG56bVBjVC1KZEVrS1NjNUxTQ012QmZQOU1BUy1PbWl2Z0hvcDF6NFhtalJIUzhiTmdoV1JfbkZwOFNJc0pyeTlncXJhU3ZqLW40blI3R2JwZGNOclFhVDU5ZWVpOFdzYjVWMW5LM0RreEl0Q2NtTERUSnhCVU5ldG5jZUJLWjJfSFhTdXZOYWZVams4T2ttU1Z1eXkwaVE?oc=5"
-  },
-  {
     "ts": "2026-08-31T14:11:12",
     "source": "movers",
     "title": "Market Mover",
@@ -1578,5 +1570,13 @@
     "subtitle": "PANW (Palo Alto Networks, Inc.)",
     "body": "+13.1% to $373.94 \u2014 Why Palo Alto Networks Stock Popped Today",
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZ2NMMjFBVFR6SEFET0FTNXhnM2J3Q2JSQTNIUXgxeWlQUEx0QWJ4dnZwMFNRMVpYcXROeHdWdWVBUi1VU2NjMlM0TTFfVjQ1WXJoSUJJSEdxODZLR3VJQWRMcmVNMEpLWTk1akh3SS1GbkNpMGdqNC1CT042V3JIOHdFSU1vcDdkZWR5dTBkbTZpUFRhdF9GcQ?oc=5"
+  },
+  {
+    "ts": "2026-09-15T11:27:27",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "RBLX (Roblox Corporation)",
+    "body": "+12.7% to $51.29 \u2014 $RBLX stock is up 8% today. Here's what we see in our data.",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQX0s1RlZ4UUZHS2w0Y0xDYV9wZjhmNV9BMzI1RDZjNl9TcXlvOWhMRzUtMGhWWHNJckJ6R3FUWVc5amh4Uzh2S3ZDNUxQeFhBQ0dLRUZvTXhfZ1AySXBURnlSSjZtQlBHSW1IR1pvTWR5b3g5NUhucDVWRlAzQnY2c2stWi1GelBKVmNpTlBHRHRadEN6WWNqNzlTemExUQ?oc=5"
   }
 ]
