@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-08-31T18:31:29",
-    "source": "sentiment_engine",
-    "title": "Sentiment Trade \u2014 SELL",
-    "subtitle": "ORCL",
-    "body": "ORCL at $148.82 (sentiment turned negative (score -2), -2.1%)",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZNTBoc1lNYXdrLXRvSWszVTBmV0U1SVhoOUlUOFg4ZUxZVWZvcmgtUGcteXhTQWVld2NPMS1wUXhpT0JybjAtZ2pfZm9ZbTZaeGpRS0dMMXFKdw?oc=5"
-  },
-  {
     "ts": "2026-08-31T20:03:40",
     "source": "watch",
     "title": "Market Watch",
@@ -1578,5 +1570,13 @@
     "subtitle": "ALHC (Alignment Healthcare, Inc.)",
     "body": "-11.2% to $11.48 \u2014 Precision Trading with Alignment Healthcare Inc. (ALHC) Risk Zones",
     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNeGJGSm9tc3NiNnZUQU1SY3RQX0VPRmxxaWhONW9UYVNLZC1MSnhPNS1jUmhsc2RQbXpHcmNsai05OENnVzU0Z1ZmdTVHVGF0SHV0dk5VQlNKdTJLaEJSd1ItNEpNUGdpUDlyRTlEZnV4TUlEUTN4d3lTdml1ZFY2Y2lVdkZrbDVLTGJwWjB6ekgxbWNZaFpRTWtrdndUT1liNktHblFoVTlNblpuNG1DSVAtMlZKUWtOOXdsRGNhUUZYYThVVGVGU0lBZlZTeHUyaW4zd1c5cGlUMDJM?oc=5"
+  },
+  {
+    "ts": "2026-09-16T07:03:18",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "SWKS (Skyworks Solutions, Inc.)",
+    "body": "+13.6% to $90.00 \u2014 Stocks making the biggest moves midday: Skyworks Solutions, Axon, Dave & Buster's, Revvity & more",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOURuc3JRT21qQVVDU3pjOER0Sk0zM1dpV3N1dzlGVFdjM19pT0N6ZTZDeGhCUzc2Rmc0N29YOG9XMDU4MjROblV2aWZmNzktVkRITEljeEhoQ3kwaUpNSlYzYjVaTWtlWnJIMkxCY3psaTduT0YxY09QS1BYZXFhcmFjOG5tWG5CU1RvbDhVUl9ZdnpMUEtFSUVFdw?oc=5"
   }
 ]
