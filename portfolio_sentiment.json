@@ -1,5 +1,5 @@
 {
-  "cash": 43438.68454506305,
+  "cash": 43404.273928562776,
   "positions": {
     "BTC-USD": {
       "qty": 0.15407893897390648,
@@ -11,11 +11,6 @@
       "entry_price": 2467.530029296875,
       "entry_date": "2026-08-24"
     },
-    "MSFT": {
-      "qty": 24.40462916868815,
-      "entry_price": 491.7099914550781,
-      "entry_date": "2026-08-26"
-    },
     "PLTR": {
       "qty": 69.83849971267387,
       "entry_price": 171.8249969482422,
@@ -25,6 +20,11 @@
       "qty": 18.357325269137224,
       "entry_price": 653.6900024414062,
       "entry_date": "2026-09-10"
+    },
+    "GOOGL": {
+      "qty": 34.99868804763331,
+      "entry_price": 342.8699951171875,
+      "entry_date": "2026-09-17"
     }
   },
   "closed_trades": [
@@ -198,6 +198,15 @@
       "exit_price": 143.67999267578125,
       "return_pct": -6.05,
       "reason": "stop-loss -6.1%"
+    },
+    {
+      "symbol": "MSFT",
+      "entry_date": "2026-08-26",
+      "entry_price": 491.7099914550781,
+      "exit_date": "2026-09-17",
+      "exit_price": 490.29998779296875,
+      "return_pct": -0.29,
+      "reason": "sentiment turned negative (score -2), -0.3%"
     }
   ]
 }
