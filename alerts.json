@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-09-03T12:31:04",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "PSQL (Pasqal Holding SA)",
-    "body": "-21.7% to $12.19 \u2014 symbol__ Stock Quote Price and Forecast",
-    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBFOG96VUZVdnMtNEFsMERyb016ZEVPVmlyV2RfNi05X3F3WXdFZUNEaEdqNGtKMW5HcGRVeWxuRlFFVmJ1bkhMNTJfU1dtbTEt?oc=5"
-  },
-  {
     "ts": "2026-09-03T12:31:07",
     "source": "movers",
     "title": "Market Mover",
@@ -1580,5 +1572,12 @@
     "subtitle": "SMTC (Semtech Corporation)",
     "body": "+11.0% to $167.55 \u2014 Semtech (SMTC) Shares Skyrocket, What You Need To Know",
     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSXUtVWxLdy03dWtGUy01Q25HNVBHZmlzNnlCcEJDV2w3QlkzOGhEMWM0Sl9xWlhRQ1V4SFdEYmM1Q1g0ZFdfRk1ORlVtX2JTN2J3LVNrZ1ZWbG42czZ5bmlvQ0FqbnNhMnFUNUl3SmpKcmdqVS1hcXhCWWRWQlpFS2Q0U1pCZVY4Q1Jv?oc=5"
+  },
+  {
+    "ts": "2026-09-17T08:14:36",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "CIFR (Cipher Digital Inc.)",
+    "body": "+10.8% to $16.72"
   }
 ]
