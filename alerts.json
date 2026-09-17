@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-09-03T18:16:02",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "SNOW (Snowflake Inc.)",
-    "body": "+21.9% to $372.88"
-  },
-  {
     "ts": "2026-09-03T18:16:06",
     "source": "movers",
     "title": "Market Mover",
@@ -1579,5 +1572,13 @@
     "subtitle": "MSFT",
     "body": "MSFT at $490.30 (sentiment turned negative (score -2), -0.3%)",
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORENzOXc4NVpfVnZJelBHUjNGaEY3VkFCZ1NlT2VVc21PY1Q2Sm11WDVJTVZoZElwb3NoNjZmQS1FZklTaXVqRGFKcG5vZkpnMjYyM2hDaHpoa01WMHl2TjZPdXhXc0tRUjk5VW14YUhfTWVJZ0Izcl9kaEJuSUFIS0c1dzQ1a2NTX0YxT1h3U25weXpsalE5RQ?oc=5"
+  },
+  {
+    "ts": "2026-09-17T15:03:47",
+    "source": "sentiment_engine",
+    "title": "Sentiment Trade \u2014 BUY",
+    "subtitle": "GOOGL",
+    "body": "GOOGL at $342.87 \u2014 Alphabet (GOOG) Surges 24% as Revenue Growth Soars \u2014 But Is $190 Billion in Capex Too Much?",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPb1JpSXVSTnlST1F6UmlZbENuSjktbXRwWS1ZVzBIdWQ3aE1jaW1FSThCTVpYYTFOYVo3MmloVTl5RlRjeTJiZGVaNTFja3l4Q0xhQVdXTjVyWnBVWVFWbS1fWXhyMldjamdXZ2k3TnpqS0p1eHpjN2hMbzU3M05XeFJQLUFjaXQxMW15U05LUXctVWdTb2g4djV4dVo?oc=5"
   }
 ]
