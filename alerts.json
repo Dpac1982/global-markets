@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-09-03T12:31:07",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "CRDO (Credo Technology Group Holding )",
-    "body": "-20.0% to $165.22 \u2014 Why Credo Technology Stock Plunged 20% Today",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdm5PbXJJYUNRTXRhUHNyMV9EQ3BaTnoxbE5jQ0t0dmdSNGs2ZDRFNGpYQVlVVjNLUHRhb3FtNkNwRVZGeHhTNXBmTnA2QXBUNGRRVE1oRjd1REx3dUxkTW9vbjhWNlNHc2lvMjBMNjg2MVFuM1ZEc0NZS3c3Umd0SWlZSEdaWnZDeTVDVWVlbw?oc=5"
-  },
-  {
     "ts": "2026-09-03T12:31:10",
     "source": "movers",
     "title": "Market Mover",
@@ -1579,5 +1571,13 @@
     "title": "Market Mover",
     "subtitle": "CIFR (Cipher Digital Inc.)",
     "body": "+10.8% to $16.72"
+  },
+  {
+    "ts": "2026-09-17T14:18:37",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "JBHT (J.B. Hunt Transport Services, I)",
+    "body": "-13.3% to $236.73 \u2014 JBHT Stock Plummets as J.B. Hunt Warns Investors About Q3 Earnings",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdmV3X1VuMWNhTnF4RmZBajJIcF92NHo2VTZPY2tpTUJrLUN6MzVob29JUVhtNzBaMDZRejZvelpUbUl5R1ZNbTNKeW9WY1lhZ2FqTWVPNWtodkRjSmVmMnpNRjFFeVRxdUtZVWFiV2o2ODBfVXVCbFhBVHBRY1lhWXZwaHE4T0pGU1JIVFZsQ1dsdw?oc=5"
   }
 ]
