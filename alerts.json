@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-09-03T13:14:29",
-    "source": "watch",
-    "title": "Market Watch",
-    "subtitle": "TSLA",
-    "body": "Elon Musk Revives Feud With Sam Altman, Says He Took 'Scamming to a Whole New Level' - Tesla (NASDAQ:TSLA",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYzFvVXNPUGhCcUdtcUgzMmlFZFJ5R2xvekJ4eHJ4LUZvSUtKWGduU21ZUzV0UEdKbXQ3WlRGV1plRDRwbHlMbVBHYmpGWVhPOERxQ2RYenpnQm1iMWJPVS1qcDlKZHM4SGtGcUxkTkZSYUFxeDMtWjJIQnprRU1wMnhjVTF4UjVqWllRQ0V0WnZYcS1Oa2EzV2hKMUJycG4wVjNnSkdyVUhTRkZ2cWdJNHJITmJJaDZHQzFzLUhCVEt0aHJPeEtlaVpyLXlLRzg?oc=5"
-  },
-  {
     "ts": "2026-09-03T18:16:02",
     "source": "movers",
     "title": "Market Mover",
@@ -1579,5 +1571,13 @@
     "subtitle": "PLSE (Pulse Biosciences, Inc)",
     "body": "-10.1% to $49.61 \u2014 SpaceX, Intel among market cap stock movers on Wednesday",
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOWs1a0xuWXE5SUdQbWl1cVE5MVRFUGhhdjZMaEtMc2FzUUtUTlRzTEk3SXhqTnUwT1pUY0tOME4tLXgwYWw0M1ZiUVdCMkpjU1BRbE9TYWFSdWpEcFR6VDd3WDhtWXFULUZYYkRpN09tQXByNXRkcVZlVzEzSFFud2t1aVZycTc2WEQteE5ZcWVyUlNfLWt4RDc3SzNQM1o0ZTYzZ282ZURQSXBFVVhJV05OaHE4R01s?oc=5"
+  },
+  {
+    "ts": "2026-09-17T15:03:43",
+    "source": "sentiment_engine",
+    "title": "Sentiment Trade \u2014 SELL",
+    "subtitle": "MSFT",
+    "body": "MSFT at $490.30 (sentiment turned negative (score -2), -0.3%)",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORENzOXc4NVpfVnZJelBHUjNGaEY3VkFCZ1NlT2VVc21PY1Q2Sm11WDVJTVZoZElwb3NoNjZmQS1FZklTaXVqRGFKcG5vZkpnMjYyM2hDaHpoa01WMHl2TjZPdXhXc0tRUjk5VW14YUhfTWVJZ0Izcl9kaEJuSUFIS0c1dzQ1a2NTX0YxT1h3U25weXpsalE5RQ?oc=5"
   }
 ]
