@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-09-03T21:54:40",
-    "source": "sentiment_engine",
-    "title": "Sentiment Trade \u2014 BUY",
-    "subtitle": "META",
-    "body": "META at $614.96 \u2014 Meta\u2019s Next Trillion Dollars Could Come From AI. Here\u2019s Our Price Target for 2027",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNnRneHcxWk1DU2ZNeXY1RnY4TU5FVzFLVzFZX2U2MVYyOHNVUFpubWdLSHA5a0ZkZlJxSnNlUEY3cEIxR18zdTlQdnM0SGMxdmx1LUdMRGdUeVhvSnB2bnE5cWstWWxjbnBnamRua3Y3RXhIaGlYRG1iLUR6N0xSdERmM0l4OU5TQUFXNnY4R1hXUk9Ob2daZGRnZXpodw?oc=5"
-  },
-  {
     "ts": "2026-09-03T21:54:52",
     "source": "movers",
     "title": "Market Mover",
@@ -1586,5 +1578,13 @@
     "subtitle": "MSFT",
     "body": "MSFT at $497.75 \u2014 Microsoft Jumps as Azure Turns Payment Vaults Into a Service",
     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeUhQb0laanRqT2Y5Tkpya1RPMWJKSlJCaGY4N3BHem9iYzlmVWFMVW1rdlowRVJuekNyWkFPd1g4NXNvUWw5enhrQ0ROeld3TVFaOW5IZGhDdlVGZ0wyUFVnVnNGWkdsblZtWGxuYVM3eUVSc1pCZFJYeEZJQXBUQVFETkx6QnNnYmJHVFBVQXVaVy1IZW4wWlBRRjI?oc=5"
+  },
+  {
+    "ts": "2026-09-18T18:53:25",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "MSTR (Strategy Inc)",
+    "body": "+11.0% to $146.84 \u2014 MSTR Stock Rallies As Bitcoin Treasury And USD Cash Strategy Grow",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1vN3ZVTDRrVzFlWXlyY0lSOENYUEVmeUVwQnZ6ODhHc3J1RXpGRXJ1Um91U2V3OEllcHltRllHWlRIZHBLVHRnZmk5bWdpTGx6VVUtN0xrZFNOemZtdG9FcWtHak1UdGktcDBzME9YTFZsT0hrVHZr?oc=5"
   }
 ]
