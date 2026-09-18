@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-09-03T21:54:28",
-    "source": "trade_engine",
-    "title": "Virtual Trade \u2014 BUY",
-    "subtitle": "NVDA",
-    "body": "NVDA at $229.61 (uptrend + MACD bullish cross)"
-  },
-  {
     "ts": "2026-09-03T21:54:33",
     "source": "trade_engine",
     "title": "Virtual Trade \u2014 BUY",
@@ -1584,5 +1577,13 @@
     "subtitle": "BHVN (Biohaven Ltd.)",
     "body": "+15.6% to $13.89 \u2014 US Stock Movers: Schrodinger Surges 26% as Auto Dealers Skid",
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeE5OdFdoMS05Q2pwMHJWbk9adzM5VTZka2JWbGFyc3d1M09HWkkzZWcyT2d4a1h6N0cwME1LNms4b0FMbm9XRjF5SUdXSElXWHNWQTZXR3RLVTNiazYtbk1CSmxIZWtXcWFNb3hoTGVPNUhwdjl2VWJtMkJVakM5STNfWUpXZGUzUzROYV9OWmZyWGljOEdqYTdqVFN0OGhQY0IxM2dNY0pMV1NhYUl6OQ?oc=5"
+  },
+  {
+    "ts": "2026-09-18T04:26:08",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "TEM (Tempus AI, Inc.)",
+    "body": "+14.8% to $80.36 \u2014 Tempus AI Is Ripping 30% Higher This Week After Morgan Stanley Boosts Revenue Outlook",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTUFTRVJtSy1LTklQUzRkV3JfVllFTXFtSElRVnBLeHBiTVBzSi1yTHhZVm43M1A0QU04NnMxYzROR0R6ZUxpZmQ2dEJkTG83NGZRZGJNekVEQTVEX1dVOS1NNFRzTDN0SUdiUUdVSnJ0UU81cnVicUFkQVlURklTalNxMUVYaVRYLTczUEU4bkgxRGxsNVJr?oc=5"
   }
 ]
