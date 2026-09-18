@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-09-03T21:54:33",
-    "source": "trade_engine",
-    "title": "Virtual Trade \u2014 BUY",
-    "subtitle": "ORCL",
-    "body": "ORCL at $154.64 (uptrend + MACD bullish cross)"
-  },
-  {
     "ts": "2026-09-03T21:54:40",
     "source": "sentiment_engine",
     "title": "Sentiment Trade \u2014 BUY",
@@ -1585,5 +1578,13 @@
     "subtitle": "TEM (Tempus AI, Inc.)",
     "body": "+14.8% to $80.36 \u2014 Tempus AI Is Ripping 30% Higher This Week After Morgan Stanley Boosts Revenue Outlook",
     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTUFTRVJtSy1LTklQUzRkV3JfVllFTXFtSElRVnBLeHBiTVBzSi1yTHhZVm43M1A0QU04NnMxYzROR0R6ZUxpZmQ2dEJkTG83NGZRZGJNekVEQTVEX1dVOS1NNFRzTDN0SUdiUUdVSnJ0UU81cnVicUFkQVlURklTalNxMUVYaVRYLTczUEU4bkgxRGxsNVJr?oc=5"
+  },
+  {
+    "ts": "2026-09-18T08:00:09",
+    "source": "sentiment_engine",
+    "title": "Sentiment Trade \u2014 BUY",
+    "subtitle": "MSFT",
+    "body": "MSFT at $497.75 \u2014 Microsoft Jumps as Azure Turns Payment Vaults Into a Service",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeUhQb0laanRqT2Y5Tkpya1RPMWJKSlJCaGY4N3BHem9iYzlmVWFMVW1rdlowRVJuekNyWkFPd1g4NXNvUWw5enhrQ0ROeld3TVFaOW5IZGhDdlVGZ0wyUFVnVnNGWkdsblZtWGxuYVM3eUVSc1pCZFJYeEZJQXBUQVFETkx6QnNnYmJHVFBVQXVaVy1IZW4wWlBRRjI?oc=5"
   }
 ]
