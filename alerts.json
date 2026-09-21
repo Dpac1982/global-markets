@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-09-04T23:50:11",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "SNDK (Sandisk Corporation)",
-    "body": "+11.3% to $1730.12 \u2014 Why Sandisk Stock Rallied Today",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbEdhWFcxQUtRd2dnM0NWUFJIMElnVEwtNXBvaU1kMDQyVW1pZjBlSzRVNDYwZTVTSUVqRG9hTzFPT3pWT1hGdU9ic1o2Z1dQTHZNRWFqQm44RTBRWngzajVoU1BGMDlhanFLVjhtRmQ0NERJN1RUWlhrbjU5dUUwNHFWMVpyQUtVZ1piLWs5WEgzQzNnVzRsUXdUdkc?oc=5"
-  },
-  {
     "ts": "2026-09-04T23:50:14",
     "source": "movers",
     "title": "Market Mover",
@@ -1589,5 +1581,12 @@
     "subtitle": "TSLA",
     "body": "OpenAI to end model access to Cursor after acquisition by Elon Musk's SpaceX",
     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE90bmQ0enBvenh2RFZzWDJtV2FWRnFMVzNRMEJrbG1RSmtWbnZ6MU1XcHV0TUJ1dll3YkJJM1RSMUgyRWVsV3NTeHpUV1JOeEZVb01TRkctT0c0NjZIc0haWFVTdzVkSmFLM1htanRGeVJZMmxNb2NaWnBn0gF_QVVfeXFMTnNMYVB6Q3hkc1l0NnRTSVhOeU5uT21nbUxOZDZjU2ota0tocTk2a3JjOWdxeUp0M2ttVUpHNk1ZTlB5MWp6QkR5c21aUlduUERGbzRZenhNZ1ZIQVVWTWt6RmJJdW8xcVAtRW05NnIxVGI5UE1uaVA4Q0V6NWd4cw?oc=5"
+  },
+  {
+    "ts": "2026-09-21T05:40:22",
+    "source": "trade_engine",
+    "title": "Virtual Trade \u2014 BUY",
+    "subtitle": "ETH-USD",
+    "body": "ETH-USD at $2677.19 (uptrend + MACD bullish cross)"
   }
 ]
