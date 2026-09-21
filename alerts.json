@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-09-06T13:10:23",
-    "source": "watch",
-    "title": "Market Watch",
-    "subtitle": "Oil, Gold, Defense stocks",
-    "body": "Trump Shares Column Urging Pressure on Korea to Sell M-SAM II to Ukraine",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdm5jTENxSmRKcXV1eklkcVBSNnliWjEtYkN3LVdVeVRYSzlNV2dHQkFteXVvQVdzdllYSmJCdXQyNWpLb0JvMlptMWtPaDJHMDVqRV81ei1jemNEbllZQTYxQkR0WjJaS2tfTWI5RGZKZVROU1FIWnNmalZCTDd5OTltWTlCdk9wYlNPTDNfT0F3MFR1MkY2R0tKVWdMZEdJMzhTWTRRc2Q3QQ?oc=5"
-  },
-  {
     "ts": "2026-09-06T13:36:29",
     "source": "sentiment_engine",
     "title": "Sentiment Trade \u2014 SELL",
@@ -1588,5 +1580,13 @@
     "subtitle": "BTC-USD",
     "body": "BTC-USD at $85945.87 (take-profit +10.4%)",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1VandlQUZUZUM5RHN3LWdaRDMwQ1ZPTmp2QUM4TW1yRGxTN0hqSFRVQjV6a2otV0dETnVfQ0FiTTdmclJES2dKUVJQek5PcjkybU54QjdBcU10aUdQa254c0QzbW90RFk?oc=5"
+  },
+  {
+    "ts": "2026-09-21T22:04:49",
+    "source": "sentiment_engine",
+    "title": "Sentiment Trade \u2014 SELL",
+    "subtitle": "ETH-USD",
+    "body": "ETH-USD at $2744.78 (take-profit +11.2%)",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ZeGxvMGZNMXoyOEcxNTFmcEQ3bGstdmVPSWlxUi1SQWN1MnJTNlJ0NUhOc2ZVVUxBNFI5TVl4VEdyQmExZmczMTJVVkliWmQ2Z2w3LUVJY1lVVG41UWl1WmFJX2t3Qmgz?oc=5"
   }
 ]
