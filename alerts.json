@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-09-05T10:11:18",
-    "source": "sentiment_engine",
-    "title": "Sentiment Trade \u2014 SELL",
-    "subtitle": "NVDA",
-    "body": "NVDA at $230.36 (take-profit +8.1%)",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNUhYQzNDeE0tUk5IOExEUk9IcG5ydGZwQ3cwNGFVb2d0bWZIMXpFNGR2d0ZpczA3UlhVa2EzT0VtNXczV1VZWllzMkJZQ0dPc25zNWd6OXo3aDV6TFhjVndOX3pKUkxVOEJsSktsbEpKLWlSTHVvdkdEZUdtU3ZrbnZZU1p4QjhlWFlOY0lfejFNZUZ4eFNEQ3lVUVkxRXk3?oc=5"
-  },
-  {
     "ts": "2026-09-05T16:01:42",
     "source": "movers",
     "title": "Market Mover",
@@ -1588,5 +1580,13 @@
     "subtitle": "BTDR (Bitdeer Technologies Group)",
     "body": "+15.4% to $12.97 \u2014 Bitdeer (BTDR) Fully Contracts A102. Can Signed Demand Become Profitable AI Revenue?",
     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRmlYZ3U0WTZZSlh6Ny1MbUdiZlpzTF9Lek9OSWEzQURvWkFWeUVjLUpiTUtJU0FFNjltdWRONWVUZXNFak80YXVRTVRHb0w5cWxpdjVIbTBKazIzbW5YbUhoU1FvN2xnTTVmM2VuOWd3UHpCRGR5WTVnejV4TEhtemdJcG1qY2ItT0RWWThVU2lBNDhzZjFSMkllMmZ5UQ?oc=5"
+  },
+  {
+    "ts": "2026-09-21T06:21:16",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "MARA (MARA Holdings, Inc.)",
+    "body": "+13.7% to $13.24 \u2014 MARA stock rises on recent trading strength",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQnZmWDBhMFg2NUtYLXpRRW8tcHV4eWNfTDJlRnVRODVzdjV3cmdYWG1XOVZZSWQxZ3NVMm8weHR3UjZma1dVd0x5YndSLU1LQlpNRUNMWHl3RXBKeU52SmFTeWpGOWZhQTdydjhOZVRTQ3VoQTFKa0ZaSXMyU1NLRVVXUzgzZUJoeE9UYW1kWGJUbE1NSloyNDFEN1YwR0hXQVV6LQ?oc=5"
   }
 ]
