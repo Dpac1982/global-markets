@@ -1,5 +1,5 @@
 {
-  "cash": 31404.273928562776,
+  "cash": 43637.71564779358,
   "positions": {
     "BTC-USD": {
       "qty": 0.15407893897390648,
@@ -20,11 +20,6 @@
       "qty": 18.357325269137224,
       "entry_price": 653.6900024414062,
       "entry_date": "2026-09-10"
-    },
-    "GOOGL": {
-      "qty": 34.99868804763331,
-      "entry_price": 342.8699951171875,
-      "entry_date": "2026-09-17"
     },
     "MSFT": {
       "qty": 24.108488196885986,
@@ -212,6 +207,15 @@
       "exit_price": 490.29998779296875,
       "return_pct": -0.29,
       "reason": "sentiment turned negative (score -2), -0.3%"
+    },
+    {
+      "symbol": "GOOGL",
+      "entry_date": "2026-09-17",
+      "entry_price": 342.8699951171875,
+      "exit_date": "2026-09-21",
+      "exit_price": 349.5400085449219,
+      "return_pct": 1.95,
+      "reason": "sentiment turned negative (score -2), 1.9%"
     }
   ]
 }
