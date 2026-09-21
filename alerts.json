@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-09-05T16:01:51",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "COHU (Cohu, Inc.)",
-    "body": "+10.3% to $50.72 \u2014 $COHU stock is up 7% today. Here's what we see in our data.",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbFZLc1gzaVhTck1qR1lWQUkzY2JReGROM05rUTJMYWdrbzdrUXloSG1JZFEtMU9oRVd0NGxHeEl6Uk1RR3YwbExhSndqTHJyTVV3c1Y2ZVBMVkhPN0lZUDlGTmlNS2RlMG1DTVZkRU80N0liX2dFdFNyb1dlQVVFb09JdGI5N3VuZ2NYZGFZM0l0ZUFqZG56amdTQTZLNUU?oc=5"
-  },
-  {
     "ts": "2026-09-05T16:01:53",
     "source": "movers",
     "title": "Market Mover",
@@ -1588,5 +1580,13 @@
     "subtitle": "GOOGL",
     "body": "GOOGL at $349.54 (sentiment turned negative (score -2), 1.9%)",
     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObFBuY29aVUhlRzl5MGkxZHVOMHhLbDB6Z09HcFV0UnVtOFlZeDI1TW9xVkQyRVJwQVdwSXFMak9wTHJhTEE3UGNvZzhuSjdzZnVRT2tKcFBkdkFJYlJDUFB6cXNNTnF1aWU2azJOOWpSUHdTNlhnSWRZNW1NcGRsRnIwb2ZqcGhmLXpKWjhJa1UxMmxyNHlEd1FKbFhPZVJoUENjMDd3?oc=5"
+  },
+  {
+    "ts": "2026-09-21T14:28:19",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "COIN (Coinbase Global, Inc.)",
+    "body": "+11.7% to $194.25 \u2014 Coinbase Stock Jumped 12% Last Friday. Bitcoin\u2019s Breakout Wasn\u2019t the Only Reason.",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcEsxWFlCaWY4UG9sUUVDaUhOZkxpUk1ha1JiYnRhUDg4enhnY3lzVk1tSEVXNGZKWG8zNmZLMk9PX2ZTMEtKYWFadURlLUdyZFU3YWlheGJ2N1Rxa3U2czFqazF3NVYxUG1IODM1aFo3QjlKR1ZITWhtRGM4bHl0X0QxNW9nb2g1NjBINEtZTXBQN1V5SUJPNG9B?oc=5"
   }
 ]
