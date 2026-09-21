@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-09-04T23:50:16",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "ASAN (Asana, Inc.)",
-    "body": "-12.9% to $8.79 \u2014 Asana Announces Second Quarter Fiscal 2027 Results",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTGlHbE5OYTN2YmpVZzNQQ3dRemlsX1pXbDVXWU9ZMUxNS09IUmNiWXJuaGRaVTZWNGJQdzd5ZTFHbU9ibVlDQ1NrTjBzUE52Z0ZjWEtRVmhab1VZN05jWHVKYlRYRm5ULThIUXNMWC1Sbzk1QWx3cDNJYW9GZFgwa1UwRG9aRmhxalJqeDZ2QjRDU1ZCT0dHRTRJZ1J0Q2loU3pkSGZWWGhqMGJJXzU3RFB3dXM?oc=5"
-  },
-  {
     "ts": "2026-09-05T10:11:18",
     "source": "sentiment_engine",
     "title": "Sentiment Trade \u2014 SELL",
@@ -1588,5 +1580,13 @@
     "subtitle": "MSTR (Strategy Inc)",
     "body": "+16.4% to $153.92 \u2014 Bitcoin Isn\u2019t \u2018Pumpable\u2019 Right Now And That\u2019s Hurting MSTR\u2019s Stock, Says CryptoQuant CEO",
     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQ3dMVUx4QVZ4MUFJQ1JtaVA4RkhUS2phZ3RMOTNESmlvTGxja3BHankyelU0YzNLMl9vZkplR1FsMHk2SlBDcmJ3VVZBZFF0VjFPeEZnSHRvQVAydnY4djEzTjlCNmRUVWl3WmdjOFotcFZTY0twLUI3ODhzc193OHBuRUptVXR6V09ZU0xsdnNZaE0zV2ZGYkljaW9qNy1BbGJlUkFUZ2pRMHRYRHBMQnpxdzZzcl9ULVhQMmsxdXV1LTI1Y3hDTkhVdWlzdk1lSVE?oc=5"
+  },
+  {
+    "ts": "2026-09-21T06:21:13",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "BTDR (Bitdeer Technologies Group)",
+    "body": "+15.4% to $12.97 \u2014 Bitdeer (BTDR) Fully Contracts A102. Can Signed Demand Become Profitable AI Revenue?",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRmlYZ3U0WTZZSlh6Ny1MbUdiZlpzTF9Lek9OSWEzQURvWkFWeUVjLUpiTUtJU0FFNjltdWRONWVUZXNFak80YXVRTVRHb0w5cWxpdjVIbTBKazIzbW5YbUhoU1FvN2xnTTVmM2VuOWd3UHpCRGR5WTVnejV4TEhtemdJcG1qY2ItT0RWWThVU2lBNDhzZjFSMkllMmZ5UQ?oc=5"
   }
 ]
