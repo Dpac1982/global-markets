@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-09-06T08:27:22",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "PATH (UiPath, Inc.)",
-    "body": "-16.6% to $15.19 \u2014 PATH Shares Dip After-Hours Despite Double Beat In Q4 \u2014 Retail Says \u2018Block The Noise\u2019",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRTRfWG1tMTAxbDJqUXhQSTNwd09Qc29YUGVIQ0ZvMTFpRFFyUGd6MlMwSEhwNm5CWHRrNjZ5M243Wi1iVmVqaHNaQmN0VFViX004ZFdhdzhPaWVQX3N6dEk3cjhYeTJEV0dLRUpBUnpYOC1rbkRwUVR2SHBmbEFwYUd0b19Gd09xLS1LaldfbEhMRkRaYUJ1Y0pzRnhTVHdHVzJOUHBObThfdDFocXFDNW81N0ZLSjFQ?oc=5"
-  },
-  {
     "ts": "2026-09-06T08:27:25",
     "source": "movers",
     "title": "Market Mover",
@@ -1588,5 +1580,13 @@
     "subtitle": "GOOGL",
     "body": "GOOGL at $355.24 \u2014 Alphabet Rises 1.75% as Google Faces a Six-Month Data Deadline",
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWEZINl85TE1BdnM1QzhzeFJ0ajUtelZsdkpWR2pLcm9SaWJMMWY5OXg5ZlI1eFF4UlJ3U0xhZjhuU0NtOEI5bnFDUWRWeVhLZkppWDE4WWdoSHZTMFlVYmFjM2Nma3N1dUlLU3pyR0pqWDhhOUVFQnd6Y045elZYMy1OelAyZWNGNENSVWdMekE3TWdIbHc?oc=5"
+  },
+  {
+    "ts": "2026-09-21T22:04:38",
+    "source": "sentiment_engine",
+    "title": "Sentiment Trade \u2014 SELL",
+    "subtitle": "META",
+    "body": "META at $742.47 (take-profit +13.6%)",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdVVqMlowd0NaNVpxZHBBNld0Nkh4Mm1yZldJcERVMVlpXzlpb0piWlkzRHdoMUU4dGlQZ3E3MEg3S3dNYnFudUJETGJQYkx3UHBaOXI0aWtOb1FZZ1dTSzlxOFZxdTN1TjdvNnB1YV9CeEhNdnFYV3VuUmtEVEctZE1nUGw1RFl2Q2xoQzZsRm1EeFhjdkMzZTdB?oc=5"
   }
 ]
