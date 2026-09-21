@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-09-05T16:01:48",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "SNDK (Sandisk Corporation)",
-    "body": "+11.9% to $1740.00 \u2014 GOOGL, AMZN, SNDK Stocks Hit 52-Week Highs Today: What's Fueling The Rally?",
-    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcHVtbEVCaXN4ZV9QNFczZ29VSXRDYkxJRDZHSE9nTG1iS2xzSFNDSG5jR2xqeV9HOGhQY005aE5TS2tobjN1ZENGM3B6MjRxQkJscnAwdTBzb1BNOWlSaEVhU1dZSnhpQXV1cE1mQ3dzMy1lMzRJRzdyQ0VnN0xDdE84eUNSblRkR3JSNTVxXzBYdjN6Yk1UMnBLdHEyRFVHVE9SbE1NQmhqY3BFUk9wV3k4NWYyN1BaMnZFRW5HSGJOR014c2twV05pVnNRcW41RkE?oc=5"
-  },
-  {
     "ts": "2026-09-05T16:01:51",
     "source": "movers",
     "title": "Market Mover",
@@ -1588,5 +1580,13 @@
     "subtitle": "SBET (SharpLink, Inc.)",
     "body": "+13.2% to $9.35 \u2014 Ethereum Treasury Stocks SharpLink and BitMine Eye Further Upside as ETH Targets $3,000 Rebound",
     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOOUc1QW9sWEpEYjU4M2c2bUhnZmc5UzQ1WExFNkJXZHVIZWlwTDh3a1JDckhTMEZzUW5iUW4tRW5ITkF3cWxJUURGUzZFSEdtYU5PU0NsSFcwclRJWGNjcTYzUmh2ZzU2RUhCMEVTaHBfSlJsZHAyc3BmVWRhVkR5MTNpY0hCcUZtOV9iYUZENVV6UERmY1BPVy0wQ2t1YjlJNlR3dHQyUVpNb3lXc0lUQXlabXlJVWtrc1VqSV9pUzZSOFVzY3ZTWlRHOGhnUkJDWlgxcm9zelZnRXFIWkl0aWNn?oc=5"
+  },
+  {
+    "ts": "2026-09-21T08:39:25",
+    "source": "sentiment_engine",
+    "title": "Sentiment Trade \u2014 SELL",
+    "subtitle": "GOOGL",
+    "body": "GOOGL at $349.54 (sentiment turned negative (score -2), 1.9%)",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObFBuY29aVUhlRzl5MGkxZHVOMHhLbDB6Z09HcFV0UnVtOFlZeDI1TW9xVkQyRVJwQVdwSXFMak9wTHJhTEE3UGNvZzhuSjdzZnVRT2tKcFBkdkFJYlJDUFB6cXNNTnF1aWU2azJOOWpSUHdTNlhnSWRZNW1NcGRsRnIwb2ZqcGhmLXpKWjhJa1UxMmxyNHlEd1FKbFhPZVJoUENjMDd3?oc=5"
   }
 ]
