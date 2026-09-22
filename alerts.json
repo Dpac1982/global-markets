@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-09-08T16:48:42",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "ASAN (Asana, Inc.)",
-    "body": "-12.7% to $8.81 \u2014 Asana Stock Sank 13% Despite Beating Q2 Estimates. The Guidance Was the Problem.",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcURDTWxZdlA5b3lTaE9wNmRZakdTM0dvWmZXWW1MMHpMNGN5VzlBNHBsd0w0aHFSQmswRUJiNk1tbGVmdFhXeXl0OGQ0NzNiU2FZczl1cjZPVWI1MDA3NVdLbGhqaXMxaXJEWENuUk4wTGwwaHdTSzR6SmZqY2xTak9vdWcyeTdNSEk4RUtzWHl1RXJVZjJKYl8yc3ZwNGpmbVd3TVVn?oc=5"
-  },
-  {
     "ts": "2026-09-08T21:53:26",
     "source": "sentiment_engine",
     "title": "Sentiment Trade \u2014 BUY",
@@ -1590,5 +1582,13 @@
     "subtitle": "RMBS (Rambus, Inc.)",
     "body": "+10.7% to $96.96 \u2014 Dynex Capital Series C Preferreds: A High Yield Floating Play With Low Call Risk (DX.PR.C)",
     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWjVVQTdVbmtlbVFxV09ZSHU4cFI3a1JwNThkdTVDU3BtVC1zNURxY1BDd2JQcmx5ejk5TmxOMGN2aWhvaGlfanhPaVNRdW4tV2NXa0ZBYlBaUlpUaV9QdkVTU2dsMG8tcUNsQmtVTmNVZEMzdFZMN3ZSNTdQaFI4Z0pIYUNLcHN5ZnNYeXU4cVlFeUxPOEdnZEtJWHdRZmhxOW51bFRtV0c0VHloOE1WTG9aSjZCMWpEQ2JST2FYdTNydw?oc=5"
+  },
+  {
+    "ts": "2026-09-22T16:00:32",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "NN (NextNav Inc.)",
+    "body": "+10.1% to $15.66 \u2014 NextNav (NN) CAO sells stock to cover tax withholding",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQX2FGa1NsaUlWXzhRR0g0ZExSSC1RdlNRaERPUDdlMVdsSE5TWmRfYWhWaW1yRWc5X1BtMDllM1ViVEpINy1sQTVETXJMd0N4aExjQUlwRkZDTFUzQ2RQTFpTdFlsdE5jXzZUekU1aVRwYzBlcFk5LTI4OVdZcGlEeGhweWZ3a1AwTmFJcEhuWC1ydUdJOFZoWEprclVCMFVVWnltVjRB?oc=5"
   }
 ]
