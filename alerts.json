@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-09-08T07:39:36",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "COHU (Cohu, Inc.)",
-    "body": "+10.3% to $50.72 \u2014 Madeline F. \"Maddie\" (Stum) Miller Obituary | Grove-Bowersox Funeral Home | Waynesboro, PA",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOaEFXa3loTzVjQlFGTkM1ZjhTNzZTTG1TZVY0ODR0Z3hwVWpmb1daN3NrcEttcmVudlV5emcyc0FLY09BdWxCRXVpMXNwSmhERFNscUhaX2FCQ0RGd0lHYlZ0UmhTbGRGTVZBaElMYlQ5VUdtcjJUZE1UUzBsTmV3R0JVeEtsRHNQNXE4S2xxQjdET0hUeFFBem1iZ0RlNzFwTVZ2Qi1kU3VuRk9UNUVRcHpNeUVLOUtUaFJtNXphd1d5VWhIbERj?oc=5"
-  },
-  {
     "ts": "2026-09-08T07:39:38",
     "source": "movers",
     "title": "Market Mover",
@@ -1589,6 +1581,14 @@
     "title": "Market Mover",
     "subtitle": "META (Meta Platforms, Inc.)",
     "body": "+11.4% to $741.25 \u2014 Meta (META) Stock Trades Up, Here Is Why",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWUFYa0JKa0VRd25SY21oTll0Mi1WcFpEOXhhVERJb0g3Z2U5a3dyY3NlMVVtRFZDRzcySWFwbU9SbG02amw0NXFQQlYtRzZOTkNzNlNJR0dXQURzVzdGUEVFS0VsRVBEdWRJd29UbTMyN093MERUUmVrbmVOc1oySkZLVFpNdmRfT00xbHVCcVpRRjl2b3c?oc=5"
+  },
+  {
+    "ts": "2026-09-22T09:47:43",
+    "source": "sentiment_engine",
+    "title": "Sentiment Trade \u2014 BUY",
+    "subtitle": "META",
+    "body": "META at $741.25 \u2014 Meta (META) Stock Trades Up, Here Is Why",
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWUFYa0JKa0VRd25SY21oTll0Mi1WcFpEOXhhVERJb0g3Z2U5a3dyY3NlMVVtRFZDRzcySWFwbU9SbG02amw0NXFQQlYtRzZOTkNzNlNJR0dXQURzVzdGUEVFS0VsRVBEdWRJd29UbTMyN093MERUUmVrbmVOc1oySkZLVFpNdmRfT00xbHVCcVpRRjl2b3c?oc=5"
   }
 ]
