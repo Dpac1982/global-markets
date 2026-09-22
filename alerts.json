@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-09-08T07:39:38",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "CBRS (Cerebras Systems Inc.)",
-    "body": "+10.3% to $210.05 \u2014 CBRS Stock Tumbles 9% After-Hours Following Mixed First-Quarter Print and Margin Warning",
-    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOSEtFQmVWYUFiZmxyVG4yeHg3SFkwaVBOdUJiN2syci0weUtyMGtRQzNJbVo4dlRQemtJY2N0eGp3V3piSV9fZTkyclF6WXJkRWd3Y19MU0RzWmp3ek9ydE54RnFIMGJMdUI1dUVIMG85YkxjTUFxbHpRMEx4QVdIZ0wwN0xhdWxsdGNSSTBZY3lDenZmU3JpSnVqMDlOVmNGcEwtTzhoYTZ5TDNsVnFDVU81V0EwdURJdXZnRFlWT3F3eG1XU3hzNEw1T1l4a1c3X01xd280T0dWbTI1ai1YcFpWQncwdw?oc=5"
-  },
-  {
     "ts": "2026-09-08T16:48:30",
     "source": "movers",
     "title": "Market Mover",
@@ -1590,5 +1582,13 @@
     "subtitle": "META",
     "body": "META at $741.25 \u2014 Meta (META) Stock Trades Up, Here Is Why",
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWUFYa0JKa0VRd25SY21oTll0Mi1WcFpEOXhhVERJb0g3Z2U5a3dyY3NlMVVtRFZDRzcySWFwbU9SbG02amw0NXFQQlYtRzZOTkNzNlNJR0dXQURzVzdGUEVFS0VsRVBEdWRJd29UbTMyN093MERUUmVrbmVOc1oySkZLVFpNdmRfT00xbHVCcVpRRjl2b3c?oc=5"
+  },
+  {
+    "ts": "2026-09-22T09:47:50",
+    "source": "sentiment_engine",
+    "title": "Sentiment Trade \u2014 BUY",
+    "subtitle": "BTC-USD",
+    "body": "BTC-USD at $85533.27 \u2014 Elon Musk's X brings bitcoin and stock trading closer to the timeline",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNd0hQUFVEczFUenF3dFdJM194LVVMT3ZwV3dkWDRLb1Z0eFVhT1R2TXhhckNBMDM4OGhEb0Y2RDgwdUEtcHpuWnZncnpUaGdXQ29TbDFUaVB6dGczZUg2MTF1M25rRDllWkppcDdHNEtPblExelJPQXlnVDVtNTRfZFo2ZUQzYVZzcm05RUpKZGw0WFdkQ1B1NHBUZnc2dEtsV1RWaF9Jb09ZSm9Wb2hZMlNEcw?oc=5"
   }
 ]
