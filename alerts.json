@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-09-07T06:32:22",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "BLTE (Belite Bio, Inc)",
-    "body": "+13.2% to $193.61"
-  },
-  {
     "ts": "2026-09-07T06:32:25",
     "source": "movers",
     "title": "Market Mover",
@@ -1588,5 +1581,13 @@
     "subtitle": "SECZ (Securitize Corp.)",
     "body": "+24.3% to $13.50 \u2014 Securitize: The SEC Just Expanded Its Opportunity, But Valuation Is The Test (NYSE:SECZ)",
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRWJyS3VMelFpVmlhcG95RXB6WDE3dmRiUmswR1pvUjBveUR0Y1pITHA3dDFmekMwU3hJdkw4eVduU3BSUnBFc1FadmVhSjR6NklPcWpkYVRlMlBvOWlvSW1ESlB0UVFQaEVEdUdoNWo3NU5aazF3SE50RGVyUmZ5aURGM2RrMDU5aldfc0tOLVlESUdvcnItQ3RSQzMzdXN1OTJrNEN2MldaSmxmV3NGSll1c0R6dw?oc=5"
+  },
+  {
+    "ts": "2026-09-22T04:59:00",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "ARM (Arm Holdings plc)",
+    "body": "+17.2% to $322.90 \u2014 Meta\u2019s Muse AI Agent Triggers Intel, Chip Stock Rally. AMD Hits $1T Market Cap.",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5SSTIydHlWS0FFdS1GRHczbHByd0d5aXU0OEF5X1lkTUdVTjlldTlVdEYwZHNxR0Z3M0RvWnU2TXBKV2R3NDViTFoxZDlVV3RfQ0NaZVQ4VXhFdmdpVXh6eER2YjlhOTRrRVktQ3h5Ykd2THBmcmZiTVI0YTNWdw?oc=5"
   }
 ]
