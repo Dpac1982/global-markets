@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-09-08T07:39:26",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "BLTE (Belite Bio, Inc)",
-    "body": "+13.2% to $193.61"
-  },
-  {
     "ts": "2026-09-08T07:39:30",
     "source": "movers",
     "title": "Market Mover",
@@ -1589,5 +1582,13 @@
     "subtitle": "DOCN (DigitalOcean Holdings, Inc.)",
     "body": "+12.3% to $146.16 \u2014 DigitalOcean (DOCN) Shares Skyrocket, What You Need To Know",
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZlAwSmJ5dTljVEtrQnFUNDV1TkJrUFdMZVBRdi1oV2pZQ2h0UFNyTDEzeDlYOHROeFBDNWF3d3BxMzVaT3Q4ck5HZkFzTEM0Rm9zQjhDRGtrX1dKT2lDcUc0OG4zZ2M3RnVWVFRTa25nNDd6eTF4VWVhYWNZTFZYMHZDMEJMTUttcUJFTFFBd2U0UG9GR1R6ZU5HN0FYS3dhNG9OTEtWaw?oc=5"
+  },
+  {
+    "ts": "2026-09-22T09:44:32",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "MRNA (Moderna, Inc.)",
+    "body": "+12.3% to $172.94 \u2014 Moderna Stock Jumps. Its mRNA Cancer Vaccine Is Getting Ready for Its Next Big Test.",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOOFVMT1VVOUFTY1YwVU1aOXJUTU5GRmFqeGhzdzNVRFBCRXl1eXdKOWdCWUswemZWZThvWUQxT3V5cnNSRHQ0bDQ5ZFVURDhzbEtBX0VpeDFKVThwRko1NXVGQ3ZYcTI1T0ZGM0djaWh5S2pJQ25BUmVwYTV1YVJoZ25R?oc=5"
   }
 ]
