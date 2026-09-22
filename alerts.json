@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-09-08T21:53:26",
-    "source": "sentiment_engine",
-    "title": "Sentiment Trade \u2014 BUY",
-    "subtitle": "ORCL",
-    "body": "ORCL at $162.51 \u2014 Prediction: Oracle's $638 Billion Cloud Infrastructure Backlog Could Make It One of the Best-Performing AI Stocks Through 2028",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWGdiVnNxaEViM0VORGhtaWg1bGJfV3hqZUNRTENRR1cwbHBWSmtjclhkanZWZWxQMUFFVVRRY1hBMlJRM3BDV3h0elZ4Yi1NRUcwb1NDRHl3M1htamZLWVEtaTd6YlVkMjhmVC05NVdoVVZfbndfQk9DaEV2cFdQT2RLQzh0U0RfQ0hLV1JQcllta2d3cko1cw?oc=5"
-  },
-  {
     "ts": "2026-09-08T21:53:30",
     "source": "sentiment_engine",
     "title": "Sentiment Trade \u2014 BUY",
@@ -1590,5 +1582,13 @@
     "subtitle": "NN (NextNav Inc.)",
     "body": "+10.1% to $15.66 \u2014 NextNav (NN) CAO sells stock to cover tax withholding",
     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQX2FGa1NsaUlWXzhRR0g0ZExSSC1RdlNRaERPUDdlMVdsSE5TWmRfYWhWaW1yRWc5X1BtMDllM1ViVEpINy1sQTVETXJMd0N4aExjQUlwRkZDTFUzQ2RQTFpTdFlsdE5jXzZUekU1aVRwYzBlcFk5LTI4OVdZcGlEeGhweWZ3a1AwTmFJcEhuWC1ydUdJOFZoWEprclVCMFVVWnltVjRB?oc=5"
+  },
+  {
+    "ts": "2026-09-22T16:00:35",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "BRVE (Braveheart Bio, Inc.)",
+    "body": "-14.3% to $25.02 \u2014 Braveheart Bio (NASDAQ:BRVE) Trading Down 6.6% - Should You Sell?",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUUd5OGMwUzFqeEhKbWpDV1QzNDR2UTdCS1hsNFF3b1Brdm15aXdSZm01TUlXNnJVVWRITGtvZ3cxcTFBcGhCSGVKaU5LVzc1Qm5Lb0ZlMkNYVmxWNUJNOGJhUmtrUnZTS3VXZHlXWjVmbXJveGRrRlo1OV9mOHU4RXhkR1QxN3lUTC1xUTZjSk9xRkcxV1FHeEZBcE5kRGUzRHdRTWdEb0twcU1CbklmRTNwYS1HNGU2MFE?oc=5"
   }
 ]
