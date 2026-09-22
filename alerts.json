@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-09-06T13:36:29",
-    "source": "sentiment_engine",
-    "title": "Sentiment Trade \u2014 SELL",
-    "subtitle": "META",
-    "body": "META at $616.77 (sentiment turned negative (score -2), 0.3%)",
-    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNblJucXk0WHloa1dFT0p0clZrd1pZNHVzSmVEU0l5anNqRnYzOFhxR3lOZzBKSTNyOXlfWXJzZ1ctU29PblNDeGtvUDJTY3lJY2EtOGhtc3FQSlFENFY1QVlnLVNIX3U1R0I5R25Fbi1rNGdKZG1oTGRuVHJ6aWFqbDBuUXBnQ3hiTjZGdmNIZnFDZFFUN3FFeHZNZ19hZE1iZ0JmMHlSLTRWdVpBMU01ZFFmUWdOSVlNWllDWTBiQTZOSGh5MWpnNFJrVml0cmNGSWhGNmVlYXZDcDVQSkhEZFp3VQ?oc=5"
-  },
-  {
     "ts": "2026-09-07T06:28:52",
     "source": "watch",
     "title": "Market Watch",
@@ -1588,5 +1580,13 @@
     "subtitle": "ETH-USD",
     "body": "ETH-USD at $2744.78 (take-profit +11.2%)",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ZeGxvMGZNMXoyOEcxNTFmcEQ3bGstdmVPSWlxUi1SQWN1MnJTNlJ0NUhOc2ZVVUxBNFI5TVl4VEdyQmExZmczMTJVVkliWmQ2Z2w3LUVJY1lVVG41UWl1WmFJX2t3Qmgz?oc=5"
+  },
+  {
+    "ts": "2026-09-22T04:58:53",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "GRAL (GRAIL, Inc.)",
+    "body": "+33.7% to $107.97 \u2014 GRAL Stock Clocks Best Day In Over 1.5 Years \u2014 FDA Papers Lift Galleri Approval Hopes",
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPMEZkNFJZOXFsNFVhcnJuTUtNU1NDWHVUWjNKU0xhcWhYVmpYazJleXctbWlxcjNYYzJOdk5Jdkh2cUROaGdUcFF6eXVQT0NneS1pdDkyVGFiWWZ4Y0ZUYWxZYWNkVjZwREoxX09hMkl2VkhsdDNLaW9CVGV4UEFxRXpvbW5iS0txZmVxZmMwcHZSeVpqc3FYM3c4NUVnU0h2aUNlTHlGd1g1LVdCZ29YeXRvYmdudGhiVDdoaExwNEtXMnhNUDBjTE9vb3lyQUNlSHRnRVVPRGNCaU9aa2lBRA?oc=5"
   }
 ]
