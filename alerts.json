@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-09-09T04:54:19",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "DOCN (DigitalOcean Holdings, Inc.)",
-    "body": "+12.6% to $126.69 \u2014 Why DigitalOcean Holdings (DOCN) Stock Is Up Today",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTTdZQ3pqUmZmZzQ3V3o1Y1NjeUtBdTJSRHVRdnZ6dl9WcGtSckg1N0h0WWlZdXRqYmoxaTlGbGtOenFYZHRRam5uc0NNcEU3LVRheWYzMnYzalZyb2tvcmlEWVRLRnYzaUlHUW1CNGVtUXN3MWNlQUlMNnBVMGM0OFlsbGtNZUlOVU9JVHAyV3g?oc=5"
-  },
-  {
     "ts": "2026-09-09T15:51:03",
     "source": "movers",
     "title": "Market Mover",
@@ -1588,5 +1580,13 @@
     "subtitle": "PBLS (Parabilis Medicines, Inc.)",
     "body": "-11.1% to $33.95 \u2014 Midday Movers: Securitize Surges Nearly 12% While Biotech Stocks Slide \u2014 Wednesday, 23 September 2026",
     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZnJKbHNvWFZUaHNfdkp6dU81WGM3SFVBaWlTVHl3NHB6d1RBRHJ6NmlxODdWa2hXblNLMlpiYUpYNTNXUjMwOWZuN3FRUHR1Y0lpb1NTOUgwVTQxeEJRaWNiNDd4dUprYkdFWWVzZ2c2bDNzNE15NmtHVGNaV2dwMktIMTZRQk1FMzVrQUdJbVBld2VSQk9qS216THFfUUpHNXdKWWdEemE5WmpFMWlfZ0VvU2Rib3VDSVNBT2tXeVVneGZhLTFBTTZ4SEp0Q1V2dlNVT0hndWh1VF9CWkE?oc=5"
+  },
+  {
+    "ts": "2026-09-23T20:47:31",
+    "source": "sentiment_engine",
+    "title": "Sentiment Trade \u2014 SELL",
+    "subtitle": "PLTR",
+    "body": "PLTR at $190.60 (take-profit +10.9%)",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdjNRTktob1lWdUl6SDdDYjAyNXJYejVlSDNkZUZ1Q3RnX3pqQ3M2NWxMdU1WM1hrWmV1dURZeHJDQ3ZXdEZleWYyR1VBQ1FBdDNPSVNhRk12OVlILWI1WlhqeHFkZV9GUGIwR3A4TmVmZ3k0TFdOV3pwNDhMYnZsLVdrTEMyUzZxeURN?oc=5"
   }
 ]
