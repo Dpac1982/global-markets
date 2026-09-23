@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-09-09T04:54:07",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "ROIV (Roivant Sciences Ltd.)",
-    "body": "+18.8% to $41.48 \u2014 Roivant Sciences (NASDAQ: ROIV) director moves to sell shares after option exercise",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRGFGUlFwcEhORlgwWnhUVVRWWU5vUlN2cWd6Ylp5UmhMWTdhY0pMaEFUcUd1QUV1MTlKRkFMdEhQQXFHLUNhbExJQlA1UE1XMTJ5bkM2TGNwSExDeUE3WUtTZWEwWno4NGVCd1BZZHR4UU1LSFd6UmYzc1ZoemdfaURSbkJ2bWV4Z3VVTHhYaS1WMjhLRldGZ0xFb3pzZw?oc=5"
-  },
-  {
     "ts": "2026-09-09T04:54:10",
     "source": "movers",
     "title": "Market Mover",
@@ -1589,5 +1581,12 @@
     "title": "Virtual Trade \u2014 BUY",
     "subtitle": "NVDA",
     "body": "NVDA at $224.25 (uptrend + MACD bullish cross)"
+  },
+  {
+    "ts": "2026-09-23T20:41:20",
+    "source": "trade_engine",
+    "title": "Virtual Trade \u2014 BUY",
+    "subtitle": "PLTR",
+    "body": "PLTR at $190.69 (uptrend + MACD bullish cross)"
   }
 ]
