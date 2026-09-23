@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-09-08T21:53:30",
-    "source": "sentiment_engine",
-    "title": "Sentiment Trade \u2014 BUY",
-    "subtitle": "PLTR",
-    "body": "PLTR at $171.82 \u2014 Nebius Rises 6% as Palantir Names It Preferred Sovereign AI Partner; Palantir Stock Slips",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZGI5RzBZV2k2aGtWc0R4MjU2MGQyMjFrbk1iXzlZUGhlSElpVWgtSmZpUHRXclRTVWx3S1BPRkExVXRURjBJYVhZZWU3ZU9iSnFFWGtTTk5jcDNGZ1VaQXhwN3d5NzFPZ2pxdXN1U2wxY2Y5OHFMamUxRWVDZE1zMmZzU3VwMmdwZHlxYXBMbDRIZldRaXN4cg?oc=5"
-  },
-  {
     "ts": "2026-09-09T04:54:07",
     "source": "movers",
     "title": "Market Mover",
@@ -1590,5 +1582,12 @@
     "subtitle": "BRVE (Braveheart Bio, Inc.)",
     "body": "-14.3% to $25.02 \u2014 Braveheart Bio (NASDAQ:BRVE) Trading Down 6.6% - Should You Sell?",
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUUd5OGMwUzFqeEhKbWpDV1QzNDR2UTdCS1hsNFF3b1Brdm15aXdSZm01TUlXNnJVVWRITGtvZ3cxcTFBcGhCSGVKaU5LVzc1Qm5Lb0ZlMkNYVmxWNUJNOGJhUmtrUnZTS3VXZHlXWjVmbXJveGRrRlo1OV9mOHU4RXhkR1QxN3lUTC1xUTZjSk9xRkcxV1FHeEZBcE5kRGUzRHdRTWdEb0twcU1CbklmRTNwYS1HNGU2MFE?oc=5"
+  },
+  {
+    "ts": "2026-09-23T20:41:16",
+    "source": "trade_engine",
+    "title": "Virtual Trade \u2014 BUY",
+    "subtitle": "NVDA",
+    "body": "NVDA at $224.25 (uptrend + MACD bullish cross)"
   }
 ]
