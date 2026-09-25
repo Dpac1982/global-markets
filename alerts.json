@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-09-10T15:03:41",
-    "source": "watch",
-    "title": "Market Watch",
-    "subtitle": "TSLA",
-    "body": "OpenAI to end model access to Cursor after acquisition by Elon Musk's SpaceX",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE90bmQ0enBvenh2RFZzWDJtV2FWRnFMVzNRMEJrbG1RSmtWbnZ6MU1XcHV0TUJ1dll3YkJJM1RSMUgyRWVsV3NTeHpUV1JOeEZVb01TRkctT0c0NjZIc0haWFVTdzVkSmFLM1htanRGeVJZMmxNb2NaWnBn0gF_QVVfeXFMTnNMYVB6Q3hkc1l0NnRTSVhOeU5uT21nbUxOZDZjU2ota0tocTk2a3JjOWdxeUp0M2ttVUpHNk1ZTlB5MWp6QkR5c21aUlduUERGbzRZenhNZ1ZIQVVWTWt6RmJJdW8xcVAtRW05NnIxVGI5UE1uaVA4Q0V6NWd4cw?oc=5"
-  },
-  {
     "ts": "2026-09-10T15:13:00",
     "source": "movers",
     "title": "Market Mover",
@@ -1588,5 +1580,13 @@
     "subtitle": "WRBY (Warby Parker Inc.)",
     "body": "+12.5% to $26.27 \u2014 Warby Parker Inc. Class A (WRBY) Stock Price | Live Quotes & Charts | NYSE",
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3REJxcjJoLWdrN090THZTRlIxUUg3eEpNbFJzUmFVZG04cEJHc1dyOGVPblVWZS1EaHNKVDZWTmx6U2lBTk1ydkxqeWNrUUZ6ekE?oc=5"
+  },
+  {
+    "ts": "2026-09-25T10:05:48",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "TXG (10x Genomics, Inc.)",
+    "body": "+11.2% to $84.11 \u2014 10x Genomics, Inc. (TXG) stock price, news, quote and history",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5KSU9PU29TUHdGajQ1VmNibGNVaHcwdkN2RTJ5SlpfTmFDUUlnVUpYYWw1Q3lZYk5PX2lFQWROaXJJMWtURjNvaVJWTjFpcUFy?oc=5"
   }
 ]
