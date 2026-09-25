@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-09-10T15:33:46",
-    "source": "watch",
-    "title": "Market Watch",
-    "subtitle": "TSLA",
-    "body": "OpenAI to end model access to Cursor after acquisition by Elon Musk's SpaceX",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE90bmQ0enBvenh2RFZzWDJtV2FWRnFMVzNRMEJrbG1RSmtWbnZ6MU1XcHV0TUJ1dll3YkJJM1RSMUgyRWVsV3NTeHpUV1JOeEZVb01TRkctT0c0NjZIc0haWFVTdzVkSmFLM1htanRGeVJZMmxNb2NaWnBn0gF_QVVfeXFMTnNMYVB6Q3hkc1l0NnRTSVhOeU5uT21nbUxOZDZjU2ota0tocTk2a3JjOWdxeUp0M2ttVUpHNk1ZTlB5MWp6QkR5c21aUlduUERGbzRZenhNZ1ZIQVVWTWt6RmJJdW8xcVAtRW05NnIxVGI5UE1uaVA4Q0V6NWd4cw?oc=5"
-  },
-  {
     "ts": "2026-09-10T17:11:01",
     "source": "movers",
     "title": "Market Mover",
@@ -1589,5 +1581,13 @@
     "subtitle": "QURE (uniQure N.V.)",
     "body": "-10.4% to $38.32 \u2014 $QURE stock is down 9% today. Here's what we see in our data.",
     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZ0FCclhmUTJXRVM0NzJLNk5kc3R3SzB3eUEyczdDYTZ4OWpUeGpaVkxOSUdSaHJxTklhVk1STHlrN2xTd0gwNlJWVmhHZTZRUGdmSDk1SV9yWUJTb0tzMWxNOV9tR1dKSE4xbHYxUE1Hcjk1RU5BYnBOS25uUXdlc0ZFZ3J6VE1zV1V5U0tnbF9taENtVFRCWmpUcWZ1MlJFSFE?oc=5"
+  },
+  {
+    "ts": "2026-09-26T01:28:18",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "PPLI (People Incorporated)",
+    "body": "+11.3% to $40.00 \u2014 People Incorporated advances 11% amid MGM takeover speculation (PPLI:NASDAQ)",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNV3FZNWMyektTeXl0SEhaZXZrQzJwTnJvN1hfQkZNdFVUaURkRnBwMTJkaG9lbzlqR0hVMWVfTHhzd1dpRjgzM3czZVNUQUpOakVISWJEbm4wNjNkUFJLVFctMEdBakoydjFvbGJoY25YX1FDVlo0TW9qMkxJTTdaalpQUGUydUxhdXVQM0RiTWVKZmtaVFcxMzl0cGU5TjhC?oc=5"
   }
 ]
