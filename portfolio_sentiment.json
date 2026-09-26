@@ -1,5 +1,5 @@
 {
-  "cash": 49169.45675811515,
+  "cash": 61337.98246163539,
   "positions": {
     "MSFT": {
       "qty": 24.108488196885986,
@@ -10,11 +10,6 @@
       "qty": 33.77998066063119,
       "entry_price": 355.239990234375,
       "entry_date": "2026-09-21"
-    },
-    "META": {
-      "qty": 16.188870151770658,
-      "entry_price": 741.25,
-      "entry_date": "2026-09-22"
     },
     "BTC-USD": {
       "qty": 0.14029627907048967,
@@ -252,6 +247,15 @@
       "exit_price": 190.60000610351562,
       "return_pct": 10.93,
       "reason": "take-profit +10.9%"
+    },
+    {
+      "symbol": "META",
+      "entry_date": "2026-09-22",
+      "entry_price": 741.25,
+      "exit_date": "2026-09-26",
+      "exit_price": 751.6599731445312,
+      "return_pct": 1.4,
+      "reason": "sentiment turned negative (score -2), 1.4%"
     }
   ]
 }
