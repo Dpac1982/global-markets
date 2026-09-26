@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-09-10T17:31:09",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "NAVN (Navan, Inc.)",
-    "body": "-19.3% to $20.89 \u2014 Navan Stock: Priced For Perfection With M&A A Potential Distraction (NASDAQ:NAVN)",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaWs5VW9lYUVVdHhZa3c5d3FaVHdHVnZFTlhSaENLaTJKX2JleGltakVxVTBfYmxWOVRwY1QtbjBSUzhidDdaRHU4TEpTOXZleEVlZDFQUTdjLUdGUmx6djI5dkxDS01PWkk5Qzk4ZldUeWVhVnBjVmdEQVJVRlU4bVl2QkxGbFNUVG5yQ0txNG1pa0JqMVdVbThXRWNneDNna0xGb19lTXU?oc=5"
-  },
-  {
     "ts": "2026-09-10T17:31:13",
     "source": "movers",
     "title": "Market Mover",
@@ -1588,5 +1580,13 @@
     "subtitle": "ZS (Zscaler, Inc.)",
     "body": "-10.1% to $193.05 \u2014 Zscaler shares slide on CRO departure, but analysts see limited disruption",
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZkhFVnZ3TkdfUEN1YzN3T2lZZ2QxUktkemZyZ3lWWEQ0dHcyOWxLZ0txX29EcnlpNDlHTU9YOFhrbURrVWEtWGtPVjVsamc1TXo0NFgya2NXS2J0WGlQWGFlTWc2bTdPbDJpdjlIX0RXclpBV2hBUkljZXl3d0hHcjluaWNIeXlndVRyRjVMSmloalpuc0JUeXJQNWRsNnhF?oc=5"
+  },
+  {
+    "ts": "2026-09-26T14:36:29",
+    "source": "sentiment_engine",
+    "title": "Sentiment Trade \u2014 SELL",
+    "subtitle": "META",
+    "body": "META at $751.66 (sentiment turned negative (score -2), 1.4%)",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSFdHdTRUcEY3Q1I2enE0TWo2dG1OM1prV3RkVTcxSVVZMFpxVUtieEFZMjg4UkhKazdhYmRRVDdtUy1wUDE1eVhrZ216cDJHS0R0eWVXWE9fQW9GSExPaXFHRTVYdkZ6dHJlSWpZUUNqUWZHM0NZd2NVMWVMUktxdE02T0dDMElPOGMzWWxNY3pyZEV2RnpzOUlkS0lJRTluTGVsM0FnT1Vfdlg1RW9yNkhVMWFvQXpqbVZ1VDVBaw?oc=5"
   }
 ]
