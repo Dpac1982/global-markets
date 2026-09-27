@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-09-11T09:18:21",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "RML (Resolution Minerals Ltd American Depositary Shares)",
-    "body": "-26.5% to $8.53 \u2014 Drill Program Successfully Completed at Horse Heaven Antimony-Tungsten-Gold-Silver Project",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNV25zNTlKS3pKcFhBbUlSeGRoMmxRbVdqT0Q3WWZRMzUxSUYzVGJHdmI2QnByTUxvMjNzRXo1anVHY1J1OWdyRm1qVU1DTXlPNklpN09kYkxFX0hqbGZvTXExOFI3aWg5ajBtdVRzZndFNkxYWDFkWVdQTVIzTXJsVXpEYUxxUVhROG9Pa0VYX0ZTakZNc0d4X0FSWmJyZGJhd2c?oc=5"
-  },
-  {
     "ts": "2026-09-11T09:18:24",
     "source": "movers",
     "title": "Market Mover",
@@ -1589,5 +1581,13 @@
     "subtitle": "ORCL",
     "body": "ORCL at $137.10 \u2014 One Notch Higher Than Junk, Oracle Debt Warning Played Out (Upgrade)",
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNlZ2QXJSOGxlS2NBUy0xaklRdlNqZXRyV3FvQTVEeGpueHZqeFAwMFhXNXA0RUZaSjJPdXktTmlnYTdGNTUzcWFLWUd0N3JQWDRVdUJjX2Q1aXE3Y2lQN2ZzOFVhVWthWkVvQ3ZRUzRNUFd0OTYwQzYxSHZUdFRsRFkzNFJjZkxUU1Rqamo4MW43VDlxYk1ZckNtZ09Tb0k?oc=5"
+  },
+  {
+    "ts": "2026-09-27T21:29:51",
+    "source": "sentiment_engine",
+    "title": "Sentiment Trade \u2014 BUY",
+    "subtitle": "PLTR",
+    "body": "PLTR at $189.67 \u2014 Is Palantir a Millionaire-Maker Stock After Its Rally?",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOWJDUWkwYk8tV0Fjdl9RMldHN05NLVdsTVhUejlJSmVfcHVuV2otWERMVVQ4cHg4alFIZHdVb0xBcDM3clduOG5sd0J0aWVGX0t2dkMwNmNudjE5N1NxVE1DN05vSVp3QnhKN2xsc2dzOHNabzhvOHZ1YWgwMW9lLXpzR3F2elQyZ3RnNHNraEo2YmtPNzlibg?oc=5"
   }
 ]
