@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-09-10T18:47:37",
-    "source": "trade_engine",
-    "title": "Virtual Trade \u2014 SELL",
-    "subtitle": "NVDA",
-    "body": "NVDA at $218.44 (MACD bearish cross, -4.9%)"
-  },
-  {
     "ts": "2026-09-10T18:52:47",
     "source": "movers",
     "title": "Market Mover",
@@ -1588,5 +1581,13 @@
     "subtitle": "Semiconductors, China-exposed stocks",
     "body": "'We've never gotten along better': Trump and Xi talk Taiwan, trade and AI at state dinner",
     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQT3BmbTZEM1A5QTFIYlczTk9rMkxidHEzUEFKWFZTR3lmYUpXeVpDWUlqaVVXUmFteE9GWkJIMkNjWldKUlY1Z2hqZzdlam11WDF2cGpyQ19VWDZiVnlsUDZRQ3lvVkY0czZmeEJYV21ubnA1TjBPbW5nc2pFcEd5d1RfenhVV0lLM0txeEhoNzhRVVQ0NkFqUVFVYw?oc=5"
+  },
+  {
+    "ts": "2026-09-27T08:02:40",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "PPLI (People Incorporated)",
+    "body": "+11.3% to $40.00 \u2014 MGM Resorts International (MGM) Stock Dropped, So What Is Driving Attention Now?",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTmRyVkVGXzR2ZS1XRHR1YjkwVWxUeEJ2OS1jb2ExaTRzQ205Sm8xTV9BM0h4cUVuSzg3WEVDZnk3b3cwa2l5SGlBZE00QlhwWDJJallBbGVlTDRnMXRUWTFXY1JuRDZDcVotWDNrNXl6WmZ2U0kwdE1JV3pENnBKU21yVlBlU0dkRUkyUTlCZ01tT0RDLUVTbW02YzZxM1hqbHc?oc=5"
   }
 ]
