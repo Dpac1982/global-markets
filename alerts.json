@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-09-11T09:18:24",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "NAVN (Navan, Inc.)",
-    "body": "-21.7% to $20.26 \u2014 Navan (NAVN) Stock Price Reset Leaves Growth And Losses In Focus",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOanRNR3pXMVhrNFo2SmFaVE9yOTRveGhVSVdHeFZmc1BueTVZRzNnZUQ0M0VtZHdGQkZTZjE2YkY2dzhSRkdZQmF3UmtmWVkxaVBRNkNya1FwelBCSVJkZ0RBZkhTNkRwQnl2SkdVY1UtYmo5ajBuSXh6V044MTItb2VwRkkxNXFSRHktU1o5d0ZUR2p5Sk9vQ2ptOEd0UG16VTl0WmdwbzVSSEdfM0ZmcjQzNGhxRk42VDJTX0daa2xTcFJ2a3NIdW9lb192Z9IB0wFBVV95cUxORXIyRVAzT1dFakNRR1FtNnJXUEtYSU5yZ2hRVFZERVZIY204elRrd2VwOGFCZmNUTjc0TlZ3ZGx2SXI5VkFINDJJNmVLXzRfTlBhZVBEVnpmM1VPWjVqempQbW5KWUcwcXRCOThqWm94WUhQUkltNVRRWDN0VWU5UmVoNDlSS2FyWkcyVUlHMERoZlg2T2c1U1pQQUtfd1lnenNxSHVNaW83ZnIxS2RaV3V1NjhGaTBodkt5S1A1em51bTItcENRYXVoMzBaekQ0TGNB?oc=5"
-  },
-  {
     "ts": "2026-09-11T09:18:27",
     "source": "movers",
     "title": "Market Mover",
@@ -1589,5 +1581,13 @@
     "subtitle": "PLTR",
     "body": "PLTR at $189.67 \u2014 Is Palantir a Millionaire-Maker Stock After Its Rally?",
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOWJDUWkwYk8tV0Fjdl9RMldHN05NLVdsTVhUejlJSmVfcHVuV2otWERMVVQ4cHg4alFIZHdVb0xBcDM3clduOG5sd0J0aWVGX0t2dkMwNmNudjE5N1NxVE1DN05vSVp3QnhKN2xsc2dzOHNabzhvOHZ1YWgwMW9lLXpzR3F2elQyZ3RnNHNraEo2YmtPNzlibg?oc=5"
+  },
+  {
+    "ts": "2026-09-27T21:29:54",
+    "source": "sentiment_engine",
+    "title": "Sentiment Trade \u2014 SELL",
+    "subtitle": "BTC-USD",
+    "body": "BTC-USD at $84416.44 (sentiment turned negative (score -2), -1.3%)",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUU15dDJjTXJaSGE1emdPanlRMWpoLU9SVzRBNjdiWkQ1Z29oOUlrR0w1V1k2SHRhZXRYVl9YVzgwM2FvLVd5ZEdSY3g0MUh4OFp6MnVIakJlN0doWUVjZG13V0NmcndrX3Z5OEFlbnUyX3hhODlWOU42YWRhMUM5cTVITmVlLVBuQTI1LVVPMmFmRGk2Vy1mNUl1NXk4OHBydnZDa1JzTHVaWF8yRnA0LVVSQzhwXy1ZWWRoaGdiWlprUXJk?oc=5"
   }
 ]
