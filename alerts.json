@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-09-11T22:01:29",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "HPE (Hewlett Packard Enterprise Comp)",
-    "body": "+10.2% to $60.84"
-  },
-  {
     "ts": "2026-09-11T22:01:34",
     "source": "movers",
     "title": "Market Mover",
@@ -1588,5 +1581,12 @@
     "subtitle": "GFI (Gold Fields Limited)",
     "body": "-12.9% to $35.18 \u2014 Gold Fields Limited (GFI) Stock Price, News, Quote & History",
     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBYTWdPbGljV2dBTGpoNGYwZ0N4Um85UWo2SXBOZGRwZFJ5UklOLVJ0M0tKZ2lSekVfRjR2RkxmVFZ4Q0NOd1BYOGhLZnV5RVh3?oc=5"
+  },
+  {
+    "ts": "2026-09-29T03:26:28",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "AUR (Aurora Innovation, Inc.)",
+    "body": "-12.4% to $5.29"
   }
 ]
