@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-09-11T21:59:05",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "DELL (Dell Technologies Inc.)",
-    "body": "+10.5% to $559.85 \u2014 Why is Dell Technologies stock surging today?",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVDJVRDJKSXJpYzBxTUdfdXFacHFjRC1fVE9KRTJFV25OQjI4STJ0MXR0NWM4NTFMaVdzT2dDdWphNzJiWExhNUl2Y19QVU11QU5YaS1IektOVWlfNF9XTXNsT1N6M1FSaWZEY2oydWxHS1hJNXpIQUdCbHRMTDVSLXZnWFhzMHVfMHgxZmk5N2l4SmlwcEtjaVZTOW1ua0hERkhrQmlIdnBMQQ?oc=5"
-  },
-  {
     "ts": "2026-09-11T22:01:29",
     "source": "movers",
     "title": "Market Mover",
@@ -1588,5 +1580,13 @@
     "title": "Market Mover",
     "subtitle": "MDB (MongoDB, Inc.)",
     "body": "-18.5% to $334.68"
+  },
+  {
+    "ts": "2026-09-29T03:10:35",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "GFI (Gold Fields Limited)",
+    "body": "-12.9% to $35.18 \u2014 Gold Fields Limited (GFI) Stock Price, News, Quote & History",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBYTWdPbGljV2dBTGpoNGYwZ0N4Um85UWo2SXBOZGRwZFJ5UklOLVJ0M0tKZ2lSekVfRjR2RkxmVFZ4Q0NOd1BYOGhLZnV5RVh3?oc=5"
   }
 ]
