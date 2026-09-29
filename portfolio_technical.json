@@ -1,11 +1,6 @@
 {
-  "cash": 65582.53958615157,
+  "cash": 77532.4276469079,
   "positions": {
-    "ETH-USD": {
-      "qty": 4.482311775643662,
-      "entry_price": 2677.18994140625,
-      "entry_date": "2026-09-21"
-    },
     "NVDA": {
       "qty": 53.511563681851314,
       "entry_price": 224.25059509277344,
@@ -62,6 +57,15 @@
       "exit_price": 144.05499267578125,
       "return_pct": -6.84,
       "reason": "stop-loss -6.8%"
+    },
+    {
+      "symbol": "ETH-USD",
+      "entry_date": "2026-09-21",
+      "entry_price": 2677.18994140625,
+      "exit_date": "2026-09-29",
+      "exit_price": 2666.010009765625,
+      "return_pct": -0.42,
+      "reason": "MACD bearish cross, -0.4%"
     }
   ]
 }
