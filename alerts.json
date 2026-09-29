@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-09-11T22:01:34",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "SMR (NuScale Power Corporation)",
-    "body": "-13.5% to $8.84 \u2014 SMR Stock Slides After UBS Downgrade \u2014 Analyst Flags Concerns Around Build Timeline, Lack Of Firm Customer Commitments",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRThoVFJPLVM5Tm9Kd1lzTXh4UWU5UGYyM3o0TXlydHBvZmNnSl9jYjBEWEhGel9vbDRSWjlQS01qZ3dJVlZwTnVTanlJVnZUZU5VYWRLNnV5ZzFxMktyaHZERmhIaGlDRS16aXF3cmM4aTQ4UnQtQ2NwZGg0SFJqa0NtU0RFbW03WE0tWWN0aWtXOS11YTBWc054SQ?oc=5"
-  },
-  {
     "ts": "2026-09-11T22:01:37",
     "source": "movers",
     "title": "Market Mover",
@@ -1588,5 +1580,12 @@
     "title": "Market Mover",
     "subtitle": "AUR (Aurora Innovation, Inc.)",
     "body": "-12.4% to $5.29"
+  },
+  {
+    "ts": "2026-09-29T05:58:21",
+    "source": "trade_engine",
+    "title": "Virtual Trade \u2014 SELL",
+    "subtitle": "ETH-USD",
+    "body": "ETH-USD at $2666.01 (MACD bearish cross, -0.4%)"
   }
 ]
