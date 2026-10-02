@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-09-11T22:01:37",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "SLS (SELLAS Life Sciences Group, Inc)",
-    "body": "-12.8% to $11.76 \u2014 SLS Stock Hits 4-Year High: BlackRock Stake Boost Fuels Buzz Around Looming AML Trial Readout",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZUprc2Q0Rnp5bDRMTUVuRnZSb2tkcklvN2Y0cTNLRXR1dkZ0aGVHcGRRSzVNdVUweVJ6ZG9xX1FhWWtiSEEzT1FJVFNFQ1V3VFVNcWJWaFpIbjZaNXk2b08teWdrS2MtZGF5dE51ejdubDVPX0xOSTZUN0dOeUhTc2VXVF9xNDRwQWJyNENzWVlSc1JPWFAwcDl2QWxCbFpIcDZiMDZsdGRHVHI3djhzQl9ZTXFjZkk?oc=5"
-  },
-  {
     "ts": "2026-09-12T09:52:01",
     "source": "movers",
     "title": "Market Mover",
@@ -1587,5 +1579,13 @@
     "title": "Virtual Trade \u2014 SELL",
     "subtitle": "ETH-USD",
     "body": "ETH-USD at $2666.01 (MACD bearish cross, -0.4%)"
+  },
+  {
+    "ts": "2026-10-02T06:39:27",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "CTVA (Corteva, Inc.)",
+    "body": "-83.8% to $12.57 \u2014 Corteva\u2019s Market Cap Tumbles By Over $42B Today \u2013 CTVA Stock Hits Record Low",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOUhvdFdaaXhVN1ZZYUl2cG5HSG1PaGJrU2FZM3JrMERuQUVGbTFleGpiUlRnTkpFRlFmMDNDbzN6d0Y2ZG1CZUtuWk9sTkJKRF9aY1otYXhYUUZ2VVZCbGF4VldNMzNrcExWc2VQbGgwRVMwX01zRkxBalVBdUJ6NXRvRGZ4UXBYLVA4bmlhbHNFWm5TUDh1cENwTW8?oc=5"
   }
 ]
