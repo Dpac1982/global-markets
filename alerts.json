@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-09-14T09:56:44",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "SMR (NuScale Power Corporation)",
-    "body": "-15.7% to $8.61 \u2014 SMR Stock Gains Overnight: Former US Nuclear Regulatory Commission Chair Joins Board",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdWxVMUVRSy1rNHB2SkZ4ZVRBcnJZUjlEVUlmUk5sdl8tMVJTTC1rTzZNTTlsM1Q3bjNFVThoV0ZHS1lPSGdZcFRVOEtneXZac0ZHMkw4U1p5aTFSbURzUko3VmxEVXJzb3VLRnFZSjFncUhXU3EwWjdrVE9zZktJS01TVENUOFNSaFA0RU9vWGlxVWs2MTZqa2FmRjFkZzlLYWZyb0t0VkhaNkdpM25VU19LeFc?oc=5"
-  },
-  {
     "ts": "2026-09-14T11:39:13",
     "source": "watch",
     "title": "Market Watch",
@@ -1589,5 +1581,13 @@
     "subtitle": "STX (Seagate Technology Holdings PLC)",
     "body": "-10.2% to $848.99 \u2014 Why Western Digital and Seagate are seeing big stock drops today",
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQazRZX3hqOVllODd4M2NCWF9hd1NSLWhWaVh3R0JCaUJlVm5DQnJJVER4Nklaa3M4YWFCdm1DY1gxeFl4NmkxclZyc0pEVkxBbnpHRmpGOWFvZ3ZUX1VUVlRzbU9ZbmN2OGNIbEhfbDJoWDJ6amc3UEdRbzVsX1JtcjB1Vjc2R2h2S1dXcTFzaDhGd1NESEZjWlFFSnI2SkxiTGFJWlRnOW1pSDQ?oc=5"
+  },
+  {
+    "ts": "2026-10-03T18:52:09",
+    "source": "sentiment_engine",
+    "title": "Sentiment Trade \u2014 SELL",
+    "subtitle": "GOOGL",
+    "body": "GOOGL at $343.50 (sentiment turned negative (score -2), -3.3%)",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcVh2QklhR0VYMVpaTjNRSnpObDhkQnk5Smp0cm1rU1hXZTk5YUhsS21Ybm93Sl96RlM4ZzJqZXM4WWZ4Q2FzUnM5ZTlsZk1TWHl6Rkw5NWc3TXFDQUVjWXN0QWZmNXFPY2tGNE9wSERJYUM0RGlocXBaRDR6QTAxUVE4Yjh6ZDJWbjVlOFBINnVmYUZwUVhxQklYTkxXcmVINEVkUGh2bm9BN2p2RUlCU3kyQkFLVlJ3VVZMSERMejBrd0hI?oc=5"
   }
 ]
