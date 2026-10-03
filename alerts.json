@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-09-14T09:56:41",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "BGSI (Boyd Group Services Inc.)",
-    "body": "+10.9% to $90.40"
-  },
-  {
     "ts": "2026-09-14T09:56:44",
     "source": "movers",
     "title": "Market Mover",
@@ -1588,5 +1581,13 @@
     "subtitle": "WDC (Western Digital Corporation)",
     "body": "-10.2% to $415.29 \u2014 Why Western Digital Stock Just Crashed",
     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOa21zbk5DRV9PSC1FajdjTkZvNkRlbGUxSHVoOG12NmhUaVBRTGlNRklGeXBENldjRTdQaUpTODAtcDlHekVVRlllUXlaLS1xUVZzTTl6dTNULXdDYlBoOHFzajk5Z3BEYXgyU2tfejBKdmMtbWhMamtSTU80dUs0bkJ2bXpheE1pRjRNMGJLM0Z1WHJZSmFtVHBRRQ?oc=5"
+  },
+  {
+    "ts": "2026-10-03T10:02:13",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "STX (Seagate Technology Holdings PLC)",
+    "body": "-10.2% to $848.99 \u2014 Why Western Digital and Seagate are seeing big stock drops today",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQazRZX3hqOVllODd4M2NCWF9hd1NSLWhWaVh3R0JCaUJlVm5DQnJJVER4Nklaa3M4YWFCdm1DY1gxeFl4NmkxclZyc0pEVkxBbnpHRmpGOWFvZ3ZUX1VUVlRzbU9ZbmN2OGNIbEhfbDJoWDJ6amc3UEdRbzVsX1JtcjB1Vjc2R2h2S1dXcTFzaDhGd1NESEZjWlFFSnI2SkxiTGFJWlRnOW1pSDQ?oc=5"
   }
 ]
