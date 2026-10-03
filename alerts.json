@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-09-14T11:39:13",
-    "source": "watch",
-    "title": "Market Watch",
-    "subtitle": "TSLA",
-    "body": "OpenAI to end model access to Cursor after acquisition by Elon Musk's SpaceX",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE90bmQ0enBvenh2RFZzWDJtV2FWRnFMVzNRMEJrbG1RSmtWbnZ6MU1XcHV0TUJ1dll3YkJJM1RSMUgyRWVsV3NTeHpUV1JOeEZVb01TRkctT0c0NjZIc0haWFVTdzVkSmFLM1htanRGeVJZMmxNb2NaWnBn0gF_QVVfeXFMTnNMYVB6Q3hkc1l0NnRTSVhOeU5uT21nbUxOZDZjU2ota0tocTk2a3JjOWdxeUp0M2ttVUpHNk1ZTlB5MWp6QkR5c21aUlduUERGbzRZenhNZ1ZIQVVWTWt6RmJJdW8xcVAtRW05NnIxVGI5UE1uaVA4Q0V6NWd4cw?oc=5"
-  },
-  {
     "ts": "2026-09-14T14:18:37",
     "source": "movers",
     "title": "Market Mover",
@@ -1589,5 +1581,13 @@
     "subtitle": "GOOGL",
     "body": "GOOGL at $343.50 (sentiment turned negative (score -2), -3.3%)",
     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcVh2QklhR0VYMVpaTjNRSnpObDhkQnk5Smp0cm1rU1hXZTk5YUhsS21Ybm93Sl96RlM4ZzJqZXM4WWZ4Q2FzUnM5ZTlsZk1TWHl6Rkw5NWc3TXFDQUVjWXN0QWZmNXFPY2tGNE9wSERJYUM0RGlocXBaRDR6QTAxUVE4Yjh6ZDJWbjVlOFBINnVmYUZwUVhxQklYTkxXcmVINEVkUGh2bm9BN2p2RUlCU3kyQkFLVlJ3VVZMSERMejBrd0hI?oc=5"
+  },
+  {
+    "ts": "2026-10-03T18:52:17",
+    "source": "sentiment_engine",
+    "title": "Sentiment Trade \u2014 BUY",
+    "subtitle": "BTC-USD",
+    "body": "BTC-USD at $84833.79 \u2014 Bitcoin BTC (BTC-CAD) Live Price, News, Chart & Price History",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1OTUoxc0R0OEZfLUJzRTRneHdSdV9aVWFWbks0bUtpS2g2YTA2eE5NckxEU0JSOUk5U2NYQXYwX3FFQnRSdkZ0aXJhWk52ci15Y1d1Z0lB?oc=5"
   }
 ]
