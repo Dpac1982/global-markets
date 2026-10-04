@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-09-14T21:31:42",
-    "source": "sentiment_engine",
-    "title": "Sentiment Trade \u2014 SELL",
-    "subtitle": "ORCL",
-    "body": "ORCL at $143.68 (stop-loss -6.1%)",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1BeG05UFN2bUVRdG5CdV9MWmYxN2x2c2MwQ084clktUE9fXzAxQXh1dUdKOUZ5SXJHV0VmNldRZ05SdjdobU8wZU5Sb3BiU2xqOHdYRTU1blR6Q2dXNUNueURVYmxFTXZxbnVXbGRXbnhwbUhqUzAw?oc=5"
-  },
-  {
     "ts": "2026-09-14T21:44:33",
     "source": "movers",
     "title": "Market Mover",
@@ -1589,5 +1581,13 @@
     "subtitle": "SYNA (Synaptics Incorporated)",
     "body": "+14.1% to $121.10 \u2014 Key deals this week: Onsemi, Mattel, Nebius, Advanced Micro Devices, and more (ON:NASDAQ)",
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOV2NWUFI5c3oxWDM1MnlqNUJWWVJPeTU0YVFiYWFlR2MwVTA3eHl0MllnNmFscTNvRUJGSWE0VnZybHQ1Yl91aTE2cERkNm8xMDBpZ3RlMXJ4YUNQV1Vld2hBRWtYUi1KYzFRMEw4S2h6R0k0MXZrR0dWRERHdkNsZFBDU09XVzhWeTVhTmFLc0NSX2VoOGxrbEJleWNHN1Vxc3JDMzNqUl9xakZsLTZz?oc=5"
+  },
+  {
+    "ts": "2026-10-04T10:04:09",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "PENG (Penguin Solutions, Inc.)",
+    "body": "+11.6% to $61.36 \u2014 Penguin Solutions: AI Growth Is Real, But The Revenue Mix Matters (NASDAQ:PENG)",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUDVadlBXTHhtOWxsY1QzZGxTT0JXWDVFWDNhWEZ1VzBGWVlnSzVTVDI0S3pNQ2t3NzlPVDIxRnNGMHo4TUhpUjRELVllUXBlTmJNdUExZEJKZS1MM2ZuR010cXhfbDN3a01QTmZKQzBNUWg0QmRCSGNUdzJ6OTRyQndWdFNZUW9weWNlSkp0a2N5SS1DZWRQYk1VX2hmcUJwazNEVGY5OA?oc=5"
   }
 ]
