@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-09-14T14:18:37",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "SLS (SELLAS Life Sciences Group, Inc)",
-    "body": "-14.4% to $11.54 \u2014 SLS Stock Snaps 2-Day Slide: Sellas\u2019 SLS009 AML Trial Spotlights Big Pharma Drug Combo From ABBV, RHHBY And BMY",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNckpDdnRlM1JWMWRnQ0VHeVZQWTdyM0xUUVpBVGtoWEJGVFVnbWRad3dIam1JTkZ0aHpXdWVFUVZxeFFXUDE5anZreXVUTVMtN1RHdlJOLVAzY1pRWlZRc01iYWtFZDlkS0JxZk94TjdQaGU4YnRYenZTT2VJR1R6UVNNdWNtVVY4UXBULS1GWncwVWYxRk8tLXZpdEhaeTVnSTVKMnZqd29XVnhCdlR2MUZwOTI?oc=5"
-  },
-  {
     "ts": "2026-09-14T19:30:04",
     "source": "trade_engine",
     "title": "Virtual Trade \u2014 SELL",
@@ -1589,5 +1581,13 @@
     "subtitle": "BTC-USD",
     "body": "BTC-USD at $84833.79 \u2014 Bitcoin BTC (BTC-CAD) Live Price, News, Chart & Price History",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1OTUoxc0R0OEZfLUJzRTRneHdSdV9aVWFWbks0bUtpS2g2YTA2eE5NckxEU0JSOUk5U2NYQXYwX3FFQnRSdkZ0aXJhWk52ci15Y1d1Z0lB?oc=5"
+  },
+  {
+    "ts": "2026-10-04T10:04:01",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "MXL (MaxLinear, Inc)",
+    "body": "+15.0% to $105.93 \u2014 MXLL Interactive Stock Chart | Leverage Shares 2X Long MXL Dai Stock",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9lOTdZOGhaNF9NREtzU1daOWlINUpBbzJuVkZYYWFjLXFXRmw1d21jaVNYVHVvUWFIdDhDWkNGSE1lWS12YnB6ek1RVmhlMlhE?oc=5"
   }
 ]
