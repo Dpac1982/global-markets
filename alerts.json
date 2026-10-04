@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-09-14T19:30:11",
-    "source": "watch",
-    "title": "Market Watch",
-    "subtitle": "TSLA",
-    "body": "Elon Musk\u2019s teases \u2018new Tesla Roadster\u2019 launch almost a year after OpenAI CEO Sam Altman \u2018cancelled\u2019 his",
-    "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPaHN0djFpelNfTGFqTDBfZDRXV1o2QkJUY0ozaW9fRHFpYTI3V3VEOUdreUxtcDFybktEa0NIN1A3SWpLTF93akk2UWJXeFVtY0RfOFM0azF3aEd3RVdpZ3lmdXROVmlhTlRudHVPV3pWWVVIMTlXb0lDc25GbGdYNVpLNmIwZThJa0pjRTZHU0w2VlZxX21GVF9zZnJxeUEtcTV2Yi1IdjBBS09DUzBPbjg2eVNodTVPN01IMlZPckRiSDJxcFNRU01qTVhDNkJFS3VVXy1PWS0ySWtUSzB6NDF6cmNOWTFuYjQzT0s0ZWsxMWNIdDZhaEJfQjlRNkhxZ0sxWGhQV1U5MG1acGpxQVZMakxuc2PSAZwCQVVfeXFMTjFBYjRBcURIdmdpaGZHY0xfWkpJWC12enBRdDd5MjJUcXJuaDFmYmJDTmNmWDJyVzdjLVU4MDMxNDFpRFlvVE5aWXU2LWRxVTgya0pESDV3aXR4dmp4ekJWUmJQeDZtdkYyQlF1SjZOaVQ5ZFZUZzhWaWhYNVFzR1JBazM5RjNNRTJHZDBhRkhGUFpIZnhVckJFaHl0dVg4ZFNKMnIyLVpRdVB1RjE5ZTQyWGw3Q0NxNGJYQ1RMNkhGWGNkd3RiV0VnbmJWQ3RFWXU3MTFnNEtUTTJUSmZOVW9ZQlJNTmljVjhIYTBYZDhEcWhVZnBiZEpkQUtnWDB1TXd6ZE1nQVZUZ3psM25rZktLVXlpQkRfc2xDSGQ?oc=5"
-  },
-  {
     "ts": "2026-09-14T21:31:42",
     "source": "sentiment_engine",
     "title": "Sentiment Trade \u2014 SELL",
@@ -1589,5 +1581,13 @@
     "title": "Market Mover",
     "subtitle": "IMOS (ChipMOS TECHNOLOGIES INC.)",
     "body": "+14.6% to $83.30"
+  },
+  {
+    "ts": "2026-10-04T10:04:06",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "SYNA (Synaptics Incorporated)",
+    "body": "+14.1% to $121.10 \u2014 Key deals this week: Onsemi, Mattel, Nebius, Advanced Micro Devices, and more (ON:NASDAQ)",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOV2NWUFI5c3oxWDM1MnlqNUJWWVJPeTU0YVFiYWFlR2MwVTA3eHl0MllnNmFscTNvRUJGSWE0VnZybHQ1Yl91aTE2cERkNm8xMDBpZ3RlMXJ4YUNQV1Vld2hBRWtYUi1KYzFRMEw4S2h6R0k0MXZrR0dWRERHdkNsZFBDU09XVzhWeTVhTmFLc0NSX2VoOGxrbEJleWNHN1Vxc3JDMzNqUl9xakZsLTZz?oc=5"
   }
 ]
