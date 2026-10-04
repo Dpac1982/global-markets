@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-09-14T19:30:04",
-    "source": "trade_engine",
-    "title": "Virtual Trade \u2014 SELL",
-    "subtitle": "ORCL",
-    "body": "ORCL at $144.05 (stop-loss -6.8%)"
-  },
-  {
     "ts": "2026-09-14T19:30:11",
     "source": "watch",
     "title": "Market Watch",
@@ -1589,5 +1582,12 @@
     "subtitle": "MXL (MaxLinear, Inc)",
     "body": "+15.0% to $105.93 \u2014 MXLL Interactive Stock Chart | Leverage Shares 2X Long MXL Dai Stock",
     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9lOTdZOGhaNF9NREtzU1daOWlINUpBbzJuVkZYYWFjLXFXRmw1d21jaVNYVHVvUWFIdDhDWkNGSE1lWS12YnB6ek1RVmhlMlhE?oc=5"
+  },
+  {
+    "ts": "2026-10-04T10:04:03",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "IMOS (ChipMOS TECHNOLOGIES INC.)",
+    "body": "+14.6% to $83.30"
   }
 ]
