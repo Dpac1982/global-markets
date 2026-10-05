@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-09-15T02:36:02",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "ZS (Zscaler, Inc.)",
-    "body": "+16.5% to $191.73 \u2014 Zscaler Stock Jumps As Earnings Beat And AI Bets Impress Wall Street",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1Ma29ndEZqSTlVY3Y1Y3V6RUxXb1VaSW9SdXNJNGRPbXpIZ3B5OU1PQURYZWp0Rzh5QWczOTN6T3NrZEo1RENCWUc4eU1Sb0VGdWRKUVB2eWk0ejhycWlGZmIxdUw1ZEdrVTc3UklVZmtRdw?oc=5"
-  },
-  {
     "ts": "2026-09-15T02:36:05",
     "source": "movers",
     "title": "Market Mover",
@@ -1589,5 +1581,12 @@
     "subtitle": "STX (Seagate Technology Holdings PLC)",
     "body": "-10.2% to $848.99 \u2014 STX290119C01200000 Interactive Stock Chart | STX Jan 2029 1200.000 call Stock",
     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE93UURiSS1JeUtXeDQyb1dQdW8xZGpzRmltVU1OUnpDb3o2eXhMRThnclBGc3pUYWxycXlvdExGM2JzUU1iUmlfV2FmLW1ncUxMWWdqMG44WW5jbnZPVUVWTjFhMA?oc=5"
+  },
+  {
+    "ts": "2026-10-05T08:36:57",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "MXL (MaxLinear, Inc)",
+    "body": "+15.0% to $105.93"
   }
 ]
