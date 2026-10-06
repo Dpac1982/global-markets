@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-09-15T11:47:46",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "MNDY (monday.com Ltd.)",
-    "body": "+10.7% to $96.11 \u2014 $MNDY stock is up 9% today. Here's what we see in our data.",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSTlzcmZqVk5wTTA5VThGdUNGcmpUOGphcW5ucjFKb00wbTVFTHk1RFJPVkZoby1wS2lPdUZQdU5jX0dpT3pQcGhpbjVQTUJPTVpQU1NlQ094N3VHTlFZR3l5Z09RTF9KQW9rMmJlZ2dNb3N2VUtWeEpLeko5a2JKdXFBTDEwY2tqazVweVVkbjA4bGNxVkhiMzR3X3hFVmc?oc=5"
-  },
-  {
     "ts": "2026-09-15T17:31:17",
     "source": "movers",
     "title": "Market Mover",
@@ -1585,5 +1577,13 @@
     "title": "Virtual Trade \u2014 SELL",
     "subtitle": "PLTR",
     "body": "PLTR at $188.99 (MACD bearish cross, -0.9%)"
+  },
+  {
+    "ts": "2026-10-06T08:39:50",
+    "source": "sentiment_engine",
+    "title": "Sentiment Trade \u2014 SELL",
+    "subtitle": "BTC-USD",
+    "body": "BTC-USD at $85616.94 (sentiment turned negative (score -2), 0.9%)",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZXZ2SHNnNTZRMWF4RmFXMXZfam1IdVRLejN4RE5xSmcxT1hvd3hJckV1X1lWTlFmVXdmRktLcjkwTFhxandFY0N2aVk3MzVRQVZ4RlRPdDBtMUhCYVhJUUt5cTI3NV9xelNITUJWbERJbjR5bEtQaTRrYXF6T0p3YWhCczZFbExEcC01c0F5R21zUmU4VEhvb3p0bDI0WnQ2Q2U2Ng?oc=5"
   }
 ]
