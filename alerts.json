@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-09-17T15:03:43",
-    "source": "sentiment_engine",
-    "title": "Sentiment Trade \u2014 SELL",
-    "subtitle": "MSFT",
-    "body": "MSFT at $490.30 (sentiment turned negative (score -2), -0.3%)",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORENzOXc4NVpfVnZJelBHUjNGaEY3VkFCZ1NlT2VVc21PY1Q2Sm11WDVJTVZoZElwb3NoNjZmQS1FZklTaXVqRGFKcG5vZkpnMjYyM2hDaHpoa01WMHl2TjZPdXhXc0tRUjk5VW14YUhfTWVJZ0Izcl9kaEJuSUFIS0c1dzQ1a2NTX0YxT1h3U25weXpsalE5RQ?oc=5"
-  },
-  {
     "ts": "2026-09-17T15:03:47",
     "source": "sentiment_engine",
     "title": "Sentiment Trade \u2014 BUY",
@@ -1584,5 +1576,13 @@
     "subtitle": "CTVA (Corteva, Inc.)",
     "body": "+11.7% to $13.85 \u2014 Corteva, Inc. (CTVA) Stock Price, News, Quote & History",
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9DU0lacWh3RTFxNWh0UGZvdXlIalFRMnpQR0hDZDBRc2dMS3M0YlFjWVRwWU1kQ2RNcl9qZGk3eThlQWcxXzR4dnU4MXZNTzRmaUE?oc=5"
+  },
+  {
+    "ts": "2026-10-06T20:51:41",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "LEU (Centrus Energy Corp.)",
+    "body": "+10.9% to $156.84 \u2014 Centrus Energy Corp. (LEU) Stock Price, News, Quote & History",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5KY25tczdfWlRMSmdyU1BHTmZrckxrbnc5WUNwMjhZakpHTlBMRFdJa2FMa2lIbmVHTktTOWgxM3dvNFRycWNJRWRrVlNuTU12?oc=5"
   }
 ]
