@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-09-18T04:26:00",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "GNRC (Generac Holdlings Inc.)",
-    "body": "+18.3% to $207.23 \u2014 Generac Stock Surges on Amazon Data Center Deal. Why It\u2019s a Game-Changer.",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeW0zLWk0WHZZYjJLVWZLTW0yNHJCZ3U4R3hpYldvTmVNTEF5SVRTa1Q3Y0hUNnJJTGZNRk1Rc19aVXJ4dldXaTlRcDJ3VEdORmVhelBiUDl6aEhxVDNMS3NyYXZwS2VJU3NHVFFaUmhtVmQ5ckdtUWQwb0JOanpfa1BRVQ?oc=5"
-  },
-  {
     "ts": "2026-09-18T04:26:03",
     "source": "movers",
     "title": "Market Mover",
@@ -1584,5 +1576,12 @@
     "subtitle": "UEC (Uranium Energy Corp.)",
     "body": "+10.2% to $10.30 \u2014 Uranium Energy Corp Jumps As \u201cTransformational\u201d Year Draws Analyst Scrutiny",
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE43TzBWbkk4X214LUpKOWZ3MTc4WFdpenFKbkpaaURvbkN6RDVncXdtYVZtb1VHZnJ2ajlFaUYxRWJmSzU3ZmdCRVVoSC1Jbm5UUElWLXQ2azVUaWo1VnpLNHZoaDlhVXB2LUZYLU0ySko1RFY0d3NnN0ZkSF9ZME0?oc=5"
+  },
+  {
+    "ts": "2026-10-06T21:11:48",
+    "source": "trade_engine",
+    "title": "Virtual Trade \u2014 BUY",
+    "subtitle": "PLTR",
+    "body": "PLTR at $192.54 (uptrend + MACD bullish cross)"
   }
 ]
