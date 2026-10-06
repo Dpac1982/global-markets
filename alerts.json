@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-09-17T14:18:43",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "PLSE (Pulse Biosciences, Inc)",
-    "body": "-10.1% to $49.61 \u2014 SpaceX, Intel among market cap stock movers on Wednesday",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOWs1a0xuWXE5SUdQbWl1cVE5MVRFUGhhdjZMaEtMc2FzUUtUTlRzTEk3SXhqTnUwT1pUY0tOME4tLXgwYWw0M1ZiUVdCMkpjU1BRbE9TYWFSdWpEcFR6VDd3WDhtWXFULUZYYkRpN09tQXByNXRkcVZlVzEzSFFud2t1aVZycTc2WEQteE5ZcWVyUlNfLWt4RDc3SzNQM1o0ZTYzZ282ZURQSXBFVVhJV05OaHE4R01s?oc=5"
-  },
-  {
     "ts": "2026-09-17T15:03:43",
     "source": "sentiment_engine",
     "title": "Sentiment Trade \u2014 SELL",
@@ -1584,5 +1576,13 @@
     "subtitle": "INIO (INNIO N.V.)",
     "body": "+12.1% to $21.29 \u2014 Top Innio (INIO) Competitors 2026",
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNFc5T0gxcXJ0VzdCTFlHcUZKN21TUEdKTm1GNHFSeHRyeEluMXpRYkFwWE56V2UtS2ZrNTdtVFQ1M0Z6TlFMM2p3ZEhORnRpRmJ2M3NYVzRoZlNOd2ZYMEVOU3JCY2g1ZklCd1hmdE9ZSTd5aHE1TGZXNWY2b0NrNA?oc=5"
+  },
+  {
+    "ts": "2026-10-06T20:51:39",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "CTVA (Corteva, Inc.)",
+    "body": "+11.7% to $13.85 \u2014 Corteva, Inc. (CTVA) Stock Price, News, Quote & History",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9DU0lacWh3RTFxNWh0UGZvdXlIalFRMnpQR0hDZDBRc2dMS3M0YlFjWVRwWU1kQ2RNcl9qZGk3eThlQWcxXzR4dnU4MXZNTzRmaUE?oc=5"
   }
 ]
