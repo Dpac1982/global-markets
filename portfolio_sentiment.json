@@ -1,5 +1,5 @@
 {
-  "cash": 48784.71789219875,
+  "cash": 60895.49664384777,
   "positions": {
     "MSFT": {
       "qty": 24.108488196885986,
@@ -20,11 +20,6 @@
       "qty": 63.2677814933662,
       "entry_price": 189.6699981689453,
       "entry_date": "2026-09-27"
-    },
-    "BTC-USD": {
-      "qty": 0.14145307114785577,
-      "entry_price": 84833.7890625,
-      "entry_date": "2026-10-03"
     }
   },
   "closed_trades": [
@@ -279,6 +274,15 @@
       "exit_price": 343.5,
       "return_pct": -3.3,
       "reason": "sentiment turned negative (score -2), -3.3%"
+    },
+    {
+      "symbol": "BTC-USD",
+      "entry_date": "2026-10-03",
+      "entry_price": 84833.7890625,
+      "exit_date": "2026-10-06",
+      "exit_price": 85616.9375,
+      "return_pct": 0.92,
+      "reason": "sentiment turned negative (score -2), 0.9%"
     }
   ]
 }
