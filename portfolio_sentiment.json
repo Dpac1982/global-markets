@@ -1,15 +1,10 @@
 {
-  "cash": 60895.49664384777,
+  "cash": 72187.95026421164,
   "positions": {
     "MSFT": {
       "qty": 24.108488196885986,
       "entry_price": 497.75,
       "entry_date": "2026-09-18"
-    },
-    "ETH-USD": {
-      "qty": 4.3843464061819715,
-      "entry_price": 2737.010009765625,
-      "entry_date": "2026-09-22"
     },
     "ORCL": {
       "qty": 87.52734840098805,
@@ -283,6 +278,15 @@
       "exit_price": 85616.9375,
       "return_pct": 0.92,
       "reason": "sentiment turned negative (score -2), 0.9%"
+    },
+    {
+      "symbol": "ETH-USD",
+      "entry_date": "2026-09-22",
+      "entry_price": 2737.010009765625,
+      "exit_date": "2026-10-07",
+      "exit_price": 2575.6298828125,
+      "return_pct": -5.9,
+      "reason": "stop-loss -5.9%"
     }
   ]
 }
