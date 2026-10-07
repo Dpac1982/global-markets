@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-09-21T06:21:22",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "SBET (SharpLink, Inc.)",
-    "body": "+13.2% to $9.35 \u2014 Ethereum Treasury Stocks SharpLink and BitMine Eye Further Upside as ETH Targets $3,000 Rebound",
-    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOOUc1QW9sWEpEYjU4M2c2bUhnZmc5UzQ1WExFNkJXZHVIZWlwTDh3a1JDckhTMEZzUW5iUW4tRW5ITkF3cWxJUURGUzZFSEdtYU5PU0NsSFcwclRJWGNjcTYzUmh2ZzU2RUhCMEVTaHBfSlJsZHAyc3BmVWRhVkR5MTNpY0hCcUZtOV9iYUZENVV6UERmY1BPVy0wQ2t1YjlJNlR3dHQyUVpNb3lXc0lUQXlabXlJVWtrc1VqSV9pUzZSOFVzY3ZTWlRHOGhnUkJDWlgxcm9zelZnRXFIWkl0aWNn?oc=5"
-  },
-  {
     "ts": "2026-09-21T08:39:25",
     "source": "sentiment_engine",
     "title": "Sentiment Trade \u2014 SELL",
@@ -1582,5 +1574,13 @@
     "subtitle": "BULL (Webull Corporation)",
     "body": "-19.7% to $5.85 \u2014 Webull stock tumbles on national security concerns",
     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVVJyQ2pYeTF4MVNJSEdLQU9RMm9idHV6bVZQQUtSVGtvc0lPbnhPaE1CaEswYXJzRm1ELVVVTHF6b3lEYTVER09TN3BaampPNFdxbHhkb2hLaVpBNUxJSGFhdGcwaGVjVHZMbWUxbHZ3ZERVRjdZaGFLd1R3TUZiRi1oRFo2TnhRemVuTVk3ZFR4WW9oTGYwcjc0V3dzQ3Y2SmsyWWhn?oc=5"
+  },
+  {
+    "ts": "2026-10-07T18:38:40",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "HESM (Hess Midstream LP)",
+    "body": "-16.7% to $32.23 \u2014 Chevron to sell Hess Midstream stake and DJ Basin assets",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNb2tDS3o1R3dvS185SkYyYzZFSDNCeUZBVVBsUm1FRHR3SkpNRTNUM1VnZGtJSUZldmppc1Q4LUt5RmJuWG1nbUhLUTVFdHEzZnVxYk9IbkpnTXF0UGNUMVVpWnJxMnFyNzh0OG0zcnhWUDBnMExiRVhXZVFrZHdLcXh2eVVWZi1yR0ZuS2xtb1U1WTFH?oc=5"
   }
 ]
