@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-09-21T05:40:22",
-    "source": "trade_engine",
-    "title": "Virtual Trade \u2014 BUY",
-    "subtitle": "ETH-USD",
-    "body": "ETH-USD at $2677.19 (uptrend + MACD bullish cross)"
-  },
-  {
     "ts": "2026-09-21T06:21:10",
     "source": "movers",
     "title": "Market Mover",
@@ -1583,5 +1576,13 @@
     "subtitle": "SDGR (Schrodinger, Inc.)",
     "body": "-11.3% to $28.90 \u2014 Schrodinger Inc (SDGR) Stock Down 11.3% but Still Overvalued -- GF Score: 71/100",
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWExsaXF4VHlycHdLTG00dXdQVzBTdkY1QXRTY0RwS0pUMVlIQ2F5MU9KeVlwMkU1dWJTMXFEdnR2dmpqeFhMbmg1QTVFcUIxdDdKYm8xYXlETzZ2ZG5NcFZIS0tPYVdiLTFTLUJwZ1MyQ2REWnp4OElNTmE5aE5YVUl5bzU2LVk3UVJ6WnI0YlhzaUZTUldra21wekRsckhTYS1IMUV5a2EzNFpjTXRz?oc=5"
+  },
+  {
+    "ts": "2026-10-07T17:20:18",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "GRAL (GRAIL, Inc.)",
+    "body": "-10.9% to $137.28 \u2014 GRAIL, Inc. (GRAL) stock price, news, quote and history",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5nNmt1N19ZcDdaQmJtTWFBcVdSOHdBOTQ1WEt3aW5iTUNTbnVZNUNSZmxEc0V1TVZlRmtRaVFvVE1iTkpBVWt6djhWbG9fVDA5MFE?oc=5"
   }
 ]
