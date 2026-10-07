@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-09-21T06:21:13",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "BTDR (Bitdeer Technologies Group)",
-    "body": "+15.4% to $12.97 \u2014 Bitdeer (BTDR) Fully Contracts A102. Can Signed Demand Become Profitable AI Revenue?",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRmlYZ3U0WTZZSlh6Ny1MbUdiZlpzTF9Lek9OSWEzQURvWkFWeUVjLUpiTUtJU0FFNjltdWRONWVUZXNFak80YXVRTVRHb0w5cWxpdjVIbTBKazIzbW5YbUhoU1FvN2xnTTVmM2VuOWd3UHpCRGR5WTVnejV4TEhtemdJcG1qY2ItT0RWWThVU2lBNDhzZjFSMkllMmZ5UQ?oc=5"
-  },
-  {
     "ts": "2026-09-21T06:21:16",
     "source": "movers",
     "title": "Market Mover",
@@ -1583,5 +1575,12 @@
     "title": "Market Mover",
     "subtitle": "MIAX (Miami International Holdings, I)",
     "body": "-10.3% to $30.79"
+  },
+  {
+    "ts": "2026-10-07T18:36:49",
+    "source": "trade_engine",
+    "title": "Virtual Trade \u2014 SELL",
+    "subtitle": "PLTR",
+    "body": "PLTR at $190.81 (MACD bearish cross, -0.9%)"
   }
 ]
