@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-09-21T08:39:25",
-    "source": "sentiment_engine",
-    "title": "Sentiment Trade \u2014 SELL",
-    "subtitle": "GOOGL",
-    "body": "GOOGL at $349.54 (sentiment turned negative (score -2), 1.9%)",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObFBuY29aVUhlRzl5MGkxZHVOMHhLbDB6Z09HcFV0UnVtOFlZeDI1TW9xVkQyRVJwQVdwSXFMak9wTHJhTEE3UGNvZzhuSjdzZnVRT2tKcFBkdkFJYlJDUFB6cXNNTnF1aWU2azJOOWpSUHdTNlhnSWRZNW1NcGRsRnIwb2ZqcGhmLXpKWjhJa1UxMmxyNHlEd1FKbFhPZVJoUENjMDd3?oc=5"
-  },
-  {
     "ts": "2026-09-21T14:28:19",
     "source": "movers",
     "title": "Market Mover",
@@ -1582,5 +1574,13 @@
     "subtitle": "HESM (Hess Midstream LP)",
     "body": "-16.7% to $32.23 \u2014 Chevron to sell Hess Midstream stake and DJ Basin assets",
     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNb2tDS3o1R3dvS185SkYyYzZFSDNCeUZBVVBsUm1FRHR3SkpNRTNUM1VnZGtJSUZldmppc1Q4LUt5RmJuWG1nbUhLUTVFdHEzZnVxYk9IbkpnTXF0UGNUMVVpWnJxMnFyNzh0OG0zcnhWUDBnMExiRVhXZVFrZHdLcXh2eVVWZi1yR0ZuS2xtb1U1WTFH?oc=5"
+  },
+  {
+    "ts": "2026-10-07T18:38:43",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "IESC (IES Holdings, Inc.)",
+    "body": "-10.1% to $307.27 \u2014 IES Holdings, Inc. (IESC) Stock Forecasts",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOS2czYllYck14bVVzMUlzRVY1OVFxX2NwWWszM1NWWmxRQ2pzc2c3SDk5TWZvbGVpazdYRVpnQ1pWZ0VmNzRNNUd6QVNVdkluRWRySVlNZUR1SGxabXhVZmhWUGJkSXR0V3NaOHcxSGE4OWFTR1VJR2wxMkxmd2ZrM1ItQThvT0V5U1ZoXzl2bW1hdUk?oc=5"
   }
 ]
