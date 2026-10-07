@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-09-20T05:12:47",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "SBET (SharpLink, Inc.)",
-    "body": "+13.2% to $9.35 \u2014 Top BitMine Immersion Technologies (BMNR) Competitors 2026",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBPY3lLbEZoNE5tTjJic0loVG9RX1dWVmdnVDlBSFhZaFdHXzFVclgwajdfaFNsVV9VNEtFN0g4RUxsalh1WkFiVTJaQzBwVWttZF9ESTZIM3dDX0lGcnQ5cUR5R3JXcVdDNU1BeWlqM0xRaFpLSndCN01UOWE1QQ?oc=5"
-  },
-  {
     "ts": "2026-09-20T16:06:13",
     "source": "movers",
     "title": "Market Mover",
@@ -1583,5 +1575,13 @@
     "subtitle": "TXG (10x Genomics, Inc.)",
     "body": "-17.5% to $80.66 \u2014 10x Genomics, Inc. (TXG) Stock Price, News, Quote & History",
     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBMLVA4VUJWb2ZXRXFNM0FiRkcwalpCS1hVMTAzV2FydUtFUVMzSXZmek5mR2xzbHNOdWU4emdRYmQ0dlJ3LVp4Y0VzLWE0Uzhn?oc=5"
+  },
+  {
+    "ts": "2026-10-07T16:06:41",
+    "source": "sentiment_engine",
+    "title": "Sentiment Trade \u2014 SELL",
+    "subtitle": "ETH-USD",
+    "body": "ETH-USD at $2575.63 (stop-loss -5.9%)",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9WUXVKalFOSEt6QWVfTHFiMHpjMzlBaUlKRzNFazloYUVKc2JhbVExdUZ0YUNEdmluQUM0ZWpyY3pYUWdieDVKUno3ZFVqSUh5azNNakVMQUNSYmVNWE42OVFXYV9jd2w1?oc=5"
   }
 ]
