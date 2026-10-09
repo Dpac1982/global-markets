@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-09-21T22:04:46",
-    "source": "sentiment_engine",
-    "title": "Sentiment Trade \u2014 SELL",
-    "subtitle": "BTC-USD",
-    "body": "BTC-USD at $85945.87 (take-profit +10.4%)",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1VandlQUZUZUM5RHN3LWdaRDMwQ1ZPTmp2QUM4TW1yRGxTN0hqSFRVQjV6a2otV0dETnVfQ0FiTTdmclJES2dKUVJQek5PcjkybU54QjdBcU10aUdQa254c0QzbW90RFk?oc=5"
-  },
-  {
     "ts": "2026-09-21T22:04:49",
     "source": "sentiment_engine",
     "title": "Sentiment Trade \u2014 SELL",
@@ -1581,5 +1573,13 @@
     "subtitle": "ARGX (argenx SE)",
     "body": "-11.8% to $818.63 \u2014 ARGX Stock Sinks as Argenx Scraps Late-Stage Trial",
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZ2Z2NjBkN1BQcTdwTEJHcnlXa21pcU8tMVI2QXllRHllS19oM2syZE83dnJyLWZBSUQ0eUNmVzIwUjB1WFQ2YjJmQ0FUSjQ5WUdvWi1FX1F4Y3Zka1QzV2xlQVRiV0VBaTFrSG1kZVZYbFNFamNyaS1jbHVmcEhINFd0LUhQSmpCUzBBa1NHMVkwSlI3elE?oc=5"
+  },
+  {
+    "ts": "2026-10-09T12:41:05",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "EQPT (EquipmentShare.com Inc)",
+    "body": "-11.4% to $15.66 \u2014 $EQPT stock is down 13% today. Here's what we see in our data.",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTTdqdWE1c1FOeG13bkNMdnNyY0w4SUVuQ3FtMU9OZjUwenZBd1lXeXZxWnk1R3VITTBnN2NVZzFZMEJhLUlXbE5Ba0xJLVhnYlRXVmY0dlE3dUFuM180cXpMQmptUGlUbEhJVHFxN1JjclhpR3B2MjlhdEZfOEhKQmpTOVpXaHozRUNIT3NyZWowWXZDZGcwbEg4QnViWEs0dGI4?oc=5"
   }
 ]
