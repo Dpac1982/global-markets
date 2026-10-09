@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-09-21T22:04:38",
-    "source": "sentiment_engine",
-    "title": "Sentiment Trade \u2014 SELL",
-    "subtitle": "META",
-    "body": "META at $742.47 (take-profit +13.6%)",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdVVqMlowd0NaNVpxZHBBNld0Nkh4Mm1yZldJcERVMVlpXzlpb0piWlkzRHdoMUU4dGlQZ3E3MEg3S3dNYnFudUJETGJQYkx3UHBaOXI0aWtOb1FZZ1dTSzlxOFZxdTN1TjdvNnB1YV9CeEhNdnFYV3VuUmtEVEctZE1nUGw1RFl2Q2xoQzZsRm1EeFhjdkMzZTdB?oc=5"
-  },
-  {
     "ts": "2026-09-21T22:04:46",
     "source": "sentiment_engine",
     "title": "Sentiment Trade \u2014 SELL",
@@ -1581,5 +1573,13 @@
     "subtitle": "MXL (MaxLinear, Inc)",
     "body": "-12.7% to $93.70 \u2014 MaxLinear tumbles 13% after extended run (MXL:NASDAQ)",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMHVPd3hHaHctcjR2T2M3QUFpeWhlQ1Q5RFZiQ3VEZ3ZlUExUeXZjN3VjeEt2cWNwVnJVTl9mZlNCQi1EWm55Tzl1dkdXUUdnY196d0FqVnhYMVI2UlctZzhIQ3NodmlHZElkYTllaDRIWVJ3M0dWNG5hbnJMc0Y4N0dZaw?oc=5"
+  },
+  {
+    "ts": "2026-10-09T12:41:01",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "ARGX (argenx SE)",
+    "body": "-11.8% to $818.63 \u2014 ARGX Stock Sinks as Argenx Scraps Late-Stage Trial",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZ2Z2NjBkN1BQcTdwTEJHcnlXa21pcU8tMVI2QXllRHllS19oM2syZE83dnJyLWZBSUQ0eUNmVzIwUjB1WFQ2YjJmQ0FUSjQ5WUdvWi1FX1F4Y3Zka1QzV2xlQVRiV0VBaTFrSG1kZVZYbFNFamNyaS1jbHVmcEhINFd0LUhQSmpCUzBBa1NHMVkwSlI3elE?oc=5"
   }
 ]
