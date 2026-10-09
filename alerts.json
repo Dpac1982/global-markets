@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-09-22T04:58:57",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "SECZ (Securitize Corp.)",
-    "body": "+24.3% to $13.50 \u2014 Securitize: The SEC Just Expanded Its Opportunity, But Valuation Is The Test (NYSE:SECZ)",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRWJyS3VMelFpVmlhcG95RXB6WDE3dmRiUmswR1pvUjBveUR0Y1pITHA3dDFmekMwU3hJdkw4eVduU3BSUnBFc1FadmVhSjR6NklPcWpkYVRlMlBvOWlvSW1ESlB0UVFQaEVEdUdoNWo3NU5aazF3SE50RGVyUmZ5aURGM2RrMDU5aldfc0tOLVlESUdvcnItQ3RSQzMzdXN1OTJrNEN2MldaSmxmV3NGSll1c0R6dw?oc=5"
-  },
-  {
     "ts": "2026-09-22T04:59:00",
     "source": "movers",
     "title": "Market Mover",
@@ -1581,5 +1573,13 @@
     "subtitle": "AXTI (AXT Inc)",
     "body": "-10.2% to $71.66 \u2014 AXT slumps 10%, pushing losing streak to three sessions (AXTI:NASDAQ)",
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVzh2V1N0akhXaTNHemNKSXVBSl9fRWlQQnE4TERYV1RQY2VtQ2pzeDNXa0luckZ6SnNYajdvZk9aT0hoWEVFdWtOdFVyd1I4YjlWUlkzNGJIajJCSHVsRzdLOTBKX2dUbmNSN2htNEtDZzJQWk5TWWkybjN4alZjVE8tV2wzNXpIMHF0T2Q4ZjV1TlhxcGc?oc=5"
+  },
+  {
+    "ts": "2026-10-09T17:35:30",
+    "source": "sentiment_engine",
+    "title": "Sentiment Trade \u2014 BUY",
+    "subtitle": "GOOGL",
+    "body": "GOOGL at $353.19 \u2014 Alphabet Inc. (GOOG) Stock Price, News, Quote & History",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1jeVJwZF93cGNFbUJ0QWJOUHJQeFAyc3BiRFpLbWJPdUdwc0RBQURzeDJDRlZXOEhGclUzTV9RM21kdVdENTYyd2hPS3VXZWtPa3c?oc=5"
   }
 ]
