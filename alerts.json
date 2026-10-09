@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-09-21T22:04:49",
-    "source": "sentiment_engine",
-    "title": "Sentiment Trade \u2014 SELL",
-    "subtitle": "ETH-USD",
-    "body": "ETH-USD at $2744.78 (take-profit +11.2%)",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ZeGxvMGZNMXoyOEcxNTFmcEQ3bGstdmVPSWlxUi1SQWN1MnJTNlJ0NUhOc2ZVVUxBNFI5TVl4VEdyQmExZmczMTJVVkliWmQ2Z2w3LUVJY1lVVG41UWl1WmFJX2t3Qmgz?oc=5"
-  },
-  {
     "ts": "2026-09-22T04:58:53",
     "source": "movers",
     "title": "Market Mover",
@@ -1581,5 +1573,13 @@
     "subtitle": "EQPT (EquipmentShare.com Inc)",
     "body": "-11.4% to $15.66 \u2014 $EQPT stock is down 13% today. Here's what we see in our data.",
     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTTdqdWE1c1FOeG13bkNMdnNyY0w4SUVuQ3FtMU9OZjUwenZBd1lXeXZxWnk1R3VITTBnN2NVZzFZMEJhLUlXbE5Ba0xJLVhnYlRXVmY0dlE3dUFuM180cXpMQmptUGlUbEhJVHFxN1JjclhpR3B2MjlhdEZfOEhKQmpTOVpXaHozRUNIT3NyZWowWXZDZGcwbEg4QnViWEs0dGI4?oc=5"
+  },
+  {
+    "ts": "2026-10-09T12:41:07",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "HUT (Hut 8 Corp.)",
+    "body": "-10.9% to $79.59 \u2014 Hut 8 Shares Edge Higher After Hours - Hut 8 (NASDAQ:HUT)",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOb3pmdlZtMFQ1LTJuMHJuVklueF9scDQ0a0NTXzJwZC1pd3pGVnloM1Q2Yll6QmE5MVhtTXoySWpfRDMzbVdOajNrWDVjck5EZDRNTWVZdld0QVpKdUN3Vlp1SW01ZERnTHJrLXgwR2UwaHFicERmUE5iRU1EU1hmdklfTjRNTnFsY1JIQjMtcm1vbmJNckx3Q0dqVnJuNVV5UHFvYlJ6T1VteW1z?oc=5"
   }
 ]
