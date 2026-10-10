@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-09-22T16:00:30",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "RMBS (Rambus, Inc.)",
-    "body": "+10.7% to $96.96 \u2014 Dynex Capital Series C Preferreds: A High Yield Floating Play With Low Call Risk (DX.PR.C)",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWjVVQTdVbmtlbVFxV09ZSHU4cFI3a1JwNThkdTVDU3BtVC1zNURxY1BDd2JQcmx5ejk5TmxOMGN2aWhvaGlfanhPaVNRdW4tV2NXa0ZBYlBaUlpUaV9QdkVTU2dsMG8tcUNsQmtVTmNVZEMzdFZMN3ZSNTdQaFI4Z0pIYUNLcHN5ZnNYeXU4cVlFeUxPOEdnZEtJWHdRZmhxOW51bFRtV0c0VHloOE1WTG9aSjZCMWpEQ2JST2FYdTNydw?oc=5"
-  },
-  {
     "ts": "2026-09-22T16:00:32",
     "source": "movers",
     "title": "Market Mover",
@@ -1581,5 +1573,13 @@
     "subtitle": "ASTS (AST SpaceMobile, Inc.)",
     "body": "-10.5% to $50.97 \u2014 AST SpaceMobile Falls 6% as SpaceX Spectrum Deal Closes Off Low-Band Option; Rocket Lab and Planet Labs Slip",
     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSTBJSTdWMEQwWEdGZWtERWFqdWl1LXJ6cXFkdUdUenNfMndjRzRRMFF2MG9Gdm5rQUNYVXZ5OG9sWG1JMS1fcmg4VEMwNzFabXpCdGJQdndacURycl8tWFA5R0lFT19pUmR1UUFabFlXSzlldkVDbnVqUzN6VExraFZpWlNBN0l6ck8wTFJyV0xZdDI0cE5rbkliNA?oc=5"
+  },
+  {
+    "ts": "2026-10-10T16:45:41",
+    "source": "sentiment_engine",
+    "title": "Sentiment Trade \u2014 BUY",
+    "subtitle": "PLTR",
+    "body": "PLTR at $209.05 \u2014 Palantir stock hits all-time high after Wall Street grows bullish on next phase of growth",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPbXQ0UDNaRHFFRU1SZ2padHIwMGgwV3hocEhhd0pMcGVhNmx1STg2WTBLUF9zaDc0ZE4yZG9UT253SmszcUs4OHVlMXBXY2MtTDVGYjRoX0hoWnRXcnpSOVNsdnlCMUJpZk0tUTgxM1lrTFBZX3JJa1pzT2JPQjd6Y2hQLVVRWnlvYnJOWTl5S0c5SEdveTJNb3M2Q3QtYWxiMEgtSW80bWM0RjVKNllfSHhpYVotQjVQZGJUWFRUTG5VcDFXLXZUaVhtRGxQVEVUSW1Bb25iTUk2eUtXZVlXaHBpNA?oc=5"
   }
 ]
