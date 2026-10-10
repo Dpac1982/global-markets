@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-09-22T09:47:43",
-    "source": "sentiment_engine",
-    "title": "Sentiment Trade \u2014 BUY",
-    "subtitle": "META",
-    "body": "META at $741.25 \u2014 Meta (META) Stock Trades Up, Here Is Why",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWUFYa0JKa0VRd25SY21oTll0Mi1WcFpEOXhhVERJb0g3Z2U5a3dyY3NlMVVtRFZDRzcySWFwbU9SbG02amw0NXFQQlYtRzZOTkNzNlNJR0dXQURzVzdGUEVFS0VsRVBEdWRJd29UbTMyN093MERUUmVrbmVOc1oySkZLVFpNdmRfT00xbHVCcVpRRjl2b3c?oc=5"
-  },
-  {
     "ts": "2026-09-22T09:47:50",
     "source": "sentiment_engine",
     "title": "Sentiment Trade \u2014 BUY",
@@ -1581,5 +1573,13 @@
     "subtitle": "HUM (Humana Inc.)",
     "body": "+11.6% to $431.87 \u2014 Humana (HUM) Stock Fair Value Edges Higher After Analyst Target Revisions",
     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSDMwbkxiUEVKTmh4TFRyTUg4R3d0YnhYQmZZenY1LVRIbGxpbGlnd3Qwd1JJdmJBZzBfcThBN0NQb3NjU3JlU0pIVDdXNjZZU2NxWFBWT2QwUE9FbFpEMHBldk9GRmk1NjdBV3ZwNVd1UUlEVGNqNzM4ejdjdTlfZVpOSVZQU1AzcnBDTVJvWTNSczl5aUN3?oc=5"
+  },
+  {
+    "ts": "2026-10-10T10:08:25",
+    "source": "sentiment_engine",
+    "title": "Sentiment Trade \u2014 SELL",
+    "subtitle": "PLTR",
+    "body": "PLTR at $209.05 (take-profit +10.2%)",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPbXQ0UDNaRHFFRU1SZ2padHIwMGgwV3hocEhhd0pMcGVhNmx1STg2WTBLUF9zaDc0ZE4yZG9UT253SmszcUs4OHVlMXBXY2MtTDVGYjRoX0hoWnRXcnpSOVNsdnlCMUJpZk0tUTgxM1lrTFBZX3JJa1pzT2JPQjd6Y2hQLVVRWnlvYnJOWTl5S0c5SEdveTJNb3M2Q3QtYWxiMEgtSW80bWM0RjVKNllfSHhpYVotQjVQZGJUWFRUTG5VcDFXLXZUaVhtRGxQVEVUSW1Bb25iTUk2eUtXZVlXaHBpNA?oc=5"
   }
 ]
