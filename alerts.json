@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-09-22T09:47:54",
-    "source": "sentiment_engine",
-    "title": "Sentiment Trade \u2014 BUY",
-    "subtitle": "ETH-USD",
-    "body": "ETH-USD at $2737.01 \u2014 Current price of Ethereum for September 21, 2026",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ZeGxvMGZNMXoyOEcxNTFmcEQ3bGstdmVPSWlxUi1SQWN1MnJTNlJ0NUhOc2ZVVUxBNFI5TVl4VEdyQmExZmczMTJVVkliWmQ2Z2w3LUVJY1lVVG41UWl1WmFJX2t3Qmgz?oc=5"
-  },
-  {
     "ts": "2026-09-22T16:00:23",
     "source": "movers",
     "title": "Market Mover",
@@ -1581,5 +1573,13 @@
     "subtitle": "AUGO (Aura Minerals Inc.)",
     "body": "+10.6% to $91.26 \u2014 Aura Minerals (AUGO) Is Up 11.4% After Record Q3 Output And MSG Turnaround - What's Changed",
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPc2J2c0NxUGJyUW9RTHBPQWRNM2hLZXBvOUJIdzBVR1Atd2hOUXFHNFdBQmp5bHpsSWY4ZmVMS1p5MUVkNWpLYUJhTmZlSlJhVVhnTDNscWNxOFozMmtyZmhoSlJIT1BrN3VaUDk0czJBcnA2UnhEUmNYUjdfbjFYWjlJVlFVUzNmUTZabDlianZkQQ?oc=5"
+  },
+  {
+    "ts": "2026-10-10T11:11:41",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "HIMS (Hims & Hers Health, Inc.)",
+    "body": "+10.2% to $30.92 \u2014 Hims & Hers Health, Inc. (HIMS) Stock Forecasts",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZFNsT0E4M19nMWFsd0RkZUJuUkhRMmRma3dlbVRydnRYbzMwc2VhbGwzTUxrRnVQN3lfSWo0WWhXUGdqUEVKWTFCMl9mRjFPRWJYbnl4YlBoSTBlZ01iVzdPbkFkengtSm5ENF9FRmVRaWxFY1E2cHVCZWhhUThUQ1ZPajhyalZCUXh4TQ?oc=5"
   }
 ]
