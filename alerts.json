@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-09-23T20:41:16",
-    "source": "trade_engine",
-    "title": "Virtual Trade \u2014 BUY",
-    "subtitle": "NVDA",
-    "body": "NVDA at $224.25 (uptrend + MACD bullish cross)"
-  },
-  {
     "ts": "2026-09-23T20:41:20",
     "source": "trade_engine",
     "title": "Virtual Trade \u2014 BUY",
@@ -1581,5 +1574,13 @@
     "subtitle": "NVAX (Novavax, Inc.)",
     "body": "+15.8% to $12.75 \u2014 NVAX Stock Rises Ahead Of Q2 Earnings As Focus Shifts To Licensing Deals",
     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVWhOVGFjWmc1ajNVMUl4YmYybHhickNDRC1vU3lXYkc1RkR5ekNWQ2JwcFNuUkZkMkhsN2NnSWsxbWNzRjI4emJlUkh1LWVsTHBXckZJWHhPSjFhclQxWGNYZXlvZUM4anppZmpkSWp1QmQzQWhPYTE3VnRHUFZKb1Zwc0pncXBIemVRVW1HWHIxbkZHbks4aXg0OTNkMEEtc2pFNkVzT0tuby1mdGhwVUs1em5hLVl1a29xdjBhOWs2dGNtT1dvRFV0TENIREtlN3c?oc=5"
+  },
+  {
+    "ts": "2026-10-11T14:13:58",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "CCI (Crown Castle Inc.)",
+    "body": "+15.6% to $79.64 \u2014 CCI Soars As Crown Castle Stock Rerates After Sharp Rally",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBid0JfNlhrV2ZJTDRtR1VpbUJkNk1EdGNkNVRfRnBiYktIY2p1MThlWWZZMUZVUXFnZkNWVnM3M2dRam15MXlxdW9BZU1IMlRQZXFEeEVkRTBNNFJFcnI4SjRuNVlISDB2X3BQRnJsMVRzM29DZTRmMg?oc=5"
   }
 ]
