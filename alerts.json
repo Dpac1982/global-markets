@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-09-23T20:41:20",
-    "source": "trade_engine",
-    "title": "Virtual Trade \u2014 BUY",
-    "subtitle": "PLTR",
-    "body": "PLTR at $190.69 (uptrend + MACD bullish cross)"
-  },
-  {
     "ts": "2026-09-23T20:44:24",
     "source": "movers",
     "title": "Market Mover",
@@ -1582,5 +1575,13 @@
     "subtitle": "CCI (Crown Castle Inc.)",
     "body": "+15.6% to $79.64 \u2014 CCI Soars As Crown Castle Stock Rerates After Sharp Rally",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBid0JfNlhrV2ZJTDRtR1VpbUJkNk1EdGNkNVRfRnBiYktIY2p1MThlWWZZMUZVUXFnZkNWVnM3M2dRam15MXlxdW9BZU1IMlRQZXFEeEVkRTBNNFJFcnI4SjRuNVlISDB2X3BQRnJsMVRzM29DZTRmMg?oc=5"
+  },
+  {
+    "ts": "2026-10-11T14:14:00",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "MRNA (Moderna, Inc.)",
+    "body": "+14.2% to $225.00 \u2014 Moderna, Inc. (MRNA) stock price, news, quote and history - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE02TWt5ajZLWTdCb3hMOTVuZ0hHRUdGWmVnc1h6c01GbGIzU1VHTlR5SzNfSFd0elFBRnJSS0M3V1dWNDNIZzhxZHBkUVBSNlp6MnFSYUI3bkVZU04yNEtpZlNB?oc=5"
   }
 ]
