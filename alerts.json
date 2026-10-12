@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-09-25T00:51:53",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "CDNA (CareDx, Inc.)",
-    "body": "+13.0% to $61.37 \u2014 CareDx, Inc. (CDNA) Stock Price, News, Quote & History",
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xcFBZT0RPMmh3cTltX1A5OG9NY2U3WF9aRi05V25QcHd1cUFrMDluTUJHN2dQTzNaRVFqMlZSY0U1cG9vLVRDR1F1M1ozRlctWXc?oc=5"
-  },
-  {
     "ts": "2026-09-25T00:51:56",
     "source": "movers",
     "title": "Market Mover",
@@ -1582,5 +1574,13 @@
     "subtitle": "CIEN (Ciena Corporation)",
     "body": "-10.3% to $403.28 \u2014 The former Epic Games HR chief will lead Ciena's global employee strategy",
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdzQxLXFvRzlOOXk2M0l6OXJmQXlVQzNyTUpzOFRIUHV2UnUybzlRZzVOVERPaUR5a2tsSzkyaXd5a3RVWVBCQmRPSHduRGNfVDg5NGFKVmU4QTFyRnF4YmZiWUlZZ1NrQzNWS2ZMa2JKNmcwRlg3ckdnUXVHeVhXUWZXeVFBZmZqYWVyNFZxWTlrQjh4eDNQa2VFNzhVQWxrLUluMQ?oc=5"
+  },
+  {
+    "ts": "2026-10-12T22:18:56",
+    "source": "sentiment_engine",
+    "title": "Sentiment Trade \u2014 SELL",
+    "subtitle": "MSFT",
+    "body": "MSFT at $539.54 (take-profit +8.4%)",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaVhnVWFqWUFvbDk1Ymo5UXdRaWQ0WG9WZmRKazJyRmJpX2lDOHluN0x1QXFiWXdMeTlwSndPUzFDbVo2T0E2VDVnSnZFNmlqS3pEVXE0eW5nM2dObUxxZUJ1cVkxaEl5ZThON3ZmblBrSW1WNWdNWHJ2ZnpoZ0t1LURXVVo0TDRwU0NOYXlPdW81TmRHMWQ5SXByWFRLb2tPOFVvblY0SzVrZElld04yM05iR2pSUXd1Z0J5QXZYaTk2aFFZ?oc=5"
   }
 ]
