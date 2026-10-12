@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-09-23T20:47:31",
-    "source": "sentiment_engine",
-    "title": "Sentiment Trade \u2014 SELL",
-    "subtitle": "PLTR",
-    "body": "PLTR at $190.60 (take-profit +10.9%)",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdjNRTktob1lWdUl6SDdDYjAyNXJYejVlSDNkZUZ1Q3RnX3pqQ3M2NWxMdU1WM1hrWmV1dURZeHJDQ3ZXdEZleWYyR1VBQ1FBdDNPSVNhRk12OVlILWI1WlhqeHFkZV9GUGIwR3A4TmVmZ3k0TFdOV3pwNDhMYnZsLVdrTEMyUzZxeURN?oc=5"
-  },
-  {
     "ts": "2026-09-23T21:04:35",
     "source": "movers",
     "title": "Market Mover",
@@ -1583,5 +1575,13 @@
     "subtitle": "FSLY (Fastly, Inc.)",
     "body": "+15.9% to $29.30 \u2014 FSLY Oct 2026 27.000 put (FSLY261023P00027000) interactive stock chart",
     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBUeUl4RDlVT2t1ZjRYVE1IeU9uczdXY2hwTjlVZmY0YTZIb0NicktGUVhidHlVWWpJZnpZTFEzczdTU3JlSHNDNHFtV1RVOTVJMXF4eVhaZXprVm0ycjR0cUNHVUYwWk5FRmJqNnVR?oc=5"
+  },
+  {
+    "ts": "2026-10-12T10:04:59",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "NVAX (Novavax, Inc.)",
+    "body": "+15.8% to $12.75 \u2014 NVAX Stock Rises Overnight Ahead Of Q4 Print With Pfizer Tailwinds \u2014 Analyst Warns Of 20% Crash",
+    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPY1JPSldLQVNnd0FCS0ptOUszZkVYMzN3dXdtMUs3R2hNZkF3RFBzaTBHbkMwdGlheHd2ZGItb2ktQUd4MVFDTXEtX1UxYUVKUlpwSnl3bVZxQVlELWpSaHlNVEtpYkRTUFhMTFlXRFAxaHhmeE9tdThPRU9kZHpKZ0xUdzNPWFhwc3pBTGhLUVlIT2FzdUFwdjJNVHdvU1ZPUUtqTEREUUh0OWU0QlRpdUZkYmRNNUM4VVdHTFQ2V3lTWGtTMENhUnlRTlVXeVNpUWRaSjl2cjBNTlFSWkd0UldSUmVsWHNyQk1mRg?oc=5"
   }
 ]
