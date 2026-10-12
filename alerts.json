@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-09-24T07:22:44",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "PBLS (Parabilis Medicines, Inc.)",
-    "body": "-12.7% to $33.31 \u2014 Midday Movers: Securitize Surges Nearly 12% While Biotech Stocks Slide \u2014 Wednesday, 23 September 2026",
-    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZnJKbHNvWFZUaHNfdkp6dU81WGM3SFVBaWlTVHl3NHB6d1RBRHJ6NmlxODdWa2hXblNLMlpiYUpYNTNXUjMwOWZuN3FRUHR1Y0lpb1NTOUgwVTQxeEJRaWNiNDd4dUprYkdFWWVzZ2c2bDNzNE15NmtHVGNaV2dwMktIMTZRQk1FMzVrQUdJbVBld2VSQk9qS216THFfUUpHNXdKWWdEemE5WmpFMWlfZ0VvU2Rib3VDSVNBT2tXeVVneGZhLTFBTTZ4SEp0Q1V2dlNVT0hndWh1VF9CWkE?oc=5"
-  },
-  {
     "ts": "2026-09-24T07:22:46",
     "source": "movers",
     "title": "Market Mover",
@@ -1583,5 +1575,12 @@
     "subtitle": "HUM (Humana Inc.)",
     "body": "+11.6% to $431.87 \u2014 Why Did MRNA, HUM, LITE Stocks Surge To 52-Week Highs Last Week?",
     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZWlsVi03VkNOVExUR3BiV3VWS0tGWHM4b2RVbjhNS1NtajZ3eTE5bFl1ekFlQ2ZoWnktenlPMXlOVVg3LWZ3LWljM2FnQzZWY1p6RFZxWVBNck5RYXkyeXltVGsxSHlYdHZJZjl1dlpFcF9wOGFJMUdfdWNvdTFILU12R1NXWmxzZXBrdkktWQ?oc=5"
+  },
+  {
+    "ts": "2026-10-12T21:58:45",
+    "source": "trade_engine",
+    "title": "Virtual Trade \u2014 SELL",
+    "subtitle": "NVDA",
+    "body": "NVDA at $226.49 (MACD bearish cross, 1.0%)"
   }
 ]
