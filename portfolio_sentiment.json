@@ -1,11 +1,6 @@
 {
-  "cash": 37414.080178477794,
+  "cash": 38421.69403065635,
   "positions": {
-    "MSFT": {
-      "qty": 24.108488196885986,
-      "entry_price": 497.75,
-      "entry_date": "2026-09-18"
-    },
     "ORCL": {
       "qty": 87.52734840098805,
       "entry_price": 137.10000610351562,
@@ -29,6 +24,11 @@
     "NVDA": {
       "qty": 52.337753244455946,
       "entry_price": 229.27999877929688,
+      "entry_date": "2026-10-12"
+    },
+    "META": {
+      "qty": 16.020719504750122,
+      "entry_price": 749.030029296875,
       "entry_date": "2026-10-12"
     }
   },
@@ -311,6 +311,15 @@
       "exit_price": 209.0500030517578,
       "return_pct": 10.22,
       "reason": "take-profit +10.2%"
+    },
+    {
+      "symbol": "MSFT",
+      "entry_date": "2026-09-18",
+      "entry_price": 497.75,
+      "exit_date": "2026-10-12",
+      "exit_price": 539.5449829101562,
+      "return_pct": 8.4,
+      "reason": "take-profit +8.4%"
     }
   ]
 }
