@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-09-23T20:44:27",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "EXK (Endeavour Silver Corporation)",
-    "body": "-12.8% to $9.16 \u2014 EXK Stock Pulls Back As Traders Eye Key Support",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRXRVZzRTa2ZET3BNM1BIczlQODhXd1k3VnhJNVBIYmdwaF9TbUtxeTIxNmpjdk1qLVBXdWJSTFVZdGVrYnBvMWh3VUdzdnJuUzBqQTc2MlpUS1AzNGFjenJkQm5vOXpkV0Q4VU5kYU9aSDBQWXhaWndmYWZEakxVX3NRdU9OdWljU0UyQkpOaGo?oc=5"
-  },
-  {
     "ts": "2026-09-23T20:44:30",
     "source": "movers",
     "title": "Market Mover",
@@ -1583,5 +1575,13 @@
     "subtitle": "HUM (Humana Inc.)",
     "body": "+11.6% to $431.87 \u2014 Humana Stock And Senior Housing REITs Tied To Retiree Spending",
     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPYzM0SWlwaDVGSTBScTE0WmdXUlRMWUJrRERlMUNyRElnTkp3Q0ItY01yZnFoRXZ5d05mQ2Q1WHlNT0xwVTlseFdPdWF1OU1tZFl5WnIwSndNc2NYUy1MVlNjX1lPVEJLQUZEdWd5QjI0dnN4aE5iU01SQ3p0Z2VDb1AydGZ4VTVJVlA3MkxaMjdtY1YwUUd4MUQ2dF9jRFhKcm8xdGhtblBxVHZKS3J5SGRnR2Q4NHlqZ2tLbnYtVE9DY0FaSVJDZXpxZ0Nscm5J0gHQAUFVX3lxTE9jMzRJaXBoNUZJMFJxMTRaZ1dSVExZQmtERGUxQ3JESWdOSndDQi1jTXJmcWhFdnl3TmZDZDVYeU1PTHBVOWx4V091YXU5TW1kWXlacjBKd01zY1hTLUxWU2NfWU9UQktBRkR1Z3lCMjR2c3hoTmJTTVJDenRnZUNvUDJ0ZnhVNUlWUDcyTFoyN21jVjBRR3gxRDZ0X2NEWEpybzF0aG1uUHFUdkpLcnlIZGdHZDg0eWpna0tudi1UT0NjQVpJUkNlenFnQ2xybkk?oc=5"
+  },
+  {
+    "ts": "2026-10-12T06:01:16",
+    "source": "sentiment_engine",
+    "title": "Sentiment Trade \u2014 BUY",
+    "subtitle": "NVDA",
+    "body": "NVDA at $229.28 \u2014 Nvidia (NVDA) Stock May Be 27% Undervalued Despite Record Highs",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNd1dlQVhPRElnNkdRc0FCd2FTTjVpNXBXWXh1QlB0bXBwUGt0eXZlb1J3YnFTMjNVOHZ0SU40UDZEUGRMS0VjMXZhVVpkWEtjWG1OQnhud3laYlBiRmJjdFd0OTE2UlZYWDg2ZGJRclFPNktCQThvRXdWLXRDSENRU0NISDE4RzctRGh5aGVwMUxqRzg?oc=5"
   }
 ]
