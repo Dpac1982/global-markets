@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-09-25T16:36:18",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "GIL (Gildan Activewear, Inc.)",
-    "body": "-12.0% to $40.63 \u2014 Gildan Activewear Inc. stock falls Thursday, underperforms market",
-    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdDY0VU43b3VkMnM2MUp4cmRpaGprQzluU21yeG9oLWxBenhwYWQwMFJKQVIzRUozYVBlZlFzbVB6aUdzNF9ocGQtQ1dRUEhpZjFBSlJXQzM5WHZMSGUtV2Nta0wwUDFqbnJORGt3LVh3b2lYOGRueGdka0ZacFNnX0RMWGZoNVFtR25ISDJ1aXRkVkUxbDllRVN6ekdJM3hXWC0yYUtrOVJERk5YbWRYenhhSFR6bGU0TEtyc2F4ZUdSano4Z3JZU2hxNWxTLWRCaVZJaEJ3ejk?oc=5"
-  },
-  {
     "ts": "2026-09-25T16:36:22",
     "source": "movers",
     "title": "Market Mover",
@@ -1582,5 +1574,13 @@
     "subtitle": "SMTC (Semtech Corporation)",
     "body": "-10.2% to $168.28 \u2014 Semtech retreats 10%, adds to recent retreat amid tech pullback (SMTC:NASDAQ)",
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYkY3SVA1bWprVHBmQXdvbFYtOUJTSXZKNmNvbEd0elZRd1JzVnBuVHJza1N1QU5rVXR6RUwyM1ZBM0JkMGFiNmR2WEtjcTNwRnpMNnp6SUt1NEV2R0hnMXhfcTh6MHFvcENmTHNFUEFwbXlhcFJ1TGktdjN3WjlEaldPb2NCQy1UQVJ3UEYwRzZOSy1XQThTUlJBWGQ2RDFY?oc=5"
+  },
+  {
+    "ts": "2026-10-13T15:05:43",
+    "source": "sentiment_engine",
+    "title": "Sentiment Trade \u2014 SELL",
+    "subtitle": "GOOGL",
+    "body": "GOOGL at $352.72 (sentiment turned negative (score -2), -0.1%)",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTWREdXV0RFJ1UUVIcE5oWWtYbDRHUnlNc2k0YWxVSG5TMWMzOXl0eVpzeVZrbVdBbktKSGF3ZDU0U0lLcUx4WG9uS3B0QkNSbmRBX3h2Y2pKdWp4VXZmeUJiX1RnbDFkSElQWHZIdVl0UVROcFlGeG5IWXhMV0JkbTkyVkVIR3dTM0M0NmJUcG1xNC1WNFVlbXF0OUFXb0ppWUpOUw?oc=5"
   }
 ]
