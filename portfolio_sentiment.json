@@ -1,5 +1,5 @@
 {
-  "cash": 38421.69403065635,
+  "cash": 50405.7252472552,
   "positions": {
     "ORCL": {
       "qty": 87.52734840098805,
@@ -10,11 +10,6 @@
       "qty": 0.144374444144291,
       "entry_price": 83117.203125,
       "entry_date": "2026-10-07"
-    },
-    "GOOGL": {
-      "qty": 33.97604665208717,
-      "entry_price": 353.19000244140625,
-      "entry_date": "2026-10-09"
     },
     "PLTR": {
       "qty": 57.40253444066667,
@@ -320,6 +315,15 @@
       "exit_price": 539.5449829101562,
       "return_pct": 8.4,
       "reason": "take-profit +8.4%"
+    },
+    {
+      "symbol": "GOOGL",
+      "entry_date": "2026-10-09",
+      "entry_price": 353.19000244140625,
+      "exit_date": "2026-10-13",
+      "exit_price": 352.7200012207031,
+      "return_pct": -0.13,
+      "reason": "sentiment turned negative (score -2), -0.1%"
     }
   ]
 }
