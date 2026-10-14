@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-09-26T01:45:27",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "ALM (Almonty Industries Inc.)",
-    "body": "+10.6% to $13.72"
-  },
-  {
     "ts": "2026-09-26T01:45:39",
     "source": "movers",
     "title": "Market Mover",
@@ -1582,5 +1575,13 @@
     "subtitle": "EFXT (Enerflex Ltd)",
     "body": "+14.4% to $27.54 \u2014 Enerflex Ltd (EFXT-N) Stock Price and News",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9FempmbGdCUW5DOUZLT1J1NjdfcGJwOWl2anJrbEhCODhJbFVwZ01nQlRBaGNTYzRCNjVVellKMUZaUnZZd1RINHR2eHJkNUp3d3c4R0s4dWhTR1NoZERXRHZ3MmI1YTk1c1NRbjVaVQ?oc=5"
+  },
+  {
+    "ts": "2026-10-14T09:30:05",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "CIFR (Cipher Digital Inc.)",
+    "body": "-12.8% to $11.34 \u2014 Cipher Digital Inc. (CIFR) Stock Price, News, Quote & History",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5DTXZBZUNMR2pnQ2VOOHBYSkZkUzRwNlZocllNZzF2Z0kxVEQxUVZ3ckNmY1RjT2tZOVBSTFdTMWtuTnZxUHBMcW5ybXc0MDhmdUE?oc=5"
   }
 ]
