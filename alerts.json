@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-09-26T14:36:29",
-    "source": "sentiment_engine",
-    "title": "Sentiment Trade \u2014 SELL",
-    "subtitle": "META",
-    "body": "META at $751.66 (sentiment turned negative (score -2), 1.4%)",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSFdHdTRUcEY3Q1I2enE0TWo2dG1OM1prV3RkVTcxSVVZMFpxVUtieEFZMjg4UkhKazdhYmRRVDdtUy1wUDE1eVhrZ216cDJHS0R0eWVXWE9fQW9GSExPaXFHRTVYdkZ6dHJlSWpZUUNqUWZHM0NZd2NVMWVMUktxdE02T0dDMElPOGMzWWxNY3pyZEV2RnpzOUlkS0lJRTluTGVsM0FnT1Vfdlg1RW9yNkhVMWFvQXpqbVZ1VDVBaw?oc=5"
-  },
-  {
     "ts": "2026-09-26T20:14:31",
     "source": "watch",
     "title": "Market Watch",
@@ -1583,5 +1575,13 @@
     "subtitle": "PS (Pershing Square Inc.)",
     "body": "-12.1% to $47.65 \u2014 Is Pershing Square (PS) Fully Valued After Its Dividend Update And Citi Downgrade?",
     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZ1BhSW96bzE2SmZRXzQ1MmRJMmRLVzJBWkNlNlRUemdEMmhDQm1qQkRJNXFUamRpS284b19IX19GRkxienU1V2JmTlZSZDRiUGtta2dxajV0bmIzc3VsZGcwaDFLQWUtbTdXa2ZDVGNIT0pScFZGdFlaTDdTNGVZR2k2SlVpdHZTZllsbU9WelFlaERFaXpSR2ZfT0Y?oc=5"
+  },
+  {
+    "ts": "2026-10-14T23:32:29",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "BSP (Bending Spoons S.p.A.)",
+    "body": "+42.0% to $53.77 \u2014 Bending Spoons stock soars on new Berkshire Hathaway investment",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVFBFNi1sMW5LRzJsT3hudVYyZ0hlQnluX21CdEFOa3dIUXRzdFVTMVNwVFlyYV9mSXR6ekRKQjVacEdxMG05cUNuREtPYmIzSUY4ZFdGTmJ3OWJLZ0xCSlRLMV9XOXM1ZlJSbmtPUGhHZnhhU3BwTi1fY3NpRkxubHpVRnlCcW4zTVhZMERFZEMwWXJvYVZ3dzZpTkk4bEgycUlTX1ZYdzF2dDQ1dlRBRFUzOU4zOE9FMUZLOA?oc=5"
   }
 ]
