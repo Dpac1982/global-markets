@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-09-27T21:29:48",
-    "source": "sentiment_engine",
-    "title": "Sentiment Trade \u2014 BUY",
-    "subtitle": "ORCL",
-    "body": "ORCL at $137.10 \u2014 One Notch Higher Than Junk, Oracle Debt Warning Played Out (Upgrade)",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNlZ2QXJSOGxlS2NBUy0xaklRdlNqZXRyV3FvQTVEeGpueHZqeFAwMFhXNXA0RUZaSjJPdXktTmlnYTdGNTUzcWFLWUd0N3JQWDRVdUJjX2Q1aXE3Y2lQN2ZzOFVhVWthWkVvQ3ZRUzRNUFd0OTYwQzYxSHZUdFRsRFkzNFJjZkxUU1Rqamo4MW43VDlxYk1ZckNtZ09Tb0k?oc=5"
-  },
-  {
     "ts": "2026-09-27T21:29:51",
     "source": "sentiment_engine",
     "title": "Sentiment Trade \u2014 BUY",
@@ -1583,5 +1575,13 @@
     "subtitle": "MAN (ManpowerGroup)",
     "body": "-14.5% to $44.40 \u2014 Why is ManpowerGroup stock tumbling today?",
     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNThzVUh6cnRCSkZ2dmx5UkRvRnhaZUdyV0hpSEFfUE9qMVlkV0JkS3NGQ1JUY2pERHZhQkJqWks1VXRnMjlYVGdDVnNGMDJBdVB6RDAtalg1bmlPTUpxcExhbGN3QWpjOXBRbWFObkxYTXhsUVRuSV82MnhNUE81Um5NeXdSV1RxbjFkY0ZUX1FJcnFVc3pZbnM2ejVVWktzYWJwUUh3?oc=5"
+  },
+  {
+    "ts": "2026-10-15T18:58:01",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "VICR (Vicor Corporation)",
+    "body": "-11.2% to $217.81 \u2014 Vicor Corporation (VICR) Stock Forecasts",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTnNVTEZlTlB2N2R2czZ0YTcwazZleTN4TzlDWlh1OEtrNnRLMC1lQXhPNV9NM2hFa0xoUkEySDZKNEJVdThEcE1lcEY4WEFEZkN5X1kxTk9CdTZmbWxYbmNsem9PMjQ0XzdNRXlQRTBLVHhXQmxHa0kyTFgyWEZJMjVxb3ppYTRWZUxUSFA0WQ?oc=5"
   }
 ]
