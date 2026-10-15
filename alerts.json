@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-09-27T21:29:54",
-    "source": "sentiment_engine",
-    "title": "Sentiment Trade \u2014 SELL",
-    "subtitle": "BTC-USD",
-    "body": "BTC-USD at $84416.44 (sentiment turned negative (score -2), -1.3%)",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUU15dDJjTXJaSGE1emdPanlRMWpoLU9SVzRBNjdiWkQ1Z29oOUlrR0w1V1k2SHRhZXRYVl9YVzgwM2FvLVd5ZEdSY3g0MUh4OFp6MnVIakJlN0doWUVjZG13V0NmcndrX3Z5OEFlbnUyX3hhODlWOU42YWRhMUM5cTVITmVlLVBuQTI1LVVPMmFmRGk2Vy1mNUl1NXk4OHBydnZDa1JzTHVaWF8yRnA0LVVSQzhwXy1ZWWRoaGdiWlprUXJk?oc=5"
-  },
-  {
     "ts": "2026-09-28T02:24:09",
     "source": "movers",
     "title": "Market Mover",
@@ -1583,5 +1575,13 @@
     "subtitle": "KRMN (Karman Holdings Inc.)",
     "body": "+10.3% to $33.23 \u2014 Oversold Karman Holdings Surges Back on Backlog Buzz",
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVFhveW84MVV1azVBTl93TFd5TVNOdXd4Tm1Id0Exd2RlVWJESmIxSVhCc3NuVFpFODN4dEtlb3JkUTBsRmV1T1lKaFgwZlJicVpvNHU1T3pvM004c1FtZ1lKTk81dS0xZ0dPelpRRi1HeDVrdHVtX25jVURVa2Q5a2swek5MbWlFbldpdlptMGhhekY3OHc?oc=5"
+  },
+  {
+    "ts": "2026-10-15T20:12:13",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "APPN (Appian Corporation)",
+    "body": "+10.1% to $42.32 \u2014 APPN Dec 2028 45.000 call (APPN281215C00045000) Stock Price, News, Quote & History",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1DZmZtdnA2MmNjMjcycThEaWxMTEkyaEJoTS1WLVdUUGo4YW00ZHg1blVBT3k5UE1LV3RzMzBHWTZTSHV4eU01bjFnUTh1a0dkVDNXWlg3eUJNUUJZOEEyNkk0QmdOZw?oc=5"
   }
 ]
