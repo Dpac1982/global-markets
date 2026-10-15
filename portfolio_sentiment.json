@@ -1,11 +1,6 @@
 {
-  "cash": 50405.7252472552,
+  "cash": 73340.06926762249,
   "positions": {
-    "ORCL": {
-      "qty": 87.52734840098805,
-      "entry_price": 137.10000610351562,
-      "entry_date": "2026-09-27"
-    },
     "BTC-USD": {
       "qty": 0.144374444144291,
       "entry_price": 83117.203125,
@@ -15,11 +10,6 @@
       "qty": 57.40253444066667,
       "entry_price": 209.0500030517578,
       "entry_date": "2026-10-10"
-    },
-    "NVDA": {
-      "qty": 52.337753244455946,
-      "entry_price": 229.27999877929688,
-      "entry_date": "2026-10-12"
     },
     "META": {
       "qty": 16.020719504750122,
@@ -324,6 +314,24 @@
       "exit_price": 352.7200012207031,
       "return_pct": -0.13,
       "reason": "sentiment turned negative (score -2), -0.1%"
+    },
+    {
+      "symbol": "NVDA",
+      "entry_date": "2026-10-12",
+      "entry_price": 229.27999877929688,
+      "exit_date": "2026-10-15",
+      "exit_price": 216.11000061035156,
+      "return_pct": -5.74,
+      "reason": "stop-loss -5.7%"
+    },
+    {
+      "symbol": "ORCL",
+      "entry_date": "2026-09-27",
+      "entry_price": 137.10000610351562,
+      "exit_date": "2026-10-15",
+      "exit_price": 132.8000030517578,
+      "return_pct": -3.14,
+      "reason": "sentiment turned negative (score -2), -3.1%"
     }
   ]
 }
