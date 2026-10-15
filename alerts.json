@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-09-29T05:58:21",
-    "source": "trade_engine",
-    "title": "Virtual Trade \u2014 SELL",
-    "subtitle": "ETH-USD",
-    "body": "ETH-USD at $2666.01 (MACD bearish cross, -0.4%)"
-  },
-  {
     "ts": "2026-10-02T06:39:27",
     "source": "movers",
     "title": "Market Mover",
@@ -1584,6 +1577,14 @@
     "title": "Market Mover",
     "subtitle": "Z (Zillow Group, Inc.)",
     "body": "+10.6% to $31.33 \u2014 Zillow Group, Inc. $Z Stock: Ninety One North America Inc. Lowers Holdings",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPekRQcG5UeHFlN0dhZEQtRWtXUjBHZC1SNDYxTnJfMXpmQ091MS1kSEpRWTd6RzNqbm8wZW5nSjVjbnJmYWVUM2UxZmthRHR1c2R2X2RMeFdET2EyLWloUTFHNWJjbXp2MmlGTTQ4MktFQUdVTGlUV2Y0NUt1T2JYdWZNanNGMmZZNGlZcHIzTlR5bHJUbThGODJDRWpLV3VjRm9zWDVCdURQVlhRVmFtQmtJd2xmQWladnZWTEFmNVVEek1OZ3JOTUZR?oc=5"
+  },
+  {
+    "ts": "2026-10-15T22:57:34",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "ZG (Zillow Group, Inc.)",
+    "body": "+10.5% to $32.35 \u2014 Zillow Group, Inc. $Z Stock: Ninety One North America Inc. Lowers Holdings",
     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPekRQcG5UeHFlN0dhZEQtRWtXUjBHZC1SNDYxTnJfMXpmQ091MS1kSEpRWTd6RzNqbm8wZW5nSjVjbnJmYWVUM2UxZmthRHR1c2R2X2RMeFdET2EyLWloUTFHNWJjbXp2MmlGTTQ4MktFQUdVTGlUV2Y0NUt1T2JYdWZNanNGMmZZNGlZcHIzTlR5bHJUbThGODJDRWpLV3VjRm9zWDVCdURQVlhRVmFtQmtJd2xmQWladnZWTEFmNVVEek1OZ3JOTUZR?oc=5"
   }
 ]
