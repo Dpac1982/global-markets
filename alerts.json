@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-09-29T02:54:42",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "KOD (Kodiak Sciences Inc)",
-    "body": "+178.0% to $89.92 \u2014 KOD Stock Explodes As Phase 3 Catalyst Frenzy Draws Wall Street",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWmwxcW9ZaUxzdk9DX0l2eExkcG5Bd3NqQU8xRU5HVjBUVHdWYUdaUDRQVUZzX2VtWmRURFgyT0dRQ0J4ZEJmamdJeXoybDZRN1hqX0hWT3hFN1hLdlJLQWlUaV9LMjkxNk5zanZ6TGlXR1FjaVU1NlJpbHJYY2tHeXZn?oc=5"
-  },
-  {
     "ts": "2026-09-29T02:54:46",
     "source": "movers",
     "title": "Market Mover",
@@ -1583,5 +1575,13 @@
     "subtitle": "NVDA",
     "body": "NVDA at $216.11 (stop-loss -5.7%)",
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOHlfaC1zS3lncTY1VlI4b1lqX0F3UVNNeEV2d09iWHY4NE54dnNmeTctVHRLaEFhSzNDUU1KZC1FQWFOM1MtdWJxU29FNjdzMEk4Nzc2ck9NNDJoR29uOTE2blFHWGc0Sm50VkFHdG43NEUzS2hvbGwySkJjV3o5S1AtNEx2Q2NwN3ByeGZuVW1jWUQ3OFZEUUp6T3dRVWppUWVJSFF6RWxDOGdfeWk0bHVONng?oc=5"
+  },
+  {
+    "ts": "2026-10-15T20:27:06",
+    "source": "sentiment_engine",
+    "title": "Sentiment Trade \u2014 SELL",
+    "subtitle": "ORCL",
+    "body": "ORCL at $132.80 (sentiment turned negative (score -2), -3.1%)",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOHEyUldSMV92dE1CQ0R6R1g1V3lkSGZ5dXN3dm9pRTFJbEtmSUFJSE9sVF85RkZubUJwSHVsTDhkXzl1R25vVzZzR2RnSUVPR21wNWNYRThnNXhpTUhwak1oZ0VlYVlmcjY1bHkzRWhOMXVoMERrcjZONldHUzNNTWd6UzkyZG1EdUVsODJDSUdyc1RjMGQ2M2NlZF8?oc=5"
   }
 ]
