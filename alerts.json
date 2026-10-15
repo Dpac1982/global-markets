@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-09-28T03:49:31",
-    "source": "watch",
-    "title": "Market Watch",
-    "subtitle": "Semiconductors, China-exposed stocks",
-    "body": "'We've never gotten along better': Trump and Xi talk Taiwan, trade and AI at state dinner",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQT3BmbTZEM1A5QTFIYlczTk9rMkxidHEzUEFKWFZTR3lmYUpXeVpDWUlqaVVXUmFteE9GWkJIMkNjWldKUlY1Z2hqZzdlam11WDF2cGpyQ19VWDZiVnlsUDZRQ3lvVkY0czZmeEJYV21ubnA1TjBPbW5nc2pFcEd5d1RfenhVV0lLM0txeEhoNzhRVVQ0NkFqUVFVYw?oc=5"
-  },
-  {
     "ts": "2026-09-29T02:54:42",
     "source": "movers",
     "title": "Market Mover",
@@ -1583,5 +1575,13 @@
     "subtitle": "SEI (Solaris Energy Infrastructure, )",
     "body": "-10.1% to $62.38 \u2014 Solaris Rides the AI Boom as Risks Mount",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZndMVG5lUVlTeEZqV3JYazZKSHB1a3NEVDRRampYckx3NTdRbUJHWF9VcEJUbFFfQlZVLVl2bm5yUm1tYVV5QWpkM1FTUmlNRk0xRXNoaVNuWVZqZHNVVEdNZGtrR3lxR01ucWZHLVVDZi1CdDNlOVlqV1cxRmR5N2MxTQ?oc=5"
+  },
+  {
+    "ts": "2026-10-15T20:26:56",
+    "source": "sentiment_engine",
+    "title": "Sentiment Trade \u2014 SELL",
+    "subtitle": "NVDA",
+    "body": "NVDA at $216.11 (stop-loss -5.7%)",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOHlfaC1zS3lncTY1VlI4b1lqX0F3UVNNeEV2d09iWHY4NE54dnNmeTctVHRLaEFhSzNDUU1KZC1FQWFOM1MtdWJxU29FNjdzMEk4Nzc2ck9NNDJoR29uOTE2blFHWGc0Sm50VkFHdG43NEUzS2hvbGwySkJjV3o5S1AtNEx2Q2NwN3ByeGZuVW1jWUQ3OFZEUUp6T3dRVWppUWVJSFF6RWxDOGdfeWk0bHVONng?oc=5"
   }
 ]
