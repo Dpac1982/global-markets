@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-10-02T22:48:42",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "STX (Seagate Technology Holdings PLC)",
-    "body": "-10.8% to $843.45 \u2014 Seagate Tumbles 10%, Western Digital Drops 7% as Toshiba Moves to Double Hard Disk Output",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQXRHM09ZeHdDS3JZUm9xQ2MzbVNhYkpuWG8zUktjRmcyS2kwb1FlMldOQWlBd0xjSFdaS1ZtM1pOZnpUVTNmUG1aS2taOHBJS250Z3RPYk1VWmVFTVhQbEF5SUhfTVNicTdVWnJiMy1yY2IzYmZaTzZTd1Z3a1lGWGtvNEhNVnV1Q184aEtsNDdXNnBhOEx3MmtkM0daYnNF?oc=5"
-  },
-  {
     "ts": "2026-10-02T22:48:45",
     "source": "movers",
     "title": "Market Mover",
@@ -1586,5 +1578,13 @@
     "subtitle": "SLS (SELLAS Life Sciences Group, Inc)",
     "body": "-12.0% to $9.98 \u2014 Solaris Resources (TSX:SLS) Stock Looks Fully Priced Despite Its 62% Run",
     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcnBLT3hBaUNpdFZtRl9TcHBuaWloMWxNU2ZMNHl3NXNLZ21BMUNCb2FRQXJvc055TTA3WDJqQVpoNVVXNmF1NGFzdVotVGtORlJzSnVYaFVMTGJNZzZIRWN6YTJURXp0RTNhVFdKeHdOc25mZmdzcGtObVlUaVBmWnk1c2N0WnJJSE9lWTFSTlVqcnVPQzBIdWN2bG4?oc=5"
+  },
+  {
+    "ts": "2026-10-16T18:22:14",
+    "source": "sentiment_engine",
+    "title": "Sentiment Trade \u2014 SELL",
+    "subtitle": "PLTR",
+    "body": "PLTR at $196.16 (stop-loss -6.2%)",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYXZ3c0w0YWZLOGRSRTM4WXlPWEYxTmtCbXY3bkRldUpqRzdvOTc3Qm93cWJHNVg5YVJPelh5MFJZVU1pdkd1cXAzZzNEdTZGZXNHYU85bXBvdkhkaWl4QWg0QXBlUEo4RGMyVnlQRmp2YXpwRjQ1Nm81XzdTS3RJbkhOQkFGRk51WUJFWnZPMERhaTZPd1p1N1V4SVlIZw?oc=5"
   }
 ]
