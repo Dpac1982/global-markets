@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-10-04T10:04:01",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "MXL (MaxLinear, Inc)",
-    "body": "+15.0% to $105.93 \u2014 MXLL Interactive Stock Chart | Leverage Shares 2X Long MXL Dai Stock",
-    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9lOTdZOGhaNF9NREtzU1daOWlINUpBbzJuVkZYYWFjLXFXRmw1d21jaVNYVHVvUWFIdDhDWkNGSE1lWS12YnB6ek1RVmhlMlhE?oc=5"
-  },
-  {
     "ts": "2026-10-04T10:04:03",
     "source": "movers",
     "title": "Market Mover",
@@ -1586,5 +1578,13 @@
     "subtitle": "CRWV (CoreWeave, Inc.)",
     "body": "-11.9% to $61.39 \u2014 CoreWeave, Inc. (CRWV) Stock Price, News, Quote & History",
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE83cWt1ZldUdTRvbVRHc1R1aDV2Vzg4LXl3ZGwzUHlfVi1WcmNqVEtvSWZwYmo4dHNPZENVYUhTX3JELXNNUlB1NjZ2d3pyNE4tZGc?oc=5"
+  },
+  {
+    "ts": "2026-10-17T14:43:44",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "GLXY (Galaxy Digital Inc.)",
+    "body": "-11.6% to $16.14 \u2014 Galaxy Digital (GLXY) Stock Price, News, Quote & History",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9yYnV1bUJwaTNfc0k4c1FVRzZqOU1CMnIxQ1pOS0tCTDRKeUs0NnNaQjFnTkl1YXhlTWR3SGxnS0U2b3RBc2ZiOHpsbWJIdlNBdHc?oc=5"
   }
 ]
