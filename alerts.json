@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-10-04T10:04:06",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "SYNA (Synaptics Incorporated)",
-    "body": "+14.1% to $121.10 \u2014 Key deals this week: Onsemi, Mattel, Nebius, Advanced Micro Devices, and more (ON:NASDAQ)",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOV2NWUFI5c3oxWDM1MnlqNUJWWVJPeTU0YVFiYWFlR2MwVTA3eHl0MllnNmFscTNvRUJGSWE0VnZybHQ1Yl91aTE2cERkNm8xMDBpZ3RlMXJ4YUNQV1Vld2hBRWtYUi1KYzFRMEw4S2h6R0k0MXZrR0dWRERHdkNsZFBDU09XVzhWeTVhTmFLc0NSX2VoOGxrbEJleWNHN1Vxc3JDMzNqUl9xakZsLTZz?oc=5"
-  },
-  {
     "ts": "2026-10-04T10:04:09",
     "source": "movers",
     "title": "Market Mover",
@@ -1587,5 +1579,13 @@
     "subtitle": "RIOT (Riot Platforms, Inc.)",
     "body": "-11.5% to $13.72 \u2014 $RIOT stock is down 12% today. Here's what we see in our data.",
     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQclpMOGtMdXFxbG9kQlgtQWpKdGVJMnROUTlrS3hsNEh4aU8wd2NvVm5sQWNSSXViRlhJZlh0WldLanBsdjczZ3ZnRzYxLVJRUkVsTEFNVFBlVTZiWUY2YUdYTTNYTm5WT2ZWTGtZVGtXaHRrU3ZpN3EzU3hSRG9JQlE2dmpGRWVaOFZqX05rQkRRUUFfWHV1bWNmeDJhNjhFMTBr?oc=5"
+  },
+  {
+    "ts": "2026-10-17T14:57:35",
+    "source": "sentiment_engine",
+    "title": "Sentiment Trade \u2014 SELL",
+    "subtitle": "META",
+    "body": "META at $709.33 (stop-loss -5.3%)",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRGJNbFcwcEZQSHlKVHU4RTliZ2l6cU9qanV5WEFkY2dxR2tJNE84T2szN2toSnlTRGpxTHloV3gxRWtxZ1pjclRxYkdwVENpTVRMbmNta25aS2xnZU0tOWtab3M4MnY1UDZ2WVRJbldxd0psU2xYQ0c0MFkyTV9lOXkxdFQ5MHVSaTJRZ2JWUl90Q3dBTVNHSGNRNlVNRERuY2UzSDRwX1pxNXU2ams4?oc=5"
   }
 ]
