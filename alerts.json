@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-10-04T10:04:03",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "IMOS (ChipMOS TECHNOLOGIES INC.)",
-    "body": "+14.6% to $83.30"
-  },
-  {
     "ts": "2026-10-04T10:04:06",
     "source": "movers",
     "title": "Market Mover",
@@ -1586,5 +1579,13 @@
     "subtitle": "GLXY (Galaxy Digital Inc.)",
     "body": "-11.6% to $16.14 \u2014 Galaxy Digital (GLXY) Stock Price, News, Quote & History",
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9yYnV1bUJwaTNfc0k4c1FVRzZqOU1CMnIxQ1pOS0tCTDRKeUs0NnNaQjFnTkl1YXhlTWR3SGxnS0U2b3RBc2ZiOHpsbWJIdlNBdHc?oc=5"
+  },
+  {
+    "ts": "2026-10-17T14:43:47",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "RIOT (Riot Platforms, Inc.)",
+    "body": "-11.5% to $13.72 \u2014 $RIOT stock is down 12% today. Here's what we see in our data.",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQclpMOGtMdXFxbG9kQlgtQWpKdGVJMnROUTlrS3hsNEh4aU8wd2NvVm5sQWNSSXViRlhJZlh0WldLanBsdjczZ3ZnRzYxLVJRUkVsTEFNVFBlVTZiWUY2YUdYTTNYTm5WT2ZWTGtZVGtXaHRrU3ZpN3EzU3hSRG9JQlE2dmpGRWVaOFZqX05rQkRRUUFfWHV1bWNmeDJhNjhFMTBr?oc=5"
   }
 ]
