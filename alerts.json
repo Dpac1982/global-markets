@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-10-05T08:36:57",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "MXL (MaxLinear, Inc)",
-    "body": "+15.0% to $105.93"
-  },
-  {
     "ts": "2026-10-05T08:36:59",
     "source": "movers",
     "title": "Market Mover",
@@ -1587,5 +1580,13 @@
     "subtitle": "FROG (JFrog Ltd.)",
     "body": "-10.8% to $84.31 \u2014 JFrog (NASDAQ:FROG) Stock Price Down 8.1% - Here's What Happened",
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUE9pVV9VR3otLVVfQzhLVHlZQ245ZUlhdVRUb0E3cXZhUTdGREdCdnVFeUFpRnVHdFNFZlZRVjlUVldSMjdaTDJxdWZaSGVqU0NaalNWdHFSQW5Uc0FGUUp2RExMbkZ2cHpaaEowZ3F2aVk1YjZHdy1yNnl5R1BKMlRUUVdXeWlXSlU0VkhkeXVWdlk4dHBIVG5ZMGh0REtCTTB3eGZMZ3gyeEdQTHUtR3V3UnZTVG5o?oc=5"
+  },
+  {
+    "ts": "2026-10-17T15:24:10",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "TWLO (Twilio Inc.)",
+    "body": "-10.6% to $244.37 \u2014 TWLO Oct 2026 275.000 call (TWLO261016C00275000) stock price, news, quote and history",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE44bkRxSFBFUUhPU2RYQzgtNldUbzBCeDUzRnkzMnliNWNfRldlUzlyY3QtQ0lteGZMc255ck03NWVoY2k3bDhiRVFKdHllb3lqaG00Y3piZXhSeHVtVGFNUGl2aVhKZw?oc=5"
   }
 ]
