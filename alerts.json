@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-10-03T18:52:09",
-    "source": "sentiment_engine",
-    "title": "Sentiment Trade \u2014 SELL",
-    "subtitle": "GOOGL",
-    "body": "GOOGL at $343.50 (sentiment turned negative (score -2), -3.3%)",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcVh2QklhR0VYMVpaTjNRSnpObDhkQnk5Smp0cm1rU1hXZTk5YUhsS21Ybm93Sl96RlM4ZzJqZXM4WWZ4Q2FzUnM5ZTlsZk1TWHl6Rkw5NWc3TXFDQUVjWXN0QWZmNXFPY2tGNE9wSERJYUM0RGlocXBaRDR6QTAxUVE4Yjh6ZDJWbjVlOFBINnVmYUZwUVhxQklYTkxXcmVINEVkUGh2bm9BN2p2RUlCU3kyQkFLVlJ3VVZMSERMejBrd0hI?oc=5"
-  },
-  {
     "ts": "2026-10-03T18:52:17",
     "source": "sentiment_engine",
     "title": "Sentiment Trade \u2014 BUY",
@@ -1586,5 +1578,13 @@
     "subtitle": "NBIS (Nebius Group N.V.)",
     "body": "-12.2% to $165.47 \u2014 Why Is NBIS Stock Soaring Over 10% In Overnight Trading?",
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbGtOX09fek0wTnVlUGkzQjJIYlVUaF90YThzMTVER25tdGs0ZXFNcHRBQkVOdWp1UFIzUURFMUNya0RjMXNzY2VNQV9WMTNhdTl1bmUwS3FpMVdwUEUwd2JSODZSU3NPeWo5c253N2NxRDY4Q1RhSi0xaUE2bF9ENUpxbS1ZczhSdV9WWUdmRmNrS0pSd0l3dHoyZE1HdUZWdzNubUNteVFrdmNNRHc5Q0t3Y0RjdVNaRVE?oc=5"
+  },
+  {
+    "ts": "2026-10-17T14:43:38",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "SLS (SELLAS Life Sciences Group, Inc)",
+    "body": "-12.0% to $9.98 \u2014 SLS Stock Slides As Pomerantz Probes Trial Disclosure",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPd2p0VndQTXZLR2lkaFp5S3VVMUFySmo5dWhfWDZ4ajluLUx1dXpDTEZoYno5dElvekZSdWhHdjVWRVcwYnlKdmpFU3VmRTJFMDlQdkx5UjRQUnJOZnQ1X0lOdUxzSDROaXkxdGU1Sk9ValJDSjlZalk2ZkZOTHFFTXJ2YXk1cF96?oc=5"
   }
 ]
