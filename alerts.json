@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-10-03T18:52:17",
-    "source": "sentiment_engine",
-    "title": "Sentiment Trade \u2014 BUY",
-    "subtitle": "BTC-USD",
-    "body": "BTC-USD at $84833.79 \u2014 Bitcoin BTC (BTC-CAD) Live Price, News, Chart & Price History",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1OTUoxc0R0OEZfLUJzRTRneHdSdV9aVWFWbks0bUtpS2g2YTA2eE5NckxEU0JSOUk5U2NYQXYwX3FFQnRSdkZ0aXJhWk52ci15Y1d1Z0lB?oc=5"
-  },
-  {
     "ts": "2026-10-04T10:04:01",
     "source": "movers",
     "title": "Market Mover",
@@ -1586,5 +1578,13 @@
     "subtitle": "SLS (SELLAS Life Sciences Group, Inc)",
     "body": "-12.0% to $9.98 \u2014 SLS Stock Slides As Pomerantz Probes Trial Disclosure",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPd2p0VndQTXZLR2lkaFp5S3VVMUFySmo5dWhfWDZ4ajluLUx1dXpDTEZoYno5dElvekZSdWhHdjVWRVcwYnlKdmpFU3VmRTJFMDlQdkx5UjRQUnJOZnQ1X0lOdUxzSDROaXkxdGU1Sk9ValJDSjlZalk2ZkZOTHFFTXJ2YXk1cF96?oc=5"
+  },
+  {
+    "ts": "2026-10-17T14:43:41",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "CRWV (CoreWeave, Inc.)",
+    "body": "-11.9% to $61.39 \u2014 CoreWeave, Inc. (CRWV) Stock Price, News, Quote & History",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE83cWt1ZldUdTRvbVRHc1R1aDV2Vzg4LXl3ZGwzUHlfVi1WcmNqVEtvSWZwYmo4dHNPZENVYUhTX3JELXNNUlB1NjZ2d3pyNE4tZGc?oc=5"
   }
 ]
