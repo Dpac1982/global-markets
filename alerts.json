@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-10-03T10:02:13",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "STX (Seagate Technology Holdings PLC)",
-    "body": "-10.2% to $848.99 \u2014 Why Western Digital and Seagate are seeing big stock drops today",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQazRZX3hqOVllODd4M2NCWF9hd1NSLWhWaVh3R0JCaUJlVm5DQnJJVER4Nklaa3M4YWFCdm1DY1gxeFl4NmkxclZyc0pEVkxBbnpHRmpGOWFvZ3ZUX1VUVlRzbU9ZbmN2OGNIbEhfbDJoWDJ6amc3UEdRbzVsX1JtcjB1Vjc2R2h2S1dXcTFzaDhGd1NESEZjWlFFSnI2SkxiTGFJWlRnOW1pSDQ?oc=5"
-  },
-  {
     "ts": "2026-10-03T18:52:09",
     "source": "sentiment_engine",
     "title": "Sentiment Trade \u2014 SELL",
@@ -1586,5 +1578,13 @@
     "subtitle": "TSLA",
     "body": "OpenAI CEO Sam Altman praises Tesla Roadster after $50,000 refund spat with Elon Musk",
     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQbi16a1pKUkpac1MtOEpvbnZDdVh3d2VBclIySHJVeGZQZjlTN3ppMVdfaHFXNHVURWFERXhHVWpmeFFLRE0tQkR5VWx0QzF2VXctSkpvdHR2RHRKelVaNGNxajhzdTNYZkd0cmp2VlF4a1pfcDhvNDNoRjJZNGE5S013cXprNW51NW0yRFZMb3NHNkJ6NGN5QkFpNmFXSHdXQ1ZPQUhxeTlvVDJDQ2xvYmtRdkNrRXRmTnBhX0xZV0t5LUdoR254bHVac0Y4TGJueERoQ1RQcE93bDTSAdsBQVVfeXFMUG4temtaSlJKWnNTLThKb252Q3VYd3dlQXJSMkhyVXhmUGY5Uzd6aTFXX2hxVzR1VEVhREV4R1VqZnhRS0RNLUJEeVVsdEMxdlV3LUpKb3R0dkR0SnpVWjRjcWo4c3UzWGZHdHJqdlZReGtaX3A4bzQzaEYyWTRhOUtNd3F6azVudTVtMkRWTG9zRzZCejRjeUJBaTZhV0h3V0NWT0FIcXk5b1QyQ0Nsb2JrUXZDa0V0Zk5wYV9MWVdLeS1HaEdueGx1WnNGOExibnhEaENUUHBPd2w0?oc=5"
+  },
+  {
+    "ts": "2026-10-17T14:43:35",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "NBIS (Nebius Group N.V.)",
+    "body": "-12.2% to $165.47 \u2014 Why Is NBIS Stock Soaring Over 10% In Overnight Trading?",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbGtOX09fek0wTnVlUGkzQjJIYlVUaF90YThzMTVER25tdGs0ZXFNcHRBQkVOdWp1UFIzUURFMUNya0RjMXNzY2VNQV9WMTNhdTl1bmUwS3FpMVdwUEUwd2JSODZSU3NPeWo5c253N2NxRDY4Q1RhSi0xaUE2bF9ENUpxbS1ZczhSdV9WWUdmRmNrS0pSd0l3dHoyZE1HdUZWdzNubUNteVFrdmNNRHc5Q0t3Y0RjdVNaRVE?oc=5"
   }
 ]
