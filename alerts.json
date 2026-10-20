@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-10-05T22:24:15",
-    "source": "trade_engine",
-    "title": "Virtual Trade \u2014 SELL",
-    "subtitle": "PLTR",
-    "body": "PLTR at $188.99 (MACD bearish cross, -0.9%)"
-  },
-  {
     "ts": "2026-10-06T08:39:50",
     "source": "sentiment_engine",
     "title": "Sentiment Trade \u2014 SELL",
@@ -1589,5 +1582,13 @@
     "subtitle": "PLTR",
     "body": "PLTR at $194.15 \u2014 Palantir Stock Is Near a Record High. Should Investors Sell?",
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQU1YenNvTFNPblp6WFdrd0t0WlNuRnBmWlN4Rlk5TXFjbDhTSnJzTS1SWjhiUUhJcFlVOUxtbmM4aUhhNzU2REJtdnB2MWl5VmNLQm12cWFJUU9KRmo3OHJvc19tb0V4WE55ZVpyRHlxQlNqbWZQSXVwRWdYemZVcU9pem1uYTdZTm1BWTJYeEZzTXdiVXJvZQ?oc=5"
+  },
+  {
+    "ts": "2026-10-20T14:12:22",
+    "source": "sentiment_engine",
+    "title": "Sentiment Trade \u2014 BUY",
+    "subtitle": "ETH-USD",
+    "body": "ETH-USD at $2385.04 \u2014 Current price of Ethereum for October 19, 2026",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBNWWd3blY0NUhldlZKclJveGd4Ym1iRHBWWjVVSkdlcTdKbVptaC1xUUswbnQwR1B3aXNjTXBzNWV4eC1QamJYazhHaDNEZ3JaYlFscXhIWDA0NG9jeWlCa2lEQWlFT0It?oc=5"
   }
 ]
