@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-10-06T08:39:50",
-    "source": "sentiment_engine",
-    "title": "Sentiment Trade \u2014 SELL",
-    "subtitle": "BTC-USD",
-    "body": "BTC-USD at $85616.94 (sentiment turned negative (score -2), 0.9%)",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZXZ2SHNnNTZRMWF4RmFXMXZfam1IdVRLejN4RE5xSmcxT1hvd3hJckV1X1lWTlFmVXdmRktLcjkwTFhxandFY0N2aVk3MzVRQVZ4RlRPdDBtMUhCYVhJUUt5cTI3NV9xelNITUJWbERJbjR5bEtQaTRrYXF6T0p3YWhCczZFbExEcC01c0F5R21zUmU4VEhvb3p0bDI0WnQ2Q2U2Ng?oc=5"
-  },
-  {
     "ts": "2026-10-06T08:40:30",
     "source": "movers",
     "title": "Market Mover",
@@ -1590,5 +1582,13 @@
     "subtitle": "ETH-USD",
     "body": "ETH-USD at $2385.04 \u2014 Current price of Ethereum for October 19, 2026",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBNWWd3blY0NUhldlZKclJveGd4Ym1iRHBWWjVVSkdlcTdKbVptaC1xUUswbnQwR1B3aXNjTXBzNWV4eC1QamJYazhHaDNEZ3JaYlFscXhIWDA0NG9jeWlCa2lEQWlFT0It?oc=5"
+  },
+  {
+    "ts": "2026-10-20T14:20:04",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "ARQT (Arcutis Biotherapeutics, Inc.)",
+    "body": "+10.7% to $31.89 \u2014 Arcutis Biotherapeutics (ARQT) Gets New Rating Uprgades from 2 Analysts; Shares Climb",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPckswOVRJbzhJcGNpaS1hVGRQdjYwNWpmbFVleE9SUjJ0UFhkZVdIXy16eGpvNzRrSFRfVjR4NGFtZ0RReFpFcERVMnBQaFYwYjczQjNCZUt3V0wtU0Zxc0pnR2VPemhWSWNUS3g3VjRzZzJZU1gxODFXY0JRcVlLUVpxUUcwQk45R29sS1VOd0xVVVg5RE5oSlpRdVVncllpZXk1WmlxREU?oc=5"
   }
 ]
