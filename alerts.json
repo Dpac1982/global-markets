@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-10-06T14:29:10",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "BDORY (Banco Do Brasil SA)",
-    "body": "+15.0% to $5.29"
-  },
-  {
     "ts": "2026-10-06T14:29:13",
     "source": "movers",
     "title": "Market Mover",
@@ -1590,5 +1583,13 @@
     "subtitle": "ASST (Strive, Inc.)",
     "body": "+13.6% to $30.75 \u2014 Strive, Inc. (ASST) stock price, news, quote and history",
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5faWFWd2xRTzRsWlFRdDNxRFdGVllGTnhMbExLYnFLSlczQ0JzU2EyajN1RzRyLUNjelJ4eGJ4ZjNUZnpnbnBVS2M3YkppYkVuMWc?oc=5"
+  },
+  {
+    "ts": "2026-10-22T03:15:47",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "ALMR (Alamar Biosciences, Inc.)",
+    "body": "+11.7% to $31.45 \u2014 Alamar Biosciences, Inc. (ALMR) Stock Price, News, Quote & History",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1hZ2xnX01kdExDTnVpS2N2cUFkTmhlbEhmakpaMWZIQ1FlMHRTUUhQazV4cVRiU2h3S1dybV9ZSnNmcVFOZ0hDNmJfUTVrWlUzRkE?oc=5"
   }
 ]
