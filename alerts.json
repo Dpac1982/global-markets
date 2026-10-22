@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-10-06T21:11:48",
-    "source": "trade_engine",
-    "title": "Virtual Trade \u2014 BUY",
-    "subtitle": "PLTR",
-    "body": "PLTR at $192.54 (uptrend + MACD bullish cross)"
-  },
-  {
     "ts": "2026-10-06T21:11:52",
     "source": "movers",
     "title": "Market Mover",
@@ -1591,5 +1584,13 @@
     "subtitle": "VIAV (Viavi Solutions Inc.)",
     "body": "-13.6% to $30.59 \u2014 Viavi Solutions Inc. (VIAV) stock price, news, quote and history",
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5BZ3RHWnR5N250elA4TzE1QWlidUlPeW1JRjBCOEM2U21mX2tWanhIaFctQzVEVl9uNkFuWElPcUxmYW9ObC1XWEZkNFNmbUhUWFE?oc=5"
+  },
+  {
+    "ts": "2026-10-22T19:08:43",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "COHU (Cohu, Inc.)",
+    "body": "-13.8% to $47.66 \u2014 Is Cohu Inc (COHU) Overvalued After 4.8% Rally? GF Value Says Ov",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMTBTdTZtZzNDdDRXZ2FSY3U2QWs2TERBNU1KaEpETE5wbDZGTF8zbGRaZ05Hb2Z1azgxLXdWOHJPai1BaG5Tc3lQMG1VTnk3SGJpWVN1UGR1OEVRZmhuN29keXVMdkNuZWdlN003LTRZbmU3UnFDcnVjZ29nMkNGWlh4c0xCcXdDbUphdkZtbFdFQnNpLWVRamZXZHI0U1dZYWlIS3NtalREUQ?oc=5"
   }
 ]
