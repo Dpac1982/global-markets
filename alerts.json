@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-10-07T16:06:41",
-    "source": "sentiment_engine",
-    "title": "Sentiment Trade \u2014 SELL",
-    "subtitle": "ETH-USD",
-    "body": "ETH-USD at $2575.63 (stop-loss -5.9%)",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9WUXVKalFOSEt6QWVfTHFiMHpjMzlBaUlKRzNFazloYUVKc2JhbVExdUZ0YUNEdmluQUM0ZWpyY3pYUWdieDVKUno3ZFVqSUh5azNNakVMQUNSYmVNWE42OVFXYV9jd2w1?oc=5"
-  },
-  {
     "ts": "2026-10-07T16:10:00",
     "source": "movers",
     "title": "Market Mover",
@@ -1592,5 +1584,13 @@
     "subtitle": "INIO (INNIO N.V.)",
     "body": "-10.9% to $15.03 \u2014 Top Innio (INIO) Competitors 2026",
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNFc5T0gxcXJ0VzdCTFlHcUZKN21TUEdKTm1GNHFSeHRyeEluMXpRYkFwWE56V2UtS2ZrNTdtVFQ1M0Z6TlFMM2p3ZEhORnRpRmJ2M3NYVzRoZlNOd2ZYMEVOU3JCY2g1ZklCd1hmdE9ZSTd5aHE1TGZXNWY2b0NrNA?oc=5"
+  },
+  {
+    "ts": "2026-10-22T21:21:34",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "PURR (Hyperliquid Strategies Inc)",
+    "body": "-11.3% to $8.54 \u2014 PURR Jan 2027 23.000 call (PURR270115C00023000) Interactive Stock Chart",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9zVmcxRGdKTmdCcGpDLWlCOTRyNS10VHZIaDFzdWlqMWRQajlNNjF6NC03RGpIOFpQQ3RCMGk4b3VXSkI1aXd3MmpFbTVzYWhObUZ2X285bmZhTGRzNEVQRkFEbUsyRUN3aHhTckpn?oc=5"
   }
 ]
