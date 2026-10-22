@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-10-07T15:43:07",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "TXG (10x Genomics, Inc.)",
-    "body": "-17.5% to $80.66 \u2014 10x Genomics, Inc. (TXG) Stock Price, News, Quote & History",
-    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBMLVA4VUJWb2ZXRXFNM0FiRkcwalpCS1hVMTAzV2FydUtFUVMzSXZmek5mR2xzbHNOdWU4emdRYmQ0dlJ3LVp4Y0VzLWE0Uzhn?oc=5"
-  },
-  {
     "ts": "2026-10-07T16:06:41",
     "source": "sentiment_engine",
     "title": "Sentiment Trade \u2014 SELL",
@@ -1592,5 +1584,13 @@
     "subtitle": "CHRN (ChronoScale Holdings Corporatio)",
     "body": "-11.7% to $14.67 \u2014 ChronoScale Holdings Corporation (CHRN) stock price, news, quote and history",
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5QYWpMWFYzaU5YXzg1eVMzcUFjZEpJUVZTTkJyNTljM3oyZHNHRWNhWjY5M05IZzRMd0VTdmNnVG5kV2RFZ0dzWWlIQXZ0bjdWTGc?oc=5"
+  },
+  {
+    "ts": "2026-10-22T21:21:26",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "INIO (INNIO N.V.)",
+    "body": "-10.9% to $15.03 \u2014 Top Innio (INIO) Competitors 2026",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNFc5T0gxcXJ0VzdCTFlHcUZKN21TUEdKTm1GNHFSeHRyeEluMXpRYkFwWE56V2UtS2ZrNTdtVFQ1M0Z6TlFMM2p3ZEhORnRpRmJ2M3NYVzRoZlNOd2ZYMEVOU3JCY2g1ZklCd1hmdE9ZSTd5aHE1TGZXNWY2b0NrNA?oc=5"
   }
 ]
