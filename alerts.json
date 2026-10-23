@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-10-10T10:08:25",
-    "source": "sentiment_engine",
-    "title": "Sentiment Trade \u2014 SELL",
-    "subtitle": "PLTR",
-    "body": "PLTR at $209.05 (take-profit +10.2%)",
-    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPbXQ0UDNaRHFFRU1SZ2padHIwMGgwV3hocEhhd0pMcGVhNmx1STg2WTBLUF9zaDc0ZE4yZG9UT253SmszcUs4OHVlMXBXY2MtTDVGYjRoX0hoWnRXcnpSOVNsdnlCMUJpZk0tUTgxM1lrTFBZX3JJa1pzT2JPQjd6Y2hQLVVRWnlvYnJOWTl5S0c5SEdveTJNb3M2Q3QtYWxiMEgtSW80bWM0RjVKNllfSHhpYVotQjVQZGJUWFRUTG5VcDFXLXZUaVhtRGxQVEVUSW1Bb25iTUk2eUtXZVlXaHBpNA?oc=5"
-  },
-  {
     "ts": "2026-10-10T11:11:38",
     "source": "movers",
     "title": "Market Mover",
@@ -1594,5 +1586,13 @@
     "subtitle": "PENG (Penguin Solutions, Inc.)",
     "body": "-11.1% to $51.91 \u2014 Penguin Solutions (PENG) Stock Price Drops Despite Q4 Earnings Surge",
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOS28zd0ZnOEhhbGZoY3R3VnlqWVJoSlJzTWMwalNlSGw1ajFMZ1NGQnFkNGswbnZpcFY5a2VHNGF0WEc4OUZqbXNHem94cDRCSTZjQzMwTWt4aWF4cVl4OC14QTl5M1pJMXBObzAtX2ZkS1preWsyU1owUEJHc0s1WXhQaWt5RnRtTFQyalZBMDY3Yk12VWhOdzhWa181Ymh4?oc=5"
+  },
+  {
+    "ts": "2026-10-23T10:48:59",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "ASX (ASE Technology Holding Co., Ltd)",
+    "body": "-11.0% to $37.74 \u2014 Australian Stock Market Today: ASX Futures Inch Higher On Surging Oil And Inflation Focus",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVTlZWWJYLVl1c2xTTmRDcEozdElrNVNSTXgteUlSajhPeDc1c3dPZTh6R0dBel9yMGdQM01BMG9jZEhIb0lhQ1hzQS1nNDN5MVNPWkVaeUhFbGlCQXJ2ZDJpMXZrR0hZTGJWYWFrdGZHcm0xLW42elIxc2tPc0M2OFJGbkVKYmRlUWhjQjdwVnBidzhpeGFiM2ltM0RxaEU?oc=5"
   }
 ]
