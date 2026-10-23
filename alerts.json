@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-10-12T10:05:05",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "MRNA (Moderna, Inc.)",
-    "body": "+14.2% to $225.00 \u2014 Why Did MRNA, HUM, LITE Stocks Surge To 52-Week Highs Last Week?",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZWlsVi03VkNOVExUR3BiV3VWS0tGWHM4b2RVbjhNS1NtajZ3eTE5bFl1ekFlQ2ZoWnktenlPMXlOVVg3LWZ3LWljM2FnQzZWY1p6RFZxWVBNck5RYXkyeXltVGsxSHlYdHZJZjl1dlpFcF9wOGFJMUdfdWNvdTFILU12R1NXWmxzZXBrdkktWQ?oc=5"
-  },
-  {
     "ts": "2026-10-12T10:05:08",
     "source": "movers",
     "title": "Market Mover",
@@ -1593,5 +1585,13 @@
     "title": "Market Mover",
     "subtitle": "LKQ (LKQ Corporation)",
     "body": "-19.9% to $18.00"
+  },
+  {
+    "ts": "2026-10-23T19:59:52",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "RGC (Regencell Bioscience Holdings L)",
+    "body": "-12.6% to $8.58 \u2014 RGC Mar 2027 5.000 put (RGC270319P00005000) Interactive Stock Chart",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9jOEFzM2xSTkhOMGpra0otVXE5ZzFIclJBNmMzX3FyR2JCMmtmSWRBWERJUFpSNDlndVRNT2owWEdUdVBCZlphb01kZXYxS3REbGtUWU52Z3pVaEVKUGVJbmloZlJRU3gwTGVocA?oc=5"
   }
 ]
