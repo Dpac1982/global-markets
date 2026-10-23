@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-10-10T11:11:43",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "TMUS (T-Mobile US, Inc.)",
-    "body": "-13.3% to $148.58 \u2014 Why T-Mobile Stock Just Crashed",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOa2dLdlNzbWJPWHNaSHhUdW5CTU81d0VJalZPUnpETjRhLVNyM3RhRTJuZWpQbE1wTGRCb0UxTVVtcFRETG9sdnlPMEZxdjA5ZVpFdjBTMm9SWnVXRVhNdTgyNTYzVkZNd3VWOW1zWlNCaFRPbGNuNHVxQXJBRHlLR2tMXzI3M295eXh3ZUVRNFVCQQ?oc=5"
-  },
-  {
     "ts": "2026-10-10T11:11:46",
     "source": "movers",
     "title": "Market Mover",
@@ -1594,5 +1586,13 @@
     "subtitle": "CIEN (Ciena Corporation)",
     "body": "-10.7% to $322.64 \u2014 Is Ciena Stock Really Expensive?",
     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVG9Ha2ZIRVYxUVhaZzZJajhrbDF0bjA3MFN3azJXRWpzSnY2T2VTbjJOZVo3bUp6S29RR3VHSW9EVy1ROUYwRm1yN3FSQnhtd09BTGZkUVZEeGMtSnFQRHpnc2swM01lVjhwWWlqT0dyamxvaGhCSU85Q3F6UEVRd1FEWURaV18wQkhRNG5DckpISjhZREY0?oc=5"
+  },
+  {
+    "ts": "2026-10-23T10:56:44",
+    "source": "sentiment_engine",
+    "title": "Sentiment Trade \u2014 BUY",
+    "subtitle": "MSFT",
+    "body": "MSFT at $521.08 \u2014 Microsoft Stock Could Be Closer to Its Next Big Breakout Than Investors Think",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQV0dLdDBXQzBZTkhHc1c5NndxeDVIN0RUSXU3NzZQVExSLWg1OHRaVmtKMU5NUmhVOXlmd0ZEaVluVDR5Qy1LbWkyemlYbnJSMWhyU2ZucnhmWkJaOU9SbkVUYkdOanFDTWJmcUlRcVBDdXU5NVN2bzJpZEV3WEZnUGl6MkVlb2paTTFEVHlSSW05Qmo0Y1gtN2xLNER5em8?oc=5"
   }
 ]
