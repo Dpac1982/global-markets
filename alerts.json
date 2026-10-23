@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-10-10T00:30:16",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "HUM (Humana Inc.)",
-    "body": "+11.6% to $431.87 \u2014 Humana (HUM) Stock Fair Value Edges Higher After Analyst Target Revisions",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSDMwbkxiUEVKTmh4TFRyTUg4R3d0YnhYQmZZenY1LVRIbGxpbGlnd3Qwd1JJdmJBZzBfcThBN0NQb3NjU3JlU0pIVDdXNjZZU2NxWFBWT2QwUE9FbFpEMHBldk9GRmk1NjdBV3ZwNVd1UUlEVGNqNzM4ejdjdTlfZVpOSVZQU1AzcnBDTVJvWTNSczl5aUN3?oc=5"
-  },
-  {
     "ts": "2026-10-10T10:08:25",
     "source": "sentiment_engine",
     "title": "Sentiment Trade \u2014 SELL",
@@ -1594,5 +1586,13 @@
     "subtitle": "FLEX (Flex Ltd.)",
     "body": "-11.1% to $76.69 \u2014 Flex Stock: 8 Straight Red Days, Down 28%",
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZTh4dnUyQmV0ajhRcUNzYXhjZmZJUVMwU0FrcWNCUXc0TjFjMUFBNmVGRzNQMFl2MFNMRm5faTBsR01nOHVzNzdEcXRtNjlpenBtbXB6TkRiRzNvR3JRRHhpVmRhcWxyMXBuUHBqQ3Voc29WRTI0WEhEX01NbE81N0gzY3ZIcGNyOHF4dzVPVHU1ZGZuVjhETXVUbmlhbjdn?oc=5"
+  },
+  {
+    "ts": "2026-10-23T10:48:56",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "PENG (Penguin Solutions, Inc.)",
+    "body": "-11.1% to $51.91 \u2014 Penguin Solutions (PENG) Stock Price Drops Despite Q4 Earnings Surge",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOS28zd0ZnOEhhbGZoY3R3VnlqWVJoSlJzTWMwalNlSGw1ajFMZ1NGQnFkNGswbnZpcFY5a2VHNGF0WEc4OUZqbXNHem94cDRCSTZjQzMwTWt4aWF4cVl4OC14QTl5M1pJMXBObzAtX2ZkS1preWsyU1owUEJHc0s1WXhQaWt5RnRtTFQyalZBMDY3Yk12VWhOdzhWa181Ymh4?oc=5"
   }
 ]
