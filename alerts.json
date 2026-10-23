@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-10-09T12:41:10",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "AXTI (AXT Inc)",
-    "body": "-10.2% to $71.66 \u2014 AXT slumps 10%, pushing losing streak to three sessions (AXTI:NASDAQ)",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVzh2V1N0akhXaTNHemNKSXVBSl9fRWlQQnE4TERYV1RQY2VtQ2pzeDNXa0luckZ6SnNYajdvZk9aT0hoWEVFdWtOdFVyd1I4YjlWUlkzNGJIajJCSHVsRzdLOTBKX2dUbmNSN2htNEtDZzJQWk5TWWkybjN4alZjVE8tV2wzNXpIMHF0T2Q4ZjV1TlhxcGc?oc=5"
-  },
-  {
     "ts": "2026-10-09T17:35:30",
     "source": "sentiment_engine",
     "title": "Sentiment Trade \u2014 BUY",
@@ -1594,5 +1586,13 @@
     "subtitle": "AAOI (Applied Optoelectronics, Inc.)",
     "body": "-12.0% to $68.07 \u2014 AAOI Oct 2026 81.000 call (AAOI261023C00081000) Stock Price, News, Quote & History",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ETjNqWXNSMklMa2lndXQ4SUMzQW9YSFhBZVBXTGZjSnlkUW1EcUQ1WDlpT0dHSWpJSEFPeDJVX19rWmNDOExrZWRLcko1M2RENHVXU0lXX3UyR0lkbkNRMEJiYTVWQQ?oc=5"
+  },
+  {
+    "ts": "2026-10-23T09:48:11",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "CSQR (Csquare, Inc.)",
+    "body": "-11.8% to $14.90 \u2014 Csquare Sinks 12% as DF Research Says It\u2019s Built on \u201cFailed\u201d Legacy Centers",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcXdnaWtnREZpMDlsOC11NmM4WlB5WHRWMURIV2R1MmhDQjFGTFNEUmNkYkVKRTI3U0NyR0VPX3JnRm1pRksycmprUTI2SGVQeUxxdV9vNUY5OUExakJaT3UyVnYyOGd5Qzd5b1lNb3hGQ3Vnc0M0dVI2ODZyR3NVbGlMcTRtY1pzdXF5X0QzZWJhYlYzWjBxQnA1dms3dw?oc=5"
   }
 ]
