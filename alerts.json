@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-10-09T12:41:07",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "HUT (Hut 8 Corp.)",
-    "body": "-10.9% to $79.59 \u2014 Hut 8 Shares Edge Higher After Hours - Hut 8 (NASDAQ:HUT)",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOb3pmdlZtMFQ1LTJuMHJuVklueF9scDQ0a0NTXzJwZC1pd3pGVnloM1Q2Yll6QmE5MVhtTXoySWpfRDMzbVdOajNrWDVjck5EZDRNTWVZdld0QVpKdUN3Vlp1SW01ZERnTHJrLXgwR2UwaHFicERmUE5iRU1EU1hmdklfTjRNTnFsY1JIQjMtcm1vbmJNckx3Q0dqVnJuNVV5UHFvYlJ6T1VteW1z?oc=5"
-  },
-  {
     "ts": "2026-10-09T12:41:10",
     "source": "movers",
     "title": "Market Mover",
@@ -1594,5 +1586,13 @@
     "title": "Market Mover",
     "subtitle": "MTRN (Materion Corporation)",
     "body": "-12.4% to $219.12"
+  },
+  {
+    "ts": "2026-10-23T09:48:09",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "AAOI (Applied Optoelectronics, Inc.)",
+    "body": "-12.0% to $68.07 \u2014 AAOI Oct 2026 81.000 call (AAOI261023C00081000) Stock Price, News, Quote & History",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ETjNqWXNSMklMa2lndXQ4SUMzQW9YSFhBZVBXTGZjSnlkUW1EcUQ1WDlpT0dHSWpJSEFPeDJVX19rWmNDOExrZWRLcko1M2RENHVXU0lXX3UyR0lkbkNRMEJiYTVWQQ?oc=5"
   }
 ]
