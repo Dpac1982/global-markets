@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-10-07T21:59:52",
-    "source": "sentiment_engine",
-    "title": "Sentiment Trade \u2014 BUY",
-    "subtitle": "BTC-USD",
-    "body": "BTC-USD at $83117.20 \u2014 Bitcoin, XRP, Ethereum Drop as Cryptos Face Perfect Storm. Coinbase Stock Falls.",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNHVycE1wMk44UloxcnczY1FLWUpmTm9IZjRhTVRNYjNrV2RJbktfeTY5cFluamdKREU1cXBER0lLbWlXN0tDTzhSWmFRS3Z4S0Z1X21BRGNwRm5MYmZVNVNmRVcxMzBwMmpzTzQ0QkZuVzN0SFA2VnZDQVBFQ0t5QWhMNHRCSFNPRUw2Nw?oc=5"
-  },
-  {
     "ts": "2026-10-08T10:26:26",
     "source": "movers",
     "title": "Market Mover",
@@ -1594,5 +1586,13 @@
     "subtitle": "MTSI (MACOM Technology Solutions Hold)",
     "body": "-15.9% to $229.73 \u2014 MACOM Technology Solutions Holdings, Inc. (MTSI) stock price, news, quote and history",
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5pYlVMXzVxRnBhSldjclZTcUU4NHhPTTZpVUlQZ1o0c3pVVWJrbDBoRjMxYTdlcW5tWnpnQi1oZDhBaUM5Qlh5WHI4LXp6RGpJV1E?oc=5"
+  },
+  {
+    "ts": "2026-10-23T08:47:16",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "VICR (Vicor Corporation)",
+    "body": "-15.7% to $179.99 \u2014 Vicor Corporation Shares Gain 4.5% on Strong Q3 Earnings Growth",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaGY2cVJTckNRMUlDaEx4TGZIT3JrUW04N09zRThSRjNBdkhLazlHNHBtWHdwSEZOVFlqanhPLUlnQ0VuSk0taDd5aTV3Y3AwWlF4NW5ZUm9kUWxnUlYxMTB4aGRYaUkySHFyTi1taXBpei1MdHBuRXJacTFPa21wSnQ3RlI4ZE5CazF4NlhiUGlTbHFhVEZxMVBZRWY?oc=5"
   }
 ]
