@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-10-07T18:36:49",
-    "source": "trade_engine",
-    "title": "Virtual Trade \u2014 SELL",
-    "subtitle": "PLTR",
-    "body": "PLTR at $190.81 (MACD bearish cross, -0.9%)"
-  },
-  {
     "ts": "2026-10-07T18:38:34",
     "source": "movers",
     "title": "Market Mover",
@@ -1593,5 +1586,13 @@
     "subtitle": "R (Ryder System, Inc.)",
     "body": "+10.5% to $265.53 \u2014 Why Ryder (R) stock is trading up today",
     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaC1DRmJ1SFlKVjZJMkQ0SUk1Z0F0SlpmQ2xKT1Uta09UbkVpcHdfdGN4SXNiNmNiRlQwMDNONksyYS01R1RXNmpvNGJkVEdGQ2VqajRkNmhneXlNbFdKRzNUdGdfVURSMThQbm1WMmx1X0V4YWE1ZzJqNWc5d0F6bnNUZHA0VjY3M0ZmTW1oeFozWjJk?oc=5"
+  },
+  {
+    "ts": "2026-10-23T06:12:17",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "TTMI (TTM Technologies, Inc.)",
+    "body": "-27.7% to $73.89 \u2014 Why TTM Technologies (TTMI) stock is trading lower today",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSXgwaEZxWTJMTl9Na1hZdVZ6TDRtYnhUOHJrWHk1NW9UT0duNUJCSlNvT0RZOFNRYS1HVGtfMDZlU0puMkxsUHlRU0gyWi0teUR6MGxXVG9kZUNiZUJOUXlYSkVQeGZUT2w1LUlYWmZJaGJfV3pfSHZySFhlWXFOaUNlN01MbjdINFlLVUJaVjF0UHRQa0tET0V1b20?oc=5"
   }
 ]
