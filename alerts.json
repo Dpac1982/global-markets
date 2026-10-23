@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-10-12T06:01:16",
-    "source": "sentiment_engine",
-    "title": "Sentiment Trade \u2014 BUY",
-    "subtitle": "NVDA",
-    "body": "NVDA at $229.28 \u2014 Nvidia (NVDA) Stock May Be 27% Undervalued Despite Record Highs",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNd1dlQVhPRElnNkdRc0FCd2FTTjVpNXBXWXh1QlB0bXBwUGt0eXZlb1J3YnFTMjNVOHZ0SU40UDZEUGRMS0VjMXZhVVpkWEtjWG1OQnhud3laYlBiRmJjdFd0OTE2UlZYWDg2ZGJRclFPNktCQThvRXdWLXRDSENRU0NISDE4RzctRGh5aGVwMUxqRzg?oc=5"
-  },
-  {
     "ts": "2026-10-12T10:04:56",
     "source": "movers",
     "title": "Market Mover",
@@ -1594,5 +1586,13 @@
     "subtitle": "ONTO (Onto Innovation Inc.)",
     "body": "-10.6% to $198.67 \u2014 Does Onto Innovation Stock\u2019s Valuation Make Sense?",
     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMm9BTUZxYWZpTGNwZFdEU21sNjF1blVpdExVQXd6eEtYRjYyZ3V3c0FUVElKajBvbUVSdnppaFpyT21RTHc1ZkIwaTYzV2xNWjhCSWZ5QThZVVlPeU11ZGI5ZGxMVi1QUUFQUlMtSF9VdjZiQzZYWVlYakNmLVJubkgxb1ROUjhaSms5OWtrYkxaQ2IwcUFmNEtaQ3lqczNKMGp3RTZoc3BxZlFaRGc?oc=5"
+  },
+  {
+    "ts": "2026-10-23T11:29:34",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "INIO (INNIO N.V.)",
+    "body": "-10.4% to $15.11 \u2014 INIO Stock Price and Chart \u2014 NASDAQ:INIO",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1hc2V3SloyZVNXMXJRQ3AtMld5SkhVTFJqbndIa1cxMURFZWY5ZUh3X0hvRE1naEwyNVhrUXhIdWpqY093M20wZFBWWWdta1lfVTBVU212bmgxQzZt?oc=5"
   }
 ]
