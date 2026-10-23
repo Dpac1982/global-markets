@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-10-09T12:41:05",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "EQPT (EquipmentShare.com Inc)",
-    "body": "-11.4% to $15.66 \u2014 $EQPT stock is down 13% today. Here's what we see in our data.",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTTdqdWE1c1FOeG13bkNMdnNyY0w4SUVuQ3FtMU9OZjUwenZBd1lXeXZxWnk1R3VITTBnN2NVZzFZMEJhLUlXbE5Ba0xJLVhnYlRXVmY0dlE3dUFuM180cXpMQmptUGlUbEhJVHFxN1JjclhpR3B2MjlhdEZfOEhKQmpTOVpXaHozRUNIT3NyZWowWXZDZGcwbEg4QnViWEs0dGI4?oc=5"
-  },
-  {
     "ts": "2026-10-09T12:41:07",
     "source": "movers",
     "title": "Market Mover",
@@ -1595,5 +1587,12 @@
     "subtitle": "AEIS (Advanced Energy Industries, Inc)",
     "body": "-12.5% to $216.64 \u2014 Is Advanced Energy Industries (AEIS) Outperforming Other Computer and Technology Stocks This Year?",
     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVk5nbGVjWnlUaXB2SlBsZmFWNEtEdDFrbmwxMm1idUo0R0xyRk1TZ0o0ZFdOZjdTWGdQbUhMWUctYkJ2c1Fpak43cTJ5N3hablFnM0NaZ2lOanl2alFBdEx6UkM0NWtCanlJZVl6cGJnb3czSWJnYWhCSFVDVDBzRkkwWG1NLTlmcHEyU3ZaQ1dmMEl1TlEyMU1R?oc=5"
+  },
+  {
+    "ts": "2026-10-23T09:48:06",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "MTRN (Materion Corporation)",
+    "body": "-12.4% to $219.12"
   }
 ]
