@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-10-07T21:09:44",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "BSP (Bending Spoons S.p.A.)",
-    "body": "+11.5% to $36.88 \u2014 12 Information Technology Stocks Moving In Wednesday's Intraday Session - Amplitech Group, Inc. - Series",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSkcwLXpERHllR2liWENoakJ1Qk1fVU9jYnFuOTE3X2VIeUpySGNtWVJEVDhDSTNfVzItZXF6NjNrQlRIZEVKSDMzVUpIOVZIYThsakg2NnZFQVIxY2RtTndwblFYYzYyRGJUQTl2NHFMc0E0WXFGZFg1TndUSTA1aEE3aVgwNXNHOTJaZjFNQ0pheDJ6dWNRRTI5YVQwT1d4R0IxU2VOdnFUbjMtYVJ0My1FMUFMNkhEU01pVmU3VzV2OGtxaEdPcg?oc=5"
-  },
-  {
     "ts": "2026-10-07T21:59:52",
     "source": "sentiment_engine",
     "title": "Sentiment Trade \u2014 BUY",
@@ -1594,5 +1586,13 @@
     "subtitle": "COHU (Cohu, Inc.)",
     "body": "-16.3% to $46.26 \u2014 Cohu, Inc. (COHU) Stock Forecasts",
     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcVVjdHBIcEtuaVpkUWMzZUdmWUpZb2xsVHJpaDlBUHpyYVBHTFdpZkxfSnEteGZKMkV6Tnh6Rkhodll5c1JVdHlYdzV3QmlRQmJtNFA1YXJWRC1YdnpzMHU1MUg2VXNPbExoNUZwYkJsempwbk9zUHQ2MVhIbkZfbV9DUTBMeGxVR0RGR19Hcw?oc=5"
+  },
+  {
+    "ts": "2026-10-23T06:39:54",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "MTSI (MACOM Technology Solutions Hold)",
+    "body": "-15.9% to $229.73 \u2014 MACOM Technology Solutions Holdings, Inc. (MTSI) stock price, news, quote and history",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5pYlVMXzVxRnBhSldjclZTcUU4NHhPTTZpVUlQZ1o0c3pVVWJrbDBoRjMxYTdlcW5tWnpnQi1oZDhBaUM5Qlh5WHI4LXp6RGpJV1E?oc=5"
   }
 ]
