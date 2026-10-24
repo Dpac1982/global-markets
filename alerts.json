@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-10-12T22:03:34",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "CIEN (Ciena Corporation)",
-    "body": "-10.3% to $403.28 \u2014 The former Epic Games HR chief will lead Ciena's global employee strategy",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdzQxLXFvRzlOOXk2M0l6OXJmQXlVQzNyTUpzOFRIUHV2UnUybzlRZzVOVERPaUR5a2tsSzkyaXd5a3RVWVBCQmRPSHduRGNfVDg5NGFKVmU4QTFyRnF4YmZiWUlZZ1NrQzNWS2ZMa2JKNmcwRlg3ckdnUXVHeVhXUWZXeVFBZmZqYWVyNFZxWTlrQjh4eDNQa2VFNzhVQWxrLUluMQ?oc=5"
-  },
-  {
     "ts": "2026-10-12T22:18:56",
     "source": "sentiment_engine",
     "title": "Sentiment Trade \u2014 SELL",
@@ -1594,5 +1586,13 @@
     "subtitle": "TNGX (Tango Therapeutics, Inc.)",
     "body": "-16.4% to $23.34 \u2014 Tango Therapeutics stock falls despite positive cancer trial data",
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYlYyTEp4RG1FbVN1X3ZNeXdxVURBS2lYQjZROGd2VXVBbmlRVEJ0bmxQeVRNOWNtanotYndWalRhOTliV1lzZW02QVNpZEtubGUwTmk5X19ua0Z6QWdBMDQ1QjJkRHJmVUlUUS1DVVE2Vk1ld09BRElqb0RlSnVPazJCakxJSlB6bHVDZDRtYXdsa1hoTmtobE9IOGpTT2l6?oc=5"
+  },
+  {
+    "ts": "2026-10-24T16:29:01",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "BE (Bloom Energy Corporation)",
+    "body": "-11.2% to $193.30 \u2014 Bloom Energy Corporation (BE) Stock Forecasts",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbkJ1bXlDTVRkbWVmZTJLYlF5V3owbUljOXJteUtmOW5qb0h3QkdQaldydXpnQ2FnTGNvYWJiZGFEc2EwSDlEODAtbWozMUYyOFZSdDMtdDI4WVc4eFpKSUtOQUlQY19mcG96clk3OTBGLUFhajZaRVQ5UHdodi1XVW96aW94ckJrRHZpUQ?oc=5"
   }
 ]
