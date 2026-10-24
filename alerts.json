@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-10-12T22:19:01",
-    "source": "sentiment_engine",
-    "title": "Sentiment Trade \u2014 BUY",
-    "subtitle": "META",
-    "body": "META at $749.03 \u2014 Why is Meta Platforms stock rallying today?",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZjVDanlnR3RUM2QtbGxYY19rMndoQVhUcHdRNUQ5bG9ZdFVFNGhmZUtpeVpmMlNYeU56SDFEcVVUNXU4LUdQUGV0T2VZOE80V25UTTFOY1JMSkZOa2pVU1hXcUU3clRjcFN5WEc3NExoTzh2UF95S0dxSzZWeko3em05WHB3UU9uMVZqQkJ5ZDZObUtMQkRPS0k3UWRrTk15aENfa0dSOA?oc=5"
-  },
-  {
     "ts": "2026-10-12T22:43:41",
     "source": "movers",
     "title": "Market Mover",
@@ -1594,5 +1586,13 @@
     "subtitle": "SLM (SLM Corporation)",
     "body": "-10.8% to $19.41 \u2014 SLM (SLM) Stock May Be Undervalued As Earnings Guidance Resets",
     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONVdWUFo0U0VGbERwSHBMcnBaSHFONmJDVWFwTlVaR1prSmdub3FSQ3RWY2JOM0JWUGU0aE05TFdjUno4dmxHQWNMRkRKLWI1QTJzR1hIcXo4ZWJiMm4wRENVeDhvbEpjQWR2clNxZGVGZmZpS3FES2NXdGVEd0s5UHJLUU5tRy1SM0tCRHh5bG5HaU42cU43UjRn?oc=5"
+  },
+  {
+    "ts": "2026-10-24T17:21:42",
+    "source": "sentiment_engine",
+    "title": "Sentiment Trade \u2014 BUY",
+    "subtitle": "NVDA",
+    "body": "NVDA at $210.96 \u2014 What Nvidia\u2019s $235 billion stock buybacks program says about inequality in the AI economy",
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQRHloM2tsZTJvWTVsWDJBMjU2VnhlYWxnS1M2ZHl4TWJtdDFJWE5KOTFEdGFGSDkyZ3FnMFhaekxBUlpJaG9wdDM5VW9UMTctNnRMcEp1UUlRZUZLLVZWWFVkd1FEaFlyRENFekRzQm16TF9Kc2Q4VngwQmFkZ3Y5UDZzSGRPdVlySGRGdnlkZnlhLVloc0NUdndtaXY5MzU4X0ItcTU3cUJNcW1aT0YtZFRuTTlyS1BUcnVpYWNkTGd2VjJQeHo4WXlvSE5jTUJwaUh5X3NjMTFuRl9xY1pJQw?oc=5"
   }
 ]
