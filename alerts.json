@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-10-12T22:43:41",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "CCC (CCC Intelligent Solutions Holdi)",
-    "body": "+10.0% to $7.72 \u2014 CCC Intelligent Solutions Stock Pops on Buyout Talks, Defying AI Fears",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNX05HV2syWEozTjdnUTh2OHpHVUVUYUNlcHRRUWhkOEx1OUxXM2E5YTJPaEl4Q29SaEt0TnpZSTZIRTdPc0J1aExfVnMtM3JIRHJDMG90dFRaOE1HMFdTdGNkak8wZ2NBTldrNnlicVZ0MmNZUFJJLVFOVDA5TFV1STF0dGM2dw?oc=5"
-  },
-  {
     "ts": "2026-10-13T01:59:07",
     "source": "movers",
     "title": "Market Mover",
@@ -1594,5 +1586,13 @@
     "subtitle": "NVDA",
     "body": "NVDA at $210.96 \u2014 What Nvidia\u2019s $235 billion stock buybacks program says about inequality in the AI economy",
     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQRHloM2tsZTJvWTVsWDJBMjU2VnhlYWxnS1M2ZHl4TWJtdDFJWE5KOTFEdGFGSDkyZ3FnMFhaekxBUlpJaG9wdDM5VW9UMTctNnRMcEp1UUlRZUZLLVZWWFVkd1FEaFlyRENFekRzQm16TF9Kc2Q4VngwQmFkZ3Y5UDZzSGRPdVlySGRGdnlkZnlhLVloc0NUdndtaXY5MzU4X0ItcTU3cUJNcW1aT0YtZFRuTTlyS1BUcnVpYWNkTGd2VjJQeHo4WXlvSE5jTUJwaUh5X3NjMTFuRl9xY1pJQw?oc=5"
+  },
+  {
+    "ts": "2026-10-24T22:10:53",
+    "source": "sentiment_engine",
+    "title": "Sentiment Trade \u2014 BUY",
+    "subtitle": "ORCL",
+    "body": "ORCL at $126.16 \u2014 Oracle Stock Jumps After Earnings as $664 Billion AI Backlog Puts $165 Back in Focus",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaFVTNVJJb3NLcmZVQ1VZOUdVQUJtZnNtdnkxbjBUMWdObXNLSmlJOHJYdm9lWHJNLWZ1TkpwbURxNDZnNVZTWk5HUGNNeWJRUHN6cGV5aEItQkNCa3d4aVNRalJBZFdzMGQwVjFfd2dOdGpFdUhMQV9jakpIQ09UQ2E4bDJDZjNtam1lSTZ0eG1WSWVlNlhURTF4WXp4b2FpeWRTcmpnQ3BGOXFQRFVfQllkQ05wOXNlcVBTV2NKMA?oc=5"
   }
 ]
