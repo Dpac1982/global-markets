@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-10-12T21:58:45",
-    "source": "trade_engine",
-    "title": "Virtual Trade \u2014 SELL",
-    "subtitle": "NVDA",
-    "body": "NVDA at $226.49 (MACD bearish cross, 1.0%)"
-  },
-  {
     "ts": "2026-10-12T22:03:23",
     "source": "movers",
     "title": "Market Mover",
@@ -1593,5 +1586,13 @@
     "subtitle": "BE (Bloom Energy Corporation)",
     "body": "-12.6% to $190.30 \u2014 BE Stock Extends Dip Overnight: Retail Bulls Hold Firm As CEO Says Power Demand Will 'Skyrocket' Beyond AI",
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPS1R5T0JEblZrN0ZhV0ZScm5ZMDJ0TGZsaWlWcTNYWDlqbE5nMW9rM016SklKYXNVQThNZDNVQWliZnZTYVRwN3h0akRzX0hSQXpRXzlSYWNvdXcyOFFicEFteGo2Y0VlMTRUd0NJYmVQaEoxdEFIRnhZb3Z6UzJRVUwtbWNjZ2ZWZVpMQ3hsczBlUVRLQ3c?oc=5"
+  },
+  {
+    "ts": "2026-10-24T08:33:43",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "RHI (Robert Half Inc.)",
+    "body": "+21.7% to $45.87 \u2014 Why is Robert Half (RHI) stock soaring today",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPU3JtZmNlZW9qcnNyN2FubXZWeUdaeF9RWTdPSkVxQ1lGM2dZZG5nR0FXMFRsVU14TW5lQzBxXzhMSWxQbFNVcnVXUGQ1LW9QQ084Y29OS2M2T3BqcWlhYXJYb3BhTWQxaUZybE52ZVJtY2JyMEJUSTdWQnlWZFhIc2RpWW1IUjIwLXZoQ21KZXRIcUtH?oc=5"
   }
 ]
