@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-10-12T22:18:56",
-    "source": "sentiment_engine",
-    "title": "Sentiment Trade \u2014 SELL",
-    "subtitle": "MSFT",
-    "body": "MSFT at $539.54 (take-profit +8.4%)",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaVhnVWFqWUFvbDk1Ymo5UXdRaWQ0WG9WZmRKazJyRmJpX2lDOHluN0x1QXFiWXdMeTlwSndPUzFDbVo2T0E2VDVnSnZFNmlqS3pEVXE0eW5nM2dObUxxZUJ1cVkxaEl5ZThON3ZmblBrSW1WNWdNWHJ2ZnpoZ0t1LURXVVo0TDRwU0NOYXlPdW81TmRHMWQ5SXByWFRLb2tPOFVvblY0SzVrZElld04yM05iR2pSUXd1Z0J5QXZYaTk2aFFZ?oc=5"
-  },
-  {
     "ts": "2026-10-12T22:19:01",
     "source": "sentiment_engine",
     "title": "Sentiment Trade \u2014 BUY",
@@ -1594,5 +1586,13 @@
     "subtitle": "BE (Bloom Energy Corporation)",
     "body": "-11.2% to $193.30 \u2014 Bloom Energy Corporation (BE) Stock Forecasts",
     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbkJ1bXlDTVRkbWVmZTJLYlF5V3owbUljOXJteUtmOW5qb0h3QkdQaldydXpnQ2FnTGNvYWJiZGFEc2EwSDlEODAtbWozMUYyOFZSdDMtdDI4WVc4eFpKSUtOQUlQY19mcG96clk3OTBGLUFhajZaRVQ5UHdodi1XVW96aW94ckJrRHZpUQ?oc=5"
+  },
+  {
+    "ts": "2026-10-24T16:29:04",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "SLM (SLM Corporation)",
+    "body": "-10.8% to $19.41 \u2014 SLM (SLM) Stock May Be Undervalued As Earnings Guidance Resets",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONVdWUFo0U0VGbERwSHBMcnBaSHFONmJDVWFwTlVaR1prSmdub3FSQ3RWY2JOM0JWUGU0aE05TFdjUno4dmxHQWNMRkRKLWI1QTJzR1hIcXo4ZWJiMm4wRENVeDhvbEpjQWR2clNxZGVGZmZpS3FES2NXdGVEd0s5UHJLUU5tRy1SM0tCRHh5bG5HaU42cU43UjRn?oc=5"
   }
 ]
