@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-10-13T15:05:43",
-    "source": "sentiment_engine",
-    "title": "Sentiment Trade \u2014 SELL",
-    "subtitle": "GOOGL",
-    "body": "GOOGL at $352.72 (sentiment turned negative (score -2), -0.1%)",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTWREdXV0RFJ1UUVIcE5oWWtYbDRHUnlNc2k0YWxVSG5TMWMzOXl0eVpzeVZrbVdBbktKSGF3ZDU0U0lLcUx4WG9uS3B0QkNSbmRBX3h2Y2pKdWp4VXZmeUJiX1RnbDFkSElQWHZIdVl0UVROcFlGeG5IWXhMV0JkbTkyVkVIR3dTM0M0NmJUcG1xNC1WNFVlbXF0OUFXb0ppWUpOUw?oc=5"
-  },
-  {
     "ts": "2026-10-13T22:18:46",
     "source": "movers",
     "title": "Market Mover",
@@ -1594,5 +1586,13 @@
     "subtitle": "CORT (Corcept Therapeutics Incorporat)",
     "body": "-20.1% to $85.86 \u2014 Market Movers | Winners: NAUT, QSI, RHI | Losers: LKQ, CORT, PHAT",
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdGxaamM2SWJUWjJERXlJdlAxbnBnSk96QmZzOGJTdUVZMEJSNUs5WnRVaFpQUjduUUJLVDhXamFsc3FNc3ZrQ1BMSmpyaS1NN0VRZUptb0pCc2YxVmRobktoT19obENZRHJRamJDV0cxcEtGakQ3S0NsLUR3MThsc0w2dHR0YVZnU1p5SFBQWVdmN1RvbmtSYkVLSUNXY1lzZzlDWnhUeHFOY3RvV3FqWkQ2MHZDUQ?oc=5"
+  },
+  {
+    "ts": "2026-10-25T03:09:01",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "TNGX (Tango Therapeutics, Inc.)",
+    "body": "-16.4% to $23.34 \u2014 TNGX Jun 2027 40.000 call (TNGX270617C00040000) Interactive Stock Chart - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5RVUU1Q3ZLcWU1ajltU09FbDBJVVdHenVrSFBJakE2SnYwemplaVhpWUJXLTV4NUdGSWNvOEh3MUx5U0daVjJFMWRTRFFsTzkxWF9XajdHVkZQZjFDQWU2TG82TmJBcGpiOXdOanJ3?oc=5"
   }
 ]
