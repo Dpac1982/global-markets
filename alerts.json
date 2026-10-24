@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-10-13T02:17:01",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "SMTC (Semtech Corporation)",
-    "body": "-10.2% to $168.28 \u2014 Semtech retreats 10%, adds to recent retreat amid tech pullback (SMTC:NASDAQ)",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYkY3SVA1bWprVHBmQXdvbFYtOUJTSXZKNmNvbEd0elZRd1JzVnBuVHJza1N1QU5rVXR6RUwyM1ZBM0JkMGFiNmR2WEtjcTNwRnpMNnp6SUt1NEV2R0hnMXhfcTh6MHFvcENmTHNFUEFwbXlhcFJ1TGktdjN3WjlEaldPb2NCQy1UQVJ3UEYwRzZOSy1XQThTUlJBWGQ2RDFY?oc=5"
-  },
-  {
     "ts": "2026-10-13T15:05:43",
     "source": "sentiment_engine",
     "title": "Sentiment Trade \u2014 SELL",
@@ -1594,5 +1586,13 @@
     "subtitle": "RGC (Regencell Bioscience Holdings L)",
     "body": "-21.8% to $7.67 \u2014 RGC Resources Inc. Estimates \u2013 NASDAQ:RGCO",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBnbDdjRXlzMVduOV9SVTU3RmdhcGdiRGFnZldQdVQ5ckJFT21aVUhSeVZHTkhxNjJjNWNuQWxIQkktNUQ2Y01HSWl2N21jbFEtQ0dSOVF1S1ZWM19iQVVxV2ltdFRkZ0M5Mm8tTU15d2Q5ODVxRUhLQw?oc=5"
+  },
+  {
+    "ts": "2026-10-25T03:08:59",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "CORT (Corcept Therapeutics Incorporat)",
+    "body": "-20.1% to $85.86 \u2014 Market Movers | Winners: NAUT, QSI, RHI | Losers: LKQ, CORT, PHAT",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdGxaamM2SWJUWjJERXlJdlAxbnBnSk96QmZzOGJTdUVZMEJSNUs5WnRVaFpQUjduUUJLVDhXamFsc3FNc3ZrQ1BMSmpyaS1NN0VRZUptb0pCc2YxVmRobktoT19obENZRHJRamJDV0cxcEtGakQ3S0NsLUR3MThsc0w2dHR0YVZnU1p5SFBQWVdmN1RvbmtSYkVLSUNXY1lzZzlDWnhUeHFOY3RvV3FqWkQ2MHZDUQ?oc=5"
   }
 ]
