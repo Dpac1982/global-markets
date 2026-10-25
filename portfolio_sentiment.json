@@ -1,5 +1,5 @@
 {
-  "cash": 35964.12787381401,
+  "cash": 36043.117492988524,
   "positions": {
     "BTC-USD": {
       "qty": 0.144374444144291,
@@ -16,11 +16,6 @@
       "entry_price": 2385.0400390625,
       "entry_date": "2026-10-20"
     },
-    "MSFT": {
-      "qty": 23.029092666071246,
-      "entry_price": 521.0800170898438,
-      "entry_date": "2026-10-23"
-    },
     "NVDA": {
       "qty": 56.88281957762753,
       "entry_price": 210.9600067138672,
@@ -30,6 +25,11 @@
       "qty": 95.11730858964816,
       "entry_price": 126.16000366210938,
       "entry_date": "2026-10-24"
+    },
+    "META": {
+      "qty": 18.673555275558602,
+      "entry_price": 642.6199951171875,
+      "entry_date": "2026-10-25"
     }
   },
   "closed_trades": [
@@ -365,6 +365,15 @@
       "exit_price": 709.3300170898438,
       "return_pct": -5.3,
       "reason": "stop-loss -5.3%"
+    },
+    {
+      "symbol": "MSFT",
+      "entry_date": "2026-10-23",
+      "entry_price": 521.0800170898438,
+      "exit_date": "2026-10-25",
+      "exit_price": 524.510009765625,
+      "return_pct": 0.66,
+      "reason": "sentiment turned negative (score -2), 0.7%"
     }
   ]
 }
