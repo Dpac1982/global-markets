@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-10-14T09:29:58",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "RGC (Regencell Bioscience Holdings L)",
-    "body": "+14.9% to $8.19 \u2014 RGC261016P00007500 Interactive Stock Chart | RGC Oct 2026 7.500 put Stock",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Jb08zYndXcGpnckdLbkk2SzdmcFhtLWdjcDhPeUNTc1BWbkc4Nlp1UFo0eHpSUjFPdHdtd19xZk8zMWhtZEZFZTduVnZqTnNhVVRtVWhPbHl1NWdqVEpR?oc=5"
-  },
-  {
     "ts": "2026-10-14T09:30:01",
     "source": "movers",
     "title": "Market Mover",
@@ -1594,5 +1586,13 @@
     "subtitle": "SLM (SLM Corporation)",
     "body": "-10.8% to $19.41 \u2014 SLM (SLM) Shares Dropped, What Is Driving Attention Now?",
     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPR3d0dnBQQnFDNDlqejFIdUJEWnRnZ1ZIeUxuRUhPd2tLWndFc3VWMXpWOS1pNG1LbGN5V1plaWFkVnlvUGJFbnd5aHpoZ2xHM054SUhtUkphYUp3NUhVeDdod2gyeUoyODZnUUZBV2kxYUNmY3U5NDFSTHotTjd1MWR4am12THJOOUNkaVZ4UUY5d0VKaVQ5OXE1OXA4X3FKbGktWG5JRzB5N08wcUFDOHlJMjhmbmRWczdTbTVOT0tFN3ZuUWfSAcsBQVVfeXFMTTJ6RWpZVzFZNUJvM29VemcxelhULXMwX3d0bkxjb0pkbnp4VGJTRjQ3RmJGem5UTFBBQjZlbFlYeXhSdHNCLWpEMXpzUE5DczJSZTM1aHd1SnBlLXFsbWQ2MkdtQTdfT1pKQ3FhOXZCdk1TTDNieEppWGtBMEx0LTZ2b3ZGT1BDNTR6c1l1Mmw3YktzaVlycTh3Sm0zUmNjRnlsbGlJNWQwVTc3S0R2d3RjcXZ2bHVDMG5qWW4xMzVDRXRzT0VKcFF6bms?oc=5"
+  },
+  {
+    "ts": "2026-10-25T19:35:20",
+    "source": "sentiment_engine",
+    "title": "Sentiment Trade \u2014 SELL",
+    "subtitle": "MSFT",
+    "body": "MSFT at $524.51 (sentiment turned negative (score -2), 0.7%)",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYV9iT1lNYk9EUFhLNEczc3YwWFI1bjA0S3JmVkhNRmh6czdkdnQtUkQyd1R3VGR6UFRGOUt4d1U2emltQ0FCdnEwdXBvWDdtY21MVVc1UlhqdkMway15cExkaVRYTDBxWUppOWxZRGhpcnZlTHU0YTlKTkd1ZkFqbWFQdmFKZldaSUpHZ0l2M0lDZDRkempRbg?oc=5"
   }
 ]
