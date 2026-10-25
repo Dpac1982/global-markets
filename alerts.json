@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-10-14T09:30:01",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "EFXT (Enerflex Ltd)",
-    "body": "+14.4% to $27.54 \u2014 Enerflex Ltd (EFXT-N) Stock Price and News",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9FempmbGdCUW5DOUZLT1J1NjdfcGJwOWl2anJrbEhCODhJbFVwZ01nQlRBaGNTYzRCNjVVellKMUZaUnZZd1RINHR2eHJkNUp3d3c4R0s4dWhTR1NoZERXRHZ3MmI1YTk1c1NRbjVaVQ?oc=5"
-  },
-  {
     "ts": "2026-10-14T09:30:05",
     "source": "movers",
     "title": "Market Mover",
@@ -1594,5 +1586,13 @@
     "subtitle": "MSFT",
     "body": "MSFT at $524.51 (sentiment turned negative (score -2), 0.7%)",
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYV9iT1lNYk9EUFhLNEczc3YwWFI1bjA0S3JmVkhNRmh6czdkdnQtUkQyd1R3VGR6UFRGOUt4d1U2emltQ0FCdnEwdXBvWDdtY21MVVc1UlhqdkMway15cExkaVRYTDBxWUppOWxZRGhpcnZlTHU0YTlKTkd1ZkFqbWFQdmFKZldaSUpHZ0l2M0lDZDRkempRbg?oc=5"
+  },
+  {
+    "ts": "2026-10-25T19:35:27",
+    "source": "sentiment_engine",
+    "title": "Sentiment Trade \u2014 BUY",
+    "subtitle": "META",
+    "body": "META at $642.62 \u2014 SpaceX, Meta, and other hyperscalers are dropping clues you should not ignore",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQLVUxNndKdElBX2hKblgxY1o4bzFmb2lsY3hEUzJEdGJpLTNvQ05iR0NrVUJsQS14MnI0WnVqRHUyRERiSXlRYXZzbzQxZm5qTUxwSWVKVnIwOXVlR01RYjRzVHZ2bktCX08zdzBzcXN0a25tcUFzdTdEUjlXSjlaWDJnc3ZQZGlReWNtVGFrdVdWRG1zTFV5SGhpV19TOHVuZVJjaFREcWZ0RGxlSlNlUlZDSFM0THgwSG42S295SVprOFBYN2ZQNEhXNGc?oc=5"
   }
 ]
