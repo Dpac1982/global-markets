@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-10-15T20:26:56",
-    "source": "sentiment_engine",
-    "title": "Sentiment Trade \u2014 SELL",
-    "subtitle": "NVDA",
-    "body": "NVDA at $216.11 (stop-loss -5.7%)",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOHlfaC1zS3lncTY1VlI4b1lqX0F3UVNNeEV2d09iWHY4NE54dnNmeTctVHRLaEFhSzNDUU1KZC1FQWFOM1MtdWJxU29FNjdzMEk4Nzc2ck9NNDJoR29uOTE2blFHWGc0Sm50VkFHdG43NEUzS2hvbGwySkJjV3o5S1AtNEx2Q2NwN3ByeGZuVW1jWUQ3OFZEUUp6T3dRVWppUWVJSFF6RWxDOGdfeWk0bHVONng?oc=5"
-  },
-  {
     "ts": "2026-10-15T20:27:06",
     "source": "sentiment_engine",
     "title": "Sentiment Trade \u2014 SELL",
@@ -1593,5 +1585,13 @@
     "subtitle": "PAGS (PagSeguro Digital Ltd.)",
     "body": "-26.2% to $8.45 \u2014 $PAGS stock is down 27% today. Here's what we see in our data.",
     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRnVsQk1hd2lzMTJadDVvd3FMMXpjRGFxVzdEX09rdEJFUF9DR193RmloNlIxSDVEeG5DVmVNM1cxeXlFRHpHWFY5bHBYTW1MaENncGM0azJJd3NXZzM0T0U5YWxyVzlWb1Z0RXVmbjlPVWZ2ZWZIaDdFc1NzOEt1X0d3bEJqZkYtY3JyNXNlX0p0OVFBVzB6eUhoS2t0Z2kxYXZv?oc=5"
+  },
+  {
+    "ts": "2026-10-26T19:27:48",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "ITUB (Itau Unibanco Banco Holding SA)",
+    "body": "-21.7% to $7.57 \u2014 Itau Unibanco Holding SA Stock (ITUB) Opened Down by 22.13% on Oct 26: What Signal Does It Send?",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPamNyOUowenFTdlpGdUY4ZjA3Z01hSUNGeldETEdZUXg0aDdiemxrbmRkN3Y3VWhuRUt1Ui1hTi1lLVgyVXFZZzhHMzV5c2xNdGNJNW9XRF9YWjhweW1JdGF2MlE1a1V2d05rZy1MRl9WY294bXkyNE1fRS04SEUzYm9KRVUzemZYQ013?oc=5"
   }
 ]
