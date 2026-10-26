@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-10-15T20:12:23",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "SEI (Solaris Energy Infrastructure, )",
-    "body": "-10.1% to $62.38 \u2014 Solaris Rides the AI Boom as Risks Mount",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZndMVG5lUVlTeEZqV3JYazZKSHB1a3NEVDRRampYckx3NTdRbUJHWF9VcEJUbFFfQlZVLVl2bm5yUm1tYVV5QWpkM1FTUmlNRk0xRXNoaVNuWVZqZHNVVEdNZGtrR3lxR01ucWZHLVVDZi1CdDNlOVlqV1cxRmR5N2MxTQ?oc=5"
-  },
-  {
     "ts": "2026-10-15T20:26:56",
     "source": "sentiment_engine",
     "title": "Sentiment Trade \u2014 SELL",
@@ -1593,5 +1585,13 @@
     "subtitle": "XP (XP Inc.)",
     "body": "-51.5% to $14.74 \u2014 Why is Xp stock plummeting 45% today?",
     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZE1leUVId2c1NmczMTZLZ2Y1cDJvQjdRakptQWplTHl1MmtZbEpjTlNoUFlONEtuQTVzb0V5NWZLbjBYaVNRMTVqeUVtc3MtQ2FIZW0zakR2UUItQm8tVms4QWlVYlhxV2pfbldIYVNFdFREWklNZTBBT2VxVklCc1VlZ3RUTWRtbEgtZHN2RmVRc2t1ZFp6dkl1LXhnQQ?oc=5"
+  },
+  {
+    "ts": "2026-10-26T19:27:45",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "PAGS (PagSeguro Digital Ltd.)",
+    "body": "-26.2% to $8.45 \u2014 $PAGS stock is down 27% today. Here's what we see in our data.",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRnVsQk1hd2lzMTJadDVvd3FMMXpjRGFxVzdEX09rdEJFUF9DR193RmloNlIxSDVEeG5DVmVNM1cxeXlFRHpHWFY5bHBYTW1MaENncGM0azJJd3NXZzM0T0U5YWxyVzlWb1Z0RXVmbjlPVWZ2ZWZIaDdFc1NzOEt1X0d3bEJqZkYtY3JyNXNlX0p0OVFBVzB6eUhoS2t0Z2kxYXZv?oc=5"
   }
 ]
