@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-10-15T20:27:06",
-    "source": "sentiment_engine",
-    "title": "Sentiment Trade \u2014 SELL",
-    "subtitle": "ORCL",
-    "body": "ORCL at $132.80 (sentiment turned negative (score -2), -3.1%)",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOHEyUldSMV92dE1CQ0R6R1g1V3lkSGZ5dXN3dm9pRTFJbEtmSUFJSE9sVF85RkZubUJwSHVsTDhkXzl1R25vVzZzR2RnSUVPR21wNWNYRThnNXhpTUhwak1oZ0VlYVlmcjY1bHkzRWhOMXVoMERrcjZONldHUzNNTWd6UzkyZG1EdUVsODJDSUdyc1RjMGQ2M2NlZF8?oc=5"
-  },
-  {
     "ts": "2026-10-15T20:32:28",
     "source": "movers",
     "title": "Market Mover",
@@ -1593,5 +1585,13 @@
     "subtitle": "ITUB (Itau Unibanco Banco Holding SA)",
     "body": "-21.7% to $7.57 \u2014 Itau Unibanco Holding SA Stock (ITUB) Opened Down by 22.13% on Oct 26: What Signal Does It Send?",
     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPamNyOUowenFTdlpGdUY4ZjA3Z01hSUNGeldETEdZUXg0aDdiemxrbmRkN3Y3VWhuRUt1Ui1hTi1lLVgyVXFZZzhHMzV5c2xNdGNJNW9XRF9YWjhweW1JdGF2MlE1a1V2d05rZy1MRl9WY294bXkyNE1fRS04SEUzYm9KRVUzemZYQ013?oc=5"
+  },
+  {
+    "ts": "2026-10-26T19:27:51",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "ELPC (Companhia Paranaense de Energia)",
+    "body": "-18.9% to $11.29 \u2014 $ELPC stock is down 18% today. Here's what we see in our data.",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQk94QzAxRWxGMXdodkJrWUVtS2hjSFh3LVlxZUdZblU0REJCR3pBLTZyWXNORHZyNFRSeENURmlVa21ySVRlQjFFR2RJS1lfLUg5NWY4WnJITzdBUW8ydjZ1TGx4NXF3dVdmbGZ0dFFsQWZCSl9KYjNDaXZBQk5Qa1pLMGo0VFNIR0JIS1dyUlR5YUltdjBRZnpqNlB5NG5jUGJN?oc=5"
   }
 ]
