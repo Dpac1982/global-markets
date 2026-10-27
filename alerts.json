@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-10-20T14:12:16",
-    "source": "sentiment_engine",
-    "title": "Sentiment Trade \u2014 BUY",
-    "subtitle": "PLTR",
-    "body": "PLTR at $194.15 \u2014 Palantir Stock Is Near a Record High. Should Investors Sell?",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQU1YenNvTFNPblp6WFdrd0t0WlNuRnBmWlN4Rlk5TXFjbDhTSnJzTS1SWjhiUUhJcFlVOUxtbmM4aUhhNzU2REJtdnB2MWl5VmNLQm12cWFJUU9KRmo3OHJvc19tb0V4WE55ZVpyRHlxQlNqbWZQSXVwRWdYemZVcU9pem1uYTdZTm1BWTJYeEZzTXdiVXJvZQ?oc=5"
-  },
-  {
     "ts": "2026-10-20T14:12:22",
     "source": "sentiment_engine",
     "title": "Sentiment Trade \u2014 BUY",
@@ -1592,5 +1584,13 @@
     "subtitle": "DK (Delek US Holdings, Inc.)",
     "body": "-10.4% to $70.30 \u2014 $DK stock is down 10% today. Here's what we see in our data.",
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQblNBNERPa0RhdjhyU0hNakVZdEV6R0FIak9WTDF1Xy1vY0h6dWtRX2VLMWlKcExQRFhiNGxadEh0a0ItcTJXVDlOTURzdjRIN0NvcW5rMUJwc09XQjdvbWJId1dFdXhrdHVQWDdqWVhaVW9scGVaM1E2ckRkSUxzOGFQWkZ6SXRQVnFXbGJ0ME51NFRTU3hTZ3FGUTlPZ0xs?oc=5"
+  },
+  {
+    "ts": "2026-10-28T01:01:05",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "PARR (Par Pacific Holdings, Inc. Comm)",
+    "body": "-10.4% to $74.53 \u2014 Par Petroleum (PARR) Earnings Expected to Grow: What to Know Ahead of Next Week's Release",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdEUwaE9lei1ySFFfZVNCTnRLLWh3OXMtemh1bEdMZFpEdzlEaUNpQTBUbWlsOVFCc1htZW43eVJVNnFyRF8yUkZXakhMR0Z0Wm55OUFEQmlnSmQ1THNvM2cwNG1zWlBKZEJZZUYyRUhjYVI0cEgzbzVHU0hjMnZMbEN2N2k1ZDFRdFJOb3VacnVtbGhXZWpsWWZoRVFwbDJmWkNB?oc=5"
   }
 ]
