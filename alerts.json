@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-10-16T18:22:14",
-    "source": "sentiment_engine",
-    "title": "Sentiment Trade \u2014 SELL",
-    "subtitle": "PLTR",
-    "body": "PLTR at $196.16 (stop-loss -6.2%)",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYXZ3c0w0YWZLOGRSRTM4WXlPWEYxTmtCbXY3bkRldUpqRzdvOTc3Qm93cWJHNVg5YVJPelh5MFJZVU1pdkd1cXAzZzNEdTZGZXNHYU85bXBvdkhkaWl4QWg0QXBlUEo4RGMyVnlQRmp2YXpwRjQ1Nm81XzdTS3RJbkhOQkFGRk51WUJFWnZPMERhaTZPd1p1N1V4SVlIZw?oc=5"
-  },
-  {
     "ts": "2026-10-16T18:28:43",
     "source": "movers",
     "title": "Market Mover",
@@ -1592,5 +1584,13 @@
     "subtitle": "XNCR (Xencor, Inc.)",
     "body": "+15.9% to $29.18 \u2014 Xencor (XNCR) Is Up 15.8% What's Changed After Kidney Cancer Trial Update",
     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQX3NkMHcwRHhtM2tPdlJYMGdfWXVxSTdTZ2xMWXFrLWI4eW8tbnBMU1BCWVhYcmNWb0ctTmJabFhMSGw1QTAxZ2JvUGh2R1RIOW4yeU1TbUUyaWxzMDFubTdwbU9lcXktNGpFMXZDZ2dRaUhCa0tRZzZSWUhHYUFZdjY2TlBkUy1SanN3?oc=5"
+  },
+  {
+    "ts": "2026-10-27T07:46:32",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "ORKA (Oruka Therapeutics, Inc.)",
+    "body": "+12.7% to $90.33 \u2014 Oruka Therapeutics, Inc. - Common Stock (ORKA) Stock Price, News, Quote & History",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aM2UtN3ZqOFBMTWdPS0E2NHFUOUMzdkFGaEpUanBmbGl1d0poYW1BVzFkX2VnZnBQckZ6ck5VNjBrWkhnQzY0X3h1RGZzWFVGbG8zWWJHWFRqdw?oc=5"
   }
 ]
