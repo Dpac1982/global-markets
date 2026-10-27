@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-10-17T14:22:13",
-    "source": "watch",
-    "title": "Market Watch",
-    "subtitle": "TSLA",
-    "body": "OpenAI CEO Sam Altman praises Tesla Roadster after $50,000 refund spat with Elon Musk",
-    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQbi16a1pKUkpac1MtOEpvbnZDdVh3d2VBclIySHJVeGZQZjlTN3ppMVdfaHFXNHVURWFERXhHVWpmeFFLRE0tQkR5VWx0QzF2VXctSkpvdHR2RHRKelVaNGNxajhzdTNYZkd0cmp2VlF4a1pfcDhvNDNoRjJZNGE5S013cXprNW51NW0yRFZMb3NHNkJ6NGN5QkFpNmFXSHdXQ1ZPQUhxeTlvVDJDQ2xvYmtRdkNrRXRmTnBhX0xZV0t5LUdoR254bHVac0Y4TGJueERoQ1RQcE93bDTSAdsBQVVfeXFMUG4temtaSlJKWnNTLThKb252Q3VYd3dlQXJSMkhyVXhmUGY5Uzd6aTFXX2hxVzR1VEVhREV4R1VqZnhRS0RNLUJEeVVsdEMxdlV3LUpKb3R0dkR0SnpVWjRjcWo4c3UzWGZHdHJqdlZReGtaX3A4bzQzaEYyWTRhOUtNd3F6azVudTVtMkRWTG9zRzZCejRjeUJBaTZhV0h3V0NWT0FIcXk5b1QyQ0Nsb2JrUXZDa0V0Zk5wYV9MWVdLeS1HaEdueGx1WnNGOExibnhEaENUUHBPd2w0?oc=5"
-  },
-  {
     "ts": "2026-10-17T14:43:35",
     "source": "movers",
     "title": "Market Mover",
@@ -1592,5 +1584,12 @@
     "subtitle": "HRI (Herc Holdings Inc.)",
     "body": "+18.8% to $151.05 \u2014 Why Herc (HRI) stock is up today",
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUXFSclczN2hVZGJCVDAxNmFsR29iMTVyV0puUW15YzlRNWlNQ2xQTjFyek5XbUFzNUhGTDJZQ1N4NGZVWmsxeU1EM3IzVlV3aTdsQU5yX2ptZVhPa2xBcXk5NG1TYVhSZFMyV2xEV29wTUtOTmlDSVExdTRzLWlKdDVYM19QU1RkaGFaNGdVVkptSk9qSlE?oc=5"
+  },
+  {
+    "ts": "2026-10-27T20:09:13",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "CHRN (ChronoScale Holdings Corporatio)",
+    "body": "+17.6% to $17.20"
   }
 ]
