@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-10-17T06:01:30",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "GRAL (GRAIL, Inc.)",
-    "body": "-13.0% to $117.81 \u2014 $GRAL stock is down 12% today. Here's what we see in our data.",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQd0hJNGp5eXJBZTNFY1JLaDhGQzQ1d0VlNldqOWNwUjdqcTIwMjY1NDN0Y19wa0hwWXdCekRTMFlrbVF6X2JQM0t3dWUyQWQ4MWVhZTBxbUZYTGtfeXd2ek5nd2tPY3VqWWNWRGprcE5YR1pVUVRVd2dJNW9zeEZIZTl0dDE2eV9oZEZMXy1QY3NKVGpTZWtkQkI3RkZrazVhMUNB?oc=5"
-  },
-  {
     "ts": "2026-10-17T06:01:33",
     "source": "movers",
     "title": "Market Mover",
@@ -1592,5 +1584,13 @@
     "subtitle": "ITUB (Itau Unibanco Banco Holding SA)",
     "body": "-20.4% to $7.70 \u2014 Itau Unibanco (NYSE:ITUB) Stock Price Crosses Below 200-Day Moving Average - Here's What Happened",
     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQZWVYNFFFVUxTY0ZvR2lfWGNqbEFUZ2NROV9NT3RNSjBjcWVLaGFZZ0thMXBUajd1dmlicEpoSXdqV0xfa0tOT1hRaHBuUmZwTVdLaDJ5OUVaMTIwNHhKRVlFUWhaQmhTeGkwaEFKRjBoZGp2b282OW11WGNPZFBiQlpHUnlmQm9jM1NURm1ZY1dRY2MxR2ZuMDVRTDNiUjRhRzFiN05MRnhXQ2xPRXh4SlFTZWdQbVA0Y2NOSW9SUVBTS1Nsb0lHN1V6QzlpNTlsNV9INXppRzZrQ242cWRVXzg1eWZTMlk?oc=5"
+  },
+  {
+    "ts": "2026-10-27T14:15:43",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "ELPC (Companhia Paranaense de Energia)",
+    "body": "-19.6% to $11.19 \u2014 $ELPC stock is down 18% today. Here's what we see in our data.",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQk94QzAxRWxGMXdodkJrWUVtS2hjSFh3LVlxZUdZblU0REJCR3pBLTZyWXNORHZyNFRSeENURmlVa21ySVRlQjFFR2RJS1lfLUg5NWY4WnJITzdBUW8ydjZ1TGx4NXF3dVdmbGZ0dFFsQWZCSl9KYjNDaXZBQk5Qa1pLMGo0VFNIR0JIS1dyUlR5YUltdjBRZnpqNlB5NG5jUGJN?oc=5"
   }
 ]
