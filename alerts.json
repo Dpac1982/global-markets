@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-10-17T14:43:47",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "RIOT (Riot Platforms, Inc.)",
-    "body": "-11.5% to $13.72 \u2014 $RIOT stock is down 12% today. Here's what we see in our data.",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQclpMOGtMdXFxbG9kQlgtQWpKdGVJMnROUTlrS3hsNEh4aU8wd2NvVm5sQWNSSXViRlhJZlh0WldLanBsdjczZ3ZnRzYxLVJRUkVsTEFNVFBlVTZiWUY2YUdYTTNYTm5WT2ZWTGtZVGtXaHRrU3ZpN3EzU3hSRG9JQlE2dmpGRWVaOFZqX05rQkRRUUFfWHV1bWNmeDJhNjhFMTBr?oc=5"
-  },
-  {
     "ts": "2026-10-17T14:57:35",
     "source": "sentiment_engine",
     "title": "Sentiment Trade \u2014 SELL",
@@ -1591,5 +1583,13 @@
     "subtitle": "PNR (Pentair plc.)",
     "body": "+12.8% to $62.31 \u2014 PNR Q3 Earnings Beat Estimates, Revenues Dip Y/Y on Pool Weakness",
     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYXpxcV9SUEdTUU9oSUZtakdyTkpxSlc1M3d3MGxyZzRpRjFpZDEta2wxQ3BqYjZPMzRTWXlMNmVuTDNmSG1ld2RfdEp1U29RZC1ET1dBTjdVdEV3dEJnd1BOTjE4cW9yMXJ4RTFEUHFyZXExUnBYYlB1UHRNckRuN0ViY3JfOWsxZHlTSUJUOUdBUHlPSkNQRGhHdw?oc=5"
+  },
+  {
+    "ts": "2026-10-27T20:29:30",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "CLS (Celestica, Inc.)",
+    "body": "+12.6% to $277.79 \u2014 CLS Stock Soars Premarket After Blowout Q3 \u2014 Retail Calls It \u2018Very Inexpensive\u2019 As Celestica Touts AI \u2018Supercycle\u2019",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUnR4U1piRlFUUnN3UVlHMUVlaEYxZDhvaEFhSmJKWjFoemdXbW14YlNaU2d6MmdUbklTdHRrNVk1bU9KVHNjWlNpT3ZaYXhhTnNFa1lvWVlkdW1JM2M2cXNHVnV4NjQ1TmwzeF8xV1JESzBCT2x0ZUJqakYtOXBCMEI0NUdTLXJfVWtIdkVMUDNiM2p4cm01Y216UHNSTTg?oc=5"
   }
 ]
