@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-10-16T18:08:01",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "SLS (SELLAS Life Sciences Group, Inc)",
-    "body": "-12.0% to $9.98 \u2014 Solaris Resources (TSX:SLS) Stock Looks Fully Priced Despite Its 62% Run",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcnBLT3hBaUNpdFZtRl9TcHBuaWloMWxNU2ZMNHl3NXNLZ21BMUNCb2FRQXJvc055TTA3WDJqQVpoNVVXNmF1NGFzdVotVGtORlJzSnVYaFVMTGJNZzZIRWN6YTJURXp0RTNhVFdKeHdOc25mZmdzcGtObVlUaVBmWnk1c2N0WnJJSE9lWTFSTlVqcnVPQzBIdWN2bG4?oc=5"
-  },
-  {
     "ts": "2026-10-16T18:22:14",
     "source": "sentiment_engine",
     "title": "Sentiment Trade \u2014 SELL",
@@ -1592,5 +1584,13 @@
     "subtitle": "RRC (Range Resources Corporation)",
     "body": "+17.7% to $53.56 \u2014 Range Resources (RRC) After The EQT Deal Is The Stock Fully Valued",
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTjNRTy1ncERqRVBGSzQwN1ZlNnkyeEtuV1laR0daeGhJZW81R2g5QmhwUEs1c3pOMW5SUXdkeVgtNjdoc3BsZkMwSDV2d3hIWWVvbU13bW5HSEFGNFFMR2pONlZuanJWQjR3S21iVEhGendMZHc0bWtZUDBqLWpULXZaTlJCNGNfODBSUnMyaG8xeHR1THZvNQ?oc=5"
+  },
+  {
+    "ts": "2026-10-27T07:46:29",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "XNCR (Xencor, Inc.)",
+    "body": "+15.9% to $29.18 \u2014 Xencor (XNCR) Is Up 15.8% What's Changed After Kidney Cancer Trial Update",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQX3NkMHcwRHhtM2tPdlJYMGdfWXVxSTdTZ2xMWXFrLWI4eW8tbnBMU1BCWVhYcmNWb0ctTmJabFhMSGw1QTAxZ2JvUGh2R1RIOW4yeU1TbUUyaWxzMDFubTdwbU9lcXktNGpFMXZDZ2dRaUhCa0tRZzZSWUhHYUFZdjY2TlBkUy1SanN3?oc=5"
   }
 ]
