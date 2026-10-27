@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-10-20T13:59:59",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "PBLS (Parabilis Medicines, Inc.)",
-    "body": "+11.4% to $25.35 \u2014 Parabilis Medicines Inc. (PBLS) Stock Price | Live Quotes & Charts | NASDAQ",
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5yQmFJbzVaeEl5X1U3QjhaaEdmN3JIYW5teGV6VWxURjhobXRrd3dPc1o1Y3c5U2tsLTlHX0tMeWF5SjN3ZmhnRGM1QkxuckxqZHc?oc=5"
-  },
-  {
     "ts": "2026-10-20T14:12:16",
     "source": "sentiment_engine",
     "title": "Sentiment Trade \u2014 BUY",
@@ -1592,5 +1584,13 @@
     "subtitle": "UNF (Unifirst Corporation)",
     "body": "-10.5% to $250.40 \u2014 UniFirst/Cintas deal spread blows out on report FTC will sue to block deal (update)",
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQM0R6emtjMEFpdkZDamFwUXVSbmt0Q19WdjVQcUp0Z3VIV3FpUU9Dal96OTJIQ3M5VHpNOFZCNDRiSjBjSjZRWVEtOVFvRDl0ZlZ5emdONC1vckZLWkNVc2gyVzNSRFg0bU1Hb21XM0ZZNUt3Qll4YmFZVk9EckhmUTNobGxENFBHMzhjaHZ0U0FRc2FMVzJJdXpnZ1ItSVBfQXVBMHBXRmtCTmlZSDYzYmJn?oc=5"
+  },
+  {
+    "ts": "2026-10-28T01:01:02",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "DK (Delek US Holdings, Inc.)",
+    "body": "-10.4% to $70.30 \u2014 $DK stock is down 10% today. Here's what we see in our data.",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQblNBNERPa0RhdjhyU0hNakVZdEV6R0FIak9WTDF1Xy1vY0h6dWtRX2VLMWlKcExQRFhiNGxadEh0a0ItcTJXVDlOTURzdjRIN0NvcW5rMUJwc09XQjdvbWJId1dFdXhrdHVQWDdqWVhaVW9scGVaM1E2ckRkSUxzOGFQWkZ6SXRQVnFXbGJ0ME51NFRTU3hTZ3FGUTlPZ0xs?oc=5"
   }
 ]
