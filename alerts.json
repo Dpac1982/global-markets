@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-10-20T14:12:22",
-    "source": "sentiment_engine",
-    "title": "Sentiment Trade \u2014 BUY",
-    "subtitle": "ETH-USD",
-    "body": "ETH-USD at $2385.04 \u2014 Current price of Ethereum for October 19, 2026",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBNWWd3blY0NUhldlZKclJveGd4Ym1iRHBWWjVVSkdlcTdKbVptaC1xUUswbnQwR1B3aXNjTXBzNWV4eC1QamJYazhHaDNEZ3JaYlFscXhIWDA0NG9jeWlCa2lEQWlFT0It?oc=5"
-  },
-  {
     "ts": "2026-10-20T14:20:04",
     "source": "movers",
     "title": "Market Mover",
@@ -1592,5 +1584,13 @@
     "subtitle": "PARR (Par Pacific Holdings, Inc. Comm)",
     "body": "-10.4% to $74.53 \u2014 Par Petroleum (PARR) Earnings Expected to Grow: What to Know Ahead of Next Week's Release",
     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdEUwaE9lei1ySFFfZVNCTnRLLWh3OXMtemh1bEdMZFpEdzlEaUNpQTBUbWlsOVFCc1htZW43eVJVNnFyRF8yUkZXakhMR0Z0Wm55OUFEQmlnSmQ1THNvM2cwNG1zWlBKZEJZZUYyRUhjYVI0cEgzbzVHU0hjMnZMbEN2N2k1ZDFRdFJOb3VacnVtbGhXZWpsWWZoRVFwbDJmWkNB?oc=5"
+  },
+  {
+    "ts": "2026-10-28T06:21:52",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "HRI (Herc Holdings Inc.)",
+    "body": "+22.8% to $156.06 \u2014 Why Herc (HRI) stock is up today",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcnhCd2ZzaWx4d3FSQmlzMUd4Q0hsRHh5eEM2UC1QTnNCVG16NkVoNUo1NXdPRWRtRkgwT1NTZmoya08teVBILTRUVl8weDhoSTZKS0VYbmpsdHhsNGMtY3g4dExEaW1NZHlvMF85dGpWcVVYcTg0dnRteWhFeVRTSkFXWGFPYXFSQTZobVVmR04yR0U?oc=5"
   }
 ]
