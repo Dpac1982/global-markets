@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-10-22T18:05:03",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "BMI (Badger Meter, Inc.)",
-    "body": "+10.0% to $145.09 \u2014 Badger Meter (NYSE:BMI) misses Q3 2026 revenue estimates, stock drops",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZy1VWGpCVVJZVHQtY0NEZmNoMGR1dlo3bUZFVFZoaENsQ0FGYkdOS3JlN2REMk50SWxZV3lTbnRWeWJwQ0ZSLVBGSFN5dnQzaEdLbE5qM29FWnBlTWd2cnl1cDZxLTNMREloUzZ0VHpoREVxZ2Ewc25qODVjM2NwX1h6NlZWTVhDYTRjMGgzZDZnd0hDb1RVYg?oc=5"
-  },
-  {
     "ts": "2026-10-22T18:05:06",
     "source": "movers",
     "title": "Market Mover",
@@ -1593,5 +1585,12 @@
     "subtitle": "CRDO (Credo Technology Group Holding )",
     "body": "+10.8% to $167.43 \u2014 Credo Technology: Waiting On Anthropic (NASDAQ:CRDO)",
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQ1dEc2RpM1F5a05XUWFSRVhRWjJkOU1Vbk5UV2E4NUx4c083LV9xb21RSzU5YWxRd2x4MTFBcTVPaFA1UWVEYkgzdHVRM04xWHQ1cnBha2VhR2pXekREYmhiTjl0cG43bWNnSFRfTEVyc05MdDR2QWwwUE5LWldIZUY3bTY?oc=5"
+  },
+  {
+    "ts": "2026-10-28T08:29:44",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "DPC (DPC Holdings PLC)",
+    "body": "+10.7% to $28.24"
   }
 ]
