@@ -1,5 +1,5 @@
 {
-  "cash": 36043.117492988524,
+  "cash": 49791.372637931294,
   "positions": {
     "BTC-USD": {
       "qty": 0.144374444144291,
@@ -19,11 +19,6 @@
     "NVDA": {
       "qty": 56.88281957762753,
       "entry_price": 210.9600067138672,
-      "entry_date": "2026-10-24"
-    },
-    "ORCL": {
-      "qty": 95.11730858964816,
-      "entry_price": 126.16000366210938,
       "entry_date": "2026-10-24"
     },
     "META": {
@@ -374,6 +369,15 @@
       "exit_price": 524.510009765625,
       "return_pct": 0.66,
       "reason": "sentiment turned negative (score -2), 0.7%"
+    },
+    {
+      "symbol": "ORCL",
+      "entry_date": "2026-10-24",
+      "entry_price": 126.16000366210938,
+      "exit_date": "2026-10-29",
+      "exit_price": 144.5399932861328,
+      "return_pct": 14.57,
+      "reason": "take-profit +14.6%"
     }
   ]
 }
