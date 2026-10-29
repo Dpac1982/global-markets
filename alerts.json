@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-10-22T21:00:47",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "CSQR (Csquare, Inc.)",
-    "body": "-13.2% to $14.68 \u2014 Upcoming and recent IPOs \u2013 IPOs calendar",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeFFpTldRT2owNUxTOF84LWRYR0tLMGVIRUFmc3p2eTYtWkJZbFowUVlFYk1vXzRLS202V3ROWE1hZ2Fubmpxb0h5akwwMUFxN2h5Tk1rMENvaDQ1RVBXOE96TER0eThtaWFZd0NMNG5uNTJxNzRWN2tVa1pKTzVjVjJqZDY1M01jeFZTb1pqOA?oc=5"
-  },
-  {
     "ts": "2026-10-22T21:00:51",
     "source": "movers",
     "title": "Market Mover",
@@ -1592,5 +1584,12 @@
     "subtitle": "EVR (Evercore Inc.)",
     "body": "+12.5% to $292.38 \u2014 Why is Evercore (EVR) stock rocketing higher today",
     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVV9NYzlFTWlQRDE1b1VvSmlyQnZJWUxEeHJ4V2w2S29XZUR3Q1VQVXY2dlYxRzNDSEtYcXp4NmQyeVZVYk1xZGNaMDhKV1VnYjZZeXAxZzVWOEliQWc3eW5adGdJeXg4SmpETDhRcWx0ZVhmRVN2cWt3bW5mZFI0eFpod1ZmYjFOdGlNZEk0a1pHUnliYThNbldqTFNFUQ?oc=5"
+  },
+  {
+    "ts": "2026-10-29T14:45:14",
+    "source": "sentiment_engine",
+    "title": "Sentiment Trade \u2014 SELL",
+    "subtitle": "ORCL",
+    "body": "ORCL at $144.54 (take-profit +14.6%)"
   }
 ]
