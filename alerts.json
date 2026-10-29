@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-10-22T21:00:51",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "AEIS (Advanced Energy Industries, Inc)",
-    "body": "-11.9% to $218.18 \u2014 Is Advanced Energy Industries (AEIS) Outperforming Other Computer and Technology Stocks This Year?",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVk5nbGVjWnlUaXB2SlBsZmFWNEtEdDFrbmwxMm1idUo0R0xyRk1TZ0o0ZFdOZjdTWGdQbUhMWUctYkJ2c1Fpak43cTJ5N3hablFnM0NaZ2lOanl2alFBdEx6UkM0NWtCanlJZVl6cGJnb3czSWJnYWhCSFVDVDBzRkkwWG1NLTlmcHEyU3ZaQ1dmMEl1TlEyMU1R?oc=5"
-  },
-  {
     "ts": "2026-10-22T21:00:55",
     "source": "movers",
     "title": "Market Mover",
@@ -1591,5 +1583,13 @@
     "title": "Sentiment Trade \u2014 SELL",
     "subtitle": "ORCL",
     "body": "ORCL at $144.54 (take-profit +14.6%)"
+  },
+  {
+    "ts": "2026-10-29T21:35:08",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "ADT (ADT Inc.)",
+    "body": "+34.0% to $9.93 \u2014 ADT Inc. (ADT) Stock Price, News, Quote & History",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1MV2RaRjFRakt2a0tiMXd1b0RlaC1jMHdXdklQQ2RKcUY3b2tCMlNkUUpWb0Z0cVQ1SW84RTdPUDVJS0k1V0NLa2sxa19CQU5p?oc=5"
   }
 ]
