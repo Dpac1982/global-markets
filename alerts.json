@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-10-23T06:12:12",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "ALLE (Allegion plc)",
-    "body": "+11.0% to $176.52 \u2014 Why Allegion (ALLE) stock is up today",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNDRDczJyU3pSblJvbkk0bGFKTHVzQW5pRmRaMGN3X3NSU21OOEYtanFKdnk4NERQZ3dYdHZTTDhHc2czak5oSl9HWlJVNC1XeXhBRXRISUNoQ0FRQWQxMHI0ZXljN1lvTGtzUU9FZkFHNmI4TlNqNU5uY3QzX0ttRnNPUVBsVU1SV0J1YWtaM2I2VGJwa3BKU29B?oc=5"
-  },
-  {
     "ts": "2026-10-23T06:12:14",
     "source": "movers",
     "title": "Market Mover",
@@ -1591,5 +1583,13 @@
     "subtitle": "GEN (Gen Digital Inc.)",
     "body": "+15.8% to $28.20 \u2014 Gen Digital (GEN) Stock Repriced After Q2 Earnings Put Margins Center Stage",
     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQUkxbll3RjMzSUJQNEpocTFrN2NzZ0QzMjdiNVBaVC1MODBTWEFmMUZpZ2dVV25OVzZkX1B2OC14RV9xOG0wUUdZVWUyWWkzbVlpMXNySG1TYlpvaWtFdW0tM0V6dVJUSW54OTVHcExIMjdwc3hnNkpabUpteGl4djlIT1k1OU9lZWo0d2EzN2JsOG5Ka2QyVTVfWQ?oc=5"
+  },
+  {
+    "ts": "2026-10-30T18:06:09",
+    "source": "sentiment_engine",
+    "title": "Sentiment Trade \u2014 SELL",
+    "subtitle": "NVDA",
+    "body": "NVDA at $207.65 (sentiment turned negative (score -5), -1.6%)",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTGdFWTJ1Wm1ISjFPRjVLdVowSFF0RHpiODd4cldVU1VEX3FUU1VFc3hROVlzM3Nsd0RONGE2emNfZ1hsTm9MUUNUR05IWFFnVTJpeEV4TjMzRTZ5eG1scm0yT1VOTWF1X2F1VmoxeG9NaUJqa1hKX0JlbDhGVmY5dEhZcUc0d2hBMGdNUWo2eDdyMlJ0Y3dZ?oc=5"
   }
 ]
