@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-10-23T06:12:14",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "R (Ryder System, Inc.)",
-    "body": "+10.5% to $265.53 \u2014 Why Ryder (R) stock is trading up today",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaC1DRmJ1SFlKVjZJMkQ0SUk1Z0F0SlpmQ2xKT1Uta09UbkVpcHdfdGN4SXNiNmNiRlQwMDNONksyYS01R1RXNmpvNGJkVEdGQ2VqajRkNmhneXlNbFdKRzNUdGdfVURSMThQbm1WMmx1X0V4YWE1ZzJqNWc5d0F6bnNUZHA0VjY3M0ZmTW1oeFozWjJk?oc=5"
-  },
-  {
     "ts": "2026-10-23T06:12:17",
     "source": "movers",
     "title": "Market Mover",
@@ -1591,5 +1583,13 @@
     "subtitle": "NVDA",
     "body": "NVDA at $207.65 (sentiment turned negative (score -5), -1.6%)",
     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTGdFWTJ1Wm1ISjFPRjVLdVowSFF0RHpiODd4cldVU1VEX3FUU1VFc3hROVlzM3Nsd0RONGE2emNfZ1hsTm9MUUNUR05IWFFnVTJpeEV4TjMzRTZ5eG1scm0yT1VOTWF1X2F1VmoxeG9NaUJqa1hKX0JlbDhGVmY5dEhZcUc0d2hBMGdNUWo2eDdyMlJ0Y3dZ?oc=5"
+  },
+  {
+    "ts": "2026-10-30T18:06:21",
+    "source": "sentiment_engine",
+    "title": "Sentiment Trade \u2014 SELL",
+    "subtitle": "BTC-USD",
+    "body": "BTC-USD at $76754.54 (stop-loss -7.7%)",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzeGNZdTE5WVV0b1lUeEFxc3FZWDBhbmlaekhfRXBGTnZqcVBfb2N2UDFyc0xNeHJXdmN1MmdZU05aREN3d0dwM1B6X01UMFREeWkxMmF2dFRzN0s2R0NMRHVFR2RXMmM?oc=5"
   }
 ]
