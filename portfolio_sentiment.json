@@ -1,15 +1,15 @@
 {
-  "cash": 83841.32763912917,
+  "cash": 83220.77691432292,
   "positions": {
-    "PLTR": {
-      "qty": 61.80788244782578,
-      "entry_price": 194.14999389648438,
-      "entry_date": "2026-10-20"
-    },
     "META": {
       "qty": 18.673555275558602,
       "entry_price": 642.6199951171875,
       "entry_date": "2026-10-25"
+    },
+    "ORCL": {
+      "qty": 91.8343932666549,
+      "entry_price": 130.6699981689453,
+      "entry_date": "2026-11-01"
     }
   },
   "closed_trades": [
@@ -390,6 +390,15 @@
       "exit_price": 2217.4599609375,
       "return_pct": -7.03,
       "reason": "stop-loss -7.0%"
+    },
+    {
+      "symbol": "PLTR",
+      "entry_date": "2026-10-20",
+      "entry_price": 194.14999389648438,
+      "exit_date": "2026-11-01",
+      "exit_price": 184.11000061035156,
+      "return_pct": -5.17,
+      "reason": "stop-loss -5.2%"
     }
   ]
 }
