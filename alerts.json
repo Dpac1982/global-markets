@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-10-23T09:07:45",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "MXL (MaxLinear, Inc)",
-    "body": "-13.9% to $65.28 \u2014 MaxLinear beats estimates but stock dips after-hours",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTlViVmFKZlk0eWJES1lEaFdqUnAyYWZIb3ZheFkxekhqb01mOXcxSFFEeURLc05MZlZsU0xpVEtwVjRqN2xvTTVCQTJZc1VoRzQ5MWZWc1pFMTJ1QkFuTl9HRzZlV0dEbm1ia0JvMXJzSjdMc1ZyWEZsbkNCbVpfUVh0QzFNeG5oVVlKUWZxcHRSNVVNU0Z3SXdGZWdYNTlobVVR?oc=5"
-  },
-  {
     "ts": "2026-10-23T09:27:50",
     "source": "movers",
     "title": "Market Mover",
@@ -1591,5 +1583,13 @@
     "subtitle": "CVCO (Cavco Industries, Inc.)",
     "body": "+13.1% to $619.00 \u2014 Cavco Industries Inc (CVCO) (Q2 2027) Earnings Call Highlights: Record Shipments and 18% ...",
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORmRQY0pHSTllU2tvckN4ZERfRnJRbXZZcUY4cmw5WTZzaGt3NG8yaFhqTUhjdXdvbFBGTU5Ea0szeTlJZTAtcmVpdzZDV1J0aXI4eTl5RlJuemtNajl2eUE0MUpvc0JWX0hMeFVjRjE0aFoyMDVxbk1ucnhCS2xfbzhZanRCMFRuNUw4RWl3OTZ3SGxKUm5aQg?oc=5"
+  },
+  {
+    "ts": "2026-11-01T06:51:16",
+    "source": "sentiment_engine",
+    "title": "Sentiment Trade \u2014 BUY",
+    "subtitle": "ORCL",
+    "body": "ORCL at $130.67 \u2014 Here\u2019s What a $1,000 Investment in Oracle Stock Will Be Worth by 2030",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcjM0SjFWSVRsMnczaksxRmpSamk3REM4OU9iblYtRDJtLTl2Smk1RFMyckx2RFozZG5aNEdmYjNpQWl0RC1TT2UxTnkyUkVzZmRyNFAxMlhaRllfWFRyWUhBLWpXQTFZRmY3V2M2RlZjVG5tNVNxQkYzU3lURU1RQ3F3MS1VQlZUYUlINThWTWk1OTRVRHpCUjk0eHVwbnB6bUE2U3RSa1EwVExuaWNpLUw1WEg?oc=5"
   }
 ]
