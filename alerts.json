@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-10-23T09:27:50",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "ENTG (Entegris, Inc.)",
-    "body": "-13.1% to $128.31 \u2014 $100 Invested In Entegris 15 Years Ago Would Be Worth This Much Today",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQzBWNUxNczBLNTUzVWNKTHVjTFFjQllEQWxRWjQ2dzBuY0VGbTVSN0lQYU1JUkkxZWgyMGFxc0JOMlE0OTV6Mk9MXzUxZVlwOWdkNW1kalFpWTQ2TVpDbGVrbXZwb0FoTzdSSzRkQkE0ZGk3cXdRblFNYUQtc0llNUk0ZlBhLWJvTWg1X0hFZVNoYnhkd2FDeDRDbWdpcXhZWTFyRHpTNk8?oc=5"
-  },
-  {
     "ts": "2026-10-23T09:27:53",
     "source": "movers",
     "title": "Market Mover",
@@ -1591,5 +1583,13 @@
     "subtitle": "ORCL",
     "body": "ORCL at $130.67 \u2014 Here\u2019s What a $1,000 Investment in Oracle Stock Will Be Worth by 2030",
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcjM0SjFWSVRsMnczaksxRmpSamk3REM4OU9iblYtRDJtLTl2Smk1RFMyckx2RFozZG5aNEdmYjNpQWl0RC1TT2UxTnkyUkVzZmRyNFAxMlhaRllfWFRyWUhBLWpXQTFZRmY3V2M2RlZjVG5tNVNxQkYzU3lURU1RQ3F3MS1VQlZUYUlINThWTWk1OTRVRHpCUjk0eHVwbnB6bUE2U3RSa1EwVExuaWNpLUw1WEg?oc=5"
+  },
+  {
+    "ts": "2026-11-01T06:51:20",
+    "source": "sentiment_engine",
+    "title": "Sentiment Trade \u2014 SELL",
+    "subtitle": "PLTR",
+    "body": "PLTR at $184.11 (stop-loss -5.2%)",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaW85a0Fad0h3VWNIb3lXVW44WVY5R0xIYnM4WU9jV09vVWlwVy11UHhtOURpTks3N1hMN0JMa3Qwb0JXYWdkdGZVV003SnYzb2xBbnpLd1BBNjkwdTNjQWJPWWZxdnJ0UDc5T1VoZ0xYbnhaVlp2TzNEeEdpMENXeGZTR2NoX2FpWlpJTFJiUF8tTEMzREpJd1ltZEgwaUl2SWgw?oc=5"
   }
 ]
