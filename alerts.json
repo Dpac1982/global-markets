@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-10-23T09:48:06",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "MTRN (Materion Corporation)",
-    "body": "-12.4% to $219.12"
-  },
-  {
     "ts": "2026-10-23T09:48:09",
     "source": "movers",
     "title": "Market Mover",
@@ -1590,5 +1583,13 @@
     "subtitle": "RDDT (Reddit, Inc.)",
     "body": "-29.2% to $91.73 \u2014 Why Reddit (RDDT) stock is trading lower today",
     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMDhhRTJNTXJTb3hUWWZvVDBROUtaMHN3UnBWSXRvbDFrRkd2aHoxeDJDc3I5b19samNnUUZKdzlEMlJVVWRlenVjZ29TZTBUaXoxVlRPa09zeE5pcWR4NjE3V05yTkw0QTB1OVZVZVp1NVZ4WmZfMnhUNGtubElFLXBvRk84MHNPdDJpRno3RjV5Z1NRaTQ4OHdB?oc=5"
+  },
+  {
+    "ts": "2026-11-01T11:14:28",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "INTC (Intel Corporation)",
+    "body": "-28.6% to $65.76 \u2014 Intel (INTC) Stock Fair Value Falls After Mixed Analyst Reactions To Weak Guidance",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOODlfeGJ2aW1nYkxLVVNTRXlYa2hBcXgtX29oLWF4YlhGMjE1V0phaHJFWUh2Tm1nMmF0eGxfNzR3R2xuYmFOYmxaR01Kbzk0b3A0eC1XaHFRSVdydGgxUXFtSUZ2NzZ6TlkxR2hLdERLUDQtTG9kQTk3S0ZiNXlrLVdLSmcwMUJINE96cF9TazBVT01ZS2FB?oc=5"
   }
 ]
