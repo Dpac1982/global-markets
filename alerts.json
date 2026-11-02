@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-10-24T22:10:53",
-    "source": "sentiment_engine",
-    "title": "Sentiment Trade \u2014 BUY",
-    "subtitle": "ORCL",
-    "body": "ORCL at $126.16 \u2014 Oracle Stock Jumps After Earnings as $664 Billion AI Backlog Puts $165 Back in Focus",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaFVTNVJJb3NLcmZVQ1VZOUdVQUJtZnNtdnkxbjBUMWdObXNLSmlJOHJYdm9lWHJNLWZ1TkpwbURxNDZnNVZTWk5HUGNNeWJRUHN6cGV5aEItQkNCa3d4aVNRalJBZFdzMGQwVjFfd2dOdGpFdUhMQV9jakpIQ09UQ2E4bDJDZjNtam1lSTZ0eG1WSWVlNlhURTF4WXp4b2FpeWRTcmpnQ3BGOXFQRFVfQllkQ05wOXNlcVBTV2NKMA?oc=5"
-  },
-  {
     "ts": "2026-10-25T03:08:49",
     "source": "movers",
     "title": "Market Mover",
@@ -1592,5 +1584,13 @@
     "subtitle": "NWL (Newell Brands Inc.)",
     "body": "+15.6% to $5.99 \u2014 Newell Brands (NWL) Lifted Guidance, Is The Turnaround Still Undervalued?",
     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNM1UtTWp3a1Q5LWdhT1I0d0poSzVEcTAxb3JkUnZzZXIxTGtWLUFoUExPU0NMek5oWExoTzJDMnd6dkRJQXpUN2QwY00tWWJwaV82NUpSMXplaXRzZ0xRTlhXZDlaVVM2dWxTQnFvOU05MWxYR0x4clVhdWhKZjlHVWIwY2hxSnNMTTZpQlNGX3VDUllkbXYtVWlQNm5RQXQ4WmRuY3J1OHpaNXRKUEZVVklqX2ZKNGhCaUFxR1M4SmNSbDBMVVFWY2liYjUyWDB1T196SDFyNUdSMDVX0gHcAUFVX3lxTE0zVS1NandrVDktZ2FPUjR3SmhLNURxMDFvcmRSdnNlcjFMa1YtQWhQTE9TQ0x6TmhYTGhPMkMyd3p2RElBelQ3ZDBjTS1ZYnBpXzY1SlIxemVpdHNnTFFOWFdkOVpVUzZ1bFNCcW85TTkxbFhHTHhyVWF1aEpmOUdVYjBjaHFKc0xNNmlCU0ZfdUNSWWRtdi1VaVA2blFBdDhaZG5jcnU4elo1dEpQRlVWSWpfZko0aEJpQXFHUzhKY1JsMExVUVZjaWJiNTJYMHVPX3pIMXI1R1IwNVc?oc=5"
+  },
+  {
+    "ts": "2026-11-02T21:05:42",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "TEM (Tempus AI, Inc.)",
+    "body": "+11.4% to $80.42 \u2014 What Tempus AI (TEM) Said on Its Q3 Earnings Call",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRTc1TFhLd0FNUklRTl9ScVFBSzBaWDZyek9KMjNsNFVqdzZvY1dxanJFSTVRUWlxMnI2Yl9QZXlpSmwwbUltWmNOdnVOQUhiTTF5dm9kZGFkZl9jWHU1eW5BUEM5QUt4djlRNVV3MG9JQlRXTlZsaXZZWmlNN184aWtnWlNyal9vVkE?oc=5"
   }
 ]
