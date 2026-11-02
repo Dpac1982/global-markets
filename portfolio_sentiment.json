@@ -1,15 +1,10 @@
 {
-  "cash": 59220.77691432292,
+  "cash": 70619.26205881083,
   "positions": {
     "META": {
       "qty": 18.673555275558602,
       "entry_price": 642.6199951171875,
       "entry_date": "2026-10-25"
-    },
-    "ORCL": {
-      "qty": 91.8343932666549,
-      "entry_price": 130.6699981689453,
-      "entry_date": "2026-11-01"
     },
     "NVDA": {
       "qty": 58.63956233283204,
@@ -409,6 +404,15 @@
       "exit_price": 184.11000061035156,
       "return_pct": -5.17,
       "reason": "stop-loss -5.2%"
+    },
+    {
+      "symbol": "ORCL",
+      "entry_date": "2026-11-01",
+      "entry_price": 130.6699981689453,
+      "exit_date": "2026-11-02",
+      "exit_price": 124.12000274658203,
+      "return_pct": -5.01,
+      "reason": "stop-loss -5.0%"
     }
   ]
 }
