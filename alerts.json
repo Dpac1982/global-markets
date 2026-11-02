@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-10-25T19:35:20",
-    "source": "sentiment_engine",
-    "title": "Sentiment Trade \u2014 SELL",
-    "subtitle": "MSFT",
-    "body": "MSFT at $524.51 (sentiment turned negative (score -2), 0.7%)",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYV9iT1lNYk9EUFhLNEczc3YwWFI1bjA0S3JmVkhNRmh6czdkdnQtUkQyd1R3VGR6UFRGOUt4d1U2emltQ0FCdnEwdXBvWDdtY21MVVc1UlhqdkMway15cExkaVRYTDBxWUppOWxZRGhpcnZlTHU0YTlKTkd1ZkFqbWFQdmFKZldaSUpHZ0l2M0lDZDRkempRbg?oc=5"
-  },
-  {
     "ts": "2026-10-25T19:35:27",
     "source": "sentiment_engine",
     "title": "Sentiment Trade \u2014 BUY",
@@ -1592,5 +1584,13 @@
     "subtitle": "NWL (Newell Brands Inc.)",
     "body": "+15.0% to $5.96 \u2014 Netwealth Group Limited (NWL.AX) stock price, news, quote and history",
     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5XbElUVEJXN1REVVRzUTlxRXA2UmF2am9HYlAwRS1YTDVvdHVrMUI0Ym1vM01IWmlTOUxLYlAwUmxFSVZTNmhVNXkxdElHeThNZUcwZg?oc=5"
+  },
+  {
+    "ts": "2026-11-03T00:58:26",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "NXT (Nextpower Inc.)",
+    "body": "+14.7% to $91.00 \u2014 Nextpower Inc. (NXT) Faces Revenue Headwinds, but Janus Henderson Maintains Its Long-Term Bullish View",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWVhydnhERmVoRU5oQmhpYkkzQnFjRk1va1M5Z0dYeWM0Ul9vVHpJc0M3T0xBelplQUZUUy1Mb2F6TXBkWW1TX204OVFIaVM5QWY3b2hma1VzcVVRdXVQSVI4VnJDYXYwTkFQRlRzb29ObVBBczZZUWRmbzVVLTNMcG9ka1FPR1pOWXpSREVsUUx1NGx0VnUzMFMyaXU?oc=5"
   }
 ]
