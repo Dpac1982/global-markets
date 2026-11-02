@@ -1,11 +1,6 @@
 {
-  "cash": 70619.26205881083,
+  "cash": 81949.06788643262,
   "positions": {
-    "META": {
-      "qty": 18.673555275558602,
-      "entry_price": 642.6199951171875,
-      "entry_date": "2026-10-25"
-    },
     "NVDA": {
       "qty": 58.63956233283204,
       "entry_price": 204.63999938964844,
@@ -413,6 +408,15 @@
       "exit_price": 124.12000274658203,
       "return_pct": -5.01,
       "reason": "stop-loss -5.0%"
+    },
+    {
+      "symbol": "META",
+      "entry_date": "2026-10-25",
+      "entry_price": 642.6199951171875,
+      "exit_date": "2026-11-03",
+      "exit_price": 606.72998046875,
+      "return_pct": -5.58,
+      "reason": "stop-loss -5.6%"
     }
   ]
 }
