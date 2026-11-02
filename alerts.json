@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-10-24T16:29:04",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "SLM (SLM Corporation)",
-    "body": "-10.8% to $19.41 \u2014 SLM (SLM) Stock May Be Undervalued As Earnings Guidance Resets",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONVdWUFo0U0VGbERwSHBMcnBaSHFONmJDVWFwTlVaR1prSmdub3FSQ3RWY2JOM0JWUGU0aE05TFdjUno4dmxHQWNMRkRKLWI1QTJzR1hIcXo4ZWJiMm4wRENVeDhvbEpjQWR2clNxZGVGZmZpS3FES2NXdGVEd0s5UHJLUU5tRy1SM0tCRHh5bG5HaU42cU43UjRn?oc=5"
-  },
-  {
     "ts": "2026-10-24T17:21:42",
     "source": "sentiment_engine",
     "title": "Sentiment Trade \u2014 BUY",
@@ -1592,5 +1584,13 @@
     "subtitle": "ENPH (Enphase Energy, Inc.)",
     "body": "+10.9% to $28.45 \u2014 Enphase Energy, Inc. (ENPH) Is a Trending Stock: Facts to Know Before Betting on It",
     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQd1BRWXE5OFlQb0J2TTgyaFljaE1Ia3pEdE93WkRNT0JUd29nc05JWW9sY2l1VFBuSS1kc25TYXppN0JnNEdObDlmaTNWVGgydTY0U1lndmhtY1FBdGVrWjZ1dTVzY1FnOHdhNUxqV010eGIxeGNTdVJ2RTUyVF9GZHpjVXBkeXBlb3A0NXZoUy02UGVrS1hlMm5JdFV4dw?oc=5"
+  },
+  {
+    "ts": "2026-11-02T19:13:46",
+    "source": "sentiment_engine",
+    "title": "Sentiment Trade \u2014 SELL",
+    "subtitle": "ORCL",
+    "body": "ORCL at $124.12 (stop-loss -5.0%)",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPd3QtV0VLODFaSmgzODZpOG05M1RUMEpZZTY2Y2lfc2RKUW96SmlCZ3l6NUVab3dJYzV3Q281WWV5WmJyYWNJRDA1OERtaTEzejI2cW9hN3dkX0lXRXZDQnZ4T3BSalNuNXlUOEZIRVdPc0lHcnllOWxMTFRNOG0tczFzT1hhaTlYMTViQXIzSUVHZDNhRTBhcUZpVHVhZUNIZWUzMlVpcEtTLWR3WnpR0gG0AUFVX3lxTE1TaVFyZXRhRUJfR3NJbVgxdFJZMkdkSWJqQXpSd0UwTmRVQTZPeHNmelVwanJvZ2hkRmp2Mjh0S0w0Q2hiZVBkZXc3OHp2aWFRUzcza3dGekduZ09IWDRPY2lwMVZzR1R6ZW9mS2h4V2N6c2JfZmlMcDl3MXVwRFdEand2LUdLQ1AzeGpxUzBMc2t0Vld5c25saXM3MXQteVFQMWt2X25mS0lvb2RBU3RoUTVYTA?oc=5"
   }
 ]
