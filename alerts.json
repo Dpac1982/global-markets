@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-10-26T01:28:43",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "BUUU (BUUU Group Limited)",
-    "body": "+18.3% to $53.90"
-  },
-  {
     "ts": "2026-10-26T01:28:46",
     "source": "movers",
     "title": "Market Mover",
@@ -1592,5 +1585,13 @@
     "subtitle": "MGRC (McGrath RentCorp)",
     "body": "+10.9% to $131.15 \u2014 Why McGrath RentCorp Stock Was Bumping Higher Today",
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZk5fWFM1ZzR6b0swY0c3X0p4SlNaMjR5UHZzekdGN2cxUDVDY1pRdjVOZ2VoZ19JQnVNUDRhNmZIV0tld3NhVThoT2pxeUw5TlBNTG14ejZ6QTd0X0VvQmxZbHE3X1A0NmctVi11TkxXWnkyUi1kTG9uU2FKNms3RjBHcXZ1SUNFT2QwNGpQY1FiNmRYX3FETWd5MWc2N2Nt?oc=5"
+  },
+  {
+    "ts": "2026-11-03T01:59:32",
+    "source": "sentiment_engine",
+    "title": "Sentiment Trade \u2014 SELL",
+    "subtitle": "META",
+    "body": "META at $606.73 (stop-loss -5.6%)",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNclppMTR1UkwyOWw5ZEZBcG9HazEzY255VmtvMjV2N0liaDlrUlI5ZGIzb0RBRTZEbW9tOUZRenY2WXdkM1lRS0swSlFkLTRoMkRjV3pOaUpqNFJDeG5hQWpPeFhfM2cwYkI0d0JIbjdJOFotcnNoU18wLWVTelVpZ3FQY2VCV0ZsX1dqTjBwdVpEQTBNNWVPQVlkMVJaMmUydTJqVGR3?oc=5"
   }
 ]
