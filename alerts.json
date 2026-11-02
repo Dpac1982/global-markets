@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-10-24T17:21:42",
-    "source": "sentiment_engine",
-    "title": "Sentiment Trade \u2014 BUY",
-    "subtitle": "NVDA",
-    "body": "NVDA at $210.96 \u2014 What Nvidia\u2019s $235 billion stock buybacks program says about inequality in the AI economy",
-    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQRHloM2tsZTJvWTVsWDJBMjU2VnhlYWxnS1M2ZHl4TWJtdDFJWE5KOTFEdGFGSDkyZ3FnMFhaekxBUlpJaG9wdDM5VW9UMTctNnRMcEp1UUlRZUZLLVZWWFVkd1FEaFlyRENFekRzQm16TF9Kc2Q4VngwQmFkZ3Y5UDZzSGRPdVlySGRGdnlkZnlhLVloc0NUdndtaXY5MzU4X0ItcTU3cUJNcW1aT0YtZFRuTTlyS1BUcnVpYWNkTGd2VjJQeHo4WXlvSE5jTUJwaUh5X3NjMTFuRl9xY1pJQw?oc=5"
-  },
-  {
     "ts": "2026-10-24T22:10:53",
     "source": "sentiment_engine",
     "title": "Sentiment Trade \u2014 BUY",
@@ -1592,5 +1584,13 @@
     "subtitle": "ORCL",
     "body": "ORCL at $124.12 (stop-loss -5.0%)",
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPd3QtV0VLODFaSmgzODZpOG05M1RUMEpZZTY2Y2lfc2RKUW96SmlCZ3l6NUVab3dJYzV3Q281WWV5WmJyYWNJRDA1OERtaTEzejI2cW9hN3dkX0lXRXZDQnZ4T3BSalNuNXlUOEZIRVdPc0lHcnllOWxMTFRNOG0tczFzT1hhaTlYMTViQXIzSUVHZDNhRTBhcUZpVHVhZUNIZWUzMlVpcEtTLWR3WnpR0gG0AUFVX3lxTE1TaVFyZXRhRUJfR3NJbVgxdFJZMkdkSWJqQXpSd0UwTmRVQTZPeHNmelVwanJvZ2hkRmp2Mjh0S0w0Q2hiZVBkZXc3OHp2aWFRUzcza3dGekduZ09IWDRPY2lwMVZzR1R6ZW9mS2h4V2N6c2JfZmlMcDl3MXVwRFdEand2LUdLQ1AzeGpxUzBMc2t0Vld5c25saXM3MXQteVFQMWt2X25mS0lvb2RBU3RoUTVYTA?oc=5"
+  },
+  {
+    "ts": "2026-11-02T21:05:38",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "NWL (Newell Brands Inc.)",
+    "body": "+15.6% to $5.99 \u2014 Newell Brands (NWL) Lifted Guidance, Is The Turnaround Still Undervalued?",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNM1UtTWp3a1Q5LWdhT1I0d0poSzVEcTAxb3JkUnZzZXIxTGtWLUFoUExPU0NMek5oWExoTzJDMnd6dkRJQXpUN2QwY00tWWJwaV82NUpSMXplaXRzZ0xRTlhXZDlaVVM2dWxTQnFvOU05MWxYR0x4clVhdWhKZjlHVWIwY2hxSnNMTTZpQlNGX3VDUllkbXYtVWlQNm5RQXQ4WmRuY3J1OHpaNXRKUEZVVklqX2ZKNGhCaUFxR1M4SmNSbDBMVVFWY2liYjUyWDB1T196SDFyNUdSMDVX0gHcAUFVX3lxTE0zVS1NandrVDktZ2FPUjR3SmhLNURxMDFvcmRSdnNlcjFMa1YtQWhQTE9TQ0x6TmhYTGhPMkMyd3p2RElBelQ3ZDBjTS1ZYnBpXzY1SlIxemVpdHNnTFFOWFdkOVpVUzZ1bFNCcW85TTkxbFhHTHhyVWF1aEpmOUdVYjBjaHFKc0xNNmlCU0ZfdUNSWWRtdi1VaVA2blFBdDhaZG5jcnU4elo1dEpQRlVWSWpfZko0aEJpQXFHUzhKY1JsMExVUVZjaWJiNTJYMHVPX3pIMXI1R1IwNVc?oc=5"
   }
 ]
