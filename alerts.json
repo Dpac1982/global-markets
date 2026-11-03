@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-10-26T20:50:18",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "EGIEY (Engie Brasil Energia S A)",
-    "body": "-24.9% to $5.04"
-  },
-  {
     "ts": "2026-10-27T07:46:23",
     "source": "movers",
     "title": "Market Mover",
@@ -1593,5 +1586,13 @@
     "subtitle": "WULF (TeraWulf Inc.)",
     "body": "+11.6% to $12.21 \u2014 Cipher Digital Soars 11% as AI Data Center Stocks Rebound After Price-Target Selloff; IREN Jumps 10%, TeraWulf Surges 9%",
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZWMteWUxaGJNQkxkTU91dWhPaTVFZExMSVJSX0xnSnQ4cVFpQ3FuM0Nib0tJOEktM2NaV0FWWEI3ZzdKOWtFVk9IdjFqMzdpMkhvZ0Z1TkhvdDBtbkk5cXNCLUZKWnVqSXFQbkNMY0UxRVRYc25pdHRwZFlMXzhJUS0yNVhDUzcwR2VnRHJiUW1POVN5WUE?oc=5"
+  },
+  {
+    "ts": "2026-11-03T21:20:38",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "NVTS (Navitas Semiconductor Corporati)",
+    "body": "+11.4% to $8.84 \u2014 Navitas Semiconductor Corporation (NVTS) Stock Price, News, Quote & History",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9neWpvNGdaR0FmbE9iR2YyckJkbGhOQ1F0Yk5GVjRxWTJCeVM2dUpNQUpCRjdpY3pPa2REbTlqenMtdldFaTQ2WHFYSmJzNW41c3c?oc=5"
   }
 ]
