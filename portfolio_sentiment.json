@@ -1,15 +1,10 @@
 {
-  "cash": 81949.06788643262,
+  "cash": 93200.97598096699,
   "positions": {
     "NVDA": {
       "qty": 58.63956233283204,
       "entry_price": 204.63999938964844,
       "entry_date": "2026-11-01"
-    },
-    "PLTR": {
-      "qty": 65.17842572493751,
-      "entry_price": 184.11000061035156,
-      "entry_date": "2026-11-02"
     }
   },
   "closed_trades": [
@@ -417,6 +412,15 @@
       "exit_price": 606.72998046875,
       "return_pct": -5.58,
       "reason": "stop-loss -5.6%"
+    },
+    {
+      "symbol": "PLTR",
+      "entry_date": "2026-11-02",
+      "entry_price": 184.11000061035156,
+      "exit_date": "2026-11-03",
+      "exit_price": 172.6324005126953,
+      "return_pct": -6.23,
+      "reason": "stop-loss -6.2%"
     }
   ]
 }
