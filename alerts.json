@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-10-27T14:15:35",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "XP (XP Inc.)",
-    "body": "-48.4% to $15.71 \u2014 XP (XP) Stock Still Appears Undervalued After the 48% Slide",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdERZVWotNm9IQU1SbllWc3RGWEtTX2NycjVTd19zV2NpeDZBd0Q5UGNZQTBHRktvc25zUE9lSEhyNjd1RkJFeWhwRGQwVGZLd053ZmxaSUNpdzNGd3Z1S2ZFN1N4MzJUMW11Q1M3NVZNQ3RtLXktbGhxSklqMnNZdEpObU4xWVhyUFRteElJYW1BWUwy?oc=5"
-  },
-  {
     "ts": "2026-10-27T14:15:38",
     "source": "movers",
     "title": "Market Mover",
@@ -1594,5 +1586,13 @@
     "subtitle": "FORM (FormFactor, Inc.)",
     "body": "+10.6% to $96.58 \u2014 FormFactor, Inc. (FORM) stock price, news, quote and history",
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9aX0MydWZHVGpINTVJT3NLcExXQnlOc0tfMmpqNG55TkgwdWczQ0VNdEJBeGE0SmF5V3VPZ1hWQllFeDl1RXNueVZqUTV6QndNRXc?oc=5"
+  },
+  {
+    "ts": "2026-11-03T23:37:02",
+    "source": "sentiment_engine",
+    "title": "Sentiment Trade \u2014 BUY",
+    "subtitle": "ETH-USD",
+    "body": "ETH-USD at $2285.99 \u2014 Current price of Ethereum for November 3, 2026",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0wS0hQZmlhSEFxRXBmNjhzV0ZfTndqaHdyZXpuTnNzWmVHa09BWVhYdjlFSTZYbVpfMDJmYk9kdkVmUmt3YWZLSm80dHkyRi00S3ZteDlaMzVyNklxWTRsX2JEUGpJc1Bw?oc=5"
   }
 ]
