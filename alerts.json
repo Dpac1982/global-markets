@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-10-27T21:37:39",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "CRDO (Credo Technology Group Holding )",
-    "body": "+10.2% to $166.52 \u2014 Credo Technology Group Holding Ltd (CRDO) stock price, news, quote and history - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9BdkJfanJWd0FiY0N2T29QRHlHNXdwbFl6MG5nX2RoTDRLR2c3WWFxTWpQSHk1ZGhqMGRVVzNmbGgzT3cwU3RNazJHQmw5bkJzYmNDNjlmLVdGWS1aZUlURkNR?oc=5"
-  },
-  {
     "ts": "2026-10-27T21:37:42",
     "source": "movers",
     "title": "Market Mover",
@@ -1595,5 +1587,13 @@
     "subtitle": "ZBH (Zimmer Biomet Holdings, Inc.)",
     "body": "+15.1% to $111.76 \u2014 Zimmer Biomet Stock Up on Q3 Earnings & Revenue Beat, '26 View Up",
     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQWWdDTzd3NFhHekFTYkhLTDdOM2FSNHBTQzR3aWZUQk9zMzYzTVd3WVdYeF9rMFdiUnl5NmswRV84N0J4T2R5ZndBWlpTelpQQ0lQaVR5MmlLSlU1UlZYa1YwandYLW53T3BCTUdCSXZyd2hBQU5WUVdhdjhEMm93R2Rva3diTGJRRzBYdDV3dmhlem1ib3RweFVWWmYwNEc1Mlc0MTJ0RFpla2J5QXF1MkZwbWdoQVlFdGdJU0czaVVFQnBhTlVVSkd6TU5ab2hDdF9WVTZmRTRad1lUR2t3?oc=5"
+  },
+  {
+    "ts": "2026-11-04T20:47:25",
+    "source": "sentiment_engine",
+    "title": "Sentiment Trade \u2014 BUY",
+    "subtitle": "BTC-USD",
+    "body": "BTC-USD at $80556.62 \u2014 Current price of Bitcoin for Nov. 4, 2026",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA2SWNYaTZyMG0yNGdoTE1oWGVJSEZ6a0lGQm5tSzdXNUZTTUhjVjFaWWtkWnFsQkJRUk56NjJ4QU5HZWdnamY5ZTRWZUNJdWxaTEY5X2ZBaW0yd25lV0hhenNQbE5BaGM?oc=5"
   }
 ]
