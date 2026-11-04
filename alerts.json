@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-10-28T01:01:02",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "DK (Delek US Holdings, Inc.)",
-    "body": "-10.4% to $70.30 \u2014 $DK stock is down 10% today. Here's what we see in our data.",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQblNBNERPa0RhdjhyU0hNakVZdEV6R0FIak9WTDF1Xy1vY0h6dWtRX2VLMWlKcExQRFhiNGxadEh0a0ItcTJXVDlOTURzdjRIN0NvcW5rMUJwc09XQjdvbWJId1dFdXhrdHVQWDdqWVhaVW9scGVaM1E2ckRkSUxzOGFQWkZ6SXRQVnFXbGJ0ME51NFRTU3hTZ3FGUTlPZ0xs?oc=5"
-  },
-  {
     "ts": "2026-10-28T01:01:05",
     "source": "movers",
     "title": "Market Mover",
@@ -1595,5 +1587,13 @@
     "subtitle": "ACHC (Acadia Healthcare Company, Inc.)",
     "body": "+14.3% to $33.87 \u2014 Can Acadia Healthcare Company, Inc. (ACHC) Protect Its Business From AI Disruption?",
     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTDNyZjltZ1Z5UHdDWkV3VGM3TkF5UDhSNkcwZnJ3dElhaVBRcVZNclp3T0pCeG5XNGFvSkw4MjQtNHVjUDBCZGFSS0Q2Zy1SVktzcG9RaDJPSUV2anRRUnNjWkFwYW5wZ0UtTHBkcGdtVjFkbjlWcFFYdTM2Vm5tN3dSOVEzbDZ4NVlSV29yWGJKVndIRlNBbHFCcw?oc=5"
+  },
+  {
+    "ts": "2026-11-04T21:19:32",
+    "source": "movers",
+    "title": "Market Mover",
+    "subtitle": "CPNG (Coupang, Inc.)",
+    "body": "+14.0% to $17.36 \u2014 Coupang, Inc. (CPNG) Stock Forecasts",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPOTlKUkJWbmZ2eVdtZXpkS09lSHVvbDBJZU5IajVsN1o0a1Rnbkk5WGw0VnB3VzFWYW9BdzN3NTN0My1ialpOaFlOVktZWXNOalU5al8tbUFZUURmVk91bDJXN1F0dzF6NnUyemlNSWJMenI2OXF3VHhub2N1Vk14NXhtd2lsYWVBOXJHRg?oc=5"
   }
 ]
