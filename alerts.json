@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-10-28T07:49:07",
-    "source": "movers",
-    "title": "Market Mover",
-    "subtitle": "AEHR (Aehr Test Systems)",
-    "body": "+13.0% to $63.95 \u2014 Aehr Test Systems: A Turnaround Is Possible, But Not Yet Proven (NASDAQ:AEHR)",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPS1c0LWtGUzh5TW01VEp3MkxLUzlyNFFOSnQwb0l0ZHh5T1pfYVhtdmZaU3JHY0V2NGJaNEdSNzFEWUc3WUZqeEVuV3FTWlFmeDJ2Sk9vdVF0R1hVRklMR0tzOUZfenV0QTlvTUl1MVV2M3hVV181SmVzQUozbTRpYWxpUVY3VEtjUHdGXzZKTEhSWV8wa2xrbnFiNjNZOHVXbkx2eA?oc=5"
-  },
-  {
     "ts": "2026-10-28T07:49:10",
     "source": "movers",
     "title": "Market Mover",
@@ -1595,5 +1587,13 @@
     "subtitle": "HL (Hecla Mining Company)",
     "body": "+12.7% to $14.89 \u2014 Hecla Mining Company 2026 Q3 - Results - Earnings Call Presentation (NYSE:HL) 2026-11-04",
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVmZtVG1sYThUQ3pObENZYVhzUURfSk1rNGlzZDN6aW1rTUtjS0c3QjJTNUJNOS1SLVpRNnA4bExabDVTU3N1S3c2eVNHeWNoZG5iV0MzTHZwVG5KM2UxN184SmtpQzh1S01lYk5KT2tTeVl4Vm5tN0phV05URlUyTUd1cWlidGstQzB3SUg1c2pmdVBhTzRVZHppeDVLVGxzZkdwcGhaRQ?oc=5"
+  },
+  {
+    "ts": "2026-11-05T05:01:52",
+    "source": "sentiment_engine",
+    "title": "Sentiment Trade \u2014 BUY",
+    "subtitle": "MSFT",
+    "body": "MSFT at $520.99 \u2014 If You Invest $1,000 in Microsoft Today, Here\u2019s What It Could Be Worth by 2029",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYk9OcmFONGRQYnY0SkNydGVHaFBPcEtrOFV4WTBwQXRsazB6b0NwR2VKcHdxeWtXV0xCdmQ0NE1PUHNwZUl0S2ZpYm5TTmdRNVY5dVVFVzNadmN6UFhvVHc0OWY0YTVMWUFzOUNhblpPYzNEZXMxdTg4UkU4MlRWOGgxcFo5cnY4MmNoOEJFVHNDV0hJRVVTbA?oc=5"
   }
 ]
